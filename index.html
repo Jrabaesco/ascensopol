@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Balotario de Preguntas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="login">
+        <h1>INGRESAR</h1>
+        <form id="loginForm">
+            <label for="username">Usuario:</label><br>
+            <input type="text" id="username" name="username" required><br>
+            <label for="password">Contraseña:</label><br>
+            <input type="password" id="password" name="password" required><br>
+            <button type="submit">Ingresar</button>
+        </form>
+        <p id="loginError" style="color: red; display: none;">Usuario o contraseña incorrectos.</p>
+    </div>
+    <div id="quiz-selection" style="display: none;">
+        <h1 class="title">POLICÍA NACIONAL DEL PERÚ</h1>
+        <h3 class="title">Proceso de Ascenso 2024 - Promocion 2025</h3>
+        <div class="quiz-container">
+            <!-- Se generarán dinámicamente los cuestionarios -->
+        </div>
+    </div>
+    <div id="quiz" style="display: none;">
+        <h1 id="quiz-title">Proceso de Ascenso 2024 - Promocion 2025</h1>
+        <div id="question-container">
+            <!-- Se generarán dinámicamente las preguntas -->
+        </div>
+        <div id="navigation-buttons">
+            <button id="prevButton">Anterior</button>
+            <button id="nextButton">Siguiente</button>
+            <button id="finishButton">Finalizar</button>
+            <button id="resetButton">Reiniciar</button>
+            <button id="backButton">Volver a los Cuestionarios</button>
+        </div>
+        <div id="scoreboard">
+            <p>Correctas: <span id="correct-count">0</span></p>
+            <p>Incorrectas: <span id="incorrect-count">0</span></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <script src="login.js"></script> <!-- Enlazamos el nuevo archivo JavaScript aquí -->
+</body>
+</html>
