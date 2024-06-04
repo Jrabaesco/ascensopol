@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const password = document.getElementById('password').value;
 
         const users = [
-            { username: 'usuario1', password: 'contraseña1' },
+            { username: 'bazan', password: 'mocho' },
             { username: 'usuario2', password: 'contraseña2' },
             { username: 'usuario3', password: 'contraseña3' },
             { username: '960099454', password: '960099454' }
