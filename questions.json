@@ -22588,5 +22588,1915 @@
       ]
     }
     ]
+  },
+  {
+    "title": "DECRETO LEGISLATIVO QUE REGULA EL PROCESO INMEDIATO EN CASOS DE FLAGRANCIA",
+    "questions": [
+      {
+        "question": "2251. EL DECRETO LEGISLATIVO Nº1194 TIENE EL OBJETO DE REGULAR:",
+        "options": [
+          {"text": "CAUSAS PENALES DE LA FLAGRANCIA.", "correct": false},
+          {"text": "EL PROCESO MEDIANTE CASOS DE FLAGRANCIA.", "correct": false},
+          {"text": "EL PROCESO INMEDIATO EN CASOS DE FLAGRANCIA.", "correct": true},
+          {"text": "LA LUCHA CONTRA LA DELINCUENCIA.", "correct": false},
+          {"text": "LOS CASOS DE TIPICIDAD POR FLAGRANCIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2252. EL FISCAL DEBE SOLICITAR LA INCOACIÓN DEL PROCESO INMEDIATO, BAJO RESPONSABILIDAD, CUANDO SE PRESENTE EL SIGUIENTE SUPUESTO:",
+        "options": [
+          {"text": "EL IMPUTADO HA SIDO SORPRENDIDO Y DETENIDO POLICIALMENTE CONJUNTAMENTE CON EL MINISTERIO PÚBLICO.", "correct": false},
+          {"text": "EL IMPUTADO HA SIDO SORPRENDIDO E INTERVENIDO POLICIALMENTE.", "correct": false},
+          {"text": "EL IMPUTADO HA SIDO SORPRENDIDO Y DETENIDO EN FLAGRANTE DELITO.", "correct": true},
+          {"text": "EL IMPUTADO HA SIDO SORPRENDIDO Y DETENIDO POR MANDATO JUDICIAL.", "correct": false},
+          {"text": "EL IMPUTADO HA SIDO SORPRENDIDO Y RECHAZA LOS HECHOS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2253. ¿EN QUE MOMENTO EL FISCAL DEBE SOLICITAR LA INCOACIÓN DEL PROCESO INMEDIATO, BAJO RESPONSABILIDAD?",
+        "options": [
+          {"text": "CUANDO EL COIMPUTADO HA CONFESADO LA COMISIÓN DEL DELITO,EN LOS TÉRMINOS DEL ARTÍCULO 150.", "correct": false},
+          {"text": "CUANDO EL IMPUTADO HA CONFESADO LA COMISIÓN DE LA FALTA GRAVE,EN LOS TÉRMINOS DEL ARTÍCULO 160.", "correct": false},
+          {"text": "CUANDO EL AGRAVIADO HA CONFESADO LA COMISIÓN DEL DELITO, EN LOS TÉRMINOS DEL ARTÍCULO 160.", "correct": false},
+          {"text": "CUANDO EL IMPUTADO HA CONFESADO LA COMISIÓN DEL DELITO, EN LOS TÉRMINOS DEL ARTÍCULO 160.", "correct": true},
+          {"text": "CUANDO EL TESTIGO HA CONFESADO LA COMISIÓN DEL DELITO, EN LOS TÉRMINOS DEL ARTÍCULO 160.", "correct": false}
+        ]
+      },
+      {
+        "question": "2254. QUÉ SUPUESTO SE DEBE PRESENTAR, PARA QUE EL FISCAL SOLICITE LA INCOACIÓN DEL PROCESO INMEDIATO:",
+        "options": [
+          {"text": "LOS ELEMENTOS DE CONVICCIÓN ACUMULADOS DURANTE LAS DILIGENCIAS PRELIMINARES, SEAN EVIDENTES.", "correct": true},
+          {"text": "LOS ELEMENTOS ACUMULADOS DURANTE LAS DILIGENCIAS PRELIMINARES, MUESTREN INDICIOS.", "correct": false},
+          {"text": "LOS ELEMENTOS DE CONVICCIÓN ACUMULADOS DURANTE LAS DILIGENCIAS JUDICIALES, SEAN EVIDENTES.", "correct": false},
+          {"text": "LOS ELEMENTOS DE CONTRADICCIÓN ACUMULADOS DURANTE LAS DILIGENCIAS POLICIALES, SEAN EVIDENTES.", "correct": false},
+          {"text": "LOS ELEMENTOS DE CONFESIÓN ACUMULADOS DURANTE LAS DILIGENCIAS PRELIMINARES, EVIDENCIEN OTROS INDICIOS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2255. ¿QUIÉN DEBE SOLICITAR LA INCOACIÓN DEL PROCESO INMEDIATO EN CASOS DE FLAGRANCIA, BAJO RESPONSABILIDAD?",
+        "options": [
+          {"text": "EL PROCURADOR.", "correct": false},
+          {"text": "EL JUEZ PENAL.", "correct": false},
+          {"text": "LA SALA.", "correct": false},
+          {"text": "EL ABOGADO DEFENSOR.", "correct": false},
+          {"text": "EL FISCAL.", "correct": true}
+        ]
+      },
+      {
+        "question": "2256. LOS ELEMENTOS DE CONVICCIÓN ACUMULADOS DURANTE LAS DILIGENCIAS PRELIMINARES DEBEN SER:",
+        "options": [
+          {"text": "SIN CONTAR CON EL INTERROGATORIO DEL IMPUTADO.", "correct": false},
+          {"text": "PREVIO INTERROGATORIO DEL IMPUTADO.", "correct": true},
+          {"text": "PREVIO INTERROGATORIO DEL AGRAVIADO.", "correct": false},
+          {"text": "PREVIO INTERROGATORIO DE LA VÍCTIMA.", "correct": false},
+          {"text": "PREVIA DECLARACIÓN DE LOS TESTIGOS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2257. EL FISCAL TAMBIEN DEBERA SOLICITAR LA INCOACION DEL PROCESO INMEDIATO PARA EL DELITO DE:",
+        "options": [
+          {"text": "OMISION DE ASISTENCIA FAMILIAR.", "correct": true},
+          {"text": "CONDUCCION EN ESTADO ECUANIME.", "correct": false},
+          {"text": "OMISION ASISTENCIAL.", "correct": false},
+          {"text": "DAÑOS Y PEJUICIOS.", "correct": false},
+          {"text": "CALUMNIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2258. SI SE TRATA DE UNA CAUSA SEGUIDA CONTRA VARIOS IMPUTADOS, SOLO ES POSIBLE EL PROCESO INMEDIATO SI TODOS ELLOS ESTEN IMPLICADOS:",
+        "options": [
+          {"text": "EN LOS MISMOS PLAZOS DE ACUSACION.", "correct": false},
+          {"text": "EN DELITOS CONEXOS.", "correct": false},
+          {"text": "EN DELITOS SIMILARES.", "correct": false},
+          {"text": "EN LA MISMA JURISDICCION PENAL.", "correct": false},
+          {"text": "EN EL MISMO DELITO.", "correct": true}
+        ]
+      },
+      {
+        "question": "2259. INDEPENDIENTEMENTE EL FISCAL TAMBIEN DEBERÁ SOLICITAR LA INCOACIÓN DEL PROCESO INMEDIATO PARA LOS DELITOS DE:",
+        "options": [
+          {"text": "INCUMPLIMIENTO DE ASISTENCIA FAMILIAR Y DROGADICCIÓN.", "correct": false},
+          {"text": "CUMPLIMIENTO DE ASISTENCIA FAMILIAR Y LOS DE CONDUCCIÓN EN ESTADO DE EBRIEDAD Y DROGADICCIÓN.", "correct": false},
+          {"text": "OMISIÓN DE ASISTENCIA FAMILIAR Y LOS DE CONDUCCIÓN EN ESTADO DE ETILICO Y/O DROGADICCIÓN.", "correct": false},
+          {"text": "OMISIÓN DE ASISTENCIA FAMILIAR Y LOS DE CONDUCCIÓN EN ESTADO DE EBRIEDAD O DROGADICCIÓN.", "correct": true},
+          {"text": "OMISIÓN DE ASISTENCIA FAMILIAR Y LOS DE CONDUCCIÓN EN ESTADO DE SOBRIEDAD.", "correct": false}
+        ]
+      },
+      {
+        "question": "2260. AL TÉRMINO DEL PLAZO DE LA DETENCIÓN POLICIAL ESTABLECIDO EN EL ARTÍCULO 264, EL FISCAL DEBE SOLICITAR LA INCOACIÓN DEL PROCESO INMEDIATO AL:",
+        "options": [
+          {"text": "FISCAL PROVINCIAL PENAL DE TURNO.", "correct": false},
+          {"text": "VOCAL SUPERIOR COMPETENTE.", "correct": false},
+          {"text": "JUEZ DE LA INVESTIGACIÓN PREPARATORIA.", "correct": true},
+          {"text": "PRESIDENTE DE LA CORTE SUPERIOR.", "correct": false},
+          {"text": "FISCAL DE LA INVESTIGACIÓN PRELIMINAR.", "correct": false}
+        ]
+      },
+      {
+        "question": "2261. EFECTUADA LA DETENCIÓN DEL IMPUTADO, ESTA SE MANTIENE HASTA:",
+        "options": [
+          {"text": "CUARENTA Y OCHO (48) HORAS SIGUIENTES AL REQUERIMIENTO DEL FISCAL.", "correct": false},
+          {"text": "VEINTICUATRO (24) HORAS SIGUIENTES AL REQUERIMIENTO DEL FISCAL.", "correct": false},
+          {"text": "LA REALIZACIÓN DE LA AUDIENCIA.", "correct": true},
+          {"text": "DOCE (12) HORAS SIGUIENTES AL REQUERIMIENTO DEL FISCAL.", "correct": false},
+          {"text": "QUE EL JUEZ PENAL RESUELVA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2262. EN QUE PLAZO, EL JUEZ REALIZA UNA AUDIENCIA UNICA DE INCOACION PARA DETERMINAR LA PROCEDENCIA DEL PROCESO INMEDIATO:",
+        "options": [
+          {"text": "DESPUÉS DE ANALIZAR LAS PRUEBAS OFRECIDAS POR EL FISCAL.", "correct": false},
+          {"text": "DENTRO DE LAS CUARENTA Y OCHO HORAS (48) SIGUIENTES AL REQUERIMIENTO FISCAL.", "correct": true},
+          {"text": "DENTRO DE LAS VEINTICUATRO HORAS (24) SIGUIENTES AL REQUERIMIENTO FISCAL.", "correct": false},
+          {"text": "DURANTE LA DETENCIÓN POLICIAL.", "correct": false},
+          {"text": "INMEDIATAMENTE EFECTUADO EL REQUERIMIENTO DEL FISCAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2263. EL FISCAL DEBE DE ACOMPAÑAR EL EXPEDIENTE FISCAL Y COMUNICAR SI REQUIERE LA IMPOSICIÓN DE ALGUNA MEDIDA COERCITIVA, QUE ASEGURE LA PRESENCIA DEL IMPUTADO EN EL DESARROLLO DE TODO EL PROCESO INMEDIATO:",
+        "options": [
+          {"text": "DENTRO DEL MISMO REQUERIMIENTO DE DETENCION.", "correct": false},
+          {"text": "DENTRO DEL MISMO REQUERIMIENTO DE DENUNCIA.", "correct": false},
+          {"text": "DENTRO DEL MISMO REQUERIMIENTO DE INCOACION.", "correct": true},
+          {"text": "DENTRO DE LA MISMA MEDIDA DE INCOACION.", "correct": false},
+          {"text": "DENTRO DE LA MISMA MEDIDA CAUTELAR.", "correct": false}
+        ]
+      },
+      {
+        "question": "2264. EN LA AUDIENCIA ÚNICA DE INCOACIÓN DEL PROCESO INMEDIATO EN CASOS DE FLAGRANCIA DELICTIVA, LAS PARTES PUEDEN INSTAR LA APLICACIÓN DEL PRINCIPIO DE:",
+        "options": [
+          {"text": "VERACIDAD.", "correct": false},
+          {"text": "SIMPLICIDAD.", "correct": false},
+          {"text": "RAZONABILIDAD.", "correct": false},
+          {"text": "OPORTUNIDAD.", "correct": true},
+          {"text": "LEGALIDAD.", "correct": false}
+        ]
+      },
+      {
+        "question": "2265. LA AUDIENCIA ÚNICA DE INCOACIÓN DEL PROCESO INMEDIATO ES:",
+        "options": [
+          {"text": "DE CARÁCTER APLAZABLE.", "correct": false},
+          {"text": "DE ACUERDO ENTRE LAS PARTES.", "correct": false},
+          {"text": "DE CARÁCTER APELABLE.", "correct": false},
+          {"text": "DE CARÁCTER INAPLAZABLE.", "correct": true},
+          {"text": "DE CARÁCTER INALIENABLE.", "correct": false}
+        ]
+      },
+      {
+        "question": "2266. EL JUEZ, FRENTE A UN REQUERIMIENTO FISCAL DE INCOACIÓN DEL PROCESO INMEDIATO, SE PRONUNCIA:",
+        "options": [
+          {"text": "MEDIANTE DICTÁMEN.", "correct": false},
+          {"text": "A TRAVÉS DE UNA RESOLUCIÓN.", "correct": false},
+          {"text": "ORALMENTE.", "correct": true},
+          {"text": "MEDIANTE ACUERDO ENTRE LAS PARTES.", "correct": false},
+          {"text": "FORMULANDO EL AUTO APERTORIO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2267. EL AUTO QUE RESUELVE EL REQUERIMIENTO DE PROCESO INMEDIATO DEBE SER PRONUNCIADO, EN LA MISMA AUDIENCIA DE INCOACIÓN. LA RESOLUCIÓN ES APELABLE CON EFECTO:",
+        "options": [
+          {"text": "RETROACTIVO.", "correct": false},
+          {"text": "COERCITIVO.", "correct": false},
+          {"text": "DEVOLUTIVO.", "correct": true},
+          {"text": "SUSPENSIVO.", "correct": false},
+          {"text": "INMEDIATO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2268. PRONUNCIADA LA DECISIÓN QUE DISPONE LA INCOACIÓN DEL PROCESO INMEDIATO, ¿EN QUE PLAZO EL FISCAL PROCEDE A FORMULAR LA ACUSACIÓN, BAJO RESPONSABILIDAD?",
+        "options": [
+          {"text": "DENTRO DE CUARENTA Y OCHO (48) HORAS.", "correct": false},
+          {"text": "DENTRO DE TREINTA Y SEIS (36) HORAS.", "correct": false},
+          {"text": "DENTRO DE CINCO (05) DÍAS HÁBILES.", "correct": false},
+          {"text": "DENTRO DE VEINTICUATRO (24) HORAS.", "correct": true},
+          {"text": "DENTRO DE TRES (03) DÍAS HÁBILES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2269. RECIBIDO EL REQUERIMIENTO FISCAL, EL PLAZO EN QUE EL JUEZ DE LA INVESTIGACIÓN PREPARATORIA, LO REMITE AL JUEZ PENAL COMPETENTE, ES:",
+        "options": [
+          {"text": "DENTRO DE TRES (03) DÍAS HÁBILES.", "correct": false},
+          {"text": "DENTRO DE VEINTICUATRO (24) HORAS.", "correct": false},
+          {"text": "EN EL DÍA.", "correct": true},
+          {"text": "DENTRO DE DOS (02) DÍAS HÁBILES.", "correct": false},
+          {"text": "DE CINCO (05) DÍAS HÁBILES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2270. ¿QUIÉN DICTA LA DISPOSICIÓN QUE CORRESPONDA O LA FORMALIZACION DE LA INVESTIGACION PREPARATORIA, FRENTE AL AUTO QUE RECHAZA LA INCOACIÓN?",
+        "options": [
+          {"text": "EL FISCAL.", "correct": true},
+          {"text": "EL JUEZ PENAL.", "correct": false},
+          {"text": "EL JUEZ DE LA INVESTIGACIÓN PREPARATORIA.", "correct": false},
+          {"text": "EL PRESIDENTE DE LA CORTE SUPERIOR DE JUSTICIA.", "correct": false},
+          {"text": "LA DIRECCIÓN DISTRITAL DE DEFENSA PÚBLICA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2271. RECIBIDO EL AUTO QUE INCOA EL PROCESO INMEDIATO, CUANDO EL JUEZ PENAL COMPETENTE REALIZA LA AUDIENCIA ÚNICA DE JUICIO INMEDIATO:",
+        "options": [
+          {"text": "EN TRES (03) DÍAS HÁBILES.", "correct": false},
+          {"text": "EN ACUERDO DE SALA.", "correct": false},
+          {"text": "EN DOS (02) DÍAS HÁBILES.", "correct": false},
+          {"text": "AL DÍA SIGUIENTE.", "correct": false},
+          {"text": "EN EL DÍA.", "correct": true}
+        ]
+      },
+      {
+        "question": "2272. LA AUDIENCIA ÚNICA DE JUICIO INMEDIATO ES:",
+        "options": [
+          {"text": "APLAZABLE.", "correct": false},
+          {"text": "INAPLAZABLE.", "correct": true},
+          {"text": "APELABLE.", "correct": false},
+          {"text": "REVISABLE.", "correct": false},
+          {"text": "INALIENABLE.", "correct": false}
+        ]
+      },
+      {
+        "question": "2273. ¿QUIENES SON RESPONSABLES DE PREPARAR Y CONVOCAR A SUS ÓRGANOS DE PRUEBA, GARANTIZANDO SU PRESENCIA EN LA AUDIENCIA, BAJO APERCIBIMIENTO DE PRESCINDIRSE DE ELLOS?",
+        "options": [
+          {"text": "LAS PARTES.", "correct": true},
+          {"text": "EL FUNCIONARIO DE GESTIÓN DE AUDIENCIA.", "correct": false},
+          {"text": "EL FUNCIONARIO DE ENLACE.", "correct": false},
+          {"text": "EL JUEZ DE INVESTIGACIÓN PREPARATORIA.", "correct": false},
+          {"text": "EL JUEZ PENAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2274. LA AUDIENCIA UNICA DE JUICIO INMEDIATO ES:",
+        "options": [
+          {"text": "APLAZABLE.", "correct": false},
+          {"text": "PRIVADA.", "correct": false},
+          {"text": "ORAL.", "correct": true},
+          {"text": "MEDIANTE VIDEO LLAMADA.", "correct": false},
+          {"text": "PRORROGABLE.", "correct": false}
+        ]
+      },
+      {
+        "question": "2275. QUÉ DISPONE EL JUEZ PENAL CUANDO DETERMINA QUE LOS DEFECTOS FORMALES DE LA ACUSACIÓN REQUIEREN UN NUEVO ANÁLISIS:",
+        "options": [
+          {"text": "QUE EL FISCAL REVISE EL EXPEDIENTE DE ACUSACIÓN.", "correct": false},
+          {"text": "CONVOCAR A LOS ÓRGANOS DE PRUEBA.", "correct": false},
+          {"text": "APLAZAR LA AUDIENCIA SETENTA Y DOS (72) HORAS.", "correct": false},
+          {"text": "SU REVISIÓN EN LA PRÓXIMA AUDIENCIA.", "correct": false},
+          {"text": "SU SUBSANACIÓN EN LA MISMA AUDIENCIA.", "correct": true}
+        ]
+      },
+      {
+        "question": "2276. DE QUE MANERA SE REALIZA LA AUDIENCIA ÚNICA DE JUICIO INMEDIATO:",
+        "options": [
+          {"text": "EN SESIONES INTERCALADAS E INTERRUMPIDAS HASTA SU APELACIÓN.", "correct": false},
+          {"text": "EN SESIONES DISCONTINUAS E ININTERRUMPIDAS HASTA QUE SE PRONUNICE EL JUEZ.", "correct": false},
+          {"text": "A CARGO DEL PRESIDENTE DE LA CORTE SUPERIOR DE JUSTICIA.", "correct": false},
+          {"text": "EN SESIONES CONTINUAS E ININTERRUMPIDAS HASTA SU CONCLUSIÓN.", "correct": true},
+          {"text": "SESIONES CONTINUAS E ININTERRUMPIDAS HASTA SU APELACIÓN.", "correct": false}
+        ]
+      },
+      {
+        "question": "2277. EN LA AUDIENCIA ÚNICA DE JUICIO INMEDIATO, EL JUEZ PENAL QUE INSTALE EL JUICIO:",
+        "options": [
+          {"text": "SI PUEDE CONOCER OTROS Y CULMINAR EL YA INICIADO.", "correct": false},
+          {"text": "NO PUEDE CONOCER OTROS HASTA QUE CULMINE EL YA INICIADO.", "correct": true},
+          {"text": "NO PUEDE CONOCER OTROS HASTA QUE CULMINE LA INVESTIGACIÓN PRELIMINAR.", "correct": false},
+          {"text": "SI PUEDE CONOCER OTROS Y OBSERVAR LOS DEFECTOS FORMALES DE LA ACUSACIÓN.", "correct": false},
+          {"text": "PUEDE CONOCER OTROS HASTA LA EMISIÓN DE LA SENTENCIA", "correct": false}
+        ]
+      },
+      {
+        "question": "2278. CUANDO EL IMPUTADO HA CONFESADO LA COMISIÓN DEL DELITO, EN LOS TÉRMINOS DEL ARTÍCULO 160; EL REQUERIMIENTO DE INCOACIÓN QUE PRESENTA EL FISCAL, LO REALIZA:",
+        "options": [
+          {"text": "ANTES DE LOS TREINTA (30) DÍAS DE FORMALIZADA LA INVESTIGACIÓN PREPARATORIA.", "correct": true},
+          {"text": "ANTES DE LOS DIEZ (10) DÍAS DE FORMALIZADA LA INVESTIGACIÓN PREPARATORIA.", "correct": false},
+          {"text": "ANTES DE LOS QUINCE (15) DÍAS DE FORMALIZADA LA INVESTIGACIÓN PREPARATORIA.", "correct": false},
+          {"text": "ANTES DE LOS VEINTE (20) DÍAS DE FORMALIZADA LA INVESTIGACIÓN PREPARATORIA.", "correct": false},
+          {"text": "ANTES DE LOS VEINTICINCO (25) DÍAS DE FORMALIZADA LA INVESTIGACIÓN PREPARATORIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2279. QUIÉN TAMBIÉN DEBERA SOLICITAR PARA EL DELITO DE CONDUCCIÓN EN ESTADO DE EBRIEDAD O DROGADICCIÓN, LA INCOACIÓN DEL PROCESO INMEDIATO ES:",
+        "options": [
+          {"text": "EL JUEZ DE INVESTIGACIÓN PREPARATORIA.", "correct": false},
+          {"text": "LA JUNTA DE FISCALES SUPERIORES.", "correct": false},
+          {"text": "EL JUEZ COMPETENTE.", "correct": false},
+          {"text": "LA DIRECCIÓN DISTRITAL DE DEFENSA PÚBLICA DEL MINISTERIO DE JUSTICIA.", "correct": false},
+          {"text": "EL FISCAL.", "correct": true}
+        ]
+      },
+      {
+        "question": "2280. EL JUEZ, FRENTE A UN REQUERIMIENTO FISCAL DE INCOACIÓN DEL PROCESO INMEDIATO, SE PRONUNCIA ORALMENTE, SEGÚN SEA EL CASO:",
+        "options": [
+          {"text": "SOBRE LA PROCEDENCIA DEL PRINCIPIO DE TRANSPARENCIA.", "correct": false},
+          {"text": "SOBRE LA PROCEDENCIA DEL PRINCIPIO DE IGUALDAD.", "correct": false},
+          {"text": "SOBRE LA PROCEDENCIA DE UN ACUERDO PREPARATORIO ENTRE LAS PARTES.", "correct": false},
+          {"text": "SOBRE LA PROCEDENCIA DE LA MEDIDA COERCITIVA REQUERIDA POR EL FISCAL.", "correct": true},
+          {"text": "SOBRE LA PROCEDENCIA DE LAS REGLAS DEL PROCESO COMÚN.", "correct": false}
+        ]
+      },
+      {
+        "question": "2281. LA AUDIENCIA ÚNICA DE JUICIO INMEDIATO, ES ORAL, PUBLICA E INAPLAZABLE; LAS PARTES SON RESPONSABLES DE PREPARAR Y CONVOCAR A SUS ÓRGANOS DE PRUEBA:",
+        "options": [
+          {"text": "GARANTIZANDO SU PRESENCIA EN LA AUDIENCIA.", "correct": true},
+          {"text": "GARANTIZANDO SU PRESENCIA EN TODAS LAS AUDIENCIAS.", "correct": false},
+          {"text": "NO PUEDE GARANTIZAR SU PRESENCIA EN LA AUDIENCIA.", "correct": false},
+          {"text": "GARANTIZANDO SU PRESENCIA EN LA AUDIENCIA, A TRAVÉS DE SU ABOGADO DEFENSOR.", "correct": false},
+          {"text": "GARANTIZANDO SU PRESENCIA EN TODAS LAS DILIGENCIAS POLICIALES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2282. QUE ACCIÓN DEBE EFECTUAR EL FISCAL AL ACOMPAÑAR EL EXPEDIENTE FISCAL DENTRO DEL MISMO REQUERIMIENTO DE INCOACIÓN:",
+        "options": [
+          {"text": "COMUNICAR SI REQUIERE LA IMPOSICIÓN DE ALGUNA MEDIDA LIMITATIVA.", "correct": false},
+          {"text": "COMUNICAR SI REQUIERE LA IMPOSICIÓN DE ALGUNA MEDIDA COERCITIVA.", "correct": true},
+          {"text": "COMUNICAR SI REQUIERE LA IMPOSICIÓN DE ALGUNA MEDIDA PREVENTIVA.", "correct": false},
+          {"text": "COMUNICAR LA ASISTENCIA DE LOS ÓRGANOS DE PRUEBA.", "correct": false},
+          {"text": "COMUNICAR LA REALIZACIÓN EFECTIVA Y ADECUADA DE LAS AUDIENCIAS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2283. SALVO QUE ELLO PERJUDIQUE AL DEBIDO ESCLARECIMIENTO DE LOS HECHOS O LA ACUMULACION RESULTE INDISPENSABLE; LOS DELITOS CONEXOS EN LOS QUE ESTEN INVOLUCRADOS OTROS IMPUTADOS:",
+        "options": [
+          {"text": "EL FISCAL TIENE QUE FORMALIZAR DENUNCIA.", "correct": false},
+          {"text": "TIENEN QUE ACUMULARSE.", "correct": false},
+          {"text": "SE ACUMULAN.", "correct": false},
+          {"text": "NO SE ACUMULAN.", "correct": true},
+          {"text": "SE TRATAN EN EL MISMO PROCEDIMIENTO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2284. FRENTE AL AUTO QUE RECHAZA LA INCOACIÓN DEL PROCESO INMEDIATO, EL FISCAL DICTA LA DISPOSICIÓN QUE CORRESPONDA O:",
+        "options": [
+          {"text": "EL FISCAL SUPERIOR FORMALIZA LA INVESTIGACION PREPARATORIA.", "correct": false},
+          {"text": "EL JUEZ FORMALIZA LA INVESTIGACION PREPARATORIA.", "correct": false},
+          {"text": "LA NO FORMALIZACION DE LA INVESTIGACION PREPARATORIA.", "correct": false},
+          {"text": "EL JUEZ INICIA LA INVESTIGACIÓN PREPARATORIA.", "correct": false},
+          {"text": "LA FORMALIZACIÓN DE LA INVESTIGACIÓN PREPARATORIA.", "correct": true}
+        ]
+      },
+      {
+        "question": "2285. SE REALIZA EN SESIONES CONTINUAS E ININTERRUMPIDAS HASTA SU CONCLUSION:",
+        "options": [
+          {"text": "LA CONVALIDACION DE LA PRISION PRELIMINAR.", "correct": false},
+          {"text": "LA AUDIENCIA DE PRISION PRELIMINAR.", "correct": false},
+          {"text": "LA INVESTIGACION PRELIMINAR ORDINARIA.", "correct": false},
+          {"text": "EL JUICIO.", "correct": true},
+          {"text": "LA AUDIENCIA DE DETENCION PREVENTIVA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2286. AUDIENCIA UNICA DE JUICIO INMEDIATO, INSTALADA LA AUDIENCIA, EL FISCAL EXPONE RESUMIDAMENTE:",
+        "options": [
+          {"text": "SU TEORIA DE LA PRUEBA.", "correct": false},
+          {"text": "JUNTAMENTE CON EL PROCURADOR.", "correct": false},
+          {"text": "LOS HECHOS OBJETO DE LA ACUSACION.", "correct": true},
+          {"text": "CONFORME AL EXPEDIENTE FISCAL.", "correct": false},
+          {"text": "SOBRE LAS PRUEBAS OFRECIDAS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2287. SUPUESTOS DE APLICACIÓN._ LOS DELITOS CONEXOS EN LOS QUE ESTÉN INVOLUCRADOS OTROS IMPUTADOS:",
+        "options": [
+          {"text": "REPRESENTAN OTRO PROCESO.", "correct": false},
+          {"text": "SE ACUMULAN.", "correct": false},
+          {"text": "NO SE ACUMULAN.", "correct": true},
+          {"text": "TIENEN EFECTO DEVOLUTIVO.", "correct": false},
+          {"text": "REPRESENTAN EL PRINCIPIO DE TRANSPARENCIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2288.¿QUE AUTORIDAD DEBERÁ SOLICITAR TAMBIÉN LA INCOACIÓN DEL PROCESO INMEDIATO PARA LOS DELITOS DE OMISIÓN DE ASISTENCIA FAMILIAR Y LOS DE CONDUCCIÓN EN ESTADO DE EBRIEDAD O DROGADICCIÓN?",
+        "options": [
+          {"text": "EL FISCAL DE FAMILIA.", "correct": false},
+          {"text": "EL FISCAL DE TRANSITO.", "correct": false},
+          {"text": "EL JUEZ DE LA INVESTIGACIÓN PREPARATORIA.", "correct": false},
+          {"text": "EL FISCAL.", "correct": true},
+          {"text": "EL FISCAL SUPERIOR.", "correct": false}
+        ]
+      },
+      {
+        "question": "2289. RECIBIDO EL AUTO QUE INCOA EL PROCESO INMEDIATO, EL JUEZ PENAL COMPETENTE REALIZA LA AUDIENCIA Y QUE EN TODO CASO, SU REALIZACION NO DEBE EXCEDER DE:",
+        "options": [
+          {"text": "VENTICUATRO (24) HORAS.", "correct": false},
+          {"text": "SETENTA Y DOS (72) HORAS.", "correct": true},
+          {"text": "DOCE (12) HORAS.", "correct": false},
+          {"text": "DOS (02) DÍAS HABILES.", "correct": false},
+          {"text": "CUATRO (04) DÍAS HABILES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2290. LOS DELITOS CONEXOS EN LOS QUE ESTEN INVOLUCRADOS OTROS IMPUTADOS NO SE ACUMULAN, SALVO QUE ELLO:",
+        "options": [
+          {"text": "PERJUDIQUE AL DEBIDO ESCLARECIMIENTO DE LOS HECHOS.", "correct": true},
+          {"text": "LO DISPONGA EL JUEZ DE LA INVESTIGACIÓN PREPARATORIA.", "correct": false},
+          {"text": "LO DISPONGA EL PRESIDENTE DE LA CORTE SUPERIOR DE JUSTICIA.", "correct": false},
+          {"text": "REPRESENTE UN EFECTO DEVOLUTIVO.", "correct": false},
+          {"text": "INFLUYA EN EL PRINCIPIO DE TRANSPARENCIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2291. EL FISCAL DEBE SOLICITAR LA INCOACIÓN DEL PROCESO INMEDIATO, CUANDO EL IMPUTADO:",
+        "options": [
+          {"text": "HA CONFESADO LA COMISIÓN DEL DELITO, EN LOS TÉRMINOS DEL ARTÍCULO 170.", "correct": false},
+          {"text": "HA SIDO SORPRENDIDO Y DETENIDO EN FLAGRANTE DELITO, EN LOS SUPUESTOS DEL ARTÍCULO 259.", "correct": true},
+          {"text": "HA CONFESADO LA COMISIÓN DEL DELITO, EN LOS TÉRMINOS DEL ARTÍCULO 166.", "correct": false},
+          {"text": "HA SIDO SORPRENDIDO Y DETENIDO EN FLAGRANTE DELITO, EN LOS SUPUESTOS DEL ARTÍCULO 529.", "correct": false},
+          {"text": "HA CONFESADO LA COMISIÓN DEL DELITO, EN LOS TÉRMINOS DEL ARTÍCULO 162.", "correct": false}
+        ]
+      },
+      {
+        "question": "2292. PREVIO INTERROGATORIO DEL IMPUTADO, LOS ELEMENTOS DE CONVICCIÓN SE ACUMULAN DURANTE LAS DILIGENCIAS:",
+        "options": [
+          {"text": "JUDICIALES.", "correct": false},
+          {"text": "PRELIMINARES.", "correct": true},
+          {"text": "COMPATIBLES.", "correct": false},
+          {"text": "FISCALES.", "correct": false},
+          {"text": "POLICIALES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2293. QUEDAN EXCEPTUADOS LOS CASOS EN LOS QUE POR SU COMPLEJIDAD SEAN NECESARIOS:",
+        "options": [
+          {"text": "NUEVAS ACTUACIONES JUDICIALES.", "correct": false},
+          {"text": "EMITIR OTROS PROCESOS INMEDIATOS.", "correct": false},
+          {"text": "ULTERIORES ACTOS DE INVESTIGACIÓN.", "correct": true},
+          {"text": "REALIZAR CONVENCIONES PROBATORIAS.", "correct": false},
+          {"text": "APLICAR MEDIDAS COERCITIVAS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2294. SUPUESTOS DE APLICACIÓN._ SI SE TRATA DE UNA CAUSA SEGUIDA CONTRA VARIOS IMPUTADOS Y ESTEN IMPLICADOS EN EL MISMO DELITO:",
+        "options": [
+          {"text": "NO ES POSIBLE EL PROCESO INMEDIATO.", "correct": false},
+          {"text": "SE NOMBRA OTRO JUEZ COMPETENTE.", "correct": false},
+          {"text": "SOLO ES POSIBLE EL PROCESO INMEDIATO.", "correct": true},
+          {"text": "NO ES POSIBLE INICIAR LA AUDIENCIA ÚNICA.", "correct": false},
+          {"text": "SU ACUMULACIÓN NO ES INDISPENSABLE.", "correct": false}
+        ]
+      },
+      {
+        "question": "2295. EL JUEZ REALIZA UNA AUDIENCIA ÚNICA DE INCOACIÓN PARA DETERMINAR LA PROCEDENCIA DEL PROCESO:",
+        "options": [
+          {"text": "COERCITIVO.", "correct": false},
+          {"text": "DE DETENCIÓN PRELIMINAR.", "correct": false},
+          {"text": "ACUMULATIVO DE CONVENCIONES PROBATORIAS.", "correct": false},
+          {"text": "INMEDIATO.", "correct": true},
+          {"text": "FORMALIZACIÓN DE ENJUICIAMIENTO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2296. EN LA AUDIENCIA LAS PARTES PUEDEN INSTAR LA APLICACIÓN DEL PRINCIPIO DE OPORTUNIDAD, DE LA TERMINACION ANTICIPADA O DE:",
+        "options": [
+          {"text": "UNA TERMINACIÓN POSTERIOR.", "correct": false},
+          {"text": "UN ACUERDO PROBATORIO.", "correct": false},
+          {"text": "UN ACUERDO PRELIMINAR.", "correct": false},
+          {"text": "UNA TERMINACIÓN CUMPLIDA.", "correct": false},
+          {"text": "UN ACUERDO REPARATORIO.", "correct": true}
+        ]
+      },
+      {
+        "question": "2297. SOBRE LA PROCEDENCIA DEL PRINCIPIO DE OPORTUNIDAD, DE UN ACUERDO REPARATORIO O DE LA TERMINACIÓN ANTICIPADA, SOLICITADO POR LAS PARTES, SE PRONUNCIA:",
+        "options": [
+          {"text": "EL JUEZ, ORALMENTE.", "correct": true},
+          {"text": "EL JUEZ, EN AUDIENCIA.", "correct": false},
+          {"text": "EL FISCAL, EN AUDIENCIA.", "correct": false},
+          {"text": "EL FISCAL, ORALMENTE.", "correct": false},
+          {"text": "EL ABOGADO DEFENSOR.", "correct": false}
+        ]
+      },
+      {
+        "question": "2298. QUE AUTORIDAD DICTA ACUMULATIVAMENTE EL AUTO DE ENJUICIAMIENTO Y DE CITACIÓN A JUICIO:.",
+        "options": [
+          {"text": "EL PRESIDENTE DE LA CORTE SUPERIOR DE JUSTICIA.", "correct": false},
+          {"text": "EL JUEZ PENAL COMPETENTE.", "correct": true},
+          {"text": "EL JUEZ DE LA INVESTIGACIÓN PREPARATORIA.", "correct": false},
+          {"text": "LA DIRECCIÓN DISTRITAL DE LA DEFENSA PÚBLICA.", "correct": false},
+          {"text": "LA JUNTA DE FISCALES SUPERIORES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2299. QUIÉN DICTA LA DISPOSICIÓN QUE CORRESPONDA O LA FORMALIZACIÓN DE LA INVESTIGACIÓN PREPARATORIA, FRENTE AL AUTO QUE RECHAZA LA INCOACIÓN DEL PROCESO INMEDIATO?.",
+        "options": [
+          {"text": "EL FISCAL.", "correct": true},
+          {"text": "EL JUEZ COMPETENTE.", "correct": false},
+          {"text": "EL JUEZ DE INVESTIGACIÓN PREPARATORIA.", "correct": false},
+          {"text": "JUEZ DE LA CORTE SUPERIOR DE JUSTICIA.", "correct": false},
+          {"text": "LA JUNTA DE FISCALES SUPERIORES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2300. ¿EN QUE CASO EL JUEZ PENAL DISPONE SU SUBSANACIÓN EN LA MISMA AUDIENCIA?.",
+        "options": [
+          {"text": "CUANDO LAS DECISIONES FORMALES REQUIEREN DE UN NUEVO ANÁLISIS.", "correct": false},
+          {"text": "CUANDO LAS CONVENCIONES PROBATORIAS NO SE HAN CUMPLIDO.", "correct": false},
+          {"text": "CUANDO LOS DEFECTOS FORMALES DE LA ACUSACIÓN REQUIEREN NUEVA INVESTIGACIÓN.", "correct": false},
+          {"text": "CUANDO LOS DEFECTOS FORMALES DE LA ACUSACIÓN REQUIEREN DE UN NUEVO ANÁLISIS.", "correct": true},
+          {"text": "CUANDO LA RESOLUCIÓN ES APELABLE CON EFECTO DEVOLUTIVO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2301. QUIÉN DEBE DESIGNAR A UN FUNCIONARIO RESPONSABLE DE LA GESTIÓN DE AUDIENCIAS PARA PROCESOS INMEDIATOS EN CASOS DE FLAGRANCIA, EN CADA DISTRITO JUDICIAL:.",
+        "options": [
+          {"text": "LA PRESIDENCIA DE LA CORTE SUPERIOR DE JUSTICIA.", "correct": true},
+          {"text": "LA JUNTA DE FISCALES SUPERIORES.", "correct": false},
+          {"text": "LA SALA SUPERIOR DE JUSTICIA.", "correct": false},
+          {"text": "LA PRESIDENCIA DEL DISTRITO JUDICIAL.", "correct": false},
+          {"text": "LA DIRECCIÓN DISTRITAL DE LA DEFENSA PÚBLICA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2302. ENTRE OTROS; QUIÉN DE MANERA CONJUNTA DEBE DESIGNAR A UN FUNCIONARIO DE ENLACE QUE COORDINE CON EL FUNCIONARIO DE GESTIÓN,PARA LA ORGANIZACIÓN Y CIERRE DE LAS AUDIENCIAS PARA CASOS DE FLAGRANCIA, EN CADA DISTRITO JUDICIAL:.",
+        "options": [
+          {"text": "LA MÁXIMA AUTORIDAD DE LA POLICÍA NACIONAL.", "correct": true},
+          {"text": "LA JUNTA DE FISCALES SUPREMOS.", "correct": false},
+          {"text": "LOS VOCALES SUPERIORES.", "correct": false},
+          {"text": "LOS SECRETARIOS DE LAS CORTES SUPERIORES.", "correct": false},
+          {"text": "EL JUEZ Y EL FISCAL A CARGO DEL CASO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2303. QUIÉN DE MANERA CONJUNTA DEBE DESIGNAR A UN FUNCIONARIO DE ENLACE QUE COORDINE CON EL FUNCIONARIO DE GESTIÓN,PARA LA ORGANIZACIÓN Y CIERRE DE LAS AUDIENCIAS PARA CASOS DE FLAGRANCIA, EN CADA DISTRITO JUDICIAL:.",
+        "options": [
+          {"text": "LA PRESIDENCIA DE LA JUNTA DE FISCALES SUPERIORES.", "correct": true},
+          {"text": "LA PRESIDENCIA DE LA JUNTA DE FISCALES SUPREMOS.", "correct": false},
+          {"text": "LOS VOCALES SUPERIORES.", "correct": false},
+          {"text": "LOS SECRETARIOS.", "correct": false},
+          {"text": "JUEZ Y FISCAL A CARGO DEL CASO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2304. QUIÉN DICTA LA FORMALIZACIÓN DE LA INVESTIGACIÓN PREPARATORIA, FRENTE AL AUTO QUE RECHAZA LA INCOACIÓN:.",
+        "options": [
+          {"text": "EL FISCAL.", "correct": true},
+          {"text": "EL JUEZ COMPETENTE.", "correct": false},
+          {"text": "EL JUEZ DE LA INVESTIGACIÓN PREPARATORIA.", "correct": false},
+          {"text": "EL PRESIDENTE DE LA CORTE SUPERIOR DE JUSTICIA.", "correct": false},
+          {"text": "LA DIRECCIÓN DISTRITAL DE LA DEFENSA PÚBLICA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2305. DE QUE MANERA EL FISCAL, UNA VEZ INSTALADA LA AUDIENCIA EXPONE LOS HECHOS OBJETO DE ACUSACIÓN:.",
+        "options": [
+          {"text": "RESUMIDAMENTE.", "correct": true},
+          {"text": "CAVILADAMENTE.", "correct": false},
+          {"text": "EXTENSAMENTE.", "correct": false},
+          {"text": "DETALLADAMENTE.", "correct": false},
+          {"text": "INMEDIATAMENTE.", "correct": false}
+        ]
+      },
+      {
+        "question": "2306. EL REQUERIMIENTO DE INCOACIÓN DEBE CONTENER, EN LO QUE RESULTE PERTINENTE, LOS REQUISITOS ESTABLECIDOS EN EL NUMERAL 2,DEL:.",
+        "options": [
+          {"text": "ARTÍCULO 264.", "correct": true},
+          {"text": "ARTÍCULO 254.", "correct": false},
+          {"text": "ARTÍCULO 234.", "correct": false},
+          {"text": "ARTÍCULO 464.", "correct": false},
+          {"text": "ARTÍCULO 624.", "correct": false}
+        ]
+      },
+      {
+        "question": "2307. LA IMPLEMENTACIÓN DE LAS MEDIDAS ESTABLECIDAS EN LA PRESENTE NORMA, SE FINANCIAN SIN DEMANDAR RECURSOS ADICIONALES AL:.",
+        "options": [
+          {"text": "TESORO PÚBLICO.", "correct": true},
+          {"text": "MINISTERIO DE ECONOMÍA.", "correct": false},
+          {"text": "DIRECCIÓN NACIONAL DE GASTO PÚBLICO.", "correct": false},
+          {"text": "PODER EJECUTIVO.", "correct": false},
+          {"text": "PRESIDENCIA DEL CONSEJO DE MINISTROS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2208. EN LA MISMA AUDIENCIA DE INCOACIÓN, EL AUTO QUE RESUELVE EL REQUERIMIENTO DE PROCESO INMEDIATO DEBE SER PRONUNCIADO, DE:.",
+        "options": [
+          {"text": "MODO IMPOSTERGABLE.", "correct": true},
+          {"text": "ACUERDO AL PRINCIPIO DE OPORTUNIDAD.", "correct": false},
+          {"text": "MANERA IMPOSITIVA.", "correct": false},
+          {"text": "ACUERDO A LA PROCEDENCIA DE LA MEDIDA SOLICITADA POR EL FISCAL.", "correct": false},
+          {"text": "ACUERDO A LAS CONVENCIONES PROBATORIAS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2209. LA AUDIENCIA ÚNICA DE INCOACIÓN DEL PROCESO INMEDIATO, SE RIGE POR LO ESTABLECIDO EN EL:.",
+        "options": [
+          {"text": "ARTÍCULO 85.", "correct": true},
+          {"text": "ARTÍCULO 75.", "correct": false},
+          {"text": "ARTÍCULO 65.", "correct": false},
+          {"text": "ARTÍCULO 58.", "correct": false},
+          {"text": "ARTÍCULO 55.", "correct": false}
+        ]
+      },
+      {
+        "question": "2310. AUDIENCIA ÚNICA DE JUICIO INMEDIATO._ EL JUEZ DEBE INSTAR A LAS PARTES A REALIZAR:.",
+        "options": [
+          {"text": "CONVENCIONES PROBATORIAS.", "correct": true},
+          {"text": "ACUERDOS PRELIMINARES.", "correct": false},
+          {"text": "EXPOSICIONES PRELIMINARES.", "correct": false},
+          {"text": "REGISTRO Y ORGANIZACIÓN.", "correct": false},
+          {"text": "CUESTIONES PREVIAS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2311. INSTALADA LA AUDIENCIA, EL FISCAL EXPONE RESUMIDAMENTE LOS HECHOS OBJETO DE LA ACUSACION, LA CALIFICACION JURIDICA Y:.",
+        "options": [
+          {"text": "LAS PRUEBAS QUE OFRECERA PARA SU ADMISION.", "correct": true},
+          {"text": "DEBE INSTAR A LAS PARTES A REALIZAR CONVENCIONES PROBATORIAS.", "correct": false},
+          {"text": "DETERMINA QUE LOS DEFECTOS FORMALES DE LA ACUSACION REQUIEREN NUEVO ANALISIS.", "correct": false},
+          {"text": "REALIZA UNA AUDIENCIA UNICA DE INCOACION.", "correct": false},
+          {"text": "SOLICITA LA PRISION PRELIMINAR DEL INCULPADO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2312. DE QUE MANERA, EL JUEZ PENAL DICTA EL AUTO DE ENJUICIMIENTO Y CITACION A JUICIO:.",
+        "options": [
+          {"text": "ACUMULATIVAMENTE.", "correct": true},
+          {"text": "CON ARREGLO A LO DISPUESTO EN EL ART. 449.", "correct": false},
+          {"text": "DETALLADAMENTE.", "correct": false},
+          {"text": "EXTENSAMENTE.", "correct": false},
+          {"text": "CON ARREGLO A LO DISPUESTO EN EL ART. 446.", "correct": false}
+        ]
+      },
+      {
+        "question": "2313. REGULAR EL PROCESO INMEDIATO EN CASOS DE FLAGRANCIA, CORRESPONDE A:.",
+        "options": [
+          {"text": "OBJETO DE LA NORMA.", "correct": true},
+          {"text": "NATURALEZA.", "correct": false},
+          {"text": "ALCANCE.", "correct": false},
+          {"text": "OBLIGACIÓN.", "correct": false},
+          {"text": "FINALIDAD DE LA NORMA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2314. ART.446-SUPUESTOS DE APLICACIÓN, 1. EL FISCAL DEBE SOLICITAR LA INCOACIÓN DEL PROCESO INMEDIATO:.",
+        "options": [
+          {"text": "BAJO RESPONSABILIDAD.", "correct": true},
+          {"text": "OPORTUNAMENTE.", "correct": false},
+          {"text": "OBLIGATORIAMENTE.", "correct": false},
+          {"text": "SIEMPRE.", "correct": false},
+          {"text": "ALGUNAS VECES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2315. EL IMPUTADO HA CONFESADO LA COMISIÓN DEL DELITO, CORRESPONDE A:.",
+        "options": [
+          {"text": "SUPUESTO DE APLICACIÓN.", "correct": true},
+          {"text": "CÓDIGO PENAL.", "correct": false},
+          {"text": "CÓDIGO PROCESAL PENAL.", "correct": false},
+          {"text": "APLICACIÓN.", "correct": false},
+          {"text": "CÓDIGO CIVIL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2316. ART.446-SUPUESTOS DE APLICACIÓN, 3. SI SE TRATA DE UNA CAUSA SEGUIDA CONTRA VARIOS IMPUTADOS, SÓLO ES POSIBLE EL PROCESO INMEDIATO SI TODOS ELLOS SE ENCUENTRAN EN UNA DE LAS SITUACIONES PREVISTAS EN EL NUMERAL ANTERIOR Y ESTÉN IMPLICADOS EN:.",
+        "options": [
+          {"text": "EL MISMO DELITO.", "correct": true},
+          {"text": "CON PRUEBAS.", "correct": false},
+          {"text": "CONJUNTO.", "correct": false},
+          {"text": "EVIDENCIAS.", "correct": false},
+          {"text": "CON INDICIOS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2317. ART.446-SUPUESTOS DE APLICACIÓN, 4. EL FISCAL TAMBIÉN DEBERÁ SOLICITAR LA INCOACIÓN DEL PROCESO INMEDIATO PARA LOS SIGUIENTES DELITOS:.",
+        "options": [
+          {"text": "CONDUCCIÓN EN ESTADO DE EBRIEDAD O DROGADICCIÓN Y OMISIÓN DE ASISTENCIA FAMILIAR.", "correct": true},
+          {"text": "OMISIÓN DE ASISTENCIA FAMILIAR.", "correct": false},
+          {"text": "OMISIÓN DE ASISTENCIA FAMILIAR Y TID.", "correct": false},
+          {"text": "DROGADICCIÓN Y OMISIÓN DE FUNCIÓN.", "correct": false},
+          {"text": "DROGADICCIÓN.", "correct": false}
+        ]
+      },
+      {
+        "question": "2318. ART.447, LA AUDIENCIA ÚNICA DE INCOACIÓN DEL PROCESO INMEDIATO EN CASOS DE FLAGRANCIA DELICTIVA ES DE CARÁCTER:.",
+        "options": [
+          {"text": "ÚNICA.", "correct": false},
+          {"text": "EVALUADA.", "correct": false},
+          {"text": "POSTERGABLE.", "correct": false},
+          {"text": "INAPLAZABLE.", "correct": true},
+          {"text": "SUSPENDIDA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2319. ART.447, DENTRO DEL MISMO REQUERIMIENTO DE INCOACIÓN, EL FISCAL DEBE ACOMPAÑAR EL EXPEDIENTE FISCAL Y COMUNICAR SI REQUIERE LA IMPOSICIÓN DE ALGUNA MEDIDA:.",
+        "options": [
+          {"text": "ILEGAL.", "correct": false},
+          {"text": "DUBITATIVA.", "correct": false},
+          {"text": "COERCITIVA.", "correct": true},
+          {"text": "LIMITATIVA.", "correct": false},
+          {"text": "AUMENTATIVA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2320. ART.447, SE PRONUNCIA ORALMENTE, FRENTE A UN REQUERIMIENTO FISCAL DE INCOACIÓN DEL PROCESO INMEDIATO:.",
+        "options": [
+          {"text": "EL JUEZ.", "correct": true},
+          {"text": "MINISTERIO DEL INTERIOR.", "correct": false},
+          {"text": "EL PODER PÚBLICO.", "correct": false},
+          {"text": "EJÉRCITO.", "correct": false},
+          {"text": "EL POLICÍA.", "correct": false}
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LEY QUE REGULA EL USO DE LA FUERZA POR PARTE DE LA PNP, SUS MODIFICATORIAS Y SU REGLAMENTO",
+    "questions": [
+      {
+        "question": "2321. ¿QUÉ, MARCO LEGAL REGULA EL USO DE LA FUERZA POR PARTE DEL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ EN CUMPLIMIENTO DE SU FINALIDAD CONSTITUCIONAL?:",
+        "options": [
+            {"text": "DS.1185.", "correct": false},
+            {"text": "DL.8611.", "correct": false},
+            {"text": "DS.8611.", "correct": false},
+            {"text": "DS.1186.", "correct": false},
+            {"text": "DL.1186.", "correct": true}
+        ]
+      },
+      {
+          "question": "2322.¿CUÁL ES EL OBJETO DEL DECRETO LEGISTIVO N°. 1186?:",
+          "options": [
+              {"text": "REGULA LOS PROCESOS INMEDIATOS EN CASOS DE FLAGRANCIA.", "correct": false},
+              {"text": "REGULA LA LUCHA CONTRA LA DELINCUENBCIA COMÚN.", "correct": false},
+              {"text": "EVITAR QUE PERSONAL POLICIAL SEA DENUNCIADO.", "correct": false},
+              {"text": "REGULA LAS ACTUACIONES POLICIALES.", "correct": false},
+              {"text": "REGULAR EL USO DE LA FUERZA POR PARTE DE LA POLICÍA NACIONAL DEL PERÚ.", "correct": true}
+          ]
+      },
+      {
+          "question": "2323. CUÁL ES EL ALCANCE DEL DECRETO LEGISLATIVO Nº 1186:",
+          "options": [
+              {"text": "A TODO EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ EN SITUACIÓN DE ACTIVIDAD. DISPONIBILIDAD O RETIRO QUE USA LA FUERZA EN DEFENSA DE LA PERSONA, LA SOCIEDAD Y EL ESTADO.", "correct": false},
+              {"text": "A TODO EL PERSONAL DE LOS SERENAZGOS EN SITUACIÓN DE ACTIVIDAD QUE USA LA FUERZA EN DEFENSA DE LA PERSONA, LA SOCIEDAD Y EL ESTADO.", "correct": false},
+              {"text": "A TODO EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ EN SITUACIÓN DE DISPONIBILIDAD QUE USA LA FUERZA EN DEFENSA DE LA PERSONA, LA SOCIEDAD Y EL ESTADO.", "correct": false},
+              {"text": "A TODO EL PERSONAL DE LAS FUERZAS ARMADAS EN SITUACIÓN DE ACTIVIDAD QUE USA LA FUERZA EN DEFENSA DE LA PERSONA, LA SOCIEDAD Y EL ESTADO.", "correct": false},
+              {"text": "A TODO EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ EN SITUACIÓN DE ACTIVIDAD QUE USA LA FUERZA EN DEFENSA DE LA PERSONA, LA SOCIEDAD Y EL ESTADO.", "correct": true}
+          ]
+      },
+      {
+          "question": "2324. ALCANZAN A TODO EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ EN SITUACIÓN DE ACTIVIDAD QUE USA LA FUERZA EN DEFENSA DE LA PERSONA, LA SOCIEDAD Y EL ESTADO; ESTE DECRETO LEGISLATIVO REGULA:",
+          "options": [
+              {"text": "EL USO DE LA FUERZA POR FUNCIONARIOS PÚBLICOS.", "correct": false},
+              {"text": "EL USO DE LA FUERZA POR PARTE DE INSPECTORÍA DE LA POLICÍA NACIONAL DEL PERÚ.", "correct": false},
+              {"text": "EL USO DE LA FUERZA POR PARTE DE LAS FUERZAS ARMADAS.", "correct": false},
+              {"text": "EL USO DE LA FUERZA POR PARTE DE LA POLICÍA MUNICIPAL DEL PERÚ.", "correct": false},
+              {"text": "EL USO DE LA FUERZA POR PARTE DE LA POLICÍA NACIONAL DEL PERÚ.", "correct": true}
+          ]
+      },
+      {
+          "question": "2325. ES EL MEDIO QUE EN SUS DIFERENTE NIVELES USA EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ, DENTRO DEL MARCO DE LA LEY, PARA LOGRAR EL CONTROL DE UNA SITUACIÓN QUE CONSTITUYE UNA AMENAZA O ATENTA CONTRA LA SEGURIDAD, EL ORDEN PÚBLICO, LA INTEGRIDAD O LA VIDA DE LAS PERSONAS:",
+          "options": [
+              {"text": "MEDIOS NECESARIOS.", "correct": false},
+              {"text": "FUERZA.", "correct": true},
+              {"text": "EQUIPOS TÁCTICOS.", "correct": false},
+              {"text": "PLANES Y ESTRATEGIAS.", "correct": false},
+              {"text": "INTELIGENCIA OPERATIVA.", "correct": false}
+          ]
+      },
+      {
+          "question": "2326. ES LA GRADUACIÓN Y ADECUACIÓN, POR PARTE DEL PERSONAL POLICIAL, DE LOS MEDIOS Y MÉTODOS A EMPLEAR TENIENDO EN CUENTA EL NIVEL DE COOPERACIÓN, RESISTENCIA O AGRESIÓN QUE REPRESENTE LA PERSONA A INTERVENIR O LA SITUACIÓN A CONTROLAR; CORRESPONDE A LA DEFINICIÓN DE:",
+          "options": [
+              {"text": "USO NECESARIO Y PROGRESIVO DE LA FUERZA.", "correct": false},
+              {"text": "USO PROGRESIVO Y DIFERENCIADO DE LA FUERZA.", "correct": true},
+              {"text": "MEDIOS DE POLICÍA.", "correct": false},
+              {"text": "CUMPLIMIENTO DEL DEBER.", "correct": false},
+              {"text": "USO DE LA FUERZA FÍSICA.", "correct": false}
+          ]
+      },
+      {
+          "question": "2327. SON LAS ARMAS, EQUIPO, ACCESORIOS Y OTROS ELEMENTOS DE APOYO, AUTORIZADOS O PROPORCIONADOS POR EL ESTADO, QUE EMPLEA EL PERSONAL POLICIAL PARA ENFRENTAR UNA AMENAZA O ATENTADO CONTRA LA SEGURIDAD, EL ORDEN PÚBLICO, LA INTEGRIDAD O LA VIDA DE LAS PERSONAS; CORRESPONDE A LA DEFINICIÓN DE:",
+          "options": [
+              {"text": "PROPORCIONALIDAD.", "correct": false},
+              {"text": "CUMPLIMIENTO DEL DEBER.", "correct": false},
+              {"text": "USO PROGRESIVO Y DIFERENCIADO DE LA FUERZA.", "correct": false},
+              {"text": "MEDIOS DE POLICÍA.", "correct": true},
+              {"text": "FUERZA.", "correct": false}
+          ]
+      },
+      {
+          "question": "2328. ES LA OBLIGACIÓN DEL PERSONAL POLICIAL EN EL EJERCICIO DE LA AUTORIDAD QUE REPRESENTA, DE GARANTIZAR EL ORDEN Y LA SEGURIDAD SIRVIENDO A LA COMUNIDAD Y PROTEGIENDO A LAS PERSONAS EN EL MARCO DE SUS COMPETENCIAS, FUNCIONES Y ATRIBUCIONES LEGALMENTE ESTABLECIDAS; CORRESPONDE A LA DEFINICIÓN DE:",
+          "options": [
+              {"text": "CUMPLIMIENTO DE LOS DERECHOS.", "correct": false},
+              {"text": "MEDIOS DE POLICÍA.", "correct": false},
+              {"text": "USO PROGRESIVO Y DIFERENCIADO DE LA FUERZA.", "correct": false},
+              {"text": "CUMPLIMIENTO DEL DEBER.", "correct": true},
+              {"text": "FUERZA.", "correct": false}
+          ]
+      },
+      {
+          "question": "2329. ES EL MEDIO QUE EN SUS DIFERENTES NIVELES USA EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ, DENTRO DEL MARCO DE LA LEY, PARA LOGRAR EL CONTROL DE UNA SITUACIÓN QUE CONSTITUYE UNA AMENAZA O ATENTA CONTRA LA SEGURIDAD, EL ORDEN PÚBLICO, LA INTEGRIDAD O LA VIDA DE LAS PERSONAS. CORRESPONDE A LA:",
+          "options": [
+              {"text": "DEFINICIÓN DE OPERACIONES.", "correct": false},
+              {"text": "DEFINICIÓN DE INTELIGENCIA.", "correct": false},
+              {"text": "DEFINICIÓN DE MANIOBRA.", "correct": false},
+              {"text": "DEFINICIÓN DE TÁCTICA.", "correct": false},
+              {"text": "DEFINICIÓN DE FUERZA.", "correct": true}
+          ]
+      },
+      {
+          "question": "2330. ES LA GRADUACIÓN Y ADECUACIÓN, POR PARTE DEL PERSONAL POLICIAL, DE LOS MEDIOS Y MÉTODOS A EMPLEAR TENIENDO EN CUENTA EL NIVEL DE COOPERACIÓN, RESISTENCIA O AGRESIÓN QUE REPRESENTE LA PERSONA A INTERVENIR O LA SITUACIÓN A CONTROLAR. CORRESPONDE A LA DEFINICIÓN DE:",
+          "options": [
+              {"text": "USO PROGRESIVO Y DIFERENCIADO DE LA VIOLENCIA.", "correct": false},
+              {"text": "USO PROGRESIVO Y DIFERENCIADO DE LA FUERZA.", "correct": true},
+              {"text": "USO PROGRESIVO Y DIFERENCIADO DE LA INTELIGENCIA.", "correct": false},
+              {"text": "USO PROGRESIVO E IGUALITARIO DE LA FUERZA.", "correct": false},
+              {"text": "USO PROGRESIVO Y DIFERENCIADO DE LA PERSUACION.", "correct": false}
+          ]
+      },
+      {
+        "question": "2331. ES LA OBLIGACIÓN DEL PERSONAL POLICIAL EN EL EJERCICIO DE LA AUTORIDAD QUE REPRESENTA, DE GARANTIZAR EL ORDEN Y LA SEGURIDAD SIRVIENDO A LA COMUNIDAD Y PROTEGIENDO A LAS PERSONAS EN EL MARCO DE SUS COMPETENCIAS, FUNCIONES Y ATRIBUCIONES LEGALMENTE ESTABLECIDAS. CORRESPONDE A LA:",
+        "options": [
+            {"text": "DEFINICIÓN DE CUMPLIMIENTO DEL DEBER.", "correct": true},
+            {"text": "DEFINICIÓN DE CUMPLIMIENTO DE LA MISION.", "correct": false},
+            {"text": "DEFINICIÓN DE CUMPLIMIENTO DE LA VISION.", "correct": false},
+            {"text": "DEFINICIÓN DE CUMPLIMIENTO DE LA OBLIGACION.", "correct": false},
+            {"text": "DEFINICIÓN DE CUMPLIMIENTO DEL PODER.", "correct": false}
+        ]
+    },
+    {
+        "question": "2332. EL USO DE LA FUERZA DEBE ORIENTARSE AL LOGRO DE UN OBJETIVO LEGAL. LOS MEDIOS Y MÉTODOS UTILIZADOS EN CUMPLIMIENTO DEL DEBER DEBEN ESTAR AMPARADOS EN EL MARCO DEL DERECHO INTERNACIONAL DE LOS DERECHOS HUMANOS, LA CONSTITUCIÓN POLÍTICA DEL PERÚ, Y DEMÁS NORMAS NACIONALES SOBRE LA MATERIA; CORRESPONDE AL PRINCIPIO DE:",
+        "options": [
+            {"text": "NECESIDAD.", "correct": false},
+            {"text": "LEGALIDAD.", "correct": true},
+            {"text": "PROPORCIONALIDAD.", "correct": false},
+            {"text": "MEDIOS DE POLICÍA.", "correct": false},
+            {"text": "FUERZA.", "correct": false}
+        ]
+    },
+    {
+        "question": "2333. EL USO DE LA FUERZA EN EL CUMPLIMIENTO DEL DEBER ES NECESARIO, CUANDO OTROS MEDIOS RESULTEN INEFICACES O NO GARANTICEN DE NINGUNA MANERA EL LOGRO DEL OBJETIVO LEGAL BUSCADO. CORRESPONDE AL PRINCIPIO DE:",
+        "options": [
+            {"text": "PROPORCIONALIDAD.", "correct": false},
+            {"text": "FUERZA.", "correct": false},
+            {"text": "LEGALIDAD.", "correct": false},
+            {"text": "MEDIOS DE POLICÍA.", "correct": false},
+            {"text": "NECESIDAD.", "correct": true}
+        ]
+    },
+    {
+        "question": "2334. EL USO DE LA FUERZA SE APLICA CON UN CRITERIO DIFERENCIADO Y PROGRESIVO, DETERMINADO POR EL NIVEL DE COOPERACIÓN, RESISTENCIA (ACTIVO O PASIVO) O LA AGRESIÓN DE LA PERSONA O PERSONAS A QUIENES SE INTERVIENE Y CONSIDERANDO LA PELIGROSIDAD DE LA AMENAZA, CONDICIONES DEL ENTORNO Y LOS MEDIOS QUE DISPONGA EL PERSONAL POLICIAL PARA CONTROLAR UNA SITUACIÓN ESPECÍFICA; CORRESPONDE AL PRINCIPIO DE:",
+        "options": [
+            {"text": "FUERZA.", "correct": false},
+            {"text": "PROPORCIONALIDAD.", "correct": true},
+            {"text": "NECESIDAD.", "correct": false},
+            {"text": "LEGALIDAD.", "correct": false},
+            {"text": "MEDIOS DE POLICÍA.", "correct": false}
+        ]
+    },
+    {
+        "question": "2335. EL USO DE LA FUERZA DEBE ORIENTARSE AL LOGRO DE UN:",
+        "options": [
+            {"text": "FIN JUSTO.", "correct": false},
+            {"text": "OBJETIVO DE LA MISIÓN.", "correct": false},
+            {"text": "OBJETIVO NACIONAL.", "correct": false},
+            {"text": "OBJETIVO INSTITUCIONAL.", "correct": false},
+            {"text": "OBJETIVO LEGAL.", "correct": true}
+        ]
+    },
+    {
+        "question": "2336. EN EL PRINCIPIO DE NECESIDAD; PARA DETERMINAR EL NIVEL DE FUERZA A USAR, SE DEBE CONSIDERAR, RAZONABLEMENTE, ENTRE OTRAS CIRCUNSTANCIAS EL NIVEL DE:",
+        "options": [
+            {"text": "PROPORCIONALIDAD.", "correct": false},
+            {"text": "COOPERACIÓN.", "correct": true},
+            {"text": "RESISTENCIA NO OFRECIDA.", "correct": false},
+            {"text": "PELIGRO REPRESENTADO POR LA PERSONA A INTERVENIR.", "correct": false},
+            {"text": "SITUACIÓN A CONTROLAR.", "correct": false}
+        ]
+    },
+    {
+        "question": "2337. ¿QUÉ DEBE USARSE DE MANERA PROGRESIVA Y DIFERENCIADA, DE CONFORMIDAD CON LOS PRINCIPIOS Y LOS NIVELES ESTABLECIDOS?:",
+        "options": [
+            {"text": "LAS ARMAS.", "correct": false},
+            {"text": "EL CRITERIO.", "correct": false},
+            {"text": "LA INICIATIVA.", "correct": false},
+            {"text": "LA FUERZA.", "correct": true},
+            {"text": "LA VARA DE LA LEY.", "correct": false}
+        ]
+    },
+    {
+        "question": "2338. DENTRO DE LOS NIVELES DEL USO DE LA FUERZA, EXISTEN DOS RESISTENCIAS EN LOS NIVELES DE COOPERACIÓN, RESISTENCIA O AGRESIVIDAD DEL CIUDADANO A INTERVENIR. MARQUE LO CORRECTO:",
+        "options": [
+            {"text": "RESISTENCIA PASIVA Y AGENTE ACTIVO.", "correct": false},
+            {"text": "RESISTENCIA DINÁMICA Y RESISTENCIA ACTIVA.", "correct": false},
+            {"text": "RESISTENCIA PASIVA Y RESISTENCIA ACTIVA.", "correct": true},
+            {"text": "RESISTENCIA LETAL Y NO LETAL.", "correct": false},
+            {"text": "RESISTENCIA NO LETAL Y RESISTENCIA ACTIVA.", "correct": false}
+        ]
+    },
+    {
+        "question": "2339. ¿CUÁLES SON LAS CLASES DE RESISTENCIA PASIVA?:",
+        "options": [
+            {"text": "RESISTENCIA FÍSICA, AGRESIÓN NO LETAL Y AGRESIÓN LETAL.", "correct": false},
+            {"text": "RIESGO LATENTE, COOPERADOR Y RESISTENCIA FÍSICA.", "correct": false},
+            {"text": "RIESGO LATENTE, AGRESION NO LETAL Y NO COOPERADOR.", "correct": false},
+            {"text": "RIESGO LATENTE, COOPERADOR Y NO COOPERADOR.", "correct": true},
+            {"text": "RIESGO LATENTE Y NO COOPERADOR.", "correct": false}
+        ]
+    },
+    {
+        "question": "2340. ¿CUÁLES SON LAS CLASES DE RESISTENCIA ACTIVA?",
+        "options": [
+            {"text": "RIESGO LATENTE, COOPERADOR Y NO COOPERADOR.", "correct": false},
+            {"text": "RESISTENCIA PSICOLÓGICA, AGRESIÓN NO LETAL Y AGRESIÓN LETAL.", "correct": false},
+            {"text": "RESISTENCIA FÍSICA, AGRESIÓN LETAL Y AGRESIÓN FÍSICA.", "correct": false},
+            {"text": "RESISTENCIA FÍSICA, AGRESIÓN NO LETAL Y AGRESIÓN FÍSICA.", "correct": false},
+            {"text": "RESISTENCIA FÍSICA, AGRESIÓN NO LETAL Y AGRESIÓN LETAL.", "correct": true}
+        ]
+    },
+    {
+      "question": "2341. ACATA TODAS LAS INDICACIONES DEL EFECTIVO POLICIAL SIN RESISTENCIA MANIFIESTA DURANTE LA INTERVENCIÓN, CORRESPONDE A LA DEFINICIÓN DE:.",
+      "options": [
+          {"text": "COLABORADOR.", "correct": false},
+          {"text": "CUMPLIDOR.", "correct": false},
+          {"text": "COOPERADOR.", "correct": true},
+          {"text": "ACATADOR.", "correct": false},
+          {"text": "OBEDIENTE.", "correct": false}
+      ]
+  },
+  {
+      "question": "2342. NO ACATA LAS INDICACIONES. NO REACCIONA NI AGREDE, CORRESPONDE A LA DEFINICIÓN DE:.",
+      "options": [
+          {"text": "COOPERADOR.", "correct": false},
+          {"text": "NO COOPERADOR.", "correct": true},
+          {"text": "NO CUMPLIDOR.", "correct": false},
+          {"text": "PASIVO.", "correct": false},
+          {"text": "NO COLABORADOR.", "correct": false}
+      ]
+  },
+  {
+      "question": "2343. ES LA AMENAZA PERMANENTE NO VISIBLE PRESENTE EN TODA INTERVENCIÓN POLICIAL, CORRESPONDE A LA DEFINICIÓN DE:.",
+      "options": [
+          {"text": "RIESGO ENCUBIERTO.", "correct": false},
+          {"text": "RIESGO OCULTO.", "correct": false},
+          {"text": "RIESGO DE SEGURIDAD.", "correct": false},
+          {"text": "RIESGO PERMANENTE.", "correct": false},
+          {"text": "RIESGO LATENTE.", "correct": true}
+      ]
+  },
+  {
+      "question": "2344. SE OPONE A SU REDUCCIÓN, INMOVILIZACIÓN Y/O CONDUCCIÓN, LLEGANDO A UN NIVEL DE DESAFÍO FÍSICO, CORRESPONDE A LA DEFINICIÓN DE:.",
+      "options": [
+          {"text": "RESISTENCIA VIOLENTA.", "correct": false},
+          {"text": "RESISTENCIA AGRESIVA.", "correct": false},
+          {"text": "RESITENCIA OBJETIVA.", "correct": false},
+          {"text": "RESISTENCIA FÍSICA.", "correct": true},
+          {"text": "RESISTENCIA MATERIAL.", "correct": false}
+      ]
+  },
+  {
+      "question": "2345. AGRESIÓN FÍSICA AL PERSONAL POLICIAL O PERSONAS INVOLUCRADAS EN LA INTERVENCIÓN, PUDIENDO UTILIZAR OBJETOS QUE ATENTEN CONTRA LA INTEGRIDAD FÍSICA, CORRESPONDE A LA DEFINICIÓN DE:.",
+      "options": [
+          {"text": "AGRESIÓN PELIGROSA.", "correct": false},
+          {"text": "AGRESIÓN FÍSICA.", "correct": false},
+          {"text": "AGRESIÓN NO LETAL.", "correct": true},
+          {"text": "AGRESIÓN LETAL.", "correct": false},
+          {"text": "AGRESIÓN TÁCTICA.", "correct": false}
+      ]
+  },
+  {
+      "question": "2346. ¿CUÁL ES LA DEFINICIÓN DE AGRESIÓN LETAL?:.",
+      "options": [
+          {"text": "ACCIÓN QUE NO PONE EN PELIGRO INMINENTE DE MUERTE O LESIONES GRAVES AL EFECTIVO POLICIAL O A PERSONAS INVOLUCRADAS EN LA INTERVENCIÓN.", "correct": false},
+          {"text": "AGRESIÓN FÍSICA AL PERSONAL POLICIAL O PERSONAS INVOLUCRADAS EN LA INTERVENCIÓN, PUDIENDO UTILIZAR OBJETOS QUE ATENTEN CONTRA LA INTEGRIDAD FÍSICA.", "correct": false},
+          {"text": "ACCIÓN QUE PONE EN PELIGRO INMINENTE DE DAÑO PSICOLÓGICO AL EFECTIVO POLICIAL O A PERSONAS INVOLUCRADAS EN LA INTERVENCIÓN.", "correct": false},
+          {"text": "SE OPONE A SU REDUCCIÓN, INMOVILIZACIÓN Y/O CONDUCCIÓN, LLEGANDO A UN NIVEL DE DESAFÍO FÍSICO LETAL.", "correct": false},
+          {"text": "ACCIÓN QUE PONE EN PELIGRO INMINENTE DE MUERTE O LESIONES GRAVES AL EFECTIVO POLICIAL O A PERSONAS INVOLUCRADAS EN LA INTERVENCIÓN.", "correct": true}
+      ]
+  },
+  {
+      "question": "2347. ES LA AMENAZA PERMANENTE NO VISIBLE PRESENTE EN TODA INTERVENCIÓN POLICIAL. CORRESPONDE A LA DEFINICIÓN DE:.",
+      "options": [
+          {"text": "RIESGO LABORAL.", "correct": false},
+          {"text": "RESISTENCIA FÍSICA.", "correct": false},
+          {"text": "RIESGO PERMANENTE.", "correct": false},
+          {"text": "RIESGO LATENTE.", "correct": true},
+          {"text": "RIESGO LETAL.", "correct": false}
+      ]
+  },
+  {
+      "question": "2348. SE OPONE A SU REDUCCIÓN, INMOVILIZACIÓN Y/O CONDUCCIÓN, LLEGANDO A UN NIVEL DE DESAFÍO FÍSICO. CORRESPONDE A LA DEFINICIÓN DE:.",
+      "options": [
+          {"text": "RESISTENCIA PSICOLÓGICA.", "correct": false},
+          {"text": "AGRESIÓN LETAL.", "correct": false},
+          {"text": "RESISTENCIA FÍSICA.", "correct": true},
+          {"text": "CONTROL DE CONTACTO.", "correct": false},
+          {"text": "RESISTENCIA NO LETAL.", "correct": false}
+      ]
+  },
+  {
+      "question": "2349. LA ACCIÓN QUE PONE EN PELIGRO INMINENTE DE MUERTE O LESIONES GRAVES AL EFECTIVO POLICIAL O A PERSONAS INVOLUCRADAS EN LA INTERVENCIÓN. CORRESPONDE A LA DEFINICIÓN DE:.",
+      "options": [
+          {"text": "AGRESIÓN NO LETAL.", "correct": false},
+          {"text": "AGRESIÓN LATENTE.", "correct": false},
+          {"text": "RIESGO LATENTE.", "correct": false},
+          {"text": "AGRESIÓN LETAL.", "correct": true},
+          {"text": "PELIGRO LETAL.", "correct": false}
+      ]
+  },
+  {
+      "question": "2350. DENTRO DE LOS NIVELES DEL USO DE LA FUERZA, EXISTEN DOS NIVELES DE USO DE LA FUERZA POR EL PERSONAL DE LA POLICÍA NACIONAL. MARQUE LO CORRECTO:.",
+      "options": [
+          {"text": "NIVELES PREVENTIVOS Y NIVELES NO PREVENTIVOS.", "correct": false},
+          {"text": "NIVELES PREVENTIVOS Y NIVELES DE ACCIÓN.", "correct": false},
+          {"text": "NIVELES PREVENTIVOS Y NIVELES ACTIVOS.", "correct": false},
+          {"text": "NIVELES PREVENTIVOS Y NIVELES REACTIVOS.", "correct": true},
+          {"text": "NIVELES PSICOLÓGICOS Y NIVELES REACTIVOS.", "correct": false}
+      ]
+  },
+  {
+    "question": "2351. INDIQUE CUÁL DE LOS ENUNCIADOS CORRESPONDEN A LOS NIVELES PREVENTIVOS:.",
+    "options": [
+        {"text": "PRESENCIA POLICIAL, VERBALIZACIÓN Y CONTROL TOTAL.", "correct": false},
+        {"text": "PRESENCIA POLICIAL, TÁCTICAS DEFENSIVAS NO LETALES Y FUERZA LETAL.", "correct": false},
+        {"text": "PRESENCIA POLICIAL, ADVERTENCIA Y CONTROL DE CONTACTO.", "correct": false},
+        {"text": "PRESENCIA POLICIAL, TÁCTICAS DEFENSIVAS Y FUERZA LETAL.", "correct": false},
+        {"text": "PRESENCIA POLICIAL, VERBALIZACIÓN Y CONTROL DE CONTACTO.", "correct": true}
+    ]
+  },
+  {
+    "question": "2352. INDIQUE CUÁL DE LOS ENUNCIADOS CORRESPONDEN A LOS NIVELES REACTIVOS:.",
+    "options": [
+        {"text": "CONTROL PSICOLÓGICO, TÁCTICAS DEFENSIVAS NO LETALES Y FUERZA LETAL.", "correct": false},
+        {"text": "CONTROL FÍSICO, VERBALIZACIÓN Y CONTROL DE CONTACTO.", "correct": false},
+        {"text": "CONTROL FÍSICO, TÁCTICAS DEFENSIVAS NO LETALES Y FUERZA LETAL.", "correct": true},
+        {"text": "PRESENCIA POLICIAL, VERBALIZACIÓN Y CONTROL TOTAL.", "correct": false},
+        {"text": "CONTROL FÍSICO, TÁCTICAS DEFENSIVAS MORTALES Y FUERZA LETAL.", "correct": false}
+    ]
+  },
+  {
+    "question": "2353. ENTENDIDA COMO DEMOSTRACIÓN DE AUTORIDAD DEL PERSONAL DE LA POLICÍA NACIONAL UNIFORMADO, EQUIPADO, EN ACTITUD DE ALERTA Y REALIZANDO UN CONTROL VISUAL, QUE PREVIENE Y DISUADE LA COMISIÓN DE UNA INFRACCIÓN O UN DELITO, CORRESPONDE A LA DEFINICIÓN DE?:.",
+    "options": [
+        {"text": "VERBALIZACIÓN.", "correct": false},
+        {"text": "PRESENCIA POLICIAL.", "correct": true},
+        {"text": "CONTROL DE CONTACTO.", "correct": false},
+        {"text": "CONTROL FÍSICO.", "correct": false},
+        {"text": "CONTROL POLICIAL.", "correct": false}
+    ]
+  },
+  {
+    "question": "2354. ES EL USO DE LA COMUNICACIÓN ORAL CON LA ENERGÍA NECESARIA Y EL USO DE TÉRMINOS ADECUADOS QUE SEAN FÁCILMENTE ENTENDIDOS Y COMPRENDIDOS POR LAS PERSONAS A INTERVENIR, FACILITANDO SU CONTROL INDIVIDUAL O GRUPAL, CORRESPONDE A LA DEFINICIÓN DE?:.",
+    "options": [
+        {"text": "ADVERTENCIA.", "correct": false},
+        {"text": "VERBALIZACIÓN.", "correct": true},
+        {"text": "CONTROL DE CONTACTO.", "correct": false},
+        {"text": "COMUNICACIÓN VERBAL.", "correct": false},
+        {"text": "PRESENCIA POLICIAL.", "correct": false}
+    ]
+  },
+  {
+    "question": "2355. INDIQUE LA DEFINICIÓN CORRECTA DE CONTROL DE CONTACTO:.",
+    "options": [
+        {"text": "ES EL USO DE LA COMUNICACIÓN ORAL CON LA ENERGÍA NECESARIA Y EL USO DE TÉRMINOS ADECUADOS QUE SEAN FÁCILMENTE ENTENDIDOS Y COMPRENDIDOS POR LAS PERSONAS A INTERVENIR, FACILITANDO SU CONTROL INDIVIDUAL O GRUPAL.", "correct": false},
+        {"text": "ACCIÓN QUE PONE EN PELIGRO INMINENTE DE MUERTE O LESIONES GRAVES AL EFECTIVO POLICIAL O A PERSONAS INVOLUCRADAS EN LA INTERVENCIÓN.", "correct": false},
+        {"text": "ES EL USO DE ACCIONES DE COMUNICACIÓN, NEGOCIACIÓN Y PROCEDIMIENTOS DESTINADOS A PERMITIR LA ACCIÓN O ACTITUD DE LA PERSONA O GRUPOS A SER INTERVENIDOS.", "correct": false},
+        {"text": "ES EL USO DE LAS TÉCNICAS POLICIALES QUE PERMITEN CONTROLAR, REDUCIR, INMOVILIZAR Y CONDUCIR A LA PERSONA INTERVENIDA, EVITANDO EN LO POSIBLE CAUSAR LESIONES.", "correct": false},
+        {"text": "ES EL USO DE TÉCNICAS DE COMUNICACIÓN, NEGOCIACIÓN Y PROCEDIMIENTOS DESTINADOS A GUIAR, CONTENER LA ACCIÓN O ACTITUD DE LA PERSONA O GRUPOS A SER INTERVENIDOS.", "correct": true}
+    ]
+  },
+  {
+    "question": "2356. ¿CUÁL ES LA DEFINICIÓN CORRECTA DE CONTROL FÍSICO, QUE SE ENCUENTRA DENTRO DE LOS NIVELES DEL USO DE LA FUERZA?.",
+    "options": [
+        {"text": "ES EL USO DE LAS TÉCNICAS OPERATIVAS QUE PERMITEN CONTROLAR, REDUCIR, INMOVILIZAR Y CONDUCIR A LA PERSONA INTERVENIDA, EVITANDO EN LO POSIBLE CAUSAR LESIONES.", "correct": false },
+        {"text": "ES EL USO DE MEDIOS DE POLICÍA NO LETALES PARA CONTRARRESTAR Y/O SUPERAR EL NIVEL DE AGRESIÓN O RESISTENCIA.", "correct": false},
+        {"text": "ES EL USO DE LAS TÉCNICAS POLICIALES QUE PERMITEN CONTROLAR, REDUCIR, INMOVILIZAR Y CONDUCIR A LA PERSONA INTERVENIDA, EVITANDO EN LO POSIBLE CAUSAR LESIONES.", "correct": true},
+        {"text": "ES EL USO DE ARMAS DE FUEGO POR EL PERSONAL DE LA POLICIA NACIONAL, CONTRA QUIEN REALIZA UNA ACCIÓN QUE REPRESENTA UN PELIGRO REAL E INMINENTE DE MUERTE O LESIONES GRAVES.", "correct": false},
+        {"text": "ES EL USO DE LAS TÉCNICAS POLICIALES QUE PERMITEN CONTROLAR, REDUCIR, INMOVILIZAR Y CONDUCIR A LA PERSONA INTERVENIDA, PROCURANDO CAUSAR LESIONES.", "correct": false}
+    ]
+  },
+  {
+    "question": "2357. CUAL ES LA DEFINICIÓN CORRECTA, DE TÁCTICAS DEFENSIVAS NO LETALES, QUE SE ENCUENTRA DENTRO DE LOS NIVELES DEL USO DE LA FUERZA:.",
+    "options": [
+        {"text": "ES EL USO DE MEDIOS DE POLICÍA NO LETALES PARA CONTRARRESTAR Y/O SUPERAR EL NIVEL DE AGRESIÓN O RESISTENCIA.", "correct": true},
+        {"text": "ES EL USO DE LAS TÉCNICAS POLICIALES QUE PERMITEN INMOVILIZAR Y CONDUCIR AL INTERVENIDO, EVITANDO EN LO POSIBLE CAUSAR LESIONES.", "correct": false},
+        {"text": "ES EL USO DE TÉCNICAS DE COMUNICACIÓN Y PROCEDIMIENTOS DESTINADOS A CONTENER LA ACCIÓN O ACTITUD DE LA PERSONA O GRUPOS A SER INTERVENIDOS.", "correct": false},
+        {"text": "ES EL USO DE MEDIOS DE POLICÍA NO LETALES PARA EVITAR SUPERAR EL NIVEL DE AGRESIÓN O RESISTENCIA.", "correct": false},
+        {"text": "ES EL USO DE MEDIOS DE POLICÍA LETALES PARA CONTRARRESTAR Y/O SUPERAR EL NIVEL DE AGRESIÓN O RESISTENCIA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2358. ES EL USO DE ARMAS DE FUEGO POR EL PERSONAL DE LA POLICÍA NACIONAL, CONTRA QUIEN REALIZA UNA ACCIÓN QUE REPRESENTA UN PELIGRO REAL E INMINENTE DE MUERTE O LESIONES GRAVES, CON EL OBJETIVO DE CONTROLARLO Y DEFENDER LA VIDA PROPIA O DE OTRAS PERSONAS, CORRESPONDE A LA DEFINICIÓN DE?:.",
+    "options": [
+        {"text": "FUERZA NO LETAL.", "correct": false},
+        {"text": "TÁCTICAS DEFENSIVAS NO LETALES.", "correct": false},
+        {"text": "FUERZA LETAL.", "correct": true},
+        {"text": "FUERZA MORTAL.", "correct": false},
+        {"text": "FUERZA CONTROLADA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2359. ENTENDIDA COMO DEMOSTRACIÓN DE AUTORIDAD DEL PERSONAL DE LA POLICÍA NACIONAL UNIFORMADO, EQUIPADO, EN ACTITUD DE ALERTA Y REALIZANDO UN CONTROL VISUAL, QUE PREVIENE Y DISUADE LA COMISIÓN DE UNA INFRACCIÓN O UN DELITO, CORRESPONDE A LA DEFINICIÓN DE:",
+    "options": [
+        {"text": "VERBALIZACIÓN.", "correct": false},
+        {"text": "PRESENCIA TÁCTICA.", "correct": false},
+        {"text": "PRESENCIA MILITAR.", "correct": false},
+        {"text": "PRESENCIA POLICIAL.", "correct": true},
+        {"text": "CONTROL FÍSICO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2360. ES EL USO DE TÉCNICAS DE COMUNICACIÓN, NEGOCIACIÓN Y PROCEDIMIENTOS DESTINADOS A GUIAR, CONTENER LA ACCIÓN O ACTITUD DE LA PERSONA O GRUPOS A SER INTERVENIDOS. CORRESPONDE A LA DEFINICIÓN DE:",
+    "options": [
+        {"text": "CONTROL FÍSICO.", "correct": false},
+        {"text": "PRESENCIA UNIFORMADA.", "correct": false},
+        {"text": "CONTROL TOTAL.", "correct": false},
+        {"text": "PRESENCIA POLICIAL.", "correct": false},
+        {"text": "CONTROL DE CONTACTO.", "correct": true}
+    ]
+  },
+  {
+    "question": "2361. ES EL USO DE LAS TÉCNICAS POLICIALES QUE PERMITEN CONTROLAR, REDUCIR, INMOVILIZAR Y CONDUCIR A LA PERSONA INTERVENIDA, EVITANDO EN LO POSIBLE CAUSAR LESIONES. CORRESPONDE A LA DEFINICIÓN DE:.",
+    "options": [
+        {"text": "TÁCTICAS DEFENSIVAS NO LETALES.", "correct": false},
+        {"text": "CONTROL FÍSICO.", "correct": true},
+        {"text": "FUERZA LETAL.", "correct": false},
+        {"text": "CONTROL TOTAL.", "correct": false},
+        {"text": "CONTROL DE CONTACTO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2362. ES EL USO DE MEDIOS DE POLICÍA NO LETALES PARA CONTRARRESTAR Y/O SUPERAR EL NIVEL DE AGRESIÓN O RESISTENCIA. CORRESPONDE A LA DEFINICIÓN DE:.",
+    "options": [
+        {"text": "TÁCTICAS OFENSIVAS NO LETALES.", "correct": false},
+        {"text": "CONTROL FÍSICO.", "correct": false},
+        {"text": "TÁCTICAS DEFENSIVAS NO LETALES.", "correct": true},
+        {"text": "TÁCTICAS OFENSIVAS LETALES.", "correct": false},
+        {"text": "TÁCTICAS DEFENSIVAS LETALES.", "correct": false}
+    ]
+  },
+  {
+    "question": "2363. ES EL USO DE ARMAS DE FUEGO POR EL PERSONAL DE LA POLICÍA NACIONAL, CONTRA QUIÉN REALIZA UNA ACCIÓN QUE REPRESENTA UN PELIGRO REAL E INMINENTE DE MUERTE O LESIONES GRAVES. CORRESPONDE A LA DEFINICIÓN DE:.",
+    "options": [
+        {"text": "FUERZA TÁCTICA.", "correct": false},
+        {"text": "FUERZA LETAL.", "correct": true},
+        {"text": "CONTROL FÍSICO.", "correct": false},
+        {"text": "FUERZA NO LETAL.", "correct": false},
+        {"text": "CONTROL TOTAL.", "correct": false}
+    ]
+  },
+  {
+    "question": "2364. EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ, OBSERVANDO LO PRESCRITO EN LOS ARTÍCULOS 4, 6 Y EL NUMERAL 7.2, SE IDENTIFICA COMO TAL, INDIVIDUALIZA A LA PERSONA O PERSONAS A INTERVENIR Y DA UNA CLARA ADVERTENCIA DE SU INTENCIÓN DE USAR LA FUERZA, CON TIEMPO SUFICIENTE PARA QUE SE TOME EN CUENTA, SALVO QUE ESA ADVERTENCIA LO PONGA EN PELIGRO O CREARA UN GRAVE RIESGO DE MUERTE O DE LESIONES GRAVES A OTRAS PERSONAS, O CUANDO LA ADVERTENCIA RESULTARA EVIDENTEMENTE INADECUADA DADAS LAS CIRCUNSTANCIAS DEL CASO. CORRESPONDE A LA DEFINICIÓN DE:.",
+    "options": [
+        {"text": "CIRCUNSTANCIAS Y REGLAS DE CORTESÍA EN EL USO DE LA FUERZA.", "correct": false},
+        {"text": "DERECHOS Y RESPONSABILIDADES DEL PERSONAL POLICIAL.", "correct": false},
+        {"text": "CIRCUNSTANCIAS Y NORMAS DE CONDUCTA EN EL USO DE LA FUERZA.", "correct": false},
+        {"text": "CIRCUNSTANCIAS Y REGLAS DE CONDUCTA EN EL USO DE LA FUERZA.", "correct": true},
+        {"text": "DERECHOS Y RESPONSABILIDADES DE LAS PERSONAS INTERVENIDAS.", "correct": false}
+    ]
+  },
+  {
+    "question": "2365. EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ PUEDE USAR LA FUERZA, DE CONFORMIDAD CON LOS ARTÍCULOS 4, 6 Y EL NUMERAL 7.2, EN LAS SIGUIENTES CIRCUNSTANCIAS:",
+    "options": [
+        {"text": "NO PREVENIR LA COMISIÓN DE DELITOS Y FALTAS.", "correct": false},
+        {"text": "CUMPLIR UN DEBER U ÓRDENES ILÍCITAS DICTADAS POR LAS AUTORIDADES COMPETENTES.", "correct": false},
+        {"text": "CONTROLAR A QUIEN COLABORE CON LA AUTORIDAD.", "correct": false},
+        {"text": "DETENER EN FLAGRANTE DELITO O POR MANDATO JUDICIAL CONFORME A LEY.", "correct": true},
+        {"text": "PROTEGER O DEFENDER BIENES JURÍDICOS DEL POLICÍA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2366. EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ PUEDE USAR LA FUERZA, DE CONFORMIDAD CON LOS ARTÍCULOS 4, 6 Y EL NUMERAL 7.2, EN LAS SIGUIENTES CIRCUNSTANCIAS:",
+    "options": [
+        {"text": "CONTROLAR A QUIEN NO COLABORE CON LA AUTORIDAD.", "correct": false},
+        {"text": "CUMPLIR UN DEBER U ÓRDENES LÍCITAS DICTADAS POR LAS AUTORIDADES COMPETENTES.", "correct": true},
+        {"text": "NO DETENER EN FLAGRANTE DELITO O POR MANDATO JUDICIAL CONFORME A LEY.", "correct": false},
+        {"text": "CUMPLIR UN DEBER U ÓRDENES LÍCITAS DICTADAS POR LAS AUTORIDADES JUDICIALES.", "correct": false},
+        {"text": "NO PREVENIR LA COMISIÓN DE DELITOS Y FALTAS.", "correct": false}
+    ]
+  },
+  {
+    "question": "2367. EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ PUEDE USAR LA FUERZA, DE CONFORMIDAD CON LOS ARTÍCULOS 4, 6 Y EL NUMERAL 7.2, EN LAS SIGUIENTES CIRCUNSTANCIAS:",
+    "options": [
+        {"text": "PREVENIR LA COMISIÓN DE DELITOS Y FALTAS.", "correct": true},
+        {"text": "CUMPLIR UN DEBER U ÓRDENES LÍCITAS DICTADAS POR LAS AUTORIDADES JUDICIALES.", "correct": false},
+        {"text": "NO PREVENIR LA COMISIÓN DE DELITOS Y FALTAS.", "correct": false},
+        {"text": "CONTROLAR A QUIEN NO COLABORE CON LA AUTORIDAD.", "correct": false},
+        {"text": "PROPICIAR LA COMISIÓN DE DELITOS Y FALTAS.", "correct": false}
+    ]
+  },
+  {
+    "question": "2368. EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ PUEDE USAR LA FUERZA, DE CONFORMIDAD CON LOS ARTÍCULOS 4, 6 Y EL NUMERAL 7.2, EN LAS SIGUIENTES CIRCUNSTANCIAS:",
+    "options": [
+        {"text": "CONTROLAR A QUIEN COLABORE CON LA AUTORIDAD.", "correct": false},
+        {"text": "DETENER DESPUÉS DE COMETIDO EL DELITO O POR MANDATO DEL MINISTERIO PÚBLICO, CONFORME A LEY.", "correct": false},
+        {"text": "CUMPLIR UN DEBER U ORDENES LÍCITAS DICTADAS POR LAS AUTORIDADES FISCALES.", "correct": false},
+        {"text": "NO PREVENIR LA COMISIÓN DE DELITOS Y FALTAS.", "correct": false},
+        {"text": "PROTEGER O DEFENDER BIENES JURÍDICOS TUTELADOS.", "correct": true}
+    ]
+  },
+  {
+    "question": "2369. EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ PUEDE USAR LA FUERZA, DE CONFORMIDAD CON LOS ARTÍCULOS 4, 6 Y EL NUMERAL 7.2, EN LAS SIGUIENTES CIRCUNSTANCIAS:",
+    "options": [
+        {"text": "CONTROLAR A QUIEN OPONGA RESISTENCIA A LA AUTORIDAD.", "correct": true},
+        {"text": "CUMPLIR UN DEBER U ORDENES LÍCITAS DICTADAS POR LAS AUTORIDADES POLICIALES.", "correct": false},
+        {"text": "CONTROLAR A QUIEN COLABORE CON LA AUTORIDAD.", "correct": false},
+        {"text": "DETENER DESPUÉS DE COMETIDO EL DELITO O POR MANDATO DEL MINISTERIO PÚBLICO, CONFORME A LEY.", "correct": false},
+        {"text": "NO PREVENIR LA COMISIÓN DE DELITOS Y FALTAS.", "correct": false}
+    ]
+  },
+  {
+    "question": "2370. EN QUE SITUACIÓN, EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ, EXCEPCIONALMENTE, PODRÁ HACER USO DEL ARMA DE FUEGO:",
+    "options": [
+        {"text": "EN DEFENSA PROPIA O DE OTRAS PERSONAS EN CASO DE PELIGRO REAL E INMINENTE DE LESIONES.", "correct": false},
+        {"text": "EN DEFENSA PROPIA O DE OTRAS PERSONAS EN CASO DE QUE NO EXISTA PELIGRO REAL E INMINENTE DE MUERTE O LESIONES GRAVES.", "correct": false},
+        {"text": "EN DEFENSA PROPIA O DE OTRAS PERSONAS EN CASO DE PELIGRO REAL E INMINENTE DE MUERTE O LESIONES LEVES.", "correct": false},
+        {"text": "EN DEFENSA PROPIA O DE OTRAS PERSONAS EN CASO DE PELIGRO REAL E INMINENTE DE MUERTE O LESIONES GRAVES.", "correct": true},
+        {"text": "CUANDO NO SE GENERE UN PELIGRO REAL O INMINENTE DE MUERTE DEL PERSONAL POLICIAL U OTRA PERSONA.", "correct": false}
+    ]
+  } ,
+  {
+    "question": "2371. EN QUE SITUACIÓN, EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ, EXCEPCIONALMENTE, PODRÁ HACER USO DEL ARMA DE FUEGO:",
+    "options": [
+      {"text": "CUANDO SE PRODUZCA UNA SITUACIÓN QUE IMPLIQUE UNA SERIA AMENAZA PARA LA VIDA DURANTE LA COMISIÓN DE UN DELITO PARTICULARMENTE GRAVE.", "correct": true},
+      {"text": "CUANDO SE GENERE UN PELIGRO REAL E INMINENTE DE MUERTE O LESIONES GRAVES COMO CONSECUENCIA DE LA RESISTENCIA OFRECIDA POR LA PERSONA QUE VAYA A SER DETENIDA.", "correct": false},
+      {"text": "CUANDO LA VIDA DE UNA PERSONA NO ES PUESTA EN RIESGO REAL, INMINENTE Y ACTUAL POR QUIEN SE ESTA FUGANDO.", "correct": false},
+      {"text": "CUANDO SE GENERE UN PELIGRO REAL O INMINENTE DE MUERTE DEL PERSONAL POLICIAL U OTRA PERSONA, POR LA ACCIÓN DE QUIEN PARTICIPA DE UNA REUNIÓN TUMULTUARIA VIOLENTA.", "correct": false},
+      {"text": "CUANDO LA VIDA DE UNA PERSONA ES PUESTA EN RIESGO REAL, INMINENTE Y ACTUAL POR QUIEN SE ESTA FUGANDO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2372. EN QUE SITUACIÓN, EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ, EXCEPCIONALMENTE, PODRÁ HACER USO DEL ARMA DE FUEGO:.",
+    "options": [
+        {"text": "CUANDO SE GENERE UN PELIGRO REAL E INMINENTE DE MUERTE O LESIONES GRAVES COMO CONSECUENCIA DE LA RESISTENCIA OFRECIDA POR LA PERSONA QUE VAYA A SER DETENIDA.", "correct": true},
+        {"text": "EN DEFENSA PROPIA O DE OTRAS PERSONAS EN CASO DE QUE NO EXISTA PELIGRO REAL E INMINENTE DE MUERTE O LESIONES GRAVES.", "correct": false},
+        {"text": "CUANDO SE GENERE UN PELIGRO REAL E INMINENTE DE MUERTE O LESIONES MUY GRAVES COMO CONSECUENCIA DE LA RESISTENCIA OFRECIDA POR LA PERSONA QUE VAYA A SER INTERVENIDA.", "correct": false},
+        {"text": "CUANDO SE GENERE UNA SITUACIÓN DE PAZ Y TRANQUILIDAD COMO CONSECUENCIA DE LA COLABORACIÓN OFRECIDA POR LA PERSONA QUE VAYA A SER INTERVENIDA.", "correct": false},
+        {"text": "CUANDO SE GENERE UNA SITUACIÓN REAL E INMINENTE DE LESIONES COMO CONSECUENCIA DE LA RESISTENCIA OFRECIDA POR LA PERSONA QUE VAYA A SER INTERVENIDA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2373. EN QUE SITUACIÓN, EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ, EXCEPCIONALMENTE, PODRÁ HACER USO DEL ARMA DE FUEGO:.",
+    "options": [
+        {"text": "CUANDO LA VIDA DE UNA PERSONA ES PUESTA EN RIESGO REAL, INMINENTE Y ACTUAL POR QUIEN SE ESTA FUGANDO.", "correct": true},
+        {"text": "CUANDO LA VIDA DE UNA PERSONA NO ES PUESTA EN RIESGO REAL, INMINENTE Y ACTUAL POR QUIEN ESTA INTERVENIDO.", "correct": false},
+        {"text": "CUANDO UNA PERSONA ES PUESTA EN RIESGO REAL, INMINENTE Y ACTUAL POR QUIEN VA A SER INTERVENIDO.", "correct": false},
+        {"text": "EN DEFENSA PROPIA O DE OTRAS PERSONAS EN CASO DE QUE NO EXISTA PELIGRO REAL E INMINENTE DE MUERTE O LESIONES GRAVES.", "correct": false},
+        {"text": "CUANDO LA VIDA DE UNA PERSONA ES PUESTA EN RIESGO REAL, INMINENTE Y ACTUAL POR QUIEN ESTA COOPERANDO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2374. EN QUE SITUACIÓN, EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ, EXCEPCIONALMENTE, PODRÁ HACER USO DEL ARMA DE FUEGO:.",
+    "options": [
+        {"text": "CUANDO SE GENERE UN PELIGRO REAL O INMINENTE DE MUERTE DEL PERSONAL POLICIAL U OTRA PERSONA, POR LA ACCIÓN DE QUIEN PARTICIPA DE UNA REUNIÓN TUMULTUARIA VIOLENTA.", "correct": true},
+        {"text": "CUANDO LA VIDA DE UNA PERSONA ES PUESTA EN RIESGO REAL, INMINENTE Y ACTUAL POR QUIEN ESTA COLABORANDO.", "correct": false},
+        {"text": "CUANDO SE GENERE UN PELIGRO REAL O INMINENTE DE MUERTE DEL PERSONAL POLICIAL U OTRA PERSONA, POR LA ACCIÓN DE QUIEN PARTICIPA DE UNA REUNIÓN TUMULTUARIA ACTIVA.", "correct": false},
+        {"text": "CUANDO SE GENERE UNA SITUACIÓN DE PAZ Y TRANQUILIDAD COMO CONSECUENCIA DE LA COLABORACIÓN OFRECIDA POR LA PERSONA QUE VAYA A SER INTERVENIDA.", "correct": false},
+        {"text": "CUANDO SE GENERE UN CLIMA DE PAZ Y TRANQUILIDAD DEL PERSONAL POLICIAL U OTRA PERSONA, POR LA ACCIÓN DE QUIEN PARTICIPA DE UNA REUNIÓN TUMULTUARIA PACÍFICA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2375. ACCIONES POSTERIORES AL USO DE LA FUERZA.- CON POSTERIORIDAD AL USO DE LA FUERZA EL PERSONAL DE LA POLICÍA NACIONAL DEBERÁ REALIZAR LAS SIGUIENTES ACCIONES. SEÑALE LO CORRECTO:",
+    "options": [
+      {"text": "ADOPTAR LAS MEDIDAS NECESARIAS PARA QUE SE BRINDE ASISTENCIA Y SERVICIOS MÉDICOS A LAS PERSONAS HERIDAS O AFECTADAS, SALVO QUE NO EXISTAN CIRCUNSTANCIAS QUE IMPIDAN SU REALIZACIÓN.", "correct": true},
+      {"text": "ADOPTAR LAS MEDIDAS INNECESARIAS PARA QUE SE BRINDE ASISTENCIA Y SERVICIOS MÉDICOS A LAS PERSONAS HERIDAS O AFECTADAS, SALVO QUE EXISTAN CIRCUNSTANCIAS QUE IMPIDAN SU REALIZACIÓN.", "correct": false},
+      {"text": "ADOPTAR LAS MEDIDAS NECESARIAS PARA QUE SE BRINDE ASISTENCIA Y SERVICIOS MÉDICOS A LAS PERSONAS HERIDAS O AFECTADAS, SALVO QUE EXISTAN CIRCUNSTANCIAS QUE IMPIDAN SU REALIZACIÓN.", "correct": false},
+      {"text": "ADOPTAR LAS MEDIDAS NECESARIAS PARA QUE SE BRINDE ASISTENCIA Y SERVICIOS MÉDICOS A TODAS LAS PERSONAS, SALVO QUE EXISTAN CIRCUNSTANCIAS QUE IMPIDAN SU REALIZACIÓN.", "correct": false},
+      {"text": "ADOPTAR LAS MEDIDAS NECESARIAS PARA QUE SE BRINDE ASISTENCIA Y SERVICIOS MÉDICOS A LAS PERSONAS FALLECIDAS, SALVO QUE EXISTAN CIRCUNSTANCIAS QUE IMPIDAN SU REALIZACIÓN.", "correct": false}
+    ]
+  },
+  {
+    "question": "2376. CON POSTERIORIDAD AL USO DE LA FUERZA EL PERSONAL DE LA POLICÍA NACIONAL DEBERÁ ADOPTAR LAS MEDIDAS NECESARIAS PARA COMUNICAR LO SUCEDIDO A LOS FAMILIARES DE LAS PERSONAS FALLECIDAS, HERIDAS O AFECTADAS O A AQUELLAS QUE ESTAS ÚLTIMAS INDIQUEN, SALVO QUE. SEÑALE LO CORRECTO:",
+    "options": [
+      {"text": "EXISTAN CIRCUNSTANCIAS QUE IMPIDAN SU REALIZACIÓN.", "correct": true},
+      {"text": "NO EXISTAN CIRCUNSTANCIAS QUE IMPIDAN SU REALIZACIÓN.", "correct": false},
+      {"text": "SE ENCUENTREN EN UNA ZONA PELIGROSA.", "correct": false},
+      {"text": "NO CUENTEN CON EQUIPOS DE COMUNICACIÓN.", "correct": false},
+      {"text": "EXISTAN CIRCUNSTANCIAS QUE IMPIDAN SU REALIZACIÓN.", "correct": false}
+    ]
+  },
+  {
+    "question": "2377. CON POSTERIORIDAD AL USO DE LA FUERZA EL PERSONAL DE LA POLICÍA NACIONAL DEBERÁ PRESENTAR UN INFORME A LA UNIDAD POLICIAL CORRESPONDIENTE INDICANDO LAS CIRCUNSTANCIAS, LOS MEDIOS EMPLEADOS, EL PERSONAL INTERVINIENTE, EL TIPO DE ARMAS Y LAS MUNICIONES UTILIZADAS, EL NUMERO E IDENTIDAD DE LOS AFECTADOS, Y: SEÑALE LO CORRECTO:",
+    "options": [
+      {"text": "LAS ASISTENCIAS Y EVACUACIONES REALIZADAS.", "correct": true},
+      {"text": "LA CANTIDAD DE MUERTOS Y HERIDOS.", "correct": false},
+      {"text": "LA CANTIDAD DE DETENIDOS.", "correct": false},
+      {"text": "LA CANTIDAD DE INTERVENIDOS.", "correct": false},
+      {"text": "LAS BAJAS DEL PERSONAL POLICIAL.", "correct": false}
+    ]
+  },
+  {
+    "question": "2378. EN EL EJERCICIO DE SU FUNCIÓN RELACIONADA AL USO DE LA FUERZA, EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ TIENE DERECHO A:",
+    "options": [
+      {"text": "LA PROTECCIÓN Y RESPETO DE SU VIDA, INTEGRIDAD PERSONAL, DIGNIDAD Y A LAS CONSIDERACIONES QUE SU AUTORIDAD LE OTORGA.", "correct": true},
+      {"text": "QUE SE RESPETEN SUS DERECHO HUMANOS.", "correct": false},
+      {"text": "LA PROTECCIÓN Y RESPETO DE SU VIDA, INTEGRIDAD FÍSICA, DIGNIDAD Y A LAS PRERROGATIVAS QUE SU AUTORIDAD LE OTORGA.", "correct": false},
+      {"text": "A LA PROTECCIÓN Y EL RESPETO DE SU VIDA, A LA PRESTACIÓN DE SALUD, A SU INTEGRIDAD Y LAS CONSIDERACIONES QUE SU AUTORIDAD LE OTORGA.", "correct": false},
+      {"text": "A QUE SE OTORGUE UNA INDEMNIZACIÓN A SUS FAMILIARES EN CASO DE FALLECIMIENTO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2379. EN EL EJERCICIO DE SU FUNCIÓN RELACIONADA AL USO DE LA FUERZA, EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ TIENE DERECHO A:",
+    "options": [
+      {"text": "NO ACATAR ÓRDENES SUPERIORES PARA EL USO DE LA FUERZA CUANDO ESTAS NO SEAN MANIFIESTAMENTE ILÍCITAS O ARBITRARIAS.", "correct": false},
+      {"text": "ACATAR DISPOSICIONES U ORDENES SUPERIORES PARA EL USO DE LA FUERZA CUANDO ESTAS SEAN MANIFIESTAMENTE ILEGALES.", "correct": false},
+      {"text": "ACATAR DISPOSICIONES U ORDENES SUPERIORES PARA EL USO DE LA FUERZA CUANDO ESTAS SEAN MANIFIESTAMENTE ILÍCITAS O ARBITRARIAS.", "correct": false},
+      {"text": "NO ACATAR DISPOSICIONES U ÓRDENES PARA EL USO DE LA FUERZA CUANDO ESTAS SEAN MANIFIESTAMENTE ILÍCITAS O ARBITRARIAS.", "correct": true},
+      {"text": "NO ACATAR DISPOSICIONES U ÓRDENES SUPERIORES PARA EL USO DE LA FUERZA CUANDO ESTAS SEAN MANIFIESTAMENTE ILÍCITAS O ARBITRARIAS.", "correct": false}
+    ]
+  },
+  {
+    "question": "2380. EN EL EJERCICIO DE SU FUNCIÓN RELACIONADA AL USO DE LA FUERZA, EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ TIENE DERECHO A:",
+    "options": [
+      {"text": "RECIBIR FORMACIÓN, CAPACITACIÓN Y ENTRENAMIENTO PERMANENTE DE DEFENSA PERSONAL EN TODOS LOS NIVELES EDUCATIVOS.", "correct": false},
+      {"text": "RECIBIR FORMACIÓN, CAPACITACIÓN Y ENTRENAMIENTO PERMANENTE SOBRE EL USO INADECUADO DE LA FUERZA EN TODOS LOS NIVELES EDUCATIVOS, EN DERECHOS HUMANOS.", "correct": false},
+      {"text": "RECIBIR FORMACIÓN, ESPECIALIZACIÓN Y ENTRENAMIENTO PERMANENTE SOBRE EL USO DE LA FUERZA EN UN NIVEL EDUCATIVO.", "correct": false},
+      {"text": "RECIBIR FORMACIÓN, CAPACITACIÓN Y ENTRENAMIENTO PERMANENTE SOBRE EL USO DE LA FUERZA EN TODOS LOS NIVELES EDUCATIVOS, EN MATERIA DE DERECHOS HUMANOS.", "correct": true},
+      {"text": "ACATAR DISPOSICIONES U ORDENES SUPERIORES PARA EL USO DE LA FUERZA CUANDO ESTAS SEAN MANIFIESTAMENTE ILÍCITAS O ARBITRARIAS.", "correct": false}
+    ]
+  },
+  {
+    "question": "2381. EN EL EJERCICIO DE SU FUNCIÓN RELACIONADA AL USO DE LA FUERZA, EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ TIENE DERECHO A:.",
+    "options": [
+        {"text": "LA ASIGNACIÓN DE ARMAMENTO, VESTUARIO Y EQUIPO QUE GARANTICEN EL USO ADECUADO DEL MATERIAL.", "correct": false},
+        {"text": "LA ASIGNACIÓN DE ARMAMENTO, VESTUARIO Y EQUIPO QUE GARANTICEN EL USO ADECUADO DEL EQUIPO.", "correct": false},
+        {"text": "LA ASIGNACIÓN DE ARMAMENTO, VESTUARIO Y EQUIPO QUE GARANTICEN EL USO ADECUADO DE LA FUERZA.", "correct": true},
+        {"text": "CUANDO AL USAR LA FUERZA SE OCASIONARA LESIONES O MUERTE, SEA ASESORADO POR UN ABOGADO PARTICULAR.", "correct": false},
+        {"text": "LA ASIGNACIÓN DE ARMAMENTO, VESTUARIO Y EQUIPO QUE IMPIDAN EL USO ADECUADO DE LA FUERZA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2382. EN EL EJERCICIO DE SU FUNCIÓN RELACIONADA AL USO DE LA FUERZA, EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ TIENE DERECHO A:.",
+    "options": [
+        {"text": "RECIBIR UNA INDEMNIZACIÓN EN CASO DE LESIONES GRAVES O MUERTE.", "correct": false},
+        {"text": "RECIBIR TRATAMIENTO Y ASISTENCIA MÉDICA, POR CUENTA DEL ESTADO CUANDO RESULTE AFECTADO EN CUMPLIMIENTO DE SU DEBER.", "correct": true},
+        {"text": "RECIBIR TRATAMIENTO Y ASISTENCIA MÉDICA, POR CUENTA DEL ESTADO CUANDO RESULTE AFECTADO EN CUMPLIMIENTO DE SU DERECHO.", "correct": false},
+        {"text": "RESPETO DE SUS DERECHOS FUNDAMENTALES.", "correct": false},
+        {"text": "LA ASIGNACIÓN DE ARMAMENTO, VESTUARIO Y EQUIPO QUE GARANTICEN EL USO INADECUADO DE LA FUERZA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2383. EN EL EJERCICIO DE SU FUNCIÓN RELACIONADA AL USO DE LA FUERZA, EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ TIENE DERECHO A:.",
+    "options": [
+        {"text": "RECIBIR ORIENTACIÓN PSICOLÓGICA POR CUENTA DEL ESTADO PARA SOBRELLEVAR LAS TENSIONES GENERADAS POR EL USO DE LA FUERZA.", "correct": true},
+        {"text": "RECIBIR ATENCIÓN LEGAL Y MÉDICA, POR CUENTA DEL ESTADO CUANDO RESULTE AFECTADO EN CUMPLIMIENTO DE SU DEBER.", "correct": false},
+        {"text": "RECIBIR ORIENTACIÓN PSICOLÓGICA POR CUENTA PROPIA PARA SOBRELLEVAR LAS TENSIONES GENERADAS POR EL USO DE LA FUERZA.", "correct": false},
+        {"text": "LA ASIGNACIÓN DE ARMAMENTO, VESTUARIO Y EQUIPO QUE GARANTICEN EL USO INADECUADO DE LA FUERZA.", "correct": false},
+        {"text": "RECIBIR ORIENTACIÓN POLÍTICA POR CUENTA DEL ESTADO PARA SOBRELLEVAR LAS TENSIONES GENERADAS POR EL USO DE LA FUERZA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2384. EN EL EJERCICIO DE SU FUNCIÓN RELACIONADA AL USO DE LA FUERZA, EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ TIENE DERECHO A:.",
+    "options": [
+        {"text": "RECIBIR ASESORAMIENTO Y DEFENSA PSICOLÓGICA POR CUENTA DEL ESTADO.", "correct": false},
+        {"text": "LA ASIGNACIÓN DE ARMAMENTO, VESTUARIO Y EQUIPO QUE GARANTICEN EL USO INADECUADO DE LA FUERZA.", "correct": false},
+        {"text": "RECIBIR ASESORAMIENTO Y DEFENSA LEGAL POR CUENTA DEL ESTADO, CUANDO NO SE HAYA USADO LA FUERZA EN EL CONTEXTO DEL D.L. 1186.", "correct": false},
+        {"text": "RECIBIR ASESORAMIENTO Y DEFENSA LEGAL POR CUENTA DEL ESTADO, CUANDO SE HAYA USADO LA FUERZA EN EL CONTEXTO DEL D.L. 1180.", "correct": false},
+        {"text": "RECIBIR ASESORAMIENTO Y DEFENSA LEGAL POR CUENTA DEL ESTADO, CUANDO SE HAYA USADO LA FUERZA EN EL CONTEXTO DEL D.L. 1186.", "correct": true}
+    ]
+  },
+  {
+    "question": "2385. EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ TIENE LA RESPONSABILIDAD DE INFORMAR TODA OCURRENCIA RELACIONADA AL USO DE LA FUERZA O DE ARMA DE FUEGO, AL:.",
+    "options": [
+        {"text": "COMANDO CONJUNTO DE LAS FFAA.", "correct": false},
+        {"text": "MINISTERIO DEL INTERIOR.", "correct": false},
+        {"text": "MINISTERIO PÚBLICO.", "correct": false},
+        {"text": "COMANDO POLICIAL.", "correct": true},
+        {"text": "AL PODER JUDICIAL.", "correct": false}
+    ]
+  },
+  {
+    "question": "2386. DENTRO DE LAS RESPONSABILIDADES, CUANDO AL USAR LA FUERZA SE OCASIONARA LESIONES O MUERTE, SE DISPONE:.",
+    "options": [
+        {"text": "LA INVESTIGACIÓN FISCAL CORRESPONDIENTE Y SE DA INMEDIATA CUENTA DE LOS HECHOS A LAS AUTORIDADES COMPETENTES.", "correct": false},
+        {"text": "LA INVESTIGACIÓN ADMINISTRATIVA CORRESPONDIENTE Y SE DA INMEDIATA CUENTA DE LOS HECHOS AL FISCAL ESPECIALIZADO.", "correct": false},
+        {"text": "LA INVESTIGACIÓN JUDICIAL CORRESPONDIENTE Y SE DA INMEDIATA CUENTA DE LOS HECHOS A LAS AUTORIDADES COMPETENTES.", "correct": false},
+        {"text": "LA INVESTIGACIÓN ADMINISTRATIVA CORRESPONDIENTE Y SE DA INMEDIATA CUENTA DE LOS HECHOS A LAS AUTORIDADES COMPETENTES.", "correct": true},
+        {"text": "LA INVESTIGACIÓN POLICIAL Y SE DA INMEDIATA CUENTA DE LOS HECHOS AL LAS AUTORIDADES COMPETENTES.", "correct": false}
+    ]
+  },
+  {
+    "question": "2387. RESPONSABILIDADES: CUANDO SE USEN LAS ARMAS DE FUEGO, EL PERSONAL DE LA POLICÍA NACIONAL NO PUEDE:.",
+    "options": [
+        {"text": "ALEGAR OBEDIENCIA A MANDATO JUDICIAL SI TENIA CONOCIMIENTO QUE EL USO DE ESTA ERA MANIFIESTAMENTE ILÍCITA.", "correct": false},
+        {"text": "ALEGAR OBEDIENCIA A ÓRDENES SUPERIORES SI TENIA CONOCIMIENTO QUE EL USO DE ESTA ERA MANIFIESTAMENTE LÍCITA.", "correct": false},
+        {"text": "ALEGAR OBEDIENCIA A ÓRDENES SUPERIORES SI TENIA CONOCIMIENTO QUE EL USO DE ESTA ERA MANIFIESTAMENTE ILÍCITA.", "correct": true},
+        {"text": "ALEGAR OBEDIENCIA A ÓRDENES SUPERIORES SI NO TENIA CONOCIMIENTO QUE EL USO DE ESTA ERA MANIFIESTAMENTE ILÍCITA.", "correct": false},
+        {"text": "ALEGAR OBEDIENCIA A DISPOSICIONES JUDICIALES SI TENIA CONOCIMIENTO QUE EL USO DE ESTA ERA MANIFIESTAMENTE LÍCITA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2388. LOS SUPERIORES JERÁRQUICOS INCURREN EN RESPONSABILIDAD, CUANDO CONOCIENDO O DEBIENDO CONOCER, EL USO ILÍCITO DE LA FUERZA POR EL PERSONAL POLICIAL A SUS ORDENES; NO:.",
+    "options": [
+        {"text": "ADOPTEN LAS MEDIDAS NO NECESARIAS PARA IMPEDIR O NEUTRALIZAR DICHO USO O NO DENUNCIARON EL HECHO OPORTUNAMENTE.", "correct": false},
+        {"text": "ADOPTEN LAS MEDIDAS NECESARIAS PARA IMPEDIR O NEUTRALIZAR DICHO USO O NO DENUNCIARON EL HECHO OPORTUNAMENTE.", "correct": true},
+        {"text": "ADOPTEN LAS MEDIDAS NECESARIAS PARA DETERMINAR DICHO USO O NO DENUNCIARON EL HECHO OPORTUNAMENTE.", "correct": false},
+        {"text": "ADOPTEN LAS MEDIDAS NECESARIAS PARA IMPEDIR O NEUTRALIZAR DICHO USO O DENUNCIARON EL HECHO ANTERIORMENTE.", "correct": false},
+        {"text": "ADOPTEN LAS MEDIDAS NECESARIAS PARA IMPEDIR O NEUTRALIZAR DICHO USO O NO DENUNCIARON EL HECHO POSTERIORMENTE.", "correct": false}
+    ]
+  },
+  {
+    "question": "2389. SEÑALE UNA DE LAS RESPONSABILIDADES DEL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ:.",
+    "options": [
+        {"text": "EL USO DE LA FUERZA QUE CONTRAVENGA EL PRESENTE DECRETO LEGISLATIVO GENERA RESPONSABILIDAD ADMINISTRATIVA DISCIPLINARIA, PENAL Y CIVIL.", "correct": true},
+        {"text": "EL USO DE LA FUERZA QUE CONTRAVENGA EL PRESENTE DECRETO LEGISLATIVO GENERA RESPONSABILIDAD POLÍTICA Y CONSTITUCIONAL.", "correct": false},
+        {"text": "EL USO DE LA FUERZA QUE ESTE ENMARCADO EN EL PRESENTE DECRETO LEGISLATIVO GENERA RESPONSABILIDAD ADMINISTRATIVA DISCIPLINARIA, PENAL Y CIVIL.", "correct": false},
+        {"text": "EL USO DE LA FUERZA QUE CONTRAVENGA EL PRESENTE DECRETO LEGISLATIVO GENERA RESPONSABILIDAD MILITAR, PENAL Y CIVIL.", "correct": false},
+        {"text": "EL USO DE LA FUERZA QUE CONTRAVENGA EL PRESENTE DECRETO LEGISLATIVO NO GENERA RESPONSABILIDAD ADMINISTRATIVA DISCIPLINARIA, PENAL Y CIVIL.", "correct": false}
+    ]
+  },
+  {
+    "question": "2390. ¿A QUIEN CORRESPONDE ADOPTAR LAS MEDIDAS INSTITUCIONALES PARA, EVALUAR LA SITUACIÓN ACTUAL DEL ARMAMENTO, MUNICIÓN, EQUIPOS Y OTROS ACCESORIOS NECESARIOS PARA EL USO DE LA FUERZA POR PARTE DE LA POLICÍA NACIONAL DEL PERÚ?.",
+    "options": [
+        {"text": "A LA SUB DIRECCIÓN GENERAL.", "correct": false},
+        {"text": "AL ESTADO.", "correct": false},
+        {"text": "A LA DIRECCIÓN DE LOGÍSTICA.", "correct": false},
+        {"text": "A LA DIRECCIÓN GENERAL DE LA PNP.", "correct": false},
+        {"text": "AL MINISTERIO DEL INTERIOR.", "correct": true}
+    ]
+  },
+  {
+    "question": "2391. ¿A QUIEN CORRESPONDE ADOPTAR LAS MEDIDAS INSTITUCIONALES PARA ACTUALIZAR EL PROGRAMA DE ADQUISICIÓN DE ARMAMENTO LETAL Y NO LETAL, MUNICIONES, EQUIPAMIENTO ANTI MOTÍN, VEHÍCULOS ANTI MOTÍN Y OTROS ACCESORIOS PARA LA POLICÍA NACIONAL DEL PERÚ?:",
+    "options": [
+      {"text": "A LA DIRECCIÓN GENERAL DE LA PNP.", "correct": false},
+      {"text": "A LA DIRECCIÓN DE LOGÍSTICA DE LA PNP.", "correct": false},
+      {"text": "AL MINISTERIO DEL INTERIOR.", "correct": true},
+      {"text": "A LA SUB DIRECCIÓN GENERAL DE LA PNP.", "correct": false},
+      {"text": "AL DIRECTOR EJECUTIVO DE ADMINISTRACIÓN.", "correct": false}
+    ]
+  },
+  {
+    "question": "2392. DENTRO DE LAS DISPOSICIONES COMPLEMENTARIAS FINALES DEL DECRETO LEGISLATIVO, EL MINISTERIO DEL INTERIOR ADOPTARÁ LAS MEDIDAS INSTITUCIONALES PARA:",
+    "options": [
+      {"text": "ADECUAR LOS PLANES DE CAPACITACIÓN Y ENTRENAMIENTO PARA EL PERSONAL POLICIAL EN APLICACIÓN DE LA PRESENTE NORMA.", "correct": true},
+      {"text": "ADECUAR LOS PLANES DE FORMACIÓN Y ESPECIALIZACIÓN PARA EL PERSONAL POLICIAL EN APLICACIÓN DE LA PRESENTE NORMA.", "correct": false},
+      {"text": "ADECUAR LOS PLANES DE CAPACITACIÓN Y ENTRENAMIENTO PARA EL PERSONAL POLICIAL EN APLICACIÓN DE LAS LEYES RESPECTIVAS.", "correct": false},
+      {"text": "ADECUAR LOS PLANES DE FORMACIÓN Y ENTRENAMIENTO PARA EL PERSONAL POLICIAL EN APLICACIÓN DE LA PRESENTE NORMA.", "correct": false},
+      {"text": "ADECUAR LOS PLANES DE ESPECIALIZACIÓN Y ENTRENAMIENTO PARA EL PERSONAL POLICIAL EN APLICACIÓN DE LA PRESENTE NORMA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2393. ¿QUÉ ENTIDAD SUPERVISA LA ADECUACIÓN Y CONFORMIDAD DE LOS CONTENIDOS DE LAS ACTIVIDADES EDUCATIVAS RELACIONADAS AL USO DE LA FUERZA CON LOS ESTÁNDARES Y DISPOSICIONES ESTABLECIDAS EN EL PRESENTE DECRETO LEGISLATIVO?",
+    "options": [
+      {"text": "LA PRESIDENCIA DEL CONSEJO DE MINISTROS.", "correct": false},
+      {"text": "EL MINISTERIO PÚBLICO.", "correct": false},
+      {"text": "LA DIRECCIÓN GENERAL DE LA PNP.", "correct": false},
+      {"text": "EL MINISTERIO DEL INTERIOR.", "correct": true},
+      {"text": "EL MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS.", "correct": false}
+    ]
+  },
+  {
+    "question": "2394. LAS DISPOSICIONES DEL PRESENTE DECRETO LEGISLATIVO SE INTERPRETAN CONFORME A LO ESTABLECIDO EN:",
+    "options": [
+      {"text": "EL CÓDIGO CIVIL.", "correct": false},
+      {"text": "EL CÓDIGO PROCESAL PENAL.", "correct": false},
+      {"text": "LA LEY DE RÉGIMEN DISCIPLINARIO DE LA PNP.", "correct": false},
+      {"text": "LA LEY DE LA POLICÍA NACIONAL DEL PERÚ.", "correct": false},
+      {"text": "LA CONSTITUCIÓN POLÍTICA DEL PERÚ.", "correct": true}
+    ]
+  },
+  {
+    "question": "2395. LAS DISPOSICIONES DEL PRESENTE DECRETO LEGISLATIVO SE INTERPRETAN CONFORME A LO ESTABLECIDO EN:",
+    "options": [
+      {"text": "LAS NORMAS DEL DERECHO NACIONAL DE LOS DERECHOS HUMANOS RECONOCIDAS POR EL ESTADO PERUANO.", "correct": false},
+      {"text": "LAS NORMAS DEL DERECHO PRIVADO DE LOS DERECHOS HUMANOS RECONOCIDAS POR EL ESTADO PERUANO.", "correct": false},
+      {"text": "EL CÓDIGO PROCESAL PENAL.", "correct": false},
+      {"text": "LAS NORMAS DEL DERECHO INTERNACIONAL DE LOS DERECHOS HUMANOS RECONOCIDAS POR EL ESTADO PERUANO.", "correct": true},
+      {"text": "LAS NORMAS DEL DERECHO INTERNACIONAL DE LOS DERECHOS HUMANOS RECONOCIDAS POR LA CONSTITUCIÓN POLÍTICA DEL PERÚ.", "correct": false}
+    ]
+  },
+  {
+    "question": "2396. LAS DISPOSICIONES DEL PRESENTE DECRETO LEGISLATIVO SE INTERPRETAN CONFORME A LO ESTABLECIDO EN:",
+    "options": [
+      {"text": "LAS DECISIONES DE ORGANISMOS DE DERECHOS FUNDAMENTALES.", "correct": false},
+      {"text": "LAS DECISIONES DE ORGANISMOS NACIONALES.", "correct": false},
+      {"text": "LAS DECISIONES DE ORGANISMOS SUPRANACIONALES.", "correct": true},
+      {"text": "LAS DECISIONES DE ORGANISMOS REGIONALES.", "correct": false},
+      {"text": "LAS DECISIONES DE ORGANISMOS LOCALES.", "correct": false}
+    ]
+  },
+  {
+    "question": "2397. LAS DISPOSICIONES DEL PRESENTE DECRETO LEGISLATIVO SE INTERPRETAN CONFORME A LO ESTABLECIDO EN:",
+    "options": [
+      {"text": "LAS DECISIONES DE ORGANISMOS REGIONALES.", "correct": false},
+      {"text": "LOS PRINCIPIOS BÁSICOS SOBRE EL EMPLEO DE LA FUERZA Y DE ARMAS DE FUEGO POR LOS FUNCIONARIOS ENCARGADOS DE HACER CUMPLIR LA LEY.", "correct": true},
+      {"text": "LAS DECISIONES DE ORGANISMOS INTERNACIONALES.", "correct": false},
+      {"text": "LOS PRINCIPIOS SOBRE EL EMPLEO DE LA FUERZA Y DE ARMAS POR LOS FUNCIONARIOS ENCARGADOS DE MANTENER EL ORDEN.", "correct": false},
+      {"text": "LOS PRINCIPIOS BÁSICOS SOBRE EL EMPLEO DE LA FUERZA Y DE ARMAS BLANCAS POR LOS FUNCIONARIOS ENCARGADOS DE HACER CUMPLIR LA LEY.", "correct": false}
+    ]
+  },
+  {
+    "question": "2398. LAS DISPOSICIONES DEL PRESENTE DECRETO LEGISLATIVO SE INTERPRETAN CONFORME A LO ESTABLECIDO EN:",
+    "options": [
+      {"text": "EL CÓDIGO DE CONDUCTA PARA FUNCIONARIOS ENCARGADOS DE HACER CUMPLIR LA LEY.", "correct": true},
+      {"text": "EL CÓDIGO DE ÉTICA PARA FUNCIONARIOS ENCARGADOS DE HACER CUMPLIR LA LEY.", "correct": false},
+      {"text": "EL CÓDIGO DE CONDUCTA PARA FUNCIONARIOS ENCARGADOS DE HACER CUMPLIR LAS DISPOSICIONES RELATIVAS AL USO DE LA FUERZA.", "correct": false},
+      {"text": "LOS PRINCIPIOS BÁSICOS SOBRE EL EMPLEO DE LA FUERZA Y DE ARMAS DE FUEGO POR LOS FUNCIONARIOS ENCARGADOS DE INCUMPLIR LA LEY.", "correct": false},
+      {"text": "EL CÓDIGO DE ÉTICA PARA FUNCIONARIOS ENCARGADOS DE HACER CUMPLIR LAS NORMAS RELATIVAS AL USO DE LA FUERZA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2399. EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ EN EL PLANEAMIENTO, CONDUCCIÓN Y EJECUCIÓN DE OPERACIONES EN EL EJERCICIO DE SUS FUNCIONES:",
+    "options": [
+      {"text": "OBSERVARÁ Y SE SUJETARÁ A LAS NORMAS CONTEMPLADAS EN EL PRESENTE DECRETO LEGISLATIVO.", "correct": false},
+      {"text": "OBSERVARÁ Y SE SUJETARÁ A LAS DISPOSICIONES ESTABLECIDAS EN LAS LEYES DE LA MATERIA.", "correct": false},
+      {"text": "OBSERVARÁ Y SE SUJETARÁ A LAS NORMAS CONTEMPLADAS EN EL PRESENTE DOCUMENTO.", "correct": false},
+      {"text": "OBSERVARÁ Y SE SUJETARÁ A LOS PRINCIPIOS CONTEMPLADOS EN EL PRESENTE DECRETO LEGISLATIVO.", "correct": true},
+      {"text": "OBSERVARÁ Y SE SUJETARÁ A LOS PRINCIPIOS ESTABLECIDOS EN LA CONSTITUCIÓN POLÍTICA DEL PERÚ.", "correct": false}
+    ]
+  },
+  {
+    "question": "2400. SEGÚN LO ESTABLECIDO EN EL DECRETO LEGISLATIVO QUE REGULA EL USO DE LA FUERZA POR PARTE DE LA POLICÍA NACIONAL DEL PERÚ, LA FUERZA DEBE USARSE:",
+    "options": [
+      {"text": "DE MANERA PROGRESIVA Y DIFERENCIADA, DE CONFORMIDAD CON LOS DERECHOS Y DEBERES ESTABLECIDOS EN EL PRESENTE DECRETO LEGISLATIVO.", "correct": false},
+      {"text": "DE MANERA FIRME Y DECIDIDA, DE CONFORMIDAD CON LOS PRINCIPIOS Y LOS NIVELES ESTABLECIDOS EN EL PRESENTE DECRETO LEGISLATIVO.", "correct": false},
+      {"text": "DE FORMA PRUDENTE Y RACIONAL, DE CONFORMIDAD CON LOS PRINCIPIOS Y LOS NIVELES ESTABLECIDOS EN EL PRESENTE DECRETO LEGISLATIVO.", "correct": false},
+      {"text": "DE MANERA PROGRESIVA Y DIFERENCIADA, DE CONFORMIDAD CON LOS PRINCIPIOS Y LOS NIVELES ESTABLECIDOS EN EL PRESENTE DECRETO LEGISLATIVO.", "correct": true},
+      {"text": "SÓLO CUANDO EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ, CUENTA CON TODOS LOS IMPLEMENTOS BRINDADOS POR EL ESTADO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2401. PRINCIPIO DE NECESIDAD. EL USO DE LA FUERZA EN EL CUMPLIMIENTO DEL DEBER ES NECESARIO:",
+    "options": [
+        {"text": "CUANDO OTROS MEDIOS RESULTEN INEFICACES O NO GARANTICEN DE NINGUNA MANERA EL LOGRO DEL OBJETIVO LEGAL BUSCADO.", "correct": true},
+        {"text": "CUANDO OTROS MEDIOS RESULTEN INEFICACES Y GARANTICEN DE ALGUNA MANERA EL LOGRO DEL OBJETIVO LEGAL BUSCADO.", "correct": false},
+        {"text": "CUANDO LA FUERZA EMPLEADA PARA ALCANZAR UN OBJETIVO LEGAL BUSCADO CORRESPONDE A LA RESISTENCIA OFRECIDA.", "correct": false},
+        {"text": "CUANDO OTROS MEDIOS RESULTEN EFICACES PERO NO GARANTICEN DE ALGUNA MANERA EL LOGRO DEL OBJETIVO LEGAL BUSCADO.", "correct": false},
+        {"text": "CUANDO SEA INMINENTE EL PELIGRO Y NO EXISTAN OTROS MEDIOS PARA EL LOGRO DEL OBJETIVO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2402. EN QUE CIRCUNSTANCIA, SE DISPONE LA INVESTIGACIÓN ADMINISTRATIVA CORRESPONDIENTE Y SE DA INMEDIATA CUENTA DE LOS HECHOS A LAS AUTORIDADES COMPETENTES PARA LOS FINES CONSIGUIENTES:",
+    "options": [
+        {"text": "CUANDO AL USAR LA FUERZA SE OCASIONARA LESIONES O MUERTE.", "correct": true},
+        {"text": "CUANDO SE OCASIONEN HERIDOS EN UNA INTERVENCIÓN.", "correct": false},
+        {"text": "CUANDO AL USAR LA FUERZA SE OCASIONARA ALTERACIÓN DEL ORDEN PÚBLICO.", "correct": false},
+        {"text": "CUANDO SE USEN LAS ARMAS DE FUEGO.", "correct": false},
+        {"text": "CUANDO SE USEN LOS EQUIPOS LETALES.", "correct": false}
+    ]
+  },
+  {
+    "question": "2403. EL PERSONAL DE LA POLICÍA NACIONAL NO PUEDE ALEGAR OBEDIENCIA A ÓRDENES SUPERIORES SI TENÍA CONOCIMIENTO QUE EL USO DE ÉSTA ERA MANIFIESTAMENTE ILÍCITA, CUANDO:",
+    "options": [
+        {"text": "SE USEN LOS EQUIPOS ANTIMOTINES.", "correct": false},
+        {"text": "SE USEN LAS ARMAS DE FUEGO.", "correct": true},
+        {"text": "SE USE LA FUERZA.", "correct": false},
+        {"text": "SE OCASIONARA LESIONES O MUERTE.", "correct": false},
+        {"text": "SE OCASIONARA ALTERACIÓN DEL ORDEN PÚBLICO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2404. CUANDO SE USEN LAS ARMAS DE FUEGO, EL PERSONAL DE LA POLICÍA NACIONAL NO PUEDE ALEGAR OBEDIENCIA A ÓRDENES SUPERIORES SI TENÍA CONOCIMIENTO QUE EL USO DE ÉSTA ERA MANIFIESTAMENTE ILÍCITA. EN CASO DE HABERSE EJECUTADO, TAMBIÉN SERÁN RESPONSABLES:",
+    "options": [
+        {"text": "EL JEFE DE LA UNIDAD POLICIAL DEL CUAL DEPENDE.", "correct": false},
+        {"text": "EL DIRECTOR DE LA POLICÍA NACIONAL DEL PERÚ.", "correct": false},
+        {"text": "LOS SUPERIORES QUE DIERON DICHAS ÓRDENES.", "correct": true},
+        {"text": "LOS JEFES POLICIALES EN LÍNEA DE COMANDO.", "correct": false},
+        {"text": "LOS SUPERIORES QUE NO IMPARTIERON LAS INSTRUCCIONES SOBRE EL USO DE ARMA DE FUEGO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2405. LOS SUPERIORES JERÁRQUICOS INCURREN EN RESPONSABILIDAD CUANDO CONOZCAN O DEBIENDO CONOCER DEL USO ILÍCITO DE LA FUERZA POR EL PERSONAL POLICIAL A SUS ÓRDENES, NO ADOPTEN:",
+    "options": [
+        {"text": "LAS MEDIDAS URGENTES PARA QUE EL PERSONAL POLICIAL SE CAPACITADO EN EL USO DE LA FUERZA.", "correct": false},
+        {"text": "LAS MEDIDAS NECESARIAS PARA QUE EL PERSONAL POLICIAL RESPONDA POR LA LESIONES O MUERTE.", "correct": false},
+        {"text": "LAS MEDIDAS NECESARIAS PARA IMPEDIR O NEUTRALIZAR DICHO ACONTECIMIENTO O NO DENUNCIARON ANTE EL MINISTERIO PÚBLICO.", "correct": false},
+        {"text": "LAS MEDIDAS NECESARIAS PARA IMPEDIR O NEUTRALIZAR DICHO USO O NO DENUNCIARON EL HECHO OPORTUNAMENTE.", "correct": true},
+        {"text": "LAS MEDIDAS NECESARIAS PARA IMPEDIR O NEUTRALIZAR DICHO ACTO O NO DENUNCIARON EL HECHO POSTERIORMENTE.", "correct": false}
+    ]
+  },
+  {
+    "question": "2406. EL USO DE LA FUERZA QUE CONTRAVENGA EL DECRETO LEGISLATIVO, GENERA:",
+    "options": [
+        {"text": "RESPONSABILIDAD ANTE LOS ORGANISMOS INTERNACIONALES DE DERECHOS HUMANOS.", "correct": false},
+        {"text": "RESPONSABILIDAD ADMINISTRATIVA DISCIPLINARIA Y CIVIL.", "correct": false},
+        {"text": "RESPONSABILIDAD ANTE EL FUERO MILITAR POLICIAL.", "correct": false},
+        {"text": "RESPONSABILIDAD ADMINISTRATIVA DISCIPLINARIA.", "correct": false},
+        {"text": "RESPONSABILIDAD ADMINISTRATIVA DISCIPLINARIA, PENAL Y CIVIL.", "correct": true}
+    ]
+  },
+  {
+    "question": "2407. EN EL PRINCIPIO DE NECESIDAD, PARA DETERMINAR EL NIVEL DE FUERZA A USAR, SE DEBE CONSIDERAR, RAZONABLEMENTE, ENTRE OTRAS CIRCUNSTANCIAS EL NIVEL DE:",
+    "options": [
+        {"text": "RESISTENCIA O AGRESIÓN DE LA PERSONA INTERVENIDA.", "correct": true},
+        {"text": "RESISTENCIA O AGRESIÓN FÍSICA DEL PERSONAL POLICIAL.", "correct": false},
+        {"text": "RESISTENCIA O VIOLENCIA FÍSICA DEL PERSONAL POLICIAL INTERVINIENTE.", "correct": false},
+        {"text": "CONDICIÓN FÍSICA DE LA PERSONA INTERVENIDA.", "correct": false},
+        {"text": "CONDICIÓN FÍSICA DEL PERSONAL POLICIAL.", "correct": false}
+    ]
+  },
+  {
+    "question": "2408. EN EL PRINCIPIO DE NECESIDAD, PARA DETERMINAR EL NIVEL DE FUERZA A USAR, SE DEBE CONSIDERAR, RAZONABLEMENTE, ENTRE OTRAS CIRCUNSTANCIAS, EL NIVEL DE:",
+    "options": [
+        {"text": "LAS CONDICIONES FÍSICAS DEL INTERVENIDO.", "correct": false},
+        {"text": "LAS CONDICIONES DEL ENTORNO.", "correct": true},
+        {"text": "LAS CONDICIONES FÍSICAS DEL PERSONAL POLICIAL INTERVINIENTE.", "correct": false},
+        {"text": "ECUANIMIDAD DEL INTERVENIDO.", "correct": false},
+        {"text": "FUERZA A EMPLEAR POR LOS TESTIGOS.", "correct": false}
+    ]
+  },
+  {
+    "question": "2409. PRINCIPIOS. EL USO DE LA FUERZA POR PERSONAL DE LA POLICÍA NACIONAL, SE SUSTENTA EN:",
+    "options": [
+        {"text": "EL RESPETO DE LOS DERECHOS FUNDAMENTALES Y LA CONCURRENCIA DE SUS PRINCIPIOS.", "correct": true},
+        {"text": "EL RESPETO DE LOS DERECHOS HUMANOS.", "correct": false},
+        {"text": "EL RESPETO DE LA CONSTITUCIÓN POLÍTICA DEL PERÚ.", "correct": false},
+        {"text": "EL RESPETO DE SU DIGNIDAD.", "correct": false},
+        {"text": "EL RESPETO A LA VIDA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2410. LEGALIDAD. LOS MEDIOS Y MÉTODOS UTILIZADOS EN CUMPLIMIENTO DEL DEBER DEBEN ESTAR AMPARADOS EN EL MARCO DEL:",
+    "options": [
+        {"text": "RESPETO A LAS NORMAS SOBRE LA MATERIA.", "correct": false},
+        {"text": "DERECHO INTERNACIONAL DE LOS DERECHOS HUMANOS.", "correct": true},
+        {"text": "RESPETO A LAS LEYES NACIONALES.", "correct": false},
+        {"text": "DERECHO Y LAS LEYES RESPECTIVAS.", "correct": false},
+        {"text": "DERECHO INTERNACIONAL DE LOS SERES HUMANOS.", "correct": false}
+    ]
+  },
+  {
+    "question": "2411. EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ, EXCEPCIONALMENTE, PODRÁ USAR EL ARMA DE FUEGO CUANDO:",
+    "options": [
+        {"text": "SEA ESTRICTAMENTE NECESARIO Y SOLO CUANDO LAS MEDIDAS MENOS EXTREMAS RESULTEN INSUFICIENTES O SEAN INADECUADAS.", "correct": true},
+        {"text": "SEA ESTRICTAMENTE NECESARIO Y SOLO CUANDO LAS MEDIDAS MAS EXTREMAS RESULTEN INSUFICIENTES O SEAN INADECUADAS.", "correct": false},
+        {"text": "SEA ESTRICTAMENTE NECESARIO Y SOLO CUANDO LAS MEDIDAS DE SEGURIDAD RESULTEN INSUFICIENTES O SEAN INADECUADOS.", "correct": false},
+        {"text": "SEA ESTRICTAMENTE NECESARIO Y SOLO CUANDO LAS MEDIDAS DE SEGURIDAD RESULTEN SUFICIENTES O SEAN ADECUADAS.", "correct": false},
+        {"text": "SEA ESTRICTAMENTE NECESARIO Y SOLO CUANDO LAS MEDIDAS DE SEGURIDAD RESULTEN SUFICIENTES O SEAN INADECUADAS.", "correct": false}
+    ]
+  },
+  {
+    "question": "2412. EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ, EXCEPCIONALMENTE, PODRÁ USAR EL ARMA DE FUEGO CUANDO SEA ESTRICTAMENTE NECESARIO Y:",
+    "options": [
+        {"text": "SOLO CUANDO MEDIDAS EXTREMAS, RESULTEN INSUFICIENTES O SEAN INADECUADAS.", "correct": false},
+        {"text": "SOLO CUANDO MEDIDAS MENOS EXTREMAS, RESULTEN SUFICIENTES O SEAN INADECUADAS.", "correct": false},
+        {"text": "SOLO CUANDO MEDIDAS MENOS EXTREMAS, RESULTEN INSUFICIENTES O SEAN ADECUADAS.", "correct": false},
+        {"text": "SOLO CUANDO MEDIDAS MENOS EXTREMAS, RESULTEN SUFICIENTES O SEAN ADECUADAS.", "correct": false},
+        {"text": "SOLO CUANDO MEDIDAS MENOS EXTREMAS, RESULTEN INSUFICIENTES O SEAN INADECUADAS.", "correct": true}
+    ]
+  },
+  {
+    "question": "2413. CON POSTERIORIDAD AL USO DE LA FUERZA, QUE DOCUMENTO DEBE PRESENTAR EL PERSONAL DE LA POLICÍA NACIONAL:",
+    "options": [
+        {"text": "UN INFORME A LA UNIDAD POLICIAL CORRESPONDIENTE.", "correct": true},
+        {"text": "UN INFORME AL DIRECTOR GENERAL DE LA PNP.", "correct": false},
+        {"text": "UN INFORME AL MINISTERIO DEL INTERIOR.", "correct": false},
+        {"text": "UN INFORME AL MINISTERIO PÚBLICO.", "correct": false},
+        {"text": "UN INFORME AL JUZGADO PENAL CORRESPONDIENTE.", "correct": false}
+    ]
+  },
+  {
+    "question": "2414. CUANDO SE HAYA USADO LA FUERZA EN EL CONTEXTO DEL PRESENTE DECRETO LEGISLATIVO, EN EL EJERCICIO REGULAR DE SUS FUNCIONES, ES UN DERECHO:",
+    "options": [
+        {"text": "RECIBIR ASESORAMIENTO Y DEFENSA LEGAL POR CUENTA DEL ESTADO.", "correct": true},
+        {"text": "RECIBIR ASESORAMIENTO Y DEFENSA LEGAL POR CUENTA DEL MINISTERIO PÚBLICO.", "correct": false},
+        {"text": "RECIBIR ASESORAMIENTO Y DEFENSA LEGAL POR CUENTA DEL MINISTERIO DE JUSTICIA.", "correct": false},
+        {"text": "RECIBIR ASESORAMIENTO Y DEFENSA LEGAL POR CUENTA DEL MINISTERIO DEL INTERIOR.", "correct": false},
+        {"text": "RECIBIR ASESORAMIENTO Y DEFENSA LEGAL POR CUENTA DE LA DIRECCIÓN DE ECONOMÍA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2415. NO ACATAR DISPOSICIONES U ÓRDENES SUPERIORES PARA EL USO DE LA FUERZA CUANDO ESTAS SEAN MANIFIESTAMENTE ILÍCITAS O ARBITRARIAS, ES:",
+    "options": [
+        {"text": "UN DERECHO.", "correct": true},
+        {"text": "UNA OBLIGACIÓN.", "correct": false},
+        {"text": "UNA FACULTAD.", "correct": false},
+        {"text": "UN DEBER.", "correct": false},
+        {"text": "UNA ATRIBUCIÓN.", "correct": false}
+    ]
+  },
+  {
+    "question": "2416. RECIBIR FORMACIÓN, CAPACITACIÓN Y ENTRENAMIENTO PERMANENTE SOBRE EL USO DE LA FUERZA EN TODOS LOS NIVELES EDUCATIVOS CONFORME A LOS ESTÁNDARES NACIONALES E INTERNACIONALES EN MATERIAS DE DERECHOS HUMANOS, ES:",
+    "options": [
+        {"text": "UN DERECHO.", "correct": true},
+        {"text": "UNA OBLIGACIÓN.", "correct": false},
+        {"text": "UNA FACULTAD.", "correct": false},
+        {"text": "UN DEBER.", "correct": false},
+        {"text": "UN BENEFICIO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2417. RECIBIR TRATAMIENTO Y ASISTENCIA MÉDICA, POR CUENTA DEL ESTADO CUANDO RESULTE AFECTADO EN CUMPLIMIENTO DE SU DEBER, ES:",
+    "options": [
+        {"text": "UN DERECHO.", "correct": true},
+        {"text": "UN DEBER.", "correct": false},
+        {"text": "UNA OBLIGACIÓN.", "correct": false},
+        {"text": "UN BENEFICIO.", "correct": false},
+        {"text": "UNA FACULTAD.", "correct": false}
+    ]
+  },
+  {
+    "question": "2418. EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ EN EL PLANEAMIENTO CONDUCCIÓN Y EJECUCIÓN DE LAS OPERACIONES EN EL EJERCICIO DE SUS FUNCIONES, OBSERVARÁ Y SE SUJETARÁ A:",
+    "options": [
+        {"text": "LOS PRINCIPIOS CONTEMPLADOS EN EL PRESENTE DECRETO LEGISLATIVO.", "correct": true},
+        {"text": "LOS PRINCIPIOS CONTEMPLADOS EN EL RÉGIMEN DISCIPLINARIO DE LA PNP.", "correct": false},
+        {"text": "LOS PRINCIPIOS CONTEMPLADOS EN LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO GENERAL.", "correct": false},
+        {"text": "LOS PRINCIPIOS CONTEMPLADOS EN LA LEY DE LA PNP.", "correct": false},
+        {"text": "LOS PRINCIPIOS CONTEMPLADOS EN LA CONSTITUCIÓN POLÍTICA DEL PERÚ.", "correct": false}
+    ]
+  },
+  {
+    "question": "2419. EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ EN EL PLANEAMIENTO, CONDUCCIÓN Y EJECUCIÓN DE LAS OPERACIONES EN EL EJERCICIO DE SUS FUNCIONES:",
+    "options": [
+        {"text": "OBSERVARÁ Y SE SUJETARÁ A LOS PRINCIPIOS CONTEMPLADOS EN EL RÉGIMEN DISCIPLINARIO DE LA PNP.", "correct": false},
+        {"text": "OBSERVARÁ Y SE SUJETARÁ A LOS PRINCIPIOS CONTEMPLADOS EN EL CÓDIGO PROCESAL PENAL.", "correct": false},
+        {"text": "OBSERVARÁ Y SE SUJETARÁ A LOS PRINCIPIOS CONTEMPLADOS EN EL PRESENTE DECRETO LEGISLATIVO.", "correct": true},
+        {"text": "OBSERVARÁ Y SE SUJETARÁ A LOS PRINCIPIOS CONTEMPLADOS EN EL CÓDIGO DE ÉTICA DE LA PNP.", "correct": false},
+        {"text": "OBSERVARÁ Y SE SUJETARÁ A LOS PRINCIPIOS CONTEMPLADOS EN EL CÓDIGO PENAL.", "correct": false}
+    ]
+  },
+  {
+    "question": "2420. ES LA OBLIGACIÓN DEL PERSONAL POLICIAL EN EL EJERCICIO DE LA AUTORIDAD QUE REPRESENTA, DE GARANTIZAR EL ORDEN Y LA SEGURIDAD SIRVIENDO A LA COMUNIDAD Y PROTEGIENDO A LAS PERSONAS EN EL MARCO DE SUS COMPETENCIAS, FUNCIONES Y ATRIBUCIONES LEGALMENTE ESTABLECIDAS. CORRESPONDE A LA DEFINICIÓN DE:",
+    "options": [
+        {"text": "CUMPLIMIENTO DEL DEBER.", "correct": true},
+        {"text": "FUERZA.", "correct": false},
+        {"text": "CUMPLIMIENTO DEL DERECHO.", "correct": false},
+        {"text": "USO PROGRESIVO Y DIFERENCIADO DE LA FUERZA.", "correct": false},
+        {"text": "MEDIOS DE POLICÍA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2421. ES LA GRADUACIÓN Y ADECUACIÓN, POR PARTE DEL PERSONAL POLICIAL, DE LOS MEDIOS Y MÉTODOS A EMPLEAR TENIENDO EN CUENTA EL NIVEL DE COOPERACIÓN, RESISTENCIA O AGRESIÓN QUE REPRESENTE LA PERSONA A INTERVENIR O LA SITUACIÓN A CONTROLAR. A QUE DEFINICION CORRESPONDE:",
+    "options": [
+        {"text": "CUMPLIMIENTO DEL DEBER.", "correct": false},
+        {"text": "FUERZA.", "correct": false},
+        {"text": "MEDIOS DE POLICIA.", "correct": false},
+        {"text": "FUERZA PROPORCIONAL.", "correct": false},
+        {"text": "USO PROGRESIVO Y DIFERENCIADO DE LA FUERZA.", "correct": true}
+    ]
+  },
+  {
+    "question": "2422. ES EL MEDIO QUE EN SUS DIFERENTES NIVELES USA EL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ, DENTRO DEL MARCO DE LA LEY, PARA LOGRAR EL CONTROL DE UNA SITUACIÓN QUE CONSTITUYE UNA AMENAZA O ATENTA CONTRA LA SEGURIDAD, EL ORDEN PÚBLICO, LA INTEGRIDAD O LA VIDA DE LAS PERSONAS. A QUE DEFINICION CORRESPONDE:",
+    "options": [
+        {"text": "FUERZA.", "correct": true},
+        {"text": "USO PROGRESIVO Y DIFERENCIADO DE LA FUERZA.", "correct": false},
+        {"text": "MEDIOS DE POLICIA.", "correct": false},
+        {"text": "CUMPLIMIENTO DEL DEBER.", "correct": false},
+        {"text": "CUMPLIMIENTO DEL DERECHO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2423. EL USO DE LA FUERZA EN EL CUMPLIMIENTO DEL DEBER ES NECESARIO, CUANDO OTROS MEDIOS RESULTEN INEFICACES O NO GARANTICEN DE NINGUNA MANERA EL LOGRO DEL OBJETIVO LEGAL BUSCADO. CORRESPONDE AL PRINCIPIO DE:",
+    "options": [
+        {"text": "PROPORSIONALIDAD.", "correct": false},
+        {"text": "LEGALIDAD.", "correct": false},
+        {"text": "FUERZA.", "correct": false},
+        {"text": "NECESIDAD.", "correct": true},
+        {"text": "USO PROGRESIVO Y DIFERENCIADO DE LA FUERZA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2424. ACATA TODAS LAS INDICACIONES DEL EFECTIVO POLICIAL SIN RESISTENCIA MANIFIESTA DURANTE LA INTERVENCIÓN, CORRESPONDE A LA DEFINICIÓN DE:",
+    "options": [
+        {"text": "COOPERADOR.", "correct": true},
+        {"text": "AMABLE.", "correct": false},
+        {"text": "NO COOPERADOR.", "correct": false},
+        {"text": "ACATADOR.", "correct": false},
+        {"text": "DISPUESTO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2425. AGRESIÓN FÍSICA AL PERSONAL POLICIAL O PERSONAS INVOLUCRADAS EN LA INTERVENCIÓN, PUDIENDO UTILIZAR OBJETOS QUE ATENTEN CONTRA LA INTEGRIDAD FÍSICA, CORRESPONDE A LA DEFINICIÓN DE:",
+    "options": [
+        {"text": "AGRESIÓN LETAL.", "correct": false},
+        {"text": "VIOLENCIA Y RESISTENCIA.", "correct": false},
+        {"text": "AGRESIÓN.", "correct": false},
+        {"text": "AGRESIÓN NO LETAL.", "correct": true},
+        {"text": "RESISTENCIA FÍSICA.", "correct": false}
+    ]
+  },
+  {
+    "question": "2426. NIVELES DEL USO DE LA FUERZA: ACCIÓN QUE PONE EN PELIGRO INMINENTE DE MUERTE O LESIONES GRAVES AL EFECTIVO POLICIAL O A PERSONAS INVOLUCRADAS EN LA INTERVENCIÓN. CORRESPONDE A LA DEFINICIÓN DE:",
+    "options": [
+        {"text": "AGRESIÓN FÍSICA.", "correct": false},
+        {"text": "RESISTENCIA FÍSICA.", "correct": false},
+        {"text": "AGRESIÓN LETAL.", "correct": true},
+        {"text": "RESISTENCIA NO LETAL.", "correct": false},
+        {"text": "AGRESIÓN NO LETAL.", "correct": false}
+    ]
+  },
+  {
+    "question": "2427. ENTENDIDA COMO DEMOSTRACIÓN DE AUTORIDAD DEL PERSONAL DE LA POLICÍA NACIONAL UNIFORMADO, EQUIPADO, EN ACTITUD DE ALERTA Y REALIZANDO UN CONTROL VISUAL, QUE PREVIENE Y DISUADE LA COMISIÓN DE UNA INFRACCIÓN O UN DELITO. CORRESPONDE A LA DEFINICION DE:",
+    "options": [
+        {"text": "PRESENCIA POLICIAL.", "correct": true},
+        {"text": "PRESENCIA UNIFORMADA.", "correct": false},
+        {"text": "CONTROL DE CONTACTO.", "correct": false},
+        {"text": "VERBALIZACIÓN.", "correct": false},
+        {"text": "CONTROL TÁCTICO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2428. ES EL USO DE LA COMUNICACIÓN ORAL CON LA ENERGÍA NECESARIA Y EL USO DE TÉRMINOS ADECUADOS QUE SEAN FÁCILMENTE ENTENDIDOS Y COMPRENDIDOS POR LAS PERSONAS A INTERVENIR, FACILITANDO SU CONTROL INDIVIDUAL O GRUPAL. CORRESPONDE A LA DEFINICIÓN DE:",
+    "options": [
+        {"text": "CONTROL DEL TACTO.", "correct": false},
+        {"text": "PRESENCIA POLICIAL.", "correct": false},
+        {"text": "VERBALIZACIÓN.", "correct": true},
+        {"text": "PRESENCIA UNIFORMADA.", "correct": false},
+        {"text": "CONTROL TÁCTICO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2429. ES EL USO DE TÉCNICAS DE COMUNICACIÓN, NEGOCIACIÓN Y PROCEDIMIENTOS DESTINADOS A GUIAR, CONTENER LA ACCIÓN O ACTITUD DE LA PERSONA O GRUPOS A SER INTERVENIDOS. CORRESPONDE A LA DEFINICION DE:",
+    "options": [
+        {"text": "VERBALIZACIÓN.", "correct": false},
+        {"text": "NEGOCIACIÓN.", "correct": false},
+        {"text": "PRESENCIA POLICIAL.", "correct": false},
+        {"text": "COMUNICACIÓN.", "correct": false},
+        {"text": "CONTROL DE CONTACTO.", "correct": true}
+    ]
+  },
+  {
+    "question": "2430. ES EL USO DE LAS TÉCNICAS POLICIALES QUE PERMITEN CONTROLAR, REDUCIR, INMOVILIZAR Y CONDUCIR A LA PERSONA INTERVENIDA, EVITANDO EN LO POSIBLE CAUSAR LESIONES. CORRESPONDE A LA DEFINICIÓN DE:",
+    "options": [
+        {"text": "VERBALIZACIÓN.", "correct": false},
+        {"text": "CONTROL DE CONTACTO.", "correct": false},
+        {"text": "CONTROL DE MULTITUDES.", "correct": false},
+        {"text": "CONTROL FÍSICO.", "correct": true},
+        {"text": "REDUCCIÓN E INMOVILIZACIÓN.", "correct": false}
+    ]
+  },
+  {
+    "question": "2431. ES EL USO DE MEDIOS DE POLICÍA NO LETALES PARA CONTRARRESTAR Y/O SUPERAR EL NIVEL DE AGRESIÓN O RESISTENCIA. CORRESPONDE A LA DEFINICIÓN DE:",
+    "options": [
+        {"text": "TÁCTICAS DEFENSIVAS LETALES.", "correct": false},
+        {"text": "TÁCTICAS OFENSIVAS NO LETALES.", "correct": false},
+        {"text": "TÁCTICAS OFENSIVAS LETALES.", "correct": false},
+        {"text": "TÁCTICAS DEFENSIVAS NO LETALES.", "correct": true},
+        {"text": "TÁCTICAS DEFENSIVAS Y OFENSIVAS NO LETALES.", "correct": false}
+    ]
+  },
+  {
+    "question": "2432. LOS NIVELES DE USO DE LA FUERZA TANTO EN LA RESISTENCIA PASIVA COMO ACTIVA, SON LOS SIGUIENTES: (MARQUE LA QUE NO CORRESPONDE):",
+    "options": [
+        {"text": "RIESGO LATENTE.", "correct": false},
+        {"text": "NO COOPERADOR.", "correct": false},
+        {"text": "AGRESIÓN LETAL.", "correct": false},
+        {"text": "COOPERADOR.", "correct": false},
+        {"text": "AGRESIÓN FÍSICA.", "correct": true}
+    ]
+  },
+  {
+    "question": "2433. ES EL USO DE ARMAS DE FUEGO POR EL PERSONAL DE LA POLICÍA NACIONAL, CONTRA QUIÉN REALIZA UNA ACCIÓN QUE REPRESENTA UN PELIGRO REAL E INMINENTE DE MUERTE O LESIONES GRAVES. CORRESPONDE A LA DEFINICIÓN DE:",
+    "options": [
+        {"text": "FUERZA NO LETAL.", "correct": false},
+        {"text": "FUERZA LETAL.", "correct": true},
+        {"text": "USO DE LA FUERZA.", "correct": false},
+        {"text": "ACCIÓN DE ARMAS.", "correct": false},
+        {"text": "ENFRENTAMIENTO ARMADO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2434. ESTABLECE EL MARCO LEGAL QUE REGULA EL USO DE LA FUERZA POR PARTE DEL PERSONAL DE LA PNP EN CUMPLIMIENTO DE SU FINALIDAD CONSTITUCIONAL, CORRESPONDE A:",
+    "options": [
+        {"text": "OBJETO.", "correct": true},
+        {"text": "FINALIDAD.", "correct": false},
+        {"text": "ALCANCE.", "correct": false},
+        {"text": "NATURALEZA.", "correct": false},
+        {"text": "FINALIDAD Y ALCANCE.", "correct": false}
+    ]
+  },
+  {
+    "question": "2435. ALCANZA A TODO EL PERSONAL DE LA PNP EN SITUACIÓN DE ACTIVIDAD QUE USA LA FUERZA EN DEFENSA DE LA PERSONA, LA SOCIEDAD Y EL ESTADO, CORRESPONDE A:",
+    "options": [
+        {"text": "OBJETO.", "correct": false},
+        {"text": "NATURALEZA.", "correct": false},
+        {"text": "FINALIDAD.", "correct": false},
+        {"text": "ALCANCE.", "correct": true},
+        {"text": "OBJETIVO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2436. ES LA CAPACIDAD DEL SUPERIOR JERÁRQUICO PARA EJERCER COMANDO Y CONTROL DE MANERA EFICAZ, A UN NÚMERO LIMITADO DE UNIDADES Y EFECTIVOS POLICIALES, CORRESPONDE A:",
+    "options": [
+        {"text": "ALCANCE DE CONTROL.", "correct": true},
+        {"text": "CONTROLADOR.", "correct": false},
+        {"text": "CONTROL REMOTO.", "correct": false},
+        {"text": "CONTROL MECÁNICO.", "correct": false},
+        {"text": "JEFE.", "correct": false}
+    ]
+  },
+  {
+    "question": "2437. ES EL ACTO DE AUTORIDAD QUE PERMITE APREHENDER A UNA PERSONA CON FINES DE IDENTIFICACIÓN O RETENCIÓN:",
+    "options": [
+        {"text": "DETENCIÓN.", "correct": false},
+        {"text": "CONOCER.", "correct": false},
+        {"text": "DETENCIÓN ARBITRARIA.", "correct": false},
+        {"text": "ARRESTO.", "correct": true},
+        {"text": "ABSOLUCIÓN.", "correct": false}
+    ]
+  },
+  {
+    "question": "2438. ES LA ESTRUCTURA DE LA CADENA DE MANDO QUE PERMITE ESTABLECER LA SUBORDINACIÓN DE CADA EFECTIVO POLICIAL A SU SUPERIOR JERÁRQUICO, CORRESPONDE A:",
+    "options": [
+        {"text": "LÍDER.", "correct": false},
+        {"text": "SUPERIOR.", "correct": false},
+        {"text": "SUBORDINACIÓN.", "correct": false},
+        {"text": "JEFE.", "correct": false},
+        {"text": "LÍNEA DE COMANDO.", "correct": true}
+    ]
+  },
+  {
+    "question": "2439. SON ACTIVIDADES DEBIDAMENTE PLANIFICADAS Y EJECUTADAS POR EL PERSONAL DE LAS UNIDADES OPERATIVAS DE LA PNP PARA EL CUMPLIMIENTO DE SU FINALIDAD FUNDAMENTAL:",
+    "options": [
+        {"text": "INTERVENCIÓN POLICIAL.", "correct": false},
+        {"text": "OPERACIONES POLICIALES.", "correct": true},
+        {"text": "FINALIDAD POLICIAL.", "correct": false},
+        {"text": "OBJETO DE LA PNP.", "correct": false},
+        {"text": "ARRESTO CIUDADANO.", "correct": false}
+    ]
+  },
+  {
+    "question": "2440. INTERVENCIONES POLICIALES.EL USO DE LA FUERZA EN LAS INTERVENCIONES POLICIALES SE SUSTENTA EN:",
+    "options": [
+        {"text": "PLANES GENERALES.", "correct": false},
+        {"text": "LAS RESPONSABILIDADES DE LOS PLANES DE OPERACIONES.", "correct": false},
+        {"text": "LAS INSTRUCCIONES Y RESPONSABILIDADES DE LOS PLANES DE OPERACIONES, GENERALES.", "correct": false},
+        {"text": "PLANES ESPECÍFICOS.", "correct": false},
+        {"text": "LAS FUNCIONES, INSTRUCCIONES Y RESPONSABILIDADES DE LOS PLANES DE OPERACIONES, GENERALES O ESPECÍFICOS.", "correct": true}
+    ]
+  }
+    ]
   }
 ]
