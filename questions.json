@@ -24499,7 +24499,7 @@
   }
     ]
   },
-    {
+  {
     "title": "DECRETO LEGISLATIVO QUE FORTALECE LA LUCHA CONTRA EL TRÁFICO ILÍCITO DE DROGAS",
     "questions": [
       {
@@ -26707,6 +26707,1511 @@
           {"text": "LA ENTIDAD PRESTAMISTA MEDIANTE LA VERIFICACIÓN DE LAS IMÁGENES, DATOS Y/O LA IDENTIFICACIÓN POR COMPARACIÓN BIOMÉTRICA.", "correct": false}
         ]
       }
+    ]
+  },
+  {
+    "title": "LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR Y SUS MODIFICATORIAS",
+    "questions": [
+          {
+            "question": "2661. LA PRESENTE LEY TIENE POR OBJETO PREVENIR, ERRADICAR Y SANCIONAR TODA FORMA DE VIOLENCIA PRODUCIDA EN EL ÁMBITO:",
+            "options": [
+                {"text": "PRIVADO O RESERVADO.", "correct": false},
+                {"text": "PÚBLICO Y PARTICULAR.", "correct": false},
+                {"text": "COMPETENTE Y FUNCIONAL.", "correct": false},
+                {"text": "PÚBLICO O PRIVADO.", "correct":  true},
+                {"text": "FUNCIONAL O COMPETENTE.", "correct": false}
+            ]
+        },
+        {
+            "question": "2662. TIENE POR OBJETO PREVENIR, ERRADICAR Y SANCIONAR TODA FORMA DE VIOLENCIA CONTRA LAS MUJERES POR SU CONDICIÓN DE TALES; EN ESPECIAL, CUANDO SE ENCUENTRAN EN SITUACIÓN DE:",
+            "options": [
+                {"text": "FORTIFICACIÓN.", "correct": false},
+                {"text": "FIRMEZA.", "correct": false},
+                {"text": "SEGURIDAD.", "correct": false},
+                {"text": "RESISTENCIA.", "correct": false},
+                {"text": "VULNERABILIDAD.", "correct": true}
+            ]
+        },
+        {
+            "question": "2663. TIENE POR OBJETO PREVENIR, ERRADICAR Y SANCIONAR TODA FORMA DE VIOLENCIA CONTRA LAS MUJERES POR SU CONDICIÓN DE TALES; EN ESPECIAL, CUANDO SE ENCUENTRAN EN SITUACIÓN FÍSICA COMO PERSONAS CON:",
+            "options": [
+                {"text": "RIESGO.", "correct": false},
+                {"text": "TRATAMIENTO.", "correct": false},
+                {"text": "DISCAPACIDAD.", "correct": true},
+                {"text": "INHABILITACIÓN.", "correct": false},
+                {"text": "AMENAZA.", "correct": false}
+            ]
+        },
+        {
+            "question": "2664. ¿A QUÉ PRINCIPIO RECTOR HACE REFERENCIA EL TEXTO?. SE GARANTIZA LA IGUALDAD ENTRE MUJERES Y HOMBRES. PROHÍBESE TODA FORMA DE DISCRIMINACIÓN",
+            "options": [
+                {"text": "PRINCIPIO DE IGUALDAD.", "correct": false},
+                {"text": "PRINCIPIO DE IGUALDAD Y NO DISCRIMINACIÓN.", "correct": true},
+                {"text": "PRINCIPIO DE IGUALDAD Y DISCRIMINACIÓN.", "correct": false},
+                {"text": "PRINCIPIO DE DISCRIMINACIÓN.", "correct": false},
+                {"text": "PRINCIPIO DE EXCLUSIÓN.", "correct": false}
+            ]
+        },
+        {
+            "question": "2665. LAS MEDIDAS ADOPTADAS POR INSTITUCIONES PÚBLICAS O PRIVADAS DE BIENESTAR SOCIAL, LOS TRIBUNALES, LAS AUTORIDADES ADMINISTRATIVAS O LOS ÓRGANOS LEGISLATIVOS DEBEN TENER EN CONSIDERACIÓN PRIMORDIAL EL INTERÉS SUPERIOR:",
+            "options": [
+                {"text": "DEL AGRAVIADO.", "correct": false},
+                {"text": "DEL TESTIGO.", "correct": false},
+                {"text": "DE LA JUVENTUD.", "correct": false},
+                {"text": "DE LA PERSONA.", "correct": false},
+                {"text": "DEL NIÑO.", "correct": true}
+            ]
+        },
+        {
+            "question": "2666. ¿A QUÉ PRINCIPIO RECTOR HACE REFERENCIA EL TEXTO?. EL ESTADO ADOPTA SIN DILACIONES, TODAS LAS POLÍTICAS ORIENTADAS A PREVENIR, SANCIONAR Y ERRADICAR TODA FORMA DE VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR",
+            "options": [
+                {"text": "PRINCIPIO DE INTERVENCIÓN INMEDIATA Y OPORTUNA.", "correct": false},
+                {"text": "PRINCIPIO DE RAZONABILIDAD Y PROPORCIONALIDAD.", "correct": false},
+                {"text": "PRINCIPIO DE SENCILLEZ Y ORALIDAD.", "correct": false},
+                {"text": "PRINCIPIO DE LA DEBIDA DILIGENCIA.", "correct": true},
+                {"text": "PRINCIPIO DE IGUALDAD Y NO DISCRIMINACIÓN.", "correct": false}
+            ]
+        },
+        {
+            "question": "2667. ¿A QUÉ PRINCIPIO RECTOR HACE REFERENCIA EL TEXTO?. LOS OPERADORES DE JUSTICIA Y LA POLICÍA NACIONAL DEL PERÚ, ANTE UN HECHO O AMENAZA DE VIOLENCIA, DEBEN ACTUAR EN FORMA OPORTUNA, SIN DILACIÓN POR RAZONES PROCEDIMENTALES, FORMALES O DE OTRA NATURALEZA, DISPONIENDO EL EJERCICIO DE LAS MEDIDAS DE PROTECCIÓN PREVISTAS EN LA LEY Y OTRAS NORMAS, CON LA FINALIDAD DE ATENDER EFECTIVAMENTE A LA VÍCTIMA.",
+            "options": [
+                {"text": "PRINCIPIO DE SENCILLEZ Y ORALIDAD.", "correct": false},
+                {"text": "PRINCIPIO DE RAZONABILIDAD Y PROPORCIONALIDAD.", "correct": false},
+                {"text": "PRINCIPIO DE LA DEBIDA DILIGENCIA.", "correct": false},
+                {"text": "PRINCIPIO DE INTERVENCIÓN INMEDIATA Y OPORTUNA.", "correct": true},
+                {"text": "PRINCIPIO DEL INTERÉS SUPERIOR DEL NIÑO.", "correct": false}
+            ]
+        },
+        {
+            "question": "2668. ¿A QUÉ PRINCIPIO RECTOR HACE REFERENCIA EL TEXTO?. TODOS LOS PROCESOS POR VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR SE DESARROLLAN CONSIDERANDO EL MÍNIMO DE FORMALISMO, EN ESPACIOS AMIGABLES PARA LAS PRESUNTAS VÍCTIMAS, FAVORECIENDO QUE ESTAS CONFÍEN EN EL SISTEMA Y COLABOREN CON ÉL PARA UNA ADECUADA SANCIÓN AL AGRESOR Y LA RESTITUCIÓN DE SUS DERECHOS VULNERADOS",
+            "options": [
+                {"text": "PRINCIPIO DE LA DEBIDA DILIGENCIA.", "correct": false},
+                {"text": "PRINCIPIO DE IGUALDAD.", "correct": false},
+                {"text": "PRINCIPIO DE SENCILLEZ Y ORALIDAD.", "correct": true},
+                {"text": "PRINCIPIO DE RAZONABILIDAD Y PROPORCIONALIDAD.", "correct": false},
+                {"text": "PRINCIPIO DE INTERVENCIÓN INMEDIATA Y OPORTUNA.", "correct": false}
+            ]
+        },
+        {
+            "question": "2669. ¿A QUÉ PRINCIPIO RECTOR HACE REFERENCIA EL TEXTO?. EL FISCAL O JUEZ A CARGO DE CUALQUIER PROCESO DE VIOLENCIA, DEBE PONDERAR LA PROPORCIONALIDAD ENTRE LA EVENTUAL AFECTACIÓN CAUSADA Y LAS MEDIDAS DE PROTECCIÓN Y DE REHABILITACIÓN A ADOPTARSE",
+            "options": [
+                {"text": "PRINCIPIO DE DISCRIMINACIÓN.", "correct": false},
+                {"text": "PRINCIPIO DE RAZONABILIDAD Y PROPORCIONALIDAD.", "correct": true},
+                {"text": "PRINCIPIO DE SENCILLEZ Y ORALIDAD.", "correct": false},
+                {"text": "PRINCIPIO DE PROPORCIONALIDAD.", "correct": false},
+                {"text": "PRINCIPIO DE LA DEBIDA DILIGENCIA.", "correct": false}
+            ]
+        },
+        {
+            "question": "2670. ¿A QUÉ ENFOQUE HACE REFERENCIA EL TEXTO?. DEBE ORIENTAR EL DISEÑO DE LAS ESTRATEGIAS DE INTERVENCIÓN ORIENTADAS AL LOGRO DE LA IGUALDAD DE OPORTUNIDADES ENTRE HOMBRES Y MUJERES",
+            "options": [
+                {"text": "ENFOQUE DE GÉNERO.", "correct": true},
+                {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": false},
+                {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false},
+                {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": false},
+                {"text": "ENFOQUE GENERACIONAL.", "correct": false}
+            ]
+        },
+        {
+          "question": "2671. ¿A QUÉ ENFOQUE HACE REFERENCIA EL TEXTO?. RECONOCE QUE EN LA VIOLENCIA CONTRA LAS MUJERES CONFLUYEN MÚLTIPLES CAUSAS Y FACTORES QUE ESTÁN PRESENTES EN DISTINTOS ÁMBITOS, A NIVEL INDIVIDUAL, FAMILIAR, COMUNITARIO Y ESTRUCTURAL",
+          "options": [
+              {"text": "ENFOQUE DE GÉNERO.", "correct": false},
+              {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": true},
+              {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false},
+              {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": false},
+              {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2672. ¿A QUÉ ENFOQUE HACE REFERENCIA EL TEXTO?. NO ADMITE ACEPTAR PRÁCTICAS CULTURALES DISCRIMINATORIAS QUE TOLERAN LA VIOLENCIA U OBSTACULIZAN EL GOCE DE IGUALDAD DE DERECHOS ENTRE PERSONAS DE GÉNEROS DIFERENTES",
+          "options": [
+              {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": false},
+              {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": false},
+              {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": true},
+              {"text": "ENFOQUE GENERACIONAL.", "correct": false},
+              {"text": "ENFOQUE DE GÉNERO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2673. ¿A QUÉ ENFOQUE HACE REFERENCIA EL TEXTO?. SE PROCURA FORTALECER LA CAPACIDAD DE LOS TITULARES DE DERECHOS PARA REIVINDICAR ESTOS Y DE LOS TITULARES DE DEBERES PARA CUMPLIR SUS OBLIGACIONES",
+          "options": [
+              {"text": "ENFOQUE DE GÉNERO.", "correct": false},
+              {"text": "ENFOQUE DE GENERACIONAL.", "correct": false},
+              {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": false},
+              {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": true},
+              {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2674. ¿A QUÉ ENFOQUE HACE REFERENCIA EL TEXTO?. RECONOCE QUE LA EXPERIENCIA QUE LAS MUJERES TIENEN DE LA VIOLENCIA SE VE INFLUIDA POR FACTORES E IDENTIDADES COMO SU ETNIA, COLOR, RELIGIÓN, OPINIÓN POLÍTICA O DE OTRO TIPO",
+          "options": [
+              {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": false},
+              {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false},
+              {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": false},
+              {"text": "ENFOQUE GENERACIONAL.", "correct": false},
+              {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": true}
+          ]
+        },
+        {
+          "question": "2675. ¿A QUÉ ENFOQUE HACE REFERENCIA EL TEXTO?. RECONOCE QUE ES NECESARIO IDENTIFICAR LAS RELACIONES DE PODER ENTRE DISTINTAS EDADES DE LA VIDA Y SUS VINCULACIONES PARA MEJORAR LAS CONDICIONES DE VIDA O EL DESARROLLO COMÚN",
+          "options": [
+              {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false},
+              {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": false},
+              {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": false},
+              {"text": "ENFOQUE DE GÉNERO.", "correct": false},
+              {"text": "ENFOQUE GENERACIONAL.", "correct": true}
+          ]
+        },
+        {
+          "question": "2676. LAS DISPOSICIONES DE LA PRESENTE LEY SE APLICAN A TODOS LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES POR SU CONDICIÓN DE TALES Y CONTRA LOS:",
+          "options": [
+              {"text": "ASOCIADOS DEL GRUPO FAMILIAR.", "correct": false},
+              {"text": "INTEGRANTES DEL GRUPO FAMILIAR.", "correct": true},
+              {"text": "PARTICIPANTES DEL GRUPO FAMILIAR.", "correct": false},
+              {"text": "SOCIOS DEL GRUPO FAMILIAR.", "correct": false},
+              {"text": "AYUDANTES DEL GRUPO FAMILIAR.", "correct": false}
+          ]
+        },
+        {
+          "question": "2677. LA VIOLENCIA CONTRA LAS MUJERES ES CUALQUIER ACCIÓN O:",
+          "options": [
+              {"text": "CONDUCTA QUE LES CAUSA MUERTE, DAÑO O SUFRIMIENTO FÍSICO, SEXUAL O PSICOLÓGICO POR SU CONDICIÓN DE TALES, TANTO EN EL ÁMBITO PÚBLICO COMO EN EL PRIVADO.", "correct": true},
+              {"text": "PROCEDIMIENTO QUE LES CAUSA MUERTE, DAÑO O SUFRIMIENTO FÍSICO, SEXUAL O PSICOLÓGICO POR SU CONDICIÓN DE TALES, TANTO EN EL ÁMBITO PÚBLICO COMO EN EL PRIVADO.", "correct": false},
+              {"text": "FORMA QUE LES CAUSA MUERTE, DAÑO O SUFRIMIENTO FÍSICO, SEXUAL O PSICOLÓGICO POR SU CONDICIÓN DE TALES, TANTO EN EL ÁMBITO PÚBLICO COMO EN EL PRIVADO.", "correct": false},
+              {"text": "ENGAÑO QUE LES CAUSA MUERTE, DAÑO O SUFRIMIENTO FÍSICO, SEXUAL O PSICOLÓGICO POR SU CONDICIÓN DE TALES, TANTO EN EL ÁMBITO PÚBLICO COMO EN EL PRIVADO.", "correct": false},
+              {"text": "TRATAMIENTO QUE LES CAUSA MUERTE, DAÑO O SUFRIMIENTO FÍSICO, SEXUAL O PSICOLÓGICO POR SU CONDICIÓN DE TALES, TANTO EN EL ÁMBITO PÚBLICO COMO EN EL PRIVADO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2678. LA VIOLENCIA CONTRA LAS MUJERES ES CUALQUIER ACCIÓN O CONDUCTA QUE LES CAUSA:",
+          "options": [
+              {"text": "MUERTE.", "correct": true},
+              {"text": "ILESO.", "correct": false},
+              {"text": "RIESGO.", "correct": false},
+              {"text": "QUEJA.", "correct": false},
+              {"text": "AMENAZA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2679. LA VIOLENCIA CONTRA LAS MUJERES ES CUALQUIER ACCIÓN O CONDUCTA QUE LES CAUSA MUERTE, DAÑO O SUFRIMIENTO FÍSICO, SEXUAL O:",
+          "options": [
+              {"text": "MORAL.", "correct": false},
+              {"text": "PSICOLÓGICO.", "correct": true},
+              {"text": "MENTAL.", "correct": false},
+              {"text": "ECONÓMICO.", "correct": false},
+              {"text": "ANÍMICO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2680. SE ENTIENDE POR VIOLENCIA CONTRA LAS MUJERES:",
+          "options": [
+              {"text": "LA QUE TENGA LUGAR FUERA DE LA FAMILIA O UNIDAD DOMÉSTICA.", "correct": false},
+              {"text": "LA QUE TENGA LUGAR AISLADO DE LA FAMILIA O UNIDAD DOMÉSTICA.", "correct": false},
+              {"text": "LA QUE TENGA LUGAR SITUADO DE LA FAMILIA O UNIDAD DOMÉSTICA.", "correct": false},
+              {"text": "LA QUE TENGA LUGAR DENTRO DE LA FAMILIA O UNIDAD DOMÉSTICA.", "correct": true},
+              {"text": "LA QUE TENGA LUGAR DISTANTE DE LA FAMILIA O UNIDAD DOMÉSTICA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2681. SE ENTIENDE POR VIOLENCIA CONTRA LAS MUJERES:",
+          "options": [
+            {"text": "LA QUE TENGA LUGAR DENTRO DE LA FAMILIA O UNIDAD DOMÉSTICA O EN CUALQUIER OTRA RELACIÓN INTERPERSONAL, YA SEA QUE EL AGRESOR COMPARTA O HAYA COMPARTIDO EL MISMO DOMICILIO QUE LA MUJER.", "correct": true},
+            {"text": "LA QUE TENGA LUGAR DENTRO DE LA FAMILIA O UNIDAD DOMÉSTICA O EN CUALQUIER OTRA RELACIÓN INTERPERSONAL, YA SEA QUE EL AGRESOR NUNCA COMPARTIÓ EL MISMO DOMICILIO QUE LA MUJER.", "correct": false},
+            {"text": "LA QUE TENGA LUGAR DENTRO DE LA FAMILIA O UNIDAD DOMÉSTICA O EN CUALQUIER OTRA RELACIÓN INTERPERSONAL, YA SEA QUE EL AGRESOR TIENE LA IMPOSIBILIDAD DE COMPARTIR EL MISMO DOMICILIO QUE LA MUJER.", "correct": false},
+            {"text": "LA QUE TENGA LUGAR DENTRO DE LA FAMILIA O UNIDAD DOMÉSTICA O EN CUALQUIER OTRA RELACIÓN INTERPERSONAL, YA SEA QUE EL AGRESOR NO HAYA COMPARTIDO EL MISMO DOMICILIO QUE LA MUJER.", "correct": false},
+            {"text": "LA QUE TENGA LUGAR DENTRO DE LA FAMILIA O UNIDAD DOMÉSTICA O EN CUALQUIER OTRA RELACIÓN INTERPERSONAL, YA SEA QUE EL AGRESOR SE NIEGUE A COMPARTIR EL MISMO DOMICILIO QUE LA MUJER.", "correct": false}
+          ]
+        },
+        {
+          "question": "2682. SE ENTIENDE POR VIOLENCIA CONTRA LAS MUJERES:",
+          "options": [
+            {"text": "LA QUE TENGA LUGAR DENTRO DE LA FAMILIA.", "correct": true},
+            {"text": "LA QUE TENGA FUERA DE LA FAMILIA.", "correct": false},
+            {"text": "LA QUE TENGA AISLADO DE LA FAMILIA.", "correct": false},
+            {"text": "LA QUE TENGA DISTANTE DE LA FAMILIA.", "correct": false},
+            {"text": "LA QUE TENGA APARTADO DE LA FAMILIA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2683. ¿QUÉ PERSONAS PUEDEN COMETER VIOLENCIA CONTRA LAS MUJERES?",
+          "options": [
+            {"text": "CUALQUIER PERSONA.", "correct": true},
+            {"text": "PERSONAS AUTORIZADAS.", "correct": false},
+            {"text": "PERSONAS CALIFICADAS.", "correct": false},
+            {"text": "PERSONAS CON REQUISITORIAS.", "correct": false},
+            {"text": "PERSONAS CON ANTECEDENTES.", "correct": false}
+          ]
+        },
+        {
+          "question": "2684. LA VIOLENCIA CONTRA LAS MUJERES ES PERPETRADA POR CUALQUIER PERSONA Y COMPRENDE, ENTRE OTROS:",
+          "options": [
+            {"text": "EL ABUSO SEXUAL.", "correct": true},
+            {"text": "EL RESPETO.", "correct": false},
+            {"text": "LA PROSTITUCIÓN NO FORZADA.", "correct": false},
+            {"text": "EL ENGAÑO.", "correct": false},
+            {"text": "EL ABUSO DE AUTORIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2685. LA VIOLENCIA CONTRA LAS MUJERES ES PERPETRADA POR CUALQUIER PERSONA Y COMPRENDE, ENTRE OTROS:",
+          "options": [
+            {"text": "EL ACECHO.", "correct": false},
+            {"text": "LA TORTURA.", "correct": true},
+            {"text": "LA PERSECUCIÓN.", "correct": false},
+            {"text": "EL SEGUIMIENTO.", "correct": false},
+            {"text": "LA CACERÍA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2686. LA VIOLENCIA CONTRA LAS MUJERES ES PERPETRADA POR CUALQUIER PERSONA Y COMPRENDE, ENTRE OTROS:",
+          "options": [
+            {"text": "LA EXTORSIÓN.", "correct": false},
+            {"text": "EL ABUSO DE AUTORIDAD.", "correct": false},
+            {"text": "LA TRATA DE PERSONAS.", "correct": true},
+            {"text": "ENAMORAMIENTO.", "correct": false},
+            {"text": "LA DESAPARICIÓN FORZADA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2687. LA VIOLENCIA CONTRA LAS MUJERES ES PERPETRADA POR CUALQUIER PERSONA Y COMPRENDE, ENTRE OTROS:",
+          "options": [
+            {"text": "LA EXTORSIÓN.", "correct": false},
+            {"text": "EL ESTAFA.", "correct": false},
+            {"text": "LA PROSTITUCIÓN FORZADA.", "correct": true},
+            {"text": "EL FEMINICIDIO.", "correct": false},
+            {"text": "EL GENOCIDIO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2688. LA VIOLENCIA CONTRA LAS MUJERES ES PERPETRADA POR CUALQUIER PERSONA Y COMPRENDE, ENTRE OTROS:",
+          "options": [
+            {"text": "LA EXTORSIÓN.", "correct": false},
+            {"text": "EL HOMICIDIO.", "correct": false},
+            {"text": "EL SECUESTRO.", "correct": true},
+            {"text": "EL SICARIATO.", "correct": false},
+            {"text": "EL GENOCIDIO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2689. LA VIOLENCIA CONTRA LAS MUJERES ES PERPETRADA POR CUALQUIER PERSONA Y COMPRENDE, ENTRE OTROS:",
+          "options": [
+            {"text": "EL ABUSO DE AUTORIDAD.", "correct": false},
+            {"text": "LA EXTORSIÓN.", "correct": false},
+            {"text": "EL ACOSO SEXUAL.", "correct": true},
+            {"text": "EL HOSTIGAMIENTO.", "correct": false},
+            {"text": "EL SEGUIMIENTO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2690. EN LA VIOLENCIA CONTRA LAS MUJERES SE ENTIENDE LA QUÉ SEA PERPETRADA O TOLERADA POR LOS AGENTES:",
+          "options": [
+            {"text": "DE LA COMUNIDAD, DONDE QUIERA QUE OCURRA.", "correct": false},
+            {"text": "DE LA MUNICIPALIDAD, DONDE QUIERA QUE OCURRA.", "correct": false},
+            {"text": "DEL ESTADO, DONDE QUIERA QUE OCURRA.", "correct": true},
+            {"text": "DEL GOBIERNO REGIONAL, DONDE QUIERA QUE OCURRA.", "correct": false},
+            {"text": "DEL GOBIERNO LOCAL, DONDE QUIERA QUE OCURRA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2691. SE ENTIENDE POR VIOLENCIA CONTRA LAS MUJERES: LA QUE SEA PERPETRADA O TOLERADA POR LOS AGENTES DEL ESTADO:",
+          "options": [
+            {"text": "EN UN SOLO LUGAR.", "correct": false},
+            {"text": "EN EL TRABAJO.", "correct": false},
+            {"text": "DONDE QUIERA QUE OCURRA.", "correct": true},
+            {"text": "DONDE LA LEY LE PERMITE.", "correct": false},
+            {"text": "EN EL EXTRANJERO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2692. LA VIOLENCIA CONTRA CUALQUIER INTEGRANTE DEL GRUPO FAMILIAR SE PRODUCE EN EL CONTEXTO DE UNA RELACIÓN DE:",
+          "options": [
+            {"text": "PUNTUALIDAD.", "correct": false},
+            {"text": "ALEJAMIENTO.", "correct": false},
+            {"text": "RESPONSABILIDAD.", "correct": true},
+            {"text": "CONTROL.", "correct": false},
+            {"text": "SEPARACIÓN.", "correct": false}
+          ]
+        },
+        {
+          "question": "2693. LA VIOLENCIA CONTRA CUALQUIER INTEGRANTE DEL GRUPO FAMILIAR SE PRODUCE EN EL CONTEXTO DE UNA RELACIÓN DE:",
+          "options": [
+            {"text": "AUSENCIA.", "correct": false},
+            {"text": "ALEJAMIENTO.", "correct": false},
+            {"text": "MARCACIÓN.", "correct": false},
+            {"text": "SEPARACIÓN.", "correct": false},
+            {"text": "CONFIANZA.", "correct": true}
+          ]
+        },
+        {
+          "question": "2694. LA VIOLENCIA CONTRA CUALQUIER INTEGRANTE DEL GRUPO FAMILIAR SE PRODUCE EN EL CONTEXTO DE UNA RELACIÓN DE:",
+          "options": [
+            {"text": "CONTROL.", "correct": false},
+            {"text": "ALEJAMIENTO.", "correct": false},
+            {"text": "MARCACIÓN.", "correct": false},
+            {"text": "SEPARACIÓN.", "correct": false},
+            {"text": "PODER.", "correct": true}
+          ]
+        },
+        {
+          "question": "2695. ¿CON QUIÉN SE DEBERÁ TENER ESPECIAL CONSIDERACIÓN EN LA VIOLENCIA CONTRA LOS INTEGRANTES DEL GRUPO FAMILIAR?",
+          "options": [
+            {"text": "CON LAS EDUCADORAS.", "correct": false},
+            {"text": "CON LAS CAMPESINAS.", "correct": false},
+            {"text": "CON LAS MADRES.", "correct": false},
+            {"text": "CON LAS COMUNIDADES.", "correct": false},
+            {"text": "CON LAS NIÑAS.", "correct": true}
+          ]
+        },
+        {
+          "question": "2696. ¿CON QUIÉN SE DEBERÁ TENER ESPECIAL CONSIDERACIÓN EN LA VIOLENCIA CONTRA LOS INTEGRANTES DEL GRUPO FAMILIAR?",
+          "options": [
+            {"text": "CON LOS EDUCADORES.", "correct": false},
+            {"text": "CON LOS NATIVOS.", "correct": false},
+            {"text": "CON LOS HIJASTROS.", "correct": false},
+            {"text": "CON LOS SUEGROS.", "correct": false},
+            {"text": "CON LOS NIÑOS.", "correct": true}
+          ]
+        },
+        {
+          "question": "2697. ¿CON QUIÉN SE DEBERÁ TENER ESPECIAL CONSIDERACIÓN EN LA VIOLENCIA CONTRA LOS INTEGRANTES DEL GRUPO FAMILIAR?",
+          "options": [
+            {"text": "CON LOS ADULTOS.", "correct": false},
+            {"text": "CON LOS ADULTOS MENORES.", "correct": false},
+            {"text": "CON LOS JÓVENES MAYORES.", "correct": false},
+            {"text": "CON LOS ADOLESCENTES MENORES.", "correct": false},
+            {"text": "CON LOS ADULTOS MAYORES.", "correct": true}
+          ]
+        },
+        {
+          "question": "2698. ¿CON QUIÉN SE DEBERÁ TENER ESPECIAL CONSIDERACIÓN EN LA VIOLENCIA CONTRA LOS INTEGRANTES DEL GRUPO FAMILIAR?",
+          "options": [
+            {"text": "CON LOS VARONES.", "correct": false},
+            {"text": "CON LOS ADULTOS MENORES.", "correct": false},
+            {"text": "CON LOS GRUPOS VULNERABLES.", "correct": false},
+            {"text": "CON LOS MAYORES.", "correct": false},
+            {"text": "CON LOS ADOLESCENTES.", "correct": true}
+          ]
+        },
+        {
+          "question": "2699. ¿CON QUIÉN SE DEBERÁ TENER ESPECIAL CONSIDERACIÓN EN LA VIOLENCIA CONTRA LOS INTEGRANTES DEL GRUPO FAMILIAR?",
+          "options": [
+            {"text": "CON LAS PERSONAS EN RIESGO.", "correct": false},
+            {"text": "CON LAS MUJERES EMBARAZADAS.", "correct": false},
+            {"text": "CON LAS MUJERES POBRES.", "correct": false},
+            {"text": "CON LAS PERSONAS NECESITADAS.", "correct": false},
+            {"text": "CON LAS PERSONAS CON DISCAPACIDAD.", "correct": true}
+          ]
+        },
+        {
+          "question": "2700. SON SUJETOS DE PROTECCIÓN DE LA LEY, LAS MUJERES DURANTE TODO SU CICLO DE VIDA, QUE COMPRENDE DESDE:",
+          "options": [
+            {"text": "NIÑA, ADOLESCENTES, JOVEN, ADULTA Y JOVEN MAYOR.", "correct": true},
+            {"text": "NIÑA, ADOLESCENTES, ADULTA Y ADULTA MAYOR.", "correct": false},
+            {"text": "NIÑA, ADOLESCENTES, JOVEN Y ADULTA MAYOR.", "correct": false},
+            {"text": "NIÑA, ADOLESCENTES, JOVEN, ADULTA Y ADULTA MAYOR.", "correct": false},
+            {"text": "NIÑA, ADOLESCENTES, JOVEN, ADULTA Y ADULTA MENOR.", "correct": false}
+          ]
+        },
+        {
+          "question": "2701. SON SUJETOS DE PROTECCIÓN DE LA LEY, LAS MUJERES DURANTE TODO SU CICLO DE VIDA, QUE COMPRENDE DESDE:",
+          "options": [
+            {"text": "ADOLESCENTES, JOVEN, ADULTA Y JOVEN MAYOR.", "correct": false},
+            {"text": "NIÑO, ADOLESCENTES, JOVEN, ADULTA Y ADULTA MAYOR.", "correct": false},
+            {"text": "NIÑA, JOVEN, ADULTA Y ADULTA MAYOR.", "correct": false},
+            {"text": "NIÑA, ADOLESCENTES, JOVEN, ADULTA Y ADULTA MAYOR.", "correct": true},
+            {"text": "NIÑA, ADOLESCENTES, JOVEN, ADULTA Y ADULTA MENOR.", "correct": false}
+          ]
+        },
+        {
+          "question": "2702. SON SUJETOS DE PROTECCIÓN DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIÉNDASE COMO TALES A LOS:",
+          "options": [
+            {"text": "AMANTES.", "correct": false},
+            {"text": "EXPAREJA.", "correct": false},
+            {"text": "EXCOMPAÑERO.", "correct": false},
+            {"text": "CÓNYUGES.", "correct": true},
+            {"text": "ENAMORADOS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2703. SON SUJETOS DE PROTECCIÓN DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIÉNDASE COMO TALES A:",
+          "options": [
+            {"text": "EXPAREJAS.", "correct": false},
+            {"text": "EXCOMPAÑEROS.", "correct": false},
+            {"text": "AMANTES.", "correct": false},
+            {"text": "EXCÓNYUGES.", "correct": true},
+            {"text": "ENAMORADOS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2704. SON SUJETOS DE PROTECCIÓN DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIÉNDASE COMO TALES A:",
+          "options": [
+            {"text": "PAREJAS.", "correct": false},
+            {"text": "COMPAÑEROS.", "correct": false},
+            {"text": "PADRINOS.", "correct": false},
+            {"text": "CONVIVIENTES.", "correct": true},
+            {"text": "AMANTES.", "correct": false}
+          ]
+        },
+        {
+          "question": "2705. SON SUJETOS DE PROTECCIÓN DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIÉNDASE COMO TALES A:",
+          "options": [
+            {"text": "EXTRABAJADORES.", "correct": false},
+            {"text": "EXCOMPAÑEROS.", "correct": false},
+            {"text": "EXCOMBATIENTES.", "correct": false},
+            {"text": "EXCONVIVIENTES.", "correct": true},
+            {"text": "EXSOBREVIVIENTES.", "correct": false}
+          ]
+        },
+        {
+          "question": "2706. SON SUJETOS DE PROTECCIÓN DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIÉNDASE COMO TALES A:",
+          "options": [
+            {"text": "VECINOS.", "correct": false},
+            {"text": "COMPAÑEROS.", "correct": false},
+            {"text": "PADRINOS.", "correct": false},
+            {"text": "PADRASTROS.", "correct": true},
+            {"text": "COLEGAS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2707. SON SUJETOS DE PROTECCIÓN DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIÉNDASE COMO TALES A:",
+          "options": [
+            {"text": "VECINAS.", "correct": false},
+            {"text": "MADRASTRAS.", "correct": true},
+            {"text": "COMPAÑERAS.", "correct": false},
+            {"text": "PROMOCIONES.", "correct": false},
+            {"text": "COLEGAS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2708. SON SUJETOS DE PROTECCIÓN DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIÉNDASE COMO TALES A:",
+          "options": [
+            {"text": "AMISTADES Y ASCENDIENTES.", "correct": false},
+            {"text": "ASCENDIENTES Y DESCENDIENTES POR CONSANGUINIDAD.", "correct": true},
+            {"text": "ASCENDIENTES Y COMPAÑEROS.", "correct": false},
+            {"text": "DESCENDIENTES Y VECINOS.", "correct": false},
+            {"text": "ASCENDIENTES Y COLEGAS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2709. SON SUJETOS DE PROTECCIÓN DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIÉNDASE COMO TALES A:",
+          "options": [
+            {"text": "LOS PARIENTES DE LOS EXCÓNYUGES Y CONVIVIENTES HASTA EL CUARTO GRADO DE CONSANGUINIDAD Y SEGUNDO DE AFINIDAD.", "correct": false},
+            {"text": "LOS PARIENTES COLATERALES DE LOS CÓNYUGES Y CONVIVIENTES HASTA EL CUARTO GRADO DE CONSANGUINIDAD Y PRIMERO DE AFINIDAD.", "correct": false},
+            {"text": "LOS PARIENTES COLATERALES DE LOS CÓNYUGES Y EXCONVIVIENTES HASTA EL CUARTO GRADO DE CONSANGUINIDAD Y SEGUNDO DE AFINIDAD.", "correct": false},
+            {"text": "LOS PARIENTES COLATERALES HASTA EL CUARTO GRADO DE CONSAGUINIDAD Y SEGUNDO DE AFINIDAD.", "correct": true},
+            {"text": "LOS PARIENTES COLATERALES DE LOS CÓNYUGES Y CONVIVIENTES HASTA EL TERCER GRADO DE CONSANGUINIDAD Y SEGUNDO DE AFINIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2710. SON SUJETOS DE PROTECCIÓN DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIÉNDASE COMO TALES A:",
+          "options": [
+            {"text": "LOS PARIENTES COLATERALES DE LOS CÓNYUGES Y CONVIVIENTES HASTA EL PRIMER GRADO DE CONSANGUINIDAD Y SEGUNDO DE AFINIDAD.", "correct": false},
+            {"text": "LOS PARIENTES COLATERALES DE LOS CÓNYUGES Y CONVIVIENTES HASTA EL CUARTO GRADO DE CONSANGUINIDAD Y SEGUNDO DE AFINIDAD.", "correct": true},
+            {"text": "LOS PARIENTES COLATERALES DE LOS CÓNVIVIENTES Y EXCONVIVIENTES HASTA EL CUARTO GRADO DE CONSANGUINIDAD Y SEGUNDO DE AFINIDAD.", "correct": false},
+            {"text": "LOS PARIENTES COLATERALES DE LOS CÓNYUGES Y CONVIVIENTES HASTA EL QUINTO GRADO DE CONSANGUINIDAD Y SEGUNDO DE AFINIDAD.", "correct": false},
+            {"text": "LOS PARIENTES COLATERALES DE LOS CÓNYUGES Y CONVIVIENTES HASTA EL TERCER GRADO DE CONSANGUINIDAD Y SEGUNDO DE AFINIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2711. SON SUJETOS DE PROTECCIÓN DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIÉNDASE COMO TALES A LOS QUE:",
+          "options": [
+            {"text": "HABITAN EN DIFERENTE HOGAR, SIEMPRE QUE NO MEDIEN RELACIONES CONTRACTUALES O LABORALES.", "correct": false},
+            {"text": "HABITAN EN EL MISMO HOGAR, SIEMPRE QUE NO MEDIEN RELACIONES CONTRACTUALES O LABORALES.", "correct": true},
+            {"text": "HABITAN EN EL MISMO HOGAR, SIEMPRE QUE MEDIEN RELACIONES CONTRACTUALES O LABORALES.", "correct": false},
+            {"text": "HABITAN EN EL MISMO HOGAR, SIEMPRE QUE NO MEDIEN RELACIONES CONTRACTUALES Y CAPITALES.", "correct": false},
+            {"text": "HABITAN EN EL MISMO HOGAR, SIEMPRE QUE NO MEDIEN RELACIONES CONTRACTUALES O FUNDAMENTALES.", "correct": false}
+          ]
+        },
+        {
+          "question": "2712. ¿CUÁLES SON LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR?",
+          "options": [
+            {"text": "FÍSICA, PSICOLÓGICA Y SEXUAL.", "correct": false},
+            {"text": "FÍSICA, PSICOLÓGICA, SEXUAL Y ECONÓMICA O PATRIMONIAL.", "correct": true},
+            {"text": "PSÍQUICA, PSICOLÓGICA, SEXUAL Y ECONÓMICA O PATRIMONIAL.", "correct": false},
+            {"text": "FÍSICA, PSICOLÓGICA, SEXUAL Y ECONÓMICA.", "correct": false},
+            {"text": "FÍSICA, PSICOLÓGICA, SEXUAL Y PATRIMONIAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2713. ES LA ACCIÓN O CONDUCTA, QUE CAUSA DAÑO A LA INTEGRIDAD CORPORAL O A LA SALUD, SE REFIERE A:",
+          "options": [
+            {"text": "VIOLENCIA FÍSICA.", "correct": true},
+            {"text": "VIOLENCIA PSICOLÓGICA.", "correct": false},
+            {"text": "VIOLENCIA SEXUAL.", "correct": false},
+            {"text": "VIOLENCIA ECONÓMICA.", "correct": false},
+            {"text": "VIOLENCIA PATRIMONIAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2714. ES LA ACCIÓN O CONDUCTA, TENDIENTE A CONTROLAR O AISLAR A LA PERSONA CONTRA SU VOLUNTAD, A HUMILLARLA O AVERGONZARLA, SE REFIERE A:",
+          "options": [
+            {"text": "VIOLENCIA PSICOLÓGICA.", "correct": true},
+            {"text": "VIOLENCIA FÍSICA.", "correct": false},
+            {"text": "VIOLENCIA ECONÓMICA.", "correct": false},
+            {"text": "VIOLENCIA PATRIMONIAL.", "correct": false},
+            {"text": "VIOLENCIA SEXUAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2715. COMETEN CONTRA UNA PERSONA SIN SU CONSENTIMIENTO O BAJO COACCIÓN. INCLUYEN ACTOS QUE NO INVOLUCRAN PENETRACIÓN O CONTACTO FÍSICO, SE REFIERE A:",
+          "options": [
+            {"text": "VIOLENCIA SEXUAL.", "correct": true},
+            {"text": "VIOLENCIA ECONÓMICA.", "correct": false},
+            {"text": "VIOLENCIA PSICOLÓGICA.", "correct": false},
+            {"text": "VIOLENCIA PATRIMONIAL.", "correct": false},
+            {"text": "VIOLENCIA FÍSICA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2716. EN LA VIOLENCIA SEXUAL SE CONSIDERAN TALES, LA EXPOSICIÓN A MATERIAL:",
+          "options": [
+            {"text": "PORNOGRÁFICO.", "correct": true},
+            {"text": "ESCABROSO.", "correct": false},
+            {"text": "ECONÓMICA.", "correct": false},
+            {"text": "REPRODUCTIVA.", "correct": false},
+            {"text": "PATRIMONIAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2717. EN LA VIOLENCIA SEXUAL SE CONSIDERAN TALES LA EXPOSICIÓN A MATERIAL PORNOGRÁFICO Y QUE VULNERAN EL DERECHO DE LAS PERSONAS A DECIDIR VOLUNTARIAMENTE ACERCA DE SU VIDA SEXUAL O REPRODUCTIVA, A TRAVÉS DE:",
+          "options": [
+            {"text": "AMENAZAS.", "correct": true},
+            {"text": "DEFENSAS.", "correct": false},
+            {"text": "PROTECCIÓN.", "correct": false},
+            {"text": "ENGAÑO.", "correct": false},
+            {"text": "CONTROVERSIAS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2718. EN LA VIOLENCIA SEXUAL SE CONSIDERAN TALES LA EXPOSICIÓN A MATERIAL PORNOGRÁFICO Y QUE VULNERAN EL DERECHO DE LAS PERSONAS A DECIDIR VOLUNTARIAMENTE ACERCA DE SU VIDA SEXUAL O REPRODUCTIVA, A TRAVÉS DE:",
+          "options": [
+            {"text": "COERCIÓN.", "correct": true},
+            {"text": "EXTORSIÓN.", "correct": false},
+            {"text": "SECUESTRO.", "correct": false},
+            {"text": "ASTUCIA.", "correct": false},
+            {"text": "ARDID.", "correct": false}
+          ]
+        },
+        {
+          "question": "2719. EN LA VIOLENCIA SEXUAL SE CONSIDERAN TALES LA EXPOSICIÓN A MATERIAL PORNOGRÁFICO Y QUE VULNERAN EL DERECHO DE LAS PERSONAS A DECIDIR VOLUNTARIAMENTE ACERCA DE SU VIDA SEXUAL O REPRODUCTIVA, A TRAVÉS DEL USO DE LA FUERZA O:",
+          "options": [
+            {"text": "INTIMIDACIÓN.", "correct": true},
+            {"text": "POTENCIA.", "correct": false},
+            {"text": "CONTROL.", "correct": false},
+            {"text": "SATISFACCIÓN.", "correct": false},
+            {"text": "REFUERZO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2720. LA VIOLENCIA ECONÓMICA O PATRIMONIAL ES LA ACCIÓN U OMISIÓN QUE SE DIRIGE A OCASIONAR UN MENOSCABO EN LOS RECURSOS ECONÓMICOS O PATRIMONIALES DE CUALQUIER PERSONA, A TRAVÉS DE LA PERTURBACIÓN DE LA POSESIÓN:",
+          "options": [
+            {"text": "TENENCIA O PROPIEDAD DE SUS BIENES.", "correct": true},
+            {"text": "TENENCIA DE SUS ESCRITURAS.", "correct": false},
+            {"text": "APROPIACIÓN DE SUS BIENES.", "correct": false},
+            {"text": "TENENCIA ILEGAL DE SUS BIENES.", "correct": false},
+            {"text": "TENENCIA DE SUS PROPIEDADES.", "correct": false}
+          ]
+        },
+        {
+          "question": "2721. LA VIOLENCIA ECONÓMICA O PATRIMONIAL ES LA ACCIÓN U OMISIÓN QUE SE DIRIGE A OCASIONAR UN MENOSCABO EN LOS RECURSOS ECONÓMICOS O PATRIMONIALES DE CUALQUIER PERSONA, A TRAVÉS DE LA LIMITACIÓN O CONTROL DE SUS:",
+          "options": [
+            {"text": "INGRESOS.", "correct": true},
+            {"text": "LIQUIDACIONES.", "correct": false},
+            {"text": "REMATES.", "correct": false},
+            {"text": "PAGOS.", "correct": false},
+            {"text": "ARBITRIOS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2722. LA VIOLENCIA ECONÓMICA O PATRIMONIAL ES LA ACCIÓN U OMISIÓN QUE SE DIRIGE A OCASIONAR UN MENOSCABO EN LOS RECURSOS ECONÓMICOS O PATRIMONIALES DE CUALQUIER PERSONA, A TRAVÉS DE LA EVASIÓN DEL CUMPLIMIENTO DE SUS:",
+          "options": [
+            {"text": "OBLIGACIONES ALIMENTARIAS.", "correct": true},
+            {"text": "FUNCIONES ALIMENTARIAS.", "correct": false},
+            {"text": "ATRIBUCIONES ALIMENTARIAS.", "correct": false},
+            {"text": "CAPACIDADES ALIMENTARIAS.", "correct": false},
+            {"text": "REPARTICIONES ALIMENTARIAS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2723. SON COMPETENTES POR ACTOS DE VIOLENCIA CONTRA LAS MUJERES O CONTRA LOS INTEGRANTES DEL GRUPO FAMILIAR:",
+          "options": [
+            {"text": "JUZGADOS EN LO PENAL.", "correct": false},
+            {"text": "JUEZ COMPETENTE.", "correct": false},
+            {"text": "CORTE SUPERIOR.", "correct": false},
+            {"text": "JUZGADOS EN LO CIVIL.", "correct": false},
+            {"text": "JUZGADOS DE FAMILIA.", "correct": true}
+          ]
+        },
+        {
+          "question": "2724. CUANDO SE TRATA DE UNA DENUNCIA VERBAL, SE LEVANTA ACTA SIN OTRA EXIGENCIA QUE LA DE:",
+          "options": [
+            {"text": "SUMINISTRAR UNA SUCINTA RELACIÓN DE LOS HECHOS.", "correct": true},
+            {"text": "DISPONER UNA SUCINTA RELACIÓN DE LOS HECHOS.", "correct": false},
+            {"text": "CLASIFICAR UNA SUCINTA RELACIÓN DE LOS HECHOS.", "correct": false},
+            {"text": "COORDINAR UNA SUCINTA RELACIÓN DE LOS HECHOS.", "correct": false},
+            {"text": "ADMINISTRAR UNA SUCINTA RELACIÓN DE LOS HECHOS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2725. LA DENUNCIA PUEDE SER INTERPUESTA POR LA PERSONA PERJUDICADA O POR CUALQUIER OTRA EN SU FAVOR, SIN NECESIDAD DE TENER SU:",
+          "options": [
+            {"text": "REPRESENTACIÓN.", "correct": true},
+            {"text": "TESTIGO.", "correct": false},
+            {"text": "INFORMANTE.", "correct": false},
+            {"text": "DECLARANTE.", "correct": false},
+            {"text": "MANIFESTANTE.", "correct": false}
+          ]
+        },
+        {
+          "question": "2726. ¿CUÁLES SON LAS MEDIDAS DE PROTECCIÓN QUE PUEDEN DICTARSE EN LOS PROCESOS POR ACTOS DE VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR?",
+          "options": [
+            {"text": "RETIRO DEL AGRESOR DEL DOMICILIO.", "correct": true},
+            {"text": "RETENCIÓN DEL AGRESOR DEL TRABAJO.", "correct": false},
+            {"text": "PROHIBICIÓN DEL DERECHO DE TENENCIA Y PORTE DE ARMAS PARA EL AGRESOR.", "correct": false},
+            {"text": "PROHIBICIÓN DEL DERECHO DE TENENCIA Y PORTE DE ARMAS CORTAS PARA EL AGRESOR.", "correct": false},
+            {"text": "IMPEDIMENTO DE ACERCAMIENTO O PROXIMIDAD A LA VÍCTIMA EN CUALQUIER FORMA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2727. ¿CUÁLES SON LAS MEDIDAS DE PROTECCIÓN QUE PUEDEN DICTARSE EN LOS PROCESOS POR ACTOS DE VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR?",
+          "options": [
+            {"text": "IMPEDIMENTO DE ACERCAMIENTO O PROXIMIDAD A LA VÍCTIMA EN CUALQUIER FORMA.", "correct": true},
+            {"text": "RETENCIÓN DEL AGRESOR DEL TRABAJO.", "correct": false},
+            {"text": "PROHIBICIÓN DEL DERECHO DE TENENCIA Y PORTE DE ARMAS PARA EL AGRESOR.", "correct": false},
+            {"text": "RETIRADA DEL AGRESOR DEL DOMICILIO.", "correct": false},
+            {"text": "PROHIBICIÓN DEL DERECHO DE TENENCIA Y PORTE DE ARMAS CORTAS PARA EL AGRESOR.", "correct": false}
+          ]
+        },
+        {
+          "question": "2728. ¿CUÁLES SON LAS MEDIDAS DE PROTECCIÓN QUE PUEDEN DICTARSE EN LOS PROCESOS POR ACTOS DE VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR?",
+          "options": [
+            {"text": "PROHIBICIÓN DEL DERECHO DE TENENCIA Y PORTE DE ARMAS PARA EL AGRESOR.", "correct": true},
+            {"text": "RETENCIÓN DEL AGRESOR DEL TRABAJO.", "correct": false},
+            {"text": "IMPEDIMENTO DE ACERCAMIENTO O PROXIMIDAD A LA VÍCTIMA EN CUALQUIER FORMA.", "correct": false},
+            {"text": "RETIRADA DEL AGRESOR DEL DOMICILIO.", "correct": false},
+            {"text": "PROHIBICIÓN DEL DERECHO DE TENENCIA Y PORTE DE ARMAS BLANCAS PARA EL AGRESOR.", "correct": false}
+          ]
+        },
+        {
+          "question": "2729. TIENE COMO OBJETIVO CONTRIBUIR A LA INTERVENCION ARTICULADA Y MULTIDISCIPLINARIA A TRAVES DE UN SISTEMA INTEGRAL CONTINUO DE ESPECIALIZACION Y PERFECCIONAMIENTO DE LOS OPERADORES EN EL ROL QUE LE COMPETE EN LA LUCHA INTEGRAL CONTRA LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, PARA UNA ATENCION OPORTUNA Y EFECTIVA, INCLUYENDO LA EVALUACION DE SU IMPACTO:",
+          "options": [
+            {"text": "EL CENTRO DE ALTOS ESTUDIOS CONTRA LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, BAJO LA DIRECCION DEL MINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES.", "correct": true},
+            {"text": "LA ACADEMIA DE ESTUDIOS CONTRA LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, BAJO LA DIRECCION DEL MINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES.", "correct": false},
+            {"text": "EL CENTRO DE FORMACION GRUPAL CONTRA LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, BAJO LA DIRECCION DEL MINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES.", "correct": false},
+            {"text": "EL CENTRO DE EVALUACION DE ESTUDIOS CONTRA LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, BAJO LA DIRECCION DEL MINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES.", "correct": false},
+            {"text": "EL CENTRO DE ANALISIS Y ESTUDIOS CONTRA LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, BAJO LA DIRECCION DEL MINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES.", "correct": false}
+          ]
+        },
+        {
+          "question": "2730. RESPONSABILIDADES SECTORIALES.- ESTABLECER, A TRAVES DE SUS ORGANOS DE LINEA, APOYO Y CONTROL, LAS PAUTAS Y LINEAMIENTOS TECNICOS PARA LA ADECUADA EJECUCION, SUPERVISION Y CONTROL DE LAS DISPOSICIONES DE PREVENCION, ATENCION Y PROTECCION CONTRA LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, EN CUMPLIMIENTO DE LAS FUNCIONES DEL SECTOR INTERIOR CON ESPECIAL PARTICIPACION DE LA DIRECCION EJECUTIVA DE SEGURIDAD CIUDADANA DE LA POLICIA NACIONAL DEL PERU COMO EL ORGANO TECNICO ESPECIALIZADO EN LA RECEPCION DE DENUNCIAS E INVESTIGACION DE CASOS DE VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, CORRESPONDE AL:",
+          "options": [
+            {"text": "MINISTERIO DEL INTERIOR.", "correct": true},
+            {"text": "MINISTERIO DE SALUD.", "correct": false},
+            {"text": "POLICIA NACIONAL DEL PERU.", "correct": false},
+            {"text": "MINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES.", "correct": false},
+            {"text": "MINISTERIO DE JUSTICIA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2731. PROHIBICION DE COMUNICACION CONTRA LA VICTIMA VIA EPISTOLAR, TELEFONICA, ELECTRONICA; ASIMISMO, VIA CHAT, REDES SOCIALES, RED INSTITUCIONAL, INTRANET U OTRAS REDES O FORMAS DE COMUNICACION, CONTITUYE UNA:",
+          "options": [
+            {"text": "MEDIDA DE COLABORACION.", "correct": false},
+            {"text": "MEDIDA POLICIAL.", "correct": false},
+            {"text": "MEDIDA DE PROTECCION.", "correct": true},
+            {"text": "MEDIDA RESTRICTIVA.", "correct": false},
+            {"text": "MEDIDA ACUSATORIA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2732. ES RESPONSABLE DE EJECUTAR LAS MEDIDAS DE PROTECCION DICTADAS, PARA LO CUAL DEBE TENER UN MAPA GRAFICO Y GEORREFERENCIAL DE REGISTRO DE TODAS LAS VICTIMAS CON LAS MEDIDAS DE PROTECCION QUE LES HAYAN SIDO NOTIFICADAS:",
+          "options": [
+            {"text": "PUBLICO EL MINISTERIO.", "correct": false},
+            {"text": "EL PODER JUDICIAL.", "correct": false},
+            {"text": "EL DEFENSOR DEL PUEBLO.", "correct": false},
+            {"text": "LA POLICIA NACIONAL DEL PERU.", "correct": true},
+            {"text": "EL PROCURADOR PUBLICO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2733. EL QUE DESOBEDECE, INCUMPLE O RESISTE A UNA MEDIDA DE PROTECCION DICTADA EN UN PROCESO ORIGINADO POR HECHOS QUE CONFIGURAN ACTOS DE VIOLENCIA CONTRA LAS MUJERES O CONTRA INTEGRANTES DEL GRUPO FAMILIAR, COMETE DELITO DE RESISTENCIA O DESOBEDIENCIA A LA AUTORIDAD PREVISTO EN EL:",
+          "options": [
+            {"text": "CODIGO PROCESAL PENAL.", "correct": false},
+            {"text": "CODIGO CIVIL.", "correct": false},
+            {"text": "CODIGO LABORAL.", "correct": false},
+            {"text": "CODIGO PROCESAL CONSTITUCIONAL.", "correct": false},
+            {"text": "CODIGO PENAL.", "correct": true}
+          ]
+        },
+        {
+          "question": "2734. EN LOS PROCESOS POR VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, LOS CERTIFICADOS DE SALUD FISICA Y MENTAL QUE EXPIDAN LOS MEDICOS DE LOS ESTABLECIMIENTOS PUBLICOS DE SALUD DE LOS DIFERENTES SECTORES E INSTITUCIONES DEL ESTADO Y NIVELES DE GOBIERNO, TIENEN:",
+          "options": [
+            {"text": "VALOR REFERENCIAL ACERCA DEL ESTADO DE SALUD FISICA Y MENTAL.", "correct": false},
+            {"text": "VALOR ACUSATORIO ACERCA DEL ESTADO DE SALUD FISICA Y MENTAL.", "correct": false},
+            {"text": "VALOR SIMPLE ACERCA DEL ESTADO DE SALUD FISICA Y MENTAL.", "correct": false},
+            {"text": "VALOR PROBATORIO ACERCA DEL ESTADO DE SALUD FISICA Y MENTAL.", "correct": true},
+            {"text": "VALOR UNICO ACERCA DEL ESTADO DE SALUD FISICA Y MENTAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2735. ES OBLIGACION IMPLEMENTAR, EN COORDINACION CON EL MINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES, SERVICIOS DE ATENCION E INTERVENCION PARA VARONES Y PERSONAS AGRESORAS:",
+          "options": [
+            {"text": "LOS GOBIERNOS REGIONALES.", "correct": false},
+            {"text": "EL GOBIERNO NACIONAL.", "correct": false},
+            {"text": "LOS GOBIERNOS LOCALES.", "correct": true},
+            {"text": "EL MINISTERIO PUBLICO.", "correct": false},
+            {"text": "LA POLICIA NACIONAL DEL PERU.", "correct": false}
+          ]
+        },
+        {
+          "question": "2736. EN LOS PROCESOS POR DELITOS VINCULADOS A ACTOS DE VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, LOS JUZGADOS PENALES DEBEN PRONUNCIARSE EN LA SENTENCIA CONDENATORIA ACERCA DEL TRATAMIENTO ESPECIALIZADO PARA EL AGRESOR QUE NO CUMPLA PENA:",
+          "options": [
+            {"text": "PRIVATIVA DE LIBERTAD EFECTIVA.", "correct": true},
+            {"text": "PENA RESTRICTIVA DE LA LIBERTAD.", "correct": false},
+            {"text": "PENA LIMITATIVA DE DERECHOS.", "correct": false},
+            {"text": "PRIVATIVA DE LIBERTAD INCONDICIONAL.", "correct": false},
+            {"text": "PRIVATIVA DE LIBERTAD CONDICIONAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2737. IMPEDIMENTO DE ACERCAMIENTO O PROXIMIDAD A LA VICTIMA EN CUALQUIER FORMA, A SU DOMICILIO, CENTRO DE TRABAJO, CENTRO DE ESTUDIOS, LUGAR DE ESPARCIMIENTO U OTROS DONDE AQUELLA REALICE SUS ACTIVIDADES COTIDIANAS DE HABITUAL CONCURRENCIA, A UNA DISTANCIA IDÓNEA, DETERMINADA POR LA AUTORIDAD JUDICIAL, PARA GARANTIZAR SU SEGURIDAD E INTEGRIDAD, CONSTITUYE UNA:",
+          "options": [
+            {"text": "MEDIDA DE COLABORACION.", "correct": false},
+            {"text": "MEDIDA DE PROTECCION.", "correct": true},
+            {"text": "MEDIDA POLICIAL.", "correct": false},
+            {"text": "MEDIDA RESTRICTIVA.", "correct": false},
+            {"text": "MEDIDA ACUSATORIA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2738. EL RETIRO DEL AGRESOR DEL DOMICILIO, CONSTITUYE UNA:",
+          "options": [
+            {"text": "MEDIDA DE PROTECCION.", "correct": true},
+            {"text": "MEDIDA DE COLABORACION.", "correct": false},
+            {"text": "MEDIDA POLICIAL.", "correct": false},
+            {"text": "MEDIDA RESTRICTIVA.", "correct": false},
+            {"text": "MEDIDA ACUSATORIA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2739. EN LOS PROCESOS ORIGINADOS POR HECHOS QUE CONSTITUYEN ACTOS DE VIOLENCIA CONTRA LAS MUJERES O CONTRA LOS INTEGRANTES DEL GRUPO FAMILIAR COMETE DELITO SANCIONADO EN LOS:",
+          "options": [
+            {"text": "ABUSA O RETARDA ALGUN ACTO A SU CARGO.", "correct": false},
+            {"text": "REHUSA O ABUSA ALGUN ACTO A SU CARGO.", "correct": false},
+            {"text": "EXIGE O RETARDA ALGUN ACTO A SU CARGO.", "correct": false},
+            {"text": "REHUSA O EXIGE ALGUN ACTO A SU CARGO.", "correct": false},
+            {"text": "REHUSA O RETARDA ALGUN ACTO A SU CARGO.", "correct": true}
+          ]
+        },
+        {
+          "question": "2740. CUANDO LA VICTIMA SEA NIÑA, NIÑO, ADOLESCENTE O MUJER, SU DECLARACION DEBE PRACTICARSE BAJO LA TECNICA DE ENTREVISTA:",
+          "options": [
+            {"text": "REITERADA.", "correct": false},
+            {"text": "UNICA.", "correct": true},
+            {"text": "SIMPLE.", "correct": false},
+            {"text": "COMPLEJA.", "correct": false},
+            {"text": "MULTIPLE.", "correct": false}
+          ]
+        },
+        {
+          "question": "2741. LA SENTENCIA QUE PONGA FIN AL PROCESO POR DELITOS VINCULADOS A HECHOS QUE CONTITUYEN ACTOS DE VIOLENCIA CONTRA LA MUJER Y LOS INTEGRANTES DEL GRUPO FAMILIAR PUEDE SER:",
+          "options": [
+            {"text": "ABSOLUTORIA O CONDENATORIA.", "correct": true},
+            {"text": "REPARADORA O REHABILITADORA.", "correct": false},
+            {"text": "REPARADORA O CONDENATORIA.", "correct": false},
+            {"text": "REHABILITADORA O ABSOLUTORA.", "correct": false},
+            {"text": "CONDENATORIA O REHABILITADORA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2742. ES LA ACCIÓN U OMISIÓN QUE OCASIONA UN MENOSCABO EN LOS RECURSOS ECONÓMICOS O PATRIMONIALES DE LAS MUJERES POR SU CONDICIÓN DE TALES O CONTRA CUALQUIER INTEGRANTE DEL GRUPO FAMILIAR, EN EL MARCO DE RELACIONES DE PODER, RESPONSABILIDAD O CONFIANZA, A TRAVES DE LA PERTURBACIÓN DE LA POSESIÓN, TENENCIA O PROPIEDAD DE SUS BIENESES, UN TIPO DE:",
+          "options": [
+            {"text": "VIOLENCIA FISICA.", "correct": false},
+            {"text": "VIOLENCIA PSICOLOGICA.", "correct": false},
+            {"text": "VIOLENCIA SEXUAL.", "correct": false},
+            {"text": "VIOLENCIA ECONOMICA O PATRIMONIAL.", "correct": true},
+            {"text": "VIOLENCIA DOMESTICA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2743. LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR TIENEN DERECHO A UNA VIDA LIBRE DE VIOLENCIA, A SER VALORADOS Y EDUCADOS, A ESTAR LIBRES DE TODA FORMA DE DISCRIMINACION, ESTIGMATIZACION Y DE PATRONES ESTERIOTIPADOS DE COMPORTAMIENTOS, PRACTICAS SOCIALES Y CULTURALES BASADAS EN CONCEPTOS DE:",
+          "options": [
+            {"text": "INFERIORIDAD Y SUBORDINACION.", "correct": true},
+            {"text": "SUPERIORIDAD Y SUBORDINACION.", "correct": false},
+            {"text": "INFERIORIDAD Y SUPERIORIDAD.", "correct": false},
+            {"text": "RESPONSABILIDAD Y SUBORDINACION.", "correct": false},
+            {"text": "RESPONSABILIDAD Y OBLIGACION.", "correct": false}
+          ]
+        },
+        {
+          "question": "2744. ES LA ACCION O CONDUCTA, QUE CAUSA DAÑO A LA INTEGRIDAD CORPORAL O A LA SALUD. SE INCLUYE EL MALTRATO POR NEGLIGENCIA, DESCUIDO O PRIVACION DE LAS NECESIDADES BASICAS, QUE HAYAN OCASIONADO DAÑO FISICO O QUE PUEDAN LLEGAR A OCASIONARLO, SIN IMPORTAR EL TIEMPO QUE SE REQUIERA PARA SU RECUPERACION, ES UN TIPO DE:",
+          "options": [
+            {"text": "VIOLENCIA FISICA.", "correct": true},
+            {"text": "VIOLENCIA PSICOLOGICA.", "correct": false},
+            {"text": "VIOLENCIA SEXUAL.", "correct": false},
+            {"text": "VIOLENCIA ECONOMICA O PATRIMONIAL.", "correct": false},
+            {"text": "VIOLENCIA DOMESTICA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2745. ES LA ACCION U OMISION, TENDIENTE A CONTROLAR O AISLAR A LA PERSONA CONTRA SU VOLUNTAD, A HUMILLARLA, AVERGONZARLA, INSULTARLA, ESTIGMATIZARLA, O ESTERIOTIPARLA, SIN IMPORTAR EL TIPO QUE REQUIERA PARA SU RECUPERACION, ES UN TIPO DE:",
+          "options": [
+            {"text": "VIOLENCIA FISICA.", "correct": false},
+            {"text": "VIOLENCIA PSICOLOGICA.", "correct": true},
+            {"text": "VIOLENCIA SEXUAL.", "correct": false},
+            {"text": "VIOLENCIA ECONOMICA O PATRIMONIAL.", "correct": false},
+            {"text": "VIOLENCIA DOMESTICA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2746. EL ESTADO DEBE BRINDAR ASISTENCIA JURIDICA, EN FORMA INMEDIATA, GRATUITA, ESPECIALIZADA Y EN SU PROPIA LENGUA, A TODAS LAS VICTIMAS DE VIOLENCIA, DEBIENDO PROPORCIONARLES LOS SERVICIOS DE DEFENSA PUBLICA PARA GARANTIZAR EL EFECTIVO EJERCICIO DE SUS DERECHOS, CONSTITUYE EL DERECHO DE:",
+          "options": [
+            {"text": "ACCESO A LA INFORMACION.", "correct": false},
+            {"text": "ASISTENCIA JURIDICA Y DEFENSA PUBLICA.", "correct": true},
+            {"text": "PROMOCION, PREVENCION, Y ATENCION DE SALUD.", "correct": false},
+            {"text": "ATENCION SOCIAL.", "correct": false},
+            {"text": "ASISTENCIA ECONOMICA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2747. LAS VICTIMAS DE VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR TIENEN DERECHO A RECIBIR PLENA INFORMACION Y ASESORAMIENTO ADECUADO CON RELACION A SU SITUACION PERSONAL, A TRAVES DE LOS SERVICIOS, ORGANISMOS U OFICINAS DEL ESTADO DE SUS 3 NIVELES DE GOBIERNO Y CONFORME A SUS NECESIDADES PARTICULARES, CONSTITUYE EL DERECHO DE:",
+          "options": [
+            {"text": "ACCESO A LA INFORMACION.", "correct": true},
+            {"text": "ASISTENCIA JURIDICA Y DEFENSA PUBLICA.", "correct": false},
+            {"text": "PROMOCION, PREVENCION Y ATENCION DE SALUD.", "correct": false},
+            {"text": "ATENCION SOCIAL.", "correct": false},
+            {"text": "ASISTENCIA ECONOMICA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2748. VINCULADO A ACTOS DE VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, LA POLICIA NACIONAL DEL PERU PROCEDE A LA INMEDIATA DETENCION DEL AGRESOR, INCLUSO ALLANANDO SU DOMICIO O LUGAR DONDE ESTEN OCURRIENDO LOS HECHOS, EN CASO DE:",
+          "options": [
+            {"text": "FLAGRANTE DELITO.", "correct": true},
+            {"text": "DENUNCIA DE PARTE.", "correct": false},
+            {"text": "SOSPECHA DE AGRESION.", "correct": false},
+            {"text": "APARENTE DELITO.", "correct": false},
+            {"text": "SINDICACION DEL TESTIGO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2749. EN LA ACTUACION DE LOS OPERADORES DE JUSTICIA, ORIGINADA POR HECHOS QUE CONSTITUYEN ACTOS DE VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, SE EVITA LA:",
+          "options": [
+            {"text": "REITERADA VICTIMIZACION DE LAS PERSONAS AGRAVIADAS.", "correct": false},
+            {"text": "DOBLE VICTIMIZACION DE LAS PERSONAS AGRAVIADAS.", "correct": true},
+            {"text": "MULTIPLE VICTIMIZACION DE LAS PERSONAS AGRAVIADAS.", "correct": false},
+            {"text": "SIMPLE VICTIMIZACION DE LAS PERSONAS AGRAVIADAS.", "correct": false},
+            {"text": "APARENTE VICTIMIZACION DE LAS PERSONAS AGRAVIADAS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2750. SON COMPETENTES PARA CONOCER LAS DENUNCIAS POR ACTOS DE VIOLENCIA CONTRA LAS MUJERES O CONTRA LOS INTEGRANTES DEL GRUPO FAMILIAR, LOS:",
+          "options": [
+            {"text": "JUZGADOS LABORALES.", "correct": false},
+            {"text": "JUZGADOS PENALES.", "correct": false},
+            {"text": "JUZGADOS DE FAMILIA.", "correct": true},
+            {"text": "JUZGADOS CONTENCIOSOS.", "correct": false},
+            {"text": "JUZGADOS COMERCIALES.", "correct": false}
+          ]
+        },
+        {
+          "question": "2751. LA DENUNCIA POR ACTOS DE VIOLENCIA CONTRA LAS MUJERES TAMBIEN PUEDE INTERPONERLA:",
+          "options": [
+            {"text": "EL MINISTERIO PUBLICO.", "correct": false},
+            {"text": "EL PROCURADOR PUBLICO.", "correct": false},
+            {"text": "EL DEFENSOR DEL POLICIA.", "correct": false},
+            {"text": "LA DEFENSORIA DEL PUEBLO.", "correct": true},
+            {"text": "EL FUNCIONARIO POLICIAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2752. LAS DENUNCIAS POR ACTOS DE VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR SE REGULAN POR LAS NORMAS PREVISTAS EN LA PRESENTE LEY 30364 Y, DE MANERA SUPLETORIA, POR EL:",
+          "options": [
+            {"text": "CODIGO PROCESAL PENAL.", "correct": true},
+            {"text": "CODIGO PENAL.", "correct": false},
+            {"text": "CODIGO CIVIL.", "correct": false},
+            {"text": "CODIGO LABORAL.", "correct": false},
+            {"text": "CODIGO PROCESAL CONSTITUCIONAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2753. A LA JUSTIFICACION DE LAS INASISTENCIAS Y TARDANZAS AL CENTRO DE TRABAJO DERIBADAS A DICHOS ACTOS DE VIOLENCIA, CONSTITUYE:",
+          "options": [
+            {"text": "DERECHO A UNA VIDA LIBRE DE VIOLENCIA.", "correct": false},
+            {"text": "DERECHO A LA ASISTENCIA Y PROTECCION INTEGRALES.", "correct": false},
+            {"text": "DERECHOS LABORALES.", "correct": true},
+            {"text": "DERECHOS EN EL CAMPO DE LA EDUCACION.", "correct": false},
+            {"text": "DERECHOS EN EL CAMPO SOCIAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2754. A LA ATENCION ESPECIALIZADA EN EL AMBITO EDUCATIVO DE LAS SECUELAS DE LA VIOLENCIA, DE MODO QUE EL SERVICIO EDUCATIVO RESPONSA A SUS NECESIDADES SIN DESMEDRO DE LA CALIDAD DEL MISMO, CONSTITUYE:",
+          "options": [
+            {"text": "DERECHO A UNA VIDA LIBRE DE VIOLENCIA.", "correct": false},
+            {"text": "DERECHO A LA ASISTENCIA Y PROTECCION INTEGRALES.", "correct": false},
+            {"text": "DERECHOS LABORALES.", "correct": false},
+            {"text": "DERECHOS EN EL CAMPO DE LA EDUCACION.", "correct": true},
+            {"text": "DERECHOS EN EL CAMPO SOCIAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2755. EL JUEZ A CARGO DEL PROCESO PUEDE, A PEDIDO DE LA VICTIMA Y ATENDIENDO A LA GRAVEDAD DE LA SITUACION, CONCEDER HASTA UN MAXIMO DE 5 MESES CONSECUTIVOS DE SUSPENCION DE LA RELACION LABORAL SIN GOCE DE REMUNERACIONES, CONSTITUYE UN:",
+          "options": [
+            {"text": "DERECHO ECONOMICO.", "correct": false},
+            {"text": "DERECHO FAMILIAR.", "correct": false},
+            {"text": "DERECHO LABORAL.", "correct": true},
+            {"text": "DERECHO PUBLICO.", "correct": false},
+            {"text": "DERECHO PRIVADO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2756. LAS ENTIDADES QUE CONFORMAN EL SISTEMA NACIONAL PARA LA PREVENCION, SANCION Y ERRADICACION DE LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR DESTINAN RECURSOS HUMANOS ESPECIALIZADOS, LOGISTICOS Y PRESUPUESTALES, CON EL OBJETO DE DETECTAR LA VIOLENCIA, ATENDER A LAS VICTIMAS, PROTEGERLAS Y RESTABLECER SUS DERECHOS, CONSTITUYE:",
+          "options": [
+            {"text": "DERECHO A UNA VIDA LIBRE DE VIOLENCIA.", "correct": false},
+            {"text": "DERECHO A LA ASISTENCIA Y LA PROTECCION INTEGRALES.", "correct": true},
+            {"text": "DERECHOS LABORALES.", "correct": false},
+            {"text": "DERECHOS EN EL CAMPO DE LA EDUCACION.", "correct": false},
+            {"text": "DERECHOS EN EL CAMPO SOCIAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2757. RECONOCE QUE EL OBJETIVO PRINCIPAL DE TODA INTERVENCION EN EL MARCO DE ESTA LEY DEBE SER LA REALIZACION DE LOS DERECHOS HUMANOS, IDENTIFICANDO A LOS TITULARES DE DERECHOS Y AQUELLO A LO QUE TIENEN DERECHO CONFORME A SUS PARTICULARES NECESIDADES; IDENTIFICANDO, ASIMISMO, A LOS OBLIGADOS O TITULARES DE DEBERES Y DE LAS OBLIGACIONES QUE LE CORRESPONDEN. SE PROCURA FORTALECER LA CAPACIDAD DE LOS TITULARES DE DERECHOS PARA REIVINDICAR ESTOS Y DE LOS TITULARES DE DEBERES PARA CUMPLIR SUS OBLIGACIONES, CONSTITUYEN EL:",
+          "options": [
+            {"text": "ENFOQUE DE GENERO.", "correct": false},
+            {"text": "ENFOQUE DE INTEGRIDAD.", "correct": false},
+            {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": true},
+            {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2758. LAS DISPOSICIONES DE LA LEY N°30364 SE APLICAN A TODOS LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES POR SU CONDICION DE TALES Y CONTRA LOS INTEGRANTES DEL GRUPO FAMILIAR, CONSTITUYE EL:",
+          "options": [
+            {"text": "EL OBJETO.", "correct": false},
+            {"text": "LOS PRINCIPIOS.", "correct": false},
+            {"text": "LA FINALIDAD.", "correct": false},
+            {"text": "ENFORQUES.", "correct": false},
+            {"text": "EL AMBITO.", "correct": true}
+          ]
+        },
+        {
+          "question": "2759. EL FISCAL O JUEZ A CARGO DE CUALQUIER PROCESO DE VIOLENCIA, DEBE PONDERAR LA PROPORCIONALIDAD ENTRE LA EVENTUAL AFECTACION CAUSADA Y LAS MEDIDAS DE PROTECCION Y DE REHABILITACION A ADOPTARSE. PARA ELLO, DEBE HACER UN JUICIO DE RAZONABILIDAD DE ACUERDO CON LAS CIRCUNSTANCIAS DEL CASO, EMITIENDO DECISIONES QUE PERMITAN PROTEGER EFECTIVAMENTE LA VIDA, LA SALUD Y LA INTEGRIDAD DE LAS VICTIMAS. LA ADOPCION DE ESTAS MEDIDAS SE ADECUA A LAS FASES DEL CICLO DE LA VIOLENCIA Y A LAS DIVERSAS TIPOLOGIAS QUE PRESENTA LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, CONSTITUYE EL:",
+          "options": [
+            {"text": "PRINCIPIO DE RAZONABILIDAD Y PROPORCIONALIDAD.", "correct": true},
+            {"text": "PRINCIPIO DEL INTERES SUPERIOR DEL NIÑO.", "correct": false},
+            {"text": "PRINCIPIO DE LA DEBIDA DILIGENCIA.", "correct": false},
+            {"text": "PRINCIPIO DE INTERVENCION INMEDIATA Y OPORTUNA.", "correct": false},
+            {"text": "PRINCIPIO DE SENCILLEZ Y ORALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2760. RECONOCE LA EXISTENCIA DE CIRCUNSTANCIAS ASIMETRICAS EN LA RELACION ENTRE HOMBRES Y MUJERES, CONSTRUIDAS SOBRE LA BASE DE LAS DIFERENCIAS DE GENERO QUE SE CONSTITUYEN EN UNA DE LAS CAUSAS PRINCIPALES DE LA VIOLENCIA HACIA LAS MUJERES. ESTE ENFOQUE DEBE ORIENTAR EL DISEÑO DE LAS ESTRATEGIAS DE INTERVENCION ORIENTADAS AL LOGRO DE LA IGUALDAD DE OPORTUNIDADES ENTRE HOMBRES Y MUJERES, CONSTITUYE EL:",
+          "options": [
+            {"text": "ENFOQUE DE GENERO.", "correct": true},
+            {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": false},
+            {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2761. LOS OPERADORES DE JUSTICIA Y LA POLICIA NACIONAL DEL PERU, ANTE UN HECHO O AMENAZA DE VIOLENCIA, DEBEN ACTUAR EN FORMA OPORTUNA, SIN DILACION O RAZONES PROCEDIMENTALES, FORMALES O DE OTRA NATURALEZA, DISPONIENDO EL EJERCICIO DE LAS MEDIDAS DE PROTECCION PREVISTAS EN LA LEY Y OTRAS NORMAS, CON LA FINALIDAD DE ATENDER EFECTIVAMENTE A LA VICTIMA, CONSTITUYE EL:",
+          "options": [
+            {"text": "PRINCIPIO DE IGUALDAD Y NO DISCRIMINACION.", "correct": false},
+            {"text": "PRINCIPIO DE INTERES SUPERIOR DEL NIÑO.", "correct": false},
+            {"text": "PRINCIPIO DE LA DEBIDA DILIGENCIA.", "correct": false},
+            {"text": "PRINCIPIO DE INTERVENCION INMEDIATA Y OPORTUNA.", "correct": true},
+            {"text": "PRINCIPIO DE SENCILLEZ Y ORALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2762. EN TODAS LAS MEDIDAS CONCERNIENTES A LAS NIÑAS Y NIÑOS ADOPTADAS POR INSTITUCIONES PUBLICAS O PRIVADAS DE BIENESTAR SOCIAL, LOS TRIBUNALES, LAS AUTORIDADES ADMINISTRATIVAS O LOS ORGANOS LEGISLATIVOS SE DEBE TENER EN CONSIDERACION PRIMORDIAL EL INTERES SUPERIOR DEL NIÑO, CONSTITUYE EL:",
+          "options": [
+            {"text": "PRINCIPIO DE IGUALDAD Y NO DISCRIMINACION.", "correct": false},
+            {"text": "PRINCIPIO DEL INTERES SUPERIOR DEL NIÑO.", "correct": true},
+            {"text": "PRINCIPIO DE LA DEBIDA DILIGENCIA.", "correct": false},
+            {"text": "PRINCIPIO DE INTERVENCION INMEDIATA Y OPORTUNA.", "correct": false},
+            {"text": "PRINCIPIO DE SENCILLEZ Y ORALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2763. PREVENIR, ERRADICAR Y SANCIONAR TODA FORMA DE VIOLENCIA PRODUCIDA EN EL AMBITO PUBLICO Y PRIVADO CONTRA LAS MUJERES POR SU CONDICION DE TALES, Y CONTRA LOS INTEGRANTES DEL GRUPO FAMILIAR, CONSTITUYE EL:",
+          "options": [
+            {"text": "LA FINALIDAD.", "correct": false},
+            {"text": "EL OBJETO.", "correct": true},
+            {"text": "EL AMBITO.", "correct": false},
+            {"text": "ENFOQUES.", "correct": false},
+            {"text": "LOS PRINCIPIOS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2764. EN TODAS LAS MEDIDAS CONCERNIENTES A LAS NIÑAS Y NIÑOS ADOPTADAS POR INSTITUCIONES PUBLICAS O PRIVADAS DE BIENESTAR SOCIAL, LOS TRIBUNALES, LAS AUTORIDADES ADMINISTRATIVAS O LOS ORGANOS LEGISLATIVOS SE DEBE TENER EN CONSIDERACION PRIMORDIAL EL INTERES SUPERIOR DEL NIÑO, CONSTITUYE EL:",
+          "options": [
+            {"text": "PRINCIPIO DE INTERVENCION INMEDIATA Y OPORTUNA.", "correct": false},
+            {"text": "PRINCIPIO DE INTERES SUPERIOR DEL NIÑO.", "correct": true},
+            {"text": "PRINCIPIO DE LA DEBIDA DILIGENCIA.", "correct": false},
+            {"text": "PRINCIPIO DE IGUALDAD Y NO DISCRIMINACION.", "correct": false},
+            {"text": "PRINCIPIO DE SENCILLEZ Y ORALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2765. LAS MEDIDAS ADOPTADAS POR INSTITUCIONES PUBLICAS O PRIVADAS DE BIENESTAR SOCIAL, LOS TRIBUNALES, LAS AUTORIDADES ADMINISTRATIVAS O LOS ORGANOS LEGISLATIVOS DEBEN TENER EN CONSIDERACION PRIMORDIAL EL INTERES SUPERIOR:",
+          "options": [
+            {"text": "DEL TESTIGO.", "correct": false},
+            {"text": "DE LA PERSONA.", "correct": false},
+            {"text": "DE LA JUVENTUD.", "correct": false},
+            {"text": "DEL AGRAVIADO.", "correct": false},
+            {"text": "DEL NIÑO.", "correct": true}
+          ]
+        },
+        {
+          "question": "2766. EL ESTADO ADOPTA SIN DILACIONES, TODAS LAS POLITICAS ORIENTADAS A PREVENIR, SANCIONAR Y ERRADICAR TODA FORMA DE VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR. DEBEN IMPONER LAS SANCIONES CORRESPONDIENTES A LAS AUTORIDADES QUE INCUMPLAN ESTE PRINCIPIO, CONSTITUYE EL:",
+          "options": [
+            {"text": "PRINCIPIO DE SENCILLEZ Y ORALIDAD.", "correct": false},
+            {"text": "PRINCIPIO DE IGUALDAD Y NO DISCRIMINACION.", "correct": false},
+            {"text": "PRINCIPIO DE LA DEBIDA DILIGENCIA.", "correct": true},
+            {"text": "PRINCIPIO DEL INTERES SUPERIOR DEL NIÑO.", "correct": false},
+            {"text": "PRINCIPIO DE INTERVENCION INMEDIATA Y OPORTUNA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2767. LOS OPERADORES DE JUSTICIA Y LA POLICIA NACIONAL DEL PERU, ANTE UN HECHO O AMENAZA DE VIOLENCIA, DEBEN ACTUAR EN FORMA OPORTUNA, SIN DILACION POR RAZONES PROCEDIMENTALES, FORMALES O DE OTRA NATURALEZA, DISPONIENDO EL EJERCICIO DE LAS MEDIDAS DE PROTECCION PREVISTAS EN LA LEY Y OTRAS NORMAS, CON LA FINALIDAD DE ATENDER EFECTIVAMENTE A LA VICTIMA, CONSTITUYE EL:",
+          "options": [
+            {"text": "PRINCIPIO DE INTERVENCION INMEDIATA Y OPORTUNA.", "correct": true},
+            {"text": "PRINCIPIO DE IGUALDAD Y NO DISCRIMINACION.", "correct": false},
+            {"text": "PRINCIPIO DE INTERES SUPERIOR DEL NIÑO.", "correct": false},
+            {"text": "PRINCIPIO DE LA DEBIDA DILIGENCIA.", "correct": false},
+            {"text": "PRINCIPIO DE SENCILLEZ Y ORALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2768. TODOS LOS PROCESOS POR VIOLENCIAS CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR SE DESARROLLAN CONSIDERANDO EL MINIMO DE FORMALISMO, EN ESPACIOS AMIGABLES PARA LAS PRESUNTAS VICTIMAS, FAVORECIENDO QUE ESTAS CONFIEN EN EL SISTEMA Y COLABOREN CON EL PARA UNA ADECUADA SANCION AL AGRESOR Y LA RESTITUCION DE SUS DERECHOS VULNERADOS, CONSTITUYE EL:",
+          "options": [
+            {"text": "PRINCIPIO DE INTERVENCION INMEDIATA Y OPORTUNA.", "correct": false},
+            {"text": "PRINCIPIO DE LA DEBIDA DILIGENCIA.", "correct": false},
+            {"text": "PRINCIPIO DE INTERES SUPERIOR DEL NIÑO.", "correct": false},
+            {"text": "PRINCIPIO DE IGUALDAD Y NO DISCRIMINACION.", "correct": false},
+            {"text": "PRINCIPIO DE SENCILLEZ Y ORALIDAD.", "correct": true}
+          ]
+        },
+        {
+          "question": "2769. ¿A QUE PRINCIPIO RECTOR HACE REFERENCIA EL TEXTO? TODOS LOS PROCESOS POR VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR SE DESARROLLAN CONSIDERANDO EL MINIMO DE FORMALISMO, EN ESPACIOS AMIGABLES PARA LAS PRESUNTAS VICTIMAS.",
+          "options": [
+            {"text": "PRINCIPIO DE LA DEBIDA DILIGENCIA.", "correct": false},
+            {"text": "PRINCIPIO DE IGUALDAD.", "correct": false},
+            {"text": "PRINCIPIO DE SENCILLEZ Y ORALIDAD.", "correct": true},
+            {"text": "PRINCIPIO DE INTERVENCION INMEDIATA Y OPORTUNA.", "correct": false},
+            {"text": "PRINCIPIO DE RAZONABILIDAD Y PROPORCIONALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2770. EL FISCAL O JUEZ A CARGO DE CUALQUIER PROCESO DE VIOLENCIA, DEBE PONDERAR LA PROPORCIONALIDAD ENTRE LA EVENTUAL AFECTACION CAUSADA Y LAS MEDIDAS DE PROTECCION Y DE REHABILITACION A ADOPTARSE. PARA ELLO, DEBE HACER UN JUICIO DE RAZONABILIDAD DE ACUERDO CON LAS CIRCUNSTANCIAS DEL CASO, EMITIENDO DECISIONES QUE PERMITAN PROTEGER EFECTIVAMENTE LA VIDA, LA SALUD Y LA DIGNIDAD DE LAS VICTIMAS. LA ADOPCION DE ESTAS MEDIDAS SE ADECUA A LAS FASES DEL CICLO DE LA VIOLENCIA Y A LAS DIVERSAS TIPOLOGIAS QUE PRESENTA LA VIOLENCIA CONTRA LAS MUEJRES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, CONSTITUYE EL:",
+          "options": [
+            {"text": "PRINCIPIO DE RAZONABILIDAD Y PROPORCIONALIDAD.", "correct": true},
+            {"text": "PRINCIPIO DEL INTERES SUPERIOR DEL NIÑO.", "correct": false},
+            {"text": "PRINCIPIO DE INTERVENCION INMEDIATA Y OPORTUNA.", "correct": false},
+            {"text": "PRINCIPIO DE SENCILLEZ Y ORALIDAD.", "correct": false},
+            {"text": "PRINCIPIO DE LA DEBIDA DILIGENCIA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2771. RECONOCE LA EXISTENCIA DE CIRCUNSTANCIAS ASIMETRICAS EN LA RELACION ENTRE HOMBRES Y MUJERES, CONTRIBUIDAS SOBRE LA BASE DE LAS DIFERENCIAS DE GENERO QUE SE CONSTITUYEN EN UNA DE LAS CAUSAS PRINCIPALES DE LA VIOLENCIA HACIA LAS MUJERES. ESTE ENFOQUE DEBE ORIENTAR EL DISEÑO DE LAS ESTRATEGIAS DE INTERVENCION ORIENTADAS AL LOGRO DE LAS IGUALDAD DE OPORTUNIDADES ENTRE HOMBRES Y MUJERES CONSTITUYE EL:",
+          "options": [
+            {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE GENERO.", "correct": true},
+            {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2772. RECONOCE QUE EN LA VIOLENCIA CONTRA LAS MUJERES CONFLUYEN MULTIPLES CAUSAS Y FACTORES QUE ESTAN PRESENTES EN DISTINTOS AMBITOS, A NIVEL INDIVIDUAL, FAMILIAR, COMUNITARIO Y ESTRUCTURAL. POR ELLO SE HACE NECESARIO ESTABLECER INTERVENCIONES EN LOS DISTINTOS NIVELES EN LOS QUE LAS PERSONAS SE DESENVUELVEN Y DESDE DISTINTAS DISCIPLINAS, CONSTITUYE EL:",
+          "options": [
+            {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": true},
+            {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": false},
+            {"text": "ENFOQUE DE GENERO.", "correct": false},
+            {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2773. RECONOCE QUE EN LA VIOLENCIA CONTRA LAS MUJERES CONFLUYEN MULTIPLES CAUSAS Y FACTORES QUE ESTAN PRESENTES, EN DISTINTOS AMBITOS, A NIVEL INDIVIDUAL, FAMILIAR, COMUNITARIO Y ESTRUCTURAL",
+          "options": [
+            {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": false},
+            {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": true},
+            {"text": "ENFOQUE DE GENERO.", "correct": false},
+            {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2774. ¿A QUE ENFOQUE HACE REFERENCIA EL TEXTO?. SE PROCURA FORTALECER LA CAPACIDAD DE LOS TITULARES DE DERECHOS PARA REINVINDICAR ESTOS Y DE LOS TITULARES DE DEBERES PARA CUMPLIR SUS OBLIGACIONES",
+          "options": [
+            {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": true},
+            {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE GENERACIONAL.", "correct": false},
+            {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE GENERO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2775. RECONOCE QUE EL OBJETIVO PRINCIPAL DE TODA INTERVENCION EN EL MARCO DE LA LEY DEBE SER LA REALIZACION DE LOS DERECHOS HUMANOS, IDENTIFICANDO A LOS TITULARES DE DERECHOS Y AQUELLO A LO QUE TIENEN DERECHO CONFORME A SUS PARTICULARES NECESIDADES; IDENTIFICANDO, ASIMISMO, A LOS OBLIGADOS O TITULARES DE DEBERES Y DE LAS OBLIGACIONES QUE LES CORRESPONDEN. SE PROCURA FORTALECER LA CAPACIDAD DE LOS TITULARES DE DERECHOS PARA REINVINDICAR ESTOS Y DE LOS TITULARES DE DEBERES PARA CUMPLIR SUS OBLIGACIONES, CONSTITUYE EL:",
+          "options": [
+            {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": true},
+            {"text": "ENFOQUE DE GENERO.", "correct": false},
+            {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2776. ¿A QUE ENFOQUE HACE REFERENCIA EL TEXTO? RECONOCE QUE LA EXPERIENCIA DE LAS MUJERES TIENEN DE LA VIOLENCIA SE VE INFLUIDA POR FACTORES E IDENTIDADES COMO SU ETNIA, COLOR, RELIGION, OPINION POLITICA O DE OTRO TIPO",
+          "options": [
+            {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false},
+            {"text": "ENFOQUE GENERACIONAL.", "correct": false},
+            {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": false},
+            {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": true},
+            {"text": "ENFOQUE DE INTEGRIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2777. RECONOCE QUE AL EXPERIENCIA QUE LAS MUEJRES TIENEN DE LA VIOLENCIA SE VE INFLUIDA POR FACTORES E IDENTIDADES COMO SU ETNIA, COLOR, RELIGION; OPINION POLITICA O DE OTRO TIPO; ORIGEN NACIONAL O SOCIAL, PATRIMONIO; ESTADO CIVIL, ORIENTACION SEXUAL, CONDICION DE SEROPOSITIVA, CONDICION DE INMIGRANTE O REFUGIADA, EDAD O DISCAPACIDAD; Y, EN SU CASO, INCLUYE MEDIDAS ORIENTADAS A DETERMINADOS GRUPO DE MUJERES, CONSTITUYE EL:",
+          "options": [
+            {"text": "ENFOQUE DE GENERO.", "correct": false},
+            {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": true},
+            {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": false},
+            {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2778. ¿A QUE ENFOQUE HACE REFERENCIA EL TEXTO?. RECONOCE QUE ES NECESARIO IDENTIFICAR LAS RELACIONES DE PODER ENTRE DISTINTAS EDADES DE LA VIDA Y SUS VINCULACIONES PARA MEJORAR LAS CONDICIONES DE VIDA O EL DESARROLLO COMUN",
+          "options": [
+            {"text": "ENFOQUE GENERACIONAL.", "correct": true},
+            {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE INTERSECCIONALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE GENERO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2779. RECONOCE QUE ES NECESARIO IDENTIFICAR LAS RELACIONES DE PODER ENTRE DISTINTAS EDADES DE LA VIDA Y SUS VINCULACIONES PARA MEJORAS LAS CONDICIONES DE VIDA O EL DESARROLLO COMUN. CONSIDERA QUE LA NIÑEZ, LA JUVENTUD, LA ADULTEZ Y LA VEJEZ DEBEN TENER UNA CONEXION, PUES EN CONJUNTO ESTAN ABONANDO A UNA HISTORIA COMUN Y DEBEN FORTALECERSE GENERACIONALMENTE. PRESENTA APORTACIONES A LARGO PLAZO CONSIDERANDO LAS DISTINTAS GENERACIONES Y COLOCANDO LA IMPORTANCIA DE CONSTRUIR CORRESPONSABILIDADES ENTRE ESTAS, CONSTITUYE EL:",
+          "options": [
+            {"text": "ENFOQUE GENERACIONAL.", "correct": true},
+            {"text": "ENFOQUE DE DERECHOS HUMANOS.", "correct": false},
+            {"text": "ENFOQUE DE INTERCULTURALIDAD.", "correct": false},
+            {"text": "ENFOQUE DE GENERO.", "correct": false},
+            {"text": "ENFOQUE DE INTEGRALIDAD.", "correct": false}
+          ]
+        },
+        {
+          "question": "2780. LAS DISPOSICIONES DE LA LEY N° 30364 SE APLICAN A TODOS LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES POR SU CONDICION DE TALES Y CONTRA LOS INTEGRANTES DEL GRUPO FAMILIAR, CONSTITUYE EL:",
+          "options": [
+            {"text": "LOS PRINCIPIOS.", "correct": false},
+            {"text": "EL OBJETO.", "correct": false},
+            {"text": "ENFOQUES.", "correct": false},
+            {"text": "LA FINALIDAD.", "correct": false},
+            {"text": "EL AMBITO DE APLICACION DE LA LEY.", "correct": true}
+          ]
+        },
+        {
+          "question": "2781. LA VIOLENCIA CONTRA LAS MUJERES ES CUALQUIER ACCION O CONDUCTA QUE LES CAUSA MUERTE, DAÑO O SUFRIMIENTO FISICO, SEXUAL O PSICOLOGICO POR SU CONDICION DE TALES, TANTO EN EL AMBITO:",
+          "options": [
+            {"text": "LABORAL COMO PRIVADO.", "correct": false},
+            {"text": "CONYUGAL COMO SOCIAL.", "correct": false},
+            {"text": "PRIVADO COMO EN EL FAMILIAR.", "correct": false},
+            {"text": "PUBLICO COMO EN EL PRIVADO.", "correct": true},
+            {"text": "PRIVADO COMO LOCAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2782. SE ENTIENDE POR VIOLENCIA CONTRA LAS MUJERES: LA QUE SEA PERPETRADA O TOLERADA POR LOS AGENTES DEL ESTADO:",
+          "options": [
+            {"text": "DONDE QUIERA QUE OCURRA.", "correct": true},
+            {"text": "EN UN SOLO LUGAR.", "correct": false},
+            {"text": "EN EL TRABAJO.", "correct": false},
+            {"text": "EN EL EXTRANJERO.", "correct": false},
+            {"text": "DONDE LA LEY LE PERMITA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2783. LA VIOLENCIA CONTRA LAS MUJERES CUANDO TENGA LUGAR EN LA COMUNIDAD, ES PERPETRADA POR CUALQUIER PERSONA Y COMPRENDE, ENTRE OTROS:",
+          "options": [
+            {"text": "LA TORTURA.", "correct": true},
+            {"text": "LA CACERIA.", "correct": false},
+            {"text": "EL ACECHO.", "correct": false},
+            {"text": "EL SEGUIMIENTO.", "correct": false},
+            {"text": "LA PERSECUCION.", "correct": false}
+          ]
+        },
+        {
+          "question": "2784. LA VIOLENCIA CONTRA LAS MUJERES CUANDO TENGA LUGAR EN LA COMUNIDAD SEA PERPETRADA POR CUALQUIER PERSONA Y COMPRENDE, ENTRE OTROS:",
+          "options": [
+            {"text": "EL SICARIATO.", "correct": false},
+            {"text": "EL HOMICIDIO.", "correct": false},
+            {"text": "EL GENOCIDIO.", "correct": false},
+            {"text": "LA EXTORSION.", "correct": false},
+            {"text": "EL SECUESTRO.", "correct": true}
+          ]
+        },
+        {
+          "question": "2785. LA VIOLENCIA CONTRA LAS MUJERES, LA QUE TENGA LUGAR EN LA COMUNIDAD, ES PERPETRADA POR CUALQUIER PERSONA Y COMPRENDE, ENTRE OTROS:",
+          "options": [
+            {"text": "LA EXTORSION.", "correct": false},
+            {"text": "EL SEGUIMIENTO.", "correct": false},
+            {"text": "EL ACOSO SEXUAL.", "correct": true},
+            {"text": "EL ABUSO DE AUTORIDAD.", "correct": false},
+            {"text": "EL HOSTIGAMIENTO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2786. SE ENTIENDE POR VIOLENCIA CONTRA LAS MUJERES:",
+          "options": [
+            {"text": "LA QUE TENGA LUGAR SITUADO DE LA FAMILIA O UNIDAD DOMESTICA.", "correct": false},
+            {"text": "LA QUE TENGA LUGAR DENTRO DE LA FAMILIA O UNIDAD DOMESTICA.", "correct": true},
+            {"text": "LA QUE TENGA LUGAR FUERA DE LA FAMILIA O UNIDAD DOMESTICA.", "correct": false},
+            {"text": "LA QUE TENGA LUGAR AISLADO DE LA FAMILIA O UNIDAD DOMESTICA.", "correct": false},
+            {"text": "LA QUE TENGA LUGAR DISTANTE DE LA FAMILIA O UNIDAD DOMESTICA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2787. LA VIOLENCIA CONTRA LAS MUJERES ES CUALQUIER ACCION O:",
+          "options": [
+            {"text": "TRATAMIENTO.", "correct": false},
+            {"text": "FORMA.", "correct": false},
+            {"text": "CONDUCTA.", "correct": true},
+            {"text": "PROCEDIMIENTO.", "correct": false},
+            {"text": "ENGAÑO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2788. ¿CON QUIEN SE DEBA TENER ESPECIAL CONSIDERACION EN LA VIOLENCIA CONTRA LOS INTEGRANTES DEL GRUPO FAMILIAR?",
+          "options": [
+            {"text": "CON LOS NATIVOS.", "correct": false},
+            {"text": "CON LOS EDUCADORES.", "correct": false},
+            {"text": "CON LOS HIJASTROS.", "correct": false},
+            {"text": "CON LOS NIÑOS.", "correct": true},
+            {"text": "CON LOS SUEGROS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2789. LA VIOLENCIA CONTRA CUALQUIER INTEGRANTE DEL GRUPO FAMILIAR SE PRODUCE EN EL CONTEXTO DE UNA RELACION DE:",
+          "options": [
+            {"text": "MARCACION.", "correct": false},
+            {"text": "SEPARACION.", "correct": false},
+            {"text": "ALEJAMIENTO.", "correct": false},
+            {"text": "AUSENCIA.", "correct": false},
+            {"text": "CONFIANZA.", "correct": true}
+          ]
+        },
+        {
+          "question": "2790. LA VIOLENCIA CONTRA CUALQUIER INTEGRANTE DEL GRUPO FAMILIAR SE PRODUCE EN EL CONTEXTO DE UNA RELACION DE:",
+          "options": [
+            {"text": "PODER.", "correct": true},
+            {"text": "MARCACION.", "correct": false},
+            {"text": "ALEJAMIENTO.", "correct": false},
+            {"text": "SEPARACION.", "correct": false},
+            {"text": "CONTROL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2791. ¿CON QUIEN SE DEBERA TENER ESPECIAL CONSIDERACION EN LA VIOLENCIA CONTRA LOS INTEGRANTES DEL GRUPO FAMILIAR?",
+          "options": [
+            {"text": "CON LOS MAYORES.", "correct": false},
+            {"text": "CON LOS ADOLESCENTES.", "correct": true},
+            {"text": "CON LOS VARONES.", "correct": false},
+            {"text": "CON LOS ADULTOS MENORES.", "correct": false},
+            {"text": "CON LOS GRUPOS VULNERABLES.", "correct": false}
+          ]
+        },
+        {
+          "question": "2792. SON SUJETOS DE PROTECCION DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIENDASE COMO TALES A:",
+          "options": [
+            {"text": "ASCENDIENTES Y COLEGAS.", "correct": false},
+            {"text": "DESCENDIENTES Y VECINOS.", "correct": false},
+            {"text": "ASCENDIENTES Y DESCENDIENTES.", "correct": true},
+            {"text": "AMISTADES Y ASCENDIENTES.", "correct": false},
+            {"text": "ASCENDIENTES Y COMPAÑEROS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2793. SON SUJETOS DE PROTECCION DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIENDASE COMO TALES A:",
+          "options": [
+            {"text": "PADRASTROS.", "correct": true},
+            {"text": "VECINOS.", "correct": false},
+            {"text": "PADRINOS.", "correct": false},
+            {"text": "COMPAÑEROS.", "correct": false},
+            {"text": "COLEGAS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2794. SON SUJETOS DE PROTECCION DE LA LEY, LAS MUJERES DURANTE TODO SU CICLO DE VIDA, QUE COMPRENDE DESDE:",
+          "options": [
+            {"text": "NIÑA, ADOLESCENTES, ADULTA Y ADULTA MAYOR.", "correct": false},
+            {"text": "NIÑA, ADOLESCENTES, JOVEN, ADULTA Y ADULTA MENOR.", "correct": false},
+            {"text": "NIÑA, ADOLESCENTES, JOVEN, ADULTA Y ADULTA MAYOR.", "correct": true},
+            {"text": "NIÑA, ADOLESCENTES, JOVEN, ADULTA Y JOVEN MAYOR.", "correct": false},
+            {"text": "NIÑA, ADOLESCENTES, JOVEN Y ADULTA MAYOR.", "correct": false}
+          ]
+        },
+        {
+          "question": "2795. SON SUJETOS DE PROTECCION DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIENDASE COMO TALES A:",
+          "options": [
+            {"text": "EXCONVIVIENTES.", "correct": true},
+            {"text": "EXCOMPAÑEROS.", "correct": false},
+            {"text": "EXSOBREVIVIENTES.", "correct": false},
+            {"text": "EXCOMBATIENTES.", "correct": false},
+            {"text": "EXTRABAJADORES.", "correct": false}
+          ]
+        },
+        {
+          "question": "2796. SON SUJETOS DE PROTECCION DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIENDASE COMO TALES A:",
+          "options": [
+            {"text": "AMANTES.", "correct": false},
+            {"text": "EXPAREJAS.", "correct": false},
+            {"text": "EXCOMPAÑEROS.", "correct": false},
+            {"text": "ENAMORADOS.", "correct": false},
+            {"text": "EXCONYUGES.", "correct": true}
+          ]
+        },
+        {
+          "question": "2797. SON SUJETOS DE PROTECCION DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIENDASE COMO TALES A:",
+          "options": [
+            {"text": "CONVIVIENTES.", "correct": true},
+            {"text": "AMANTES.", "correct": false},
+            {"text": "PADRINOS.", "correct": false},
+            {"text": "PAREJAS.", "correct": false},
+            {"text": "COMPAÑEROS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2798. SON SUJETOS DE PROTECCION DE LA LEY, LOS MIEMBROS DEL GRUPO FAMILIAR, ENTIENDASE COMO TALES A:",
+          "options": [
+            {"text": "HABITAN EN DIFERENTE HOGAR, SIEMPRE QUE NO MEDIEN RELACIONES CONTRACTUALES O LABORALES.", "correct": false},
+            {"text": "HABITAN EN EL MISMO HOGAR, SIEMPRE QUE MEDIEN RELACIONES CONTRACTUALES O LABORALES.", "correct": false},
+            {"text": "HABITAN EN EL MISMO HOGAR, SIEMPRE QUE NO MEDIEN RELACIONES CONTRACTUALES Y CAPITALES.", "correct": false},
+            {"text": "HABITAN EN EL MISMO HOGAR, SIEMPRE QUE NO MEDIEN RELACIONES CONTRACTUALES O FUNDAMENTALES.", "correct": false},
+            {"text": "HABITAN EN EL MISMO HOGAR, SIEMPRE QUE NO MEDIEN RELACIONES CONTRACTUALES O LABORALES.", "correct": true}
+          ]
+        },
+        {
+          "question": "2799. ES LA ACCION U OMISION QUE SE DIRIGE A OCASIONAR UN MENOSCABO EN LOS RECURSOS ECONOMICOS O PATRIMONIALES DE PATRIMONIALES DE LAS MUJERES POR SU CONDICIÓN DE TALES O CONTRA CUALQUIER INTEGRANTE DEL GRUPO FAMILIAR, EN EL MARCO DE RELACIONES DE PODER, RESPONSABILIDAD O CONFIANZA, A TRAVES DE LA PERTURBACION DE LA POSESION, TENENCIA O PROPIEDAD DE SUS BIENES, ES UN TIPO DE:",
+          "options": [
+            {"text": "VIOLENCIA DOMESTICA.", "correct": false},
+            {"text": "VIOLENCIA SEXUAL.", "correct": false},
+            {"text": "VIOLENCIA FISICA.", "correct": false},
+            {"text": "VIOLENCIA PSICOLOGICA.", "correct": false},
+            {"text": "VIOLENCIA ECONOMICA O PATRIMONIAL.", "correct": true}
+          ]
+        },
+        {
+          "question": "2800. ES LA ACCION O CONDUCTA QUE CAUSA DAÑO A LA INTEGRIDAD CORPORAL O A LA SALUD. SE INCLUYE EL MALTRATO POR NEGLIGENCIA, DESCUIDO O POR PRIVACION DE LAS NECESIDADES BASICAS, QUE HAYAN OCASIONADO DAÑO FISICO O QUE PUEDAN LLEGAR A OCASIONARLO, SIN IMPORTAR EL TIEMPO QUE SE REQUIERA PARA SU RECUPERACION, ES UN TIPO DE:",
+          "options": [
+            {"text": "VIOLENCIA FISICA.", "correct": true},
+            {"text": "VIOLENCIA SEXUAL.", "correct": false},
+            {"text": "VIOLENCIA DOMESTICA.", "correct": false},
+            {"text": "VIOLENCIA PSICOLOGICA.", "correct": false},
+            {"text": "VIOLENCIA ECONOMICA O PATRIMONIAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2801. ES LA ACCION O CONDUCTA, QUE CAUSA DAÑO A LA INTEGRIDAD CORPORAL O A LA SALUD, SE REFIERE A:",
+          "options": [
+            {"text": "VIOLENCIA PATRIMONIAL.", "correct": false},
+            {"text": "VIOLENCIA SEXUAL.", "correct": false},
+            {"text": "VIOLENCIA ECONOMICA.", "correct": false},
+            {"text": "VIOLENCIA PSICOLOGICA.", "correct": false},
+            {"text": "VIOLENCIA FISICA.", "correct": true}
+          ]
+        },
+        {
+          "question": "2802. ES LA ACCION U OMISION, TENDIENTE A CONTROLAR O AISLAR A LA PERSONA CONTRA SU VOLUNTAD, A HUMILLARLA, AVERGONZARLA, INSULTARLA, ESTIGMATIZARLA O ESTEREOTIPARLA, SIN IMPORTAR EL TIEMPO QUE SE REQUIERA PARA SU RECUPERACION, ES UN TIPO DE:",
+          "options": [
+            {"text": "VIOLENCIA FISICA.", "correct": false},
+            {"text": "VIOLENCIA DOMESTICA.", "correct": false},
+            {"text": "VIOLENCIA SEXUAL.", "correct": false},
+            {"text": "VIOLENCIA PSICOLOGICA.", "correct": true},
+            {"text": "VIOLENCIA ECONOMICA O PATRIMONIAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2803. ES LA ACCION U OMISION, TENDIENTE A CONTROLAR O AISLAR A LA PERSONA CONTRA SU VOLUNTAD, A HUMILLARLA O AVERGONZARLA, SE REFIERE A:",
+          "options": [
+            {"text": "VIOLENCIA FISICA.", "correct": false},
+            {"text": "VIOLENCIA ECONOMICA.", "correct": false},
+            {"text": "VIOLENCIA PSICOLOGICA.", "correct": true},
+            {"text": "VIOLENCIA SEXUAL.", "correct": false},
+            {"text": "VIOLENCIA PATRIMONIAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2804. SON ACCIONES DE NATURALEZA SEXUAL QUE COMETEN CONTRA UNA PERSONA SIN SU CONSENTIMIENTO O BAJO COACCION. INCLUYEN ACTOS QUE NO INVOLUCRAN PENETRACION O CONTACTO FISICO, SE REFIERE A:",
+          "options": [
+            {"text": "VIOLENCIA PSICOLOGICA.", "correct": false},
+            {"text": "VIOLENCIA SEXUAL.", "correct": true},
+            {"text": "VIOLENCIA ECONOMICA.", "correct": false},
+            {"text": "VIOLENCIA FISICA.", "correct": false},
+            {"text": "VIOLENCIA PATRIMONIAL.", "correct": false}
+          ]
+        },
+        {
+          "question": "2805. EN LA VIOLENCIA SEXUAL SE CONSIDERAN TALES, LA EXPOSICION A MATERIAL:",
+          "options": [
+            {"text": "PORNOGRAFICO.", "correct": true},
+            {"text": "PATRIMONIAL.", "correct": false},
+            {"text": "REPRODUCTIVA.", "correct": false},
+            {"text": "ESCABROSO.", "correct": false},
+            {"text": "ECONOMICA.", "correct": false}
+          ]
+        },
+        {
+          "question": "2806. EN LA VIOLENCIA SEXUAL SE CONSIDERAN TALES LA EXPOSICION O MATERIAL PORNOGRAFICO Y QUE VULNERAN EL DERECHO DE LAS PERSONAS A DECIDIR VOLUNTARIAMENTE ACERCA DE SU VIDA SEXUAL O REPRODUCTIVA, A TRAVES DE:",
+          "options": [
+            {"text": "AMENAZAS.", "correct": true},
+            {"text": "CONTROVERSIAS.", "correct": false},
+            {"text": "ENGAÑO.", "correct": false},
+            {"text": "PROTECCION.", "correct": false},
+            {"text": "DEFENSAS.", "correct": false}
+          ]
+        },
+        {
+          "question": "2807. LA VIOLENCIA ECONOMICA O PATRIMONIAL ES LA ACCION U OMISION QUE SE DIRIGE A OCASIONAR UN MENOS CABO EN LOS RECURSOS ECONOMICOS O PATRIMONIALES DE CUALQUIER PERSONA, A TRAVES DE LA EVASION DEL CUMPLIMIENTO DE SUS:",
+          "options": [
+            {"text": "CAPACIDADES ALIMENTARIAS.", "correct": false},
+            {"text": "REPARTICIONES ALIMENTARIAS.", "correct": false},
+            {"text": "ATRIBUCIONES ALIMENTARIAS.", "correct": false},
+            {"text": "FUNCIONES ALIMENTARIAS.", "correct": false},
+            {"text": "OBLIGACIONES ALIMENTARIAS.", "correct": true}
+          ]
+        },
+        {
+          "question": "2808. LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR TIENEN DERECHO A UNA VIDA LIBRE DE VIOLENCIA, A SER VALORADOS Y EDUCADOS A ESTAR LIBRE DE TODA FORMA DE DISCRIMINACION, ESTIGMATIZACION Y DE PATRONES ESTEREOTIPADOS DE COMPORTAMIENTO, PRACTICAS SOCIALES Y CULTURALES BASADAS EN CONCEPTOS DE:",
+          "options": [
+            {"text": "RESPONSABILIDAD Y OBLIGACION.", "correct": false},
+            {"text": "RESPONSABILIDAD Y SUBORDINACION.", "correct": false},
+            {"text": "INFERIORIDAD Y SUPERIORIDAD.", "correct": false},
+            {"text": "INFERIORIDAD Y SUBORDINACION.", "correct": true},
+            {"text": "SUPERIORIDAD Y SUBORDINACION.", "correct": false}
+          ]
+        },
+        {
+          "question": "2809. LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR TIENEN DERECHO A UNA VIDA LIBRE DE:",
+          "options": [
+            {"text": "ARMONIA.", "correct": false},
+            {"text": "VIOLENCIA.", "correct": true},
+            {"text": "PAZ.", "correct": false},
+            {"text": "CONFLICTO.", "correct": false},
+            {"text": "RIESGO.", "correct": false}
+          ]
+        },
+        {
+          "question": "2810. LAS ENTIDADES QUE CONFORMAN EL SISTEMA NACIONAL PARA LA PREVENCION, SANCION Y ERRADICACION DE LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR DESTINAN RECURSOS HUMANOS ESPECIALIZADOS, LOGISTICOS Y:",
+          "options": [
+            {"text": "ECONOMICOS.", "correct": false},
+            {"text": "FINANCIEROS.", "correct": false},
+            {"text": "DE GESTION.", "correct": false},
+            {"text": "PRESUPUESTALES.", "correct": true},
+            {"text": "COORDINACION.", "correct": false}
+          ]
+        }
     ]
   }
 ]
