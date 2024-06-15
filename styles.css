@@ -87,7 +87,7 @@ button[type="submit"]:hover {
 .quiz-item {
     margin: 5px 0;
     padding: 15px;
-    background: #1d451f;
+    background: linear-gradient(#1d451f, rgb(3, 105, 23));
     color: white;
     cursor: pointer;
     border-radius: 5px;
