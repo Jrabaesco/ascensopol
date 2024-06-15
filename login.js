@@ -7,8 +7,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
         const users = [
             { username: 'bazan', password: 'mocho' },
-            { username: 'admin', password: 'admin' },
-            { username: '72122309', password: '72122309' },
+            { username: '949512596', password: '949512596' },
+            { username: '906441253', password: '906441253' },
             { username: '960099454', password: '960099454' }
         ];
 
