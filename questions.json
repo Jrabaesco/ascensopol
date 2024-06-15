@@ -1,6 +1,6 @@
 [
     {
-        "title": "CONSTITUCIÓN POLÍTICA DEL PERÚ",
+        "title": "1.-  CONSTITUCIÓN POLÍTICA DEL PERÚ (TEXTO ACTUALIZADO INCLUIDO SUS MODIFICATORIAS HASTA EL 31MAR2023)",
         "questions": [
             {
                 "question": "1. Toda persona tiene derecho a elegir su lugar de residencia, a transitar por el territorio nacional y a salir de él y entrar en él, salvo limitaciones por",
@@ -2342,7 +2342,7 @@
         ]
     },
     {
-      "title": "DECLARACIÓN UNIVERSAL DE LOS DERECHOS HUMANOS",
+      "title": "2.-  DECLARACIÓN UNIVERSAL DE LOS DERECHOS HUMANOS",
       "questions": [
         {
           "question": "231. TODA PERSONA TIENE DEBERES RESPECTO A LA COMUNIDAD, PUESTO QUE SÓLO EN ELLA PUEDE DESARROLLAR LIBRE Y PLENAMENTE SU:",
@@ -3646,7 +3646,7 @@
         ]
     },
     {
-        "title": "LEY DE LA PNP - DL. NRO 1267 Y SUS MODIFICATORIAS",
+        "title": "3.-  LEY DE LA PNP - DECRETO LEGISLATIVO N° 1267 Y SUS MODIFICATORIAS (DECRETO LEGISLATIVO 1318 Y DECRETO LEGISLATIVO N°1451)",
         "questions": [
           {
             "question": "361. INDIQUE QUIENES TIENEN DERECHO PREFERENTE A LA PRESTACIÓN DE LOS SERVICIOS OFRECIDOS POR EL RÉGIMEN DE BIENESTAR DE LA POLICÍA NACIONAL DEL PERÚ:",
@@ -5852,7 +5852,7 @@
         ]
     },
     {
-        "title": "LEY DE LA CARRERA Y SITUACIÓN DEL PERSONAL PNP Y SUS MODIFICATORIAS",
+        "title": "4.- DECRETO LEGISLATIVO N°1149 - LEY DE LA CARRERA Y SITUACIÓN DEL PERSONAL PNP Y SU MODIFICATORIA, D.L.N°1230, D.L. N°242, LEY 30686 Y LEY N° 31379 (NO INCLUYE ANEXOS I,II Y III)",
         "questions": [
           {
             "question": "581. ES EL PERIODO DE TIEMPO EN QUE EL PERSONAL PRESTA SERVICIOS REALES Y EFECTIVOS, DESDE EL EGRESO DE LA ESCUELA DE FORMACIÓN EN SU RESPECTIVA CATEGORÍA O DESDE LA FECHA DE INCORPORACIÓN AL SERVICIO POLICIAL PARA EL PERSONAL DE SERVICIOS. ESTE ENUNCIADO CORRESPONDE A:",
@@ -7017,10 +7017,10 @@
           {
             "question": "697. CUADRO DE ORGANIZACION, CUADRO DE PERSONAL Y CLASIFICADOR DE CARGOS, ESTAN CONSIDERADOS COMO :",
             "options": [
-              {"text": "HERRAMIENTAS DE GESTION ADMINISTRATIVA PARA LA ASIGNACION DE CARGOS.", "correct": true},
+              {"text": "HERRAMIENTAS DE GESTION ADMINISTRATIVA PARA LA ASIGNACION DE CARGOS.", "correct": false},
               {"text": "CUADROS DE GESTION ORGANIZATIVA PARA LA ASIGNACION DE CARGOS.", "correct": false},
               {"text": "DOCUMENTOS DE GESTION PLANIFICADA PARA LA ASIGNACION DE CARGOS.", "correct": false},
-              {"text": "INSTRUMENTOS DE GESTION ADMINISTRATIVA PARA LA ASIGNACION DE CARGOS.", "correct": false},
+              {"text": "INSTRUMENTOS DE GESTION ADMINISTRATIVA PARA LA ASIGNACION DE CARGOS.", "correct": true},
               {"text": "CUADROS DE GESTION ADMINISTRATIVA PARA LA ASIGNACION DE CARGOS.", "correct": false}
             ]
           },
@@ -7039,8 +7039,8 @@
             "options": [
               {"text": "LOS DIVERSOS NIVELES DEL COMANDO EXTRAINSTITUCIONAL.", "correct": false},
               {"text": "LAS DIVERSAS INTITUCIONES MUNICIPALES PROVINCIALES.", "correct": false},
-              {"text": "LOS DIVERSOS NIVELES DEL MINISTERIO DEL INTERIOR.", "correct": true},
-              {"text": "LOS DIVERSOS NIVELES DEL COMANDO INSTITUCIONAL.", "correct": false},
+              {"text": "LOS DIVERSOS NIVELES DEL MINISTERIO DEL INTERIOR.", "correct": false},
+              {"text": "LOS DIVERSOS NIVELES DEL COMANDO INSTITUCIONAL.", "correct": true},
               {"text": "LOS DIVERSOS NIVELES DEL COMANDO OPERATIVO.", "correct": false}
             ]
           },
@@ -7117,9 +7117,9 @@
           {
             "question": "707. ESTUDIA, EVALÚA Y EMITE OPINIÓN PARA EL OTORGAMIENTO DE INCENTIVO, EL:",
             "options": [
-              {"text": "CONSEJO DE INVESTIGACIÓN.", "correct": false},
+              {"text": "CONSEJO DE INVESTIGACIÓN.", "correct": true},
               {"text": "COMITÉ DE INVESTIGACIÓN.", "correct": false},
-              {"text": "CONSEJO DE CALIFICACIÓN.", "correct": true},
+              {"text": "CONSEJO DE CALIFICACIÓN.", "correct": false},
               {"text": "COMITÉ CONSULTIVO.", "correct": false},
               {"text": "CONSEJO DE REVISIÓN.", "correct": false}
             ]
@@ -7160,8 +7160,8 @@
               {"text": "EL CARGO.", "correct": false},
               {"text": "LA ASIGNACIÓN.", "correct": false},
               {"text": "LA REASIGNACIÓN.", "correct": false},
-              {"text": "EL EMPLEO.", "correct": false},
-              {"text": "EL PUESTO.", "correct": true}
+              {"text": "EL EMPLEO.", "correct": true},
+              {"text": "EL PUESTO.", "correct": false}
             ]
           },
           {
@@ -7517,7 +7517,7 @@
           {
             "question": "747. EL CLASIFICADOS DE CARGOS ESTA CONSIDERADO COMO UN.",
             "options": [
-              {"text": "INSTRUMENTO DE GESTION POLICIAL PARA LA ASIGNACION DE CARGOS", "correct": false},
+              {"text": "INSTRUMENTO DE GESTION ADMINISTRATIVA PARA LA ASIGNACION DE CARGOS", "correct": true},
               {"text": "INSTRUMENTO DE EDUCATIVA PARA LA ADMINISTRACIÓN DE CARGOS.", "correct": false},
               {"text": "INSTRUMENTO DE GESTIÓN POLICIAL PARA LA ASIGNACIÓN DE EMPLEO.", "correct": false},
               {"text": "INSTRUMENTO DE MEDICIÓN ADMINISTRATIVA PARA LA REASIGNACIÓN DE CARGOS.", "correct": false},
@@ -8457,7 +8457,7 @@
         ]
     },
   {
-    "title": "LEY DE LA LUCHA CONTRA LA CORRUPCIÓN EN EL SECTOR INTERIOR Y SU REGLAMENTO",
+    "title": "5.-  DECRETO LEGISLATIVO N°1291 - LEY DE LUCHA CONTRA LA CORRUPCIÓN EN EL SECTOR INTERIOR Y SU REGLAMENTO DECRETO SUPREMO N°013-17-IN. (MODIFICADO POR EL D.S. N°001-2019-IN)",
     "questions": [
       {
         "question": "841. ES UNA FUNCIÓN DE LA INSPECTORIA GENERAL DE LA PNP, GARANTIZAR EL CUMPLIMIENTO DE LA PRESENTACIÓN DE LAS DECLARACIONES JURADAS DE INGRESOS, BIENES Y RENTAS DEL PERSONAL POLICIAL A NIVEL NACIONAL, DE MANERA:",
@@ -8512,11 +8512,11 @@
       {
         "question": "846. EL USO DE LA INFORMACIÓN OBTENIDA SE LIMITA ÚNICA Y EXCLUSIVAMENTE PARA FINES INSTITUCIONALES. NOS REFERIMOS A:",
         "options": [
-          {"text": "REGISTROS DE RESULTADO DEL DECRETO SUPREMO Nº 013-2017 –IN.", "correct": false},
-          {"text": "RESTRICCIONES Y RESERVAS DEL DECRETO SUPREMO Nº 013-2017 –IN.", "correct": true},
-          {"text": "FINALIDAD DEL DECRETO SUPREMO Nº 013-2017 –IN.", "correct": false},
-          {"text": "OBJETO DEL DECRETO SUPREMO Nº 013-2017 –IN.", "correct": false},
-          {"text": "DISPOSICIONES DEL DECRETO SUPREMO Nº 013-2017 –IN.", "correct": false}
+          {"text": "REGISTROS DE RESULTADO DEL DECRETO SUPREMO Nº 013-2017 - IN.", "correct": false},
+          {"text": "RESTRICCIONES Y RESERVAS DEL DECRETO SUPREMO Nº 013-2017 - IN.", "correct": true},
+          {"text": "FINALIDAD DEL DECRETO SUPREMO Nº 013-2017 - IN.", "correct": false},
+          {"text": "OBJETO DEL DECRETO SUPREMO Nº 013-2017 - IN.", "correct": false},
+          {"text": "DISPOSICIONES DEL DECRETO SUPREMO Nº 013-2017 - IN.", "correct": false}
         ]
       },
       {
@@ -8662,11 +8662,11 @@
       {
         "question": "861. ESTÁ OBLIGADO A MANTENER ESTRICTA RESERVA Y CONFIDENCIALIDAD DE TODA LA INFORMACIÓN OBTENIDA COMO RESULTADO DE LA APLICACIÓN DE LAS HERRAMIENTAS PARA LA LUCHA CONTRA LA CORRUPCIÓN EN EL SECTOR INTERIOR. NOS REFERIMOS A:",
         "options": [
-          {"text": "FINALIDAD DEL DECRETO SUPREMO Nº 013-2017 –IN.", "correct": false},
-          {"text": "RESTRICCIONES Y RESERVAS DEL DECRETO SUPREMO Nº 013-2017–IN.", "correct": true},
-          {"text": "OBJETOS DEL DECRETO SUPREMO Nº 013-2017 –IN.", "correct": false},
-          {"text": "NOMENCLATURA DEL DECRETO SUPREMO Nº 013-2017 –IN.", "correct": false},
-          {"text": "REGISTROS DE RESULTADOS DEL DECRETO SUPREMO Nº 013-2017 –IN.", "correct": false}
+          {"text": "FINALIDAD DEL DECRETO SUPREMO Nº 013-2017 - IN.", "correct": false},
+          {"text": "RESTRICCIONES Y RESERVAS DEL DECRETO SUPREMO Nº 013-2017- IN.", "correct": true},
+          {"text": "OBJETOS DEL DECRETO SUPREMO Nº 013-2017 - IN.", "correct": false},
+          {"text": "NOMENCLATURA DEL DECRETO SUPREMO Nº 013-2017 - IN.", "correct": false},
+          {"text": "REGISTROS DE RESULTADOS DEL DECRETO SUPREMO Nº 013-2017 - IN.", "correct": false}
         ]
       },
       {
@@ -8753,9 +8753,9 @@
         "question": "870. UNA CARACTERISTICA DE LA PRUEBA DE INTEGRIDAD, SEÑALA QUE LA PRUEBA SE REALIZARA POR:",
         "options": [
           {"text": "UNO O VARIOS DE UN COMISIONADO INTEGRAL.", "correct": false},
-          {"text": "UNO O MÁS DE UN COMISIONADO DE INTEGRIDAD.", "correct": true},
+          {"text": "UNO O MÁS DE UN COMISIONADO DE INTEGRIDAD.", "correct": false},
           {"text": "UNO O VARIOS DE UNA COMISIÓN DE CONTROL Y CONFIANZA.", "correct": false},
-          {"text": "UNO O VARIOS DE UN COMISIONADO DE INTEGRIDAD.", "correct": false},
+          {"text": "UNO O VARIOS DE UN COMISIONADO DE INTEGRIDAD.", "correct": true},
           {"text": "UNO O VARIOS DE UN COMISIONADO DE SEGURIDAD.", "correct": false}
         ]
       },
@@ -8812,9 +8812,9 @@
       {
         "question": "876. UNA CARACTERISTICA DE LA PRUEBA DE INTEGRIDAD SEÑALA QUE, SI COMO RESULTADO DE LA PRUEBA SE PRESENTA UNA CONDUCTA TIPIFICADA COMO INFRACCIÓN DISCIPLINARIA O ILÍCITO PENAL, SE PROCEDERÁ:",
         "options": [
-          {"text": "DE ACUERDO A LO ESTABLECIDO EN EL REGIMEN DISCIPLINARIO PNP.", "correct": true},
+          {"text": "DE ACUERDO A LO ESTABLECIDO EN EL REGIMEN DISCIPLINARIO PNP.", "correct": false},
           {"text": "DE ACUERDO A LO NO ESTABLECIDO EN LA NORMATIVIDAD VIGENTE.", "correct": false},
-          {"text": "DE ACUERDO A LO ESTABLECIDO EN LA NORMATIVIDAD VIGENTE.", "correct": false},
+          {"text": "DE ACUERDO A LO ESTABLECIDO EN LA NORMATIVIDAD VIGENTE.", "correct": true},
           {"text": "DE ACUERDO A LO ESTABLECIDO POR EL DIRECTOR GENERAL PNP.", "correct": false},
           {"text": "DE ACUERDO A LO ESTABLECIDO POR EL JEFE DE UNIDAD.", "correct": false}
         ]
@@ -8865,8 +8865,8 @@
           {"text": "LA PRUEBA DE CONFIANZA.", "correct": false},
           {"text": "LA PRUEBA DE INTEGRIDAD Y CONTROL.", "correct": false},
           {"text": "LA PRUEBA DE CONTROL Y CONFIANZA.", "correct": false},
-          {"text": "LA PRUEBA DE INTEGRIDAD.", "correct": false},
-          {"text": "LA PRUEBA DE INTEGRIDAD Y CONFIANZA.", "correct": true}
+          {"text": "LA PRUEBA DE INTEGRIDAD.", "correct": true},
+          {"text": "LA PRUEBA DE INTEGRIDAD Y CONFIANZA.", "correct": false}
         ]
       },
       {
@@ -8902,11 +8902,11 @@
       {
         "question": "885. ¿QUE NORMA TIENE POR OBJETO REGULAR Y DESARROLLAR EL DECRETO LEGISLATIVO N° 1291, DECRETO LEGISLATIVO QUE APRUEBA HERRAMIENTAS PARA LA LUCHA CONTRA LA CORRUPCIÓN EN EL SECTOR INTERIOR?",
         "options": [
-          {"text": "EL DECRETO SUPREMO Nº 016-2017–IN.", "correct": false},
-          {"text": "EL DECRETO SUPREMO Nº 012-2017–IN.", "correct": false},
-          {"text": "EL DECRETO SUPREMO Nº 013-2017–IN.", "correct": true},
-          {"text": "EL DECRETO SUPREMO Nº 015-2016–IN.", "correct": false},
-          {"text": "EL DECRETO SUPREMO Nº 014-2017–IN.", "correct": false}
+          {"text": "EL DECRETO SUPREMO Nº 016-2017-IN.", "correct": false},
+          {"text": "EL DECRETO SUPREMO Nº 012-2017-IN.", "correct": false},
+          {"text": "EL DECRETO SUPREMO Nº 013-2017-IN.", "correct": true},
+          {"text": "EL DECRETO SUPREMO Nº 015-2016-IN.", "correct": false},
+          {"text": "EL DECRETO SUPREMO Nº 014-2017-IN.", "correct": false}
         ]
       },
       {
@@ -9114,9 +9114,9 @@
         "options": [
           {"text": "ÉTICA, INTEGRIDAD Y MORALIDAD.", "correct": false},
           {"text": "MORAL, PULCRIDAD Y HONESTIDAD.", "correct": false},
-          {"text": "ÉTICA, INTEGRIDAD Y HONESTIDAD.", "correct": false},
+          {"text": "ÉTICA, INTEGRIDAD Y HONESTIDAD.", "correct": true },
           {"text": "ÉTICA, MORALIDAD Y HONESTIDAD.", "correct": false},
-          {"text": "MORAL, INTEGRIDAD Y HONESTIDAD.", "correct": true}
+          {"text": "MORAL, INTEGRIDAD Y HONESTIDAD.", "correct": false}
         ]
       },
       {
@@ -9422,11 +9422,11 @@
       {
           "question": "937. DETERMINARÁ LA POLÍTICA PARA LA APLICACIÓN DE LA PRUEBA DE CONTROL Y CONFIANZA A LOS FUNCIONARIOS Y/O SERVIDORES CIVILES DE LAS OFICINAS A SU CARGO Y LA INSPECTORÍA GENERAL DE LA POLICÍA NACIONAL DEL PERÚ EL:",
           "options": [
-              {"text": "DIRECTOR GENERAL DE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL.", "correct": false},
+              {"text": "DIRECTOR GENERAL DE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL.", "correct": true},
               {"text": "DIRECTOR GENERAL DE LA PNP, MEDIANTE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL.", "correct": false},
               {"text": "MINISTRO DEL INTERIOR, MEDIANTE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL.", "correct": false},
               {"text": "DIRECTOR OFICIAL DE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL.", "correct": false},
-              {"text": "DIRECTOR SECTORIAL DE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL.", "correct": true}
+              {"text": "DIRECTOR SECTORIAL DE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL.", "correct": false}
           ]
       },
       {
@@ -9682,11 +9682,11 @@
       {
         "question": "963. DETERMINARÁ LA POLÍTICA PARA LA APLICACIÓN DE LA PRUEBA DE CONTROL Y CONFIANZA A LOS FUNCIONARIOS Y/O SERVIDORES CIVILES DE LAS OFICINAS A SU CARGO Y LA INSPECTORÍA GENERAL DE LA POLICÍA NACIONAL DEL PERÚ EL:",
         "options": [
-            {"text": "DIRECTOR GENERAL DE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL", "correct": false},
+            {"text": "DIRECTOR GENERAL DE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL", "correct": true},
             {"text": "DIRECTOR GENERAL DE LA PNP, MEDIANTE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL", "correct": false},
             {"text": "MINISTRO DEL INTERIOR, MEDIANTE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL", "correct": false},
             {"text": "DIRECTOR OFICIAL DE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL", "correct": false},
-            {"text": "DIRECTOR SECTORIAL DE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL", "correct": true}
+            {"text": "DIRECTOR SECTORIAL DE LA OFICINA GENERAL DE INTEGRIDAD INSITUCIONAL", "correct": false}
         ]
       },
       {
@@ -9862,7 +9862,7 @@
     ]
   },
   {
-    "title": "LEY QUE REGULA LA FORMACIÓN PROFESIONAL DE LA PNP",
+    "title": "6.-  DECRETO LEGISLATIVO N° 1318 - LEY QUE REGULA LA FORMACIÓN PROFESIONAL DE LA POLICÍA NACIONAL DEL PERÚ",
     "questions": [
       {
         "question": "981. OBJETIVOS.- PROMOVER LA INVESTIGACIÓN E INNOVACIÓN DE LOS CONTENIDOS QUE IMPARTE, GARANTIZANDO LA ACTUALIZACIÓN CONSTANTE Y LA CALIDAD DE SU:",
@@ -10339,8 +10339,8 @@
       "options": [
           {"text": "EMITIR OPINIÓN TÉCNICA LEGAL SOBRE LOS DICTÁMENES, TEXTOS NORMATIVOS Y DEMÁS DISPOSICIONES DE LA ENFPP", "correct": false},
           {"text": "EMITIR DICTÁMENES, TEXTOS NORMATIVOS Y DEMÁS DISPOSICIONES DE LA ENFPP", "correct": false},
-          {"text": "EMITIR OPINIÓN LEGAL SOBRE DISPOSICIONES DE LA ENFPP", "correct": true},
-          {"text": "EMITIR OPINIÓN LEGAL SOBRE LOS PROYECTOS NORMATIVOS Y DEMÁS DISPOSICIONES QUE SEAN MATERIA DE COMPETENCIA DE LA ENFPP", "correct": false},
+          {"text": "EMITIR OPINIÓN LEGAL SOBRE DISPOSICIONES DE LA ENFPP", "correct": false},
+          {"text": "EMITIR OPINIÓN LEGAL SOBRE LOS PROYECTOS NORMATIVOS Y DEMÁS DISPOSICIONES QUE SEAN MATERIA DE COMPETENCIA DE LA ENFPP", "correct": true},
           {"text": "EMITIR DICTÁMENES SOBRE DISPOSICIONES DE LA ENFPP", "correct": false}
       ]
     },
@@ -10385,7 +10385,7 @@
       ]
     },
     {
-      "question": "1033. COMPLETE: A TRAVES DE SU DIVISIÓN DE INVESTIGACIÓN, FOMENTA Y REALIZA ACTIVIDADES INVESTIGATIVAS, RESPONDIENDO A TRAVES DE LA PRODUCCIÓN DE CONOCIMIENTO Y DESARROLLO DE TECNOLOGIAS A LAS NECESIDADES DE LA SOCIEDAD, CON ESPECIAL ENFASIS EN LA REALIDAD NACIONAL E INSTITUCIONAL",
+      "question": "1033. COMPLETE: ___________ A TRAVES DE SU DIVISIÓN DE INVESTIGACIÓN, FOMENTA Y REALIZA ACTIVIDADES INVESTIGATIVAS, RESPONDIENDO A TRAVES DE LA PRODUCCIÓN DE CONOCIMIENTO Y DESARROLLO DE TECNOLOGIAS A LAS NECESIDADES DE LA SOCIEDAD, CON ESPECIAL ENFASIS EN LA REALIDAD NACIONAL E INSTITUCIONAL",
       "options": [
           {"text": "LA ESCUELA DE POSGRADO", "correct": false},
           {"text": "LA ESCUELA DE FORMACIÓN CONTINUA DE LA PNP", "correct": false},
@@ -10519,7 +10519,7 @@
       "options": [
           {"text": "18", "correct": false},
           {"text": "12", "correct": false},
-          {"text": "16", "correct": false},
+          {"text": "16", "correct": true},
           {"text": "20", "correct": false},
           {"text": "22", "correct": false}
       ]
@@ -10829,8 +10829,8 @@
       "options": [
         {"text": "CALIDAD EDUCATIVA", "correct": false},
         {"text": "MEJORAMIENTO CONTINUO", "correct": false},
-        {"text": "MERITOCRACIA", "correct": true},
-        {"text": "INVESTIGACION, TECNICA Y CIENTIFICA", "correct": false},
+        {"text": "MERITOCRACIA", "correct": false},
+        {"text": "INVESTIGACION, TECNICA Y CIENTIFICA", "correct": true},
         {"text": "ETICA PROFESIONAL", "correct": false}
       ]
     },
@@ -11067,7 +11067,7 @@
     ]
   },
   {
-    "title": "LEY DE RÉGIMEN DISCIPLINARIO DE LA PNP",
+    "title": "7.- DECRETO SUPREMO N° 003-2020-IN, QUE APRUEBA EL REGLAMENTO DE LA LEY N° 30714 - LEY DE RÉGIMEN DISCIPLINARIO DE LA PNP",
     "questions": [
       {
         "question": "1101. LA RESPONSABILIDAD ADMINISTRATIVA ES SUBJETIVA, SALVO LOS CASOS EN QUE SE HA DISPUESTO LA REPONSABILIDAD ADMINISTRATIVA OBJETIVA, CORRESPONDE AL PRINCIPIO:",
@@ -11190,7 +11190,7 @@
       ]
     },
     {
-      "question": "1113. DEL PROCEDIMIENTO ADMINISTRATIVO DISCIPLINARIO SUMARIO. LA DISPOSICIÓN DE INICIO DE UN PROCEDIMIENTO ADMINISTRATIVO DISCIPLINARIO SUMARIO SE DA EN EL SIGUIENTE CASO: CONFESIÓN CORROBORADA, ENTENDIÉNDOSE ESTA COMO LA ACEPTACIÓN CLARA DE LA RESPONSABILIDAD POR LA INFRACCIÓN (___________) QUE SE LE IMPUTA:",
+      "question": "1113. DEL PROCEDIMIENTO ADMINISTRATIVO DISCIPLINARIO SUMARIO. LA DISPOSICIÓN DE INICIO DE UN PROCEDIMIENTO ADMINISTRATIVO DISCIPLINARIO SUMARIO SE DA EN EL SIGUIENTE CASO: CONFESIÓN CORROBORADA, ENTENDIÉNDOSE ESTA COMO LA ACEPTACIÓN CLARA DE LA RESPONSABILIDAD POR LA INFRACCIÓN (_____________) QUE SE LE IMPUTA:",
       "options": [
           {"text": "LEVE.", "correct": false},
           {"text": "GRAVE.", "correct": false},
@@ -13672,7 +13672,7 @@
     ]
   },
   {
-    "title": "LEY DE TRANSPARENCIA Y DE ACCESO A LA INFORMACIÓN",
+    "title": "8.-  DECRETO SUPREMO N° 021-2019-JUS (TUO DE LA LEY N° 27806) LEY DE TRANSPARENCIA Y DE ACCESO A LA INFORMACIÓN",
     "questions": [
       {
         "question": "1361. TODA SOLICITUD DE INFORMACIÓN DEBE SER DIRIGIDA AL FUNCIONARIO DESIGNADO POR LA ENTIDAD DE LA INFORMACIÓN PÚBLICA PARA REALIZAR ESTA LABOR. EN CASO QUE ESTE NO HUBIERA SIDO DESIGNADO, LA SOLICITUD SE DIRIGE:.",
@@ -15077,7 +15077,7 @@
     ]
   },
   {
-    "title": "CODIGO PROCESAL PENAL Y SUS MODIFICATORIAS HASTA EL 31MAR2023",
+    "title": "9.- DECRETO LEGISLATIVO Nº 957 CÓDIGO PROCESAL PENAL Y SUS MODIFICATORIAS HASTA 31MAR2023",
     "questions": [
       {
         "question": "1501. SON ATRIBUCIONES DE LA POLICÍA:.",
@@ -19083,7 +19083,7 @@
     ]
   },
   {
-    "title": "CODIGO PENAL Y SUS MODIFICATORIAS (NO INCLUYE PENAS)",
+    "title": "10.- DECRETO LEGISLATIVO Nº 635 CÓDIGO PENAL Y SUS MODIFICATORIAS (NO INCLUYE PENAS)",
     "questions": [
       {
         "question": "1901. EL JUEZ O FISCAL QUE CONOCE EN UN PROCESO QUE ANTERIORMENTE PATROCINÓ COMO ABOGADO, COMETE DELITO DE:",
@@ -22590,7 +22590,7 @@
     ]
   },
   {
-    "title": "DECRETO LEGISLATIVO QUE REGULA EL PROCESO INMEDIATO EN CASOS DE FLAGRANCIA",
+    "title": "11.- DECRETO LEGISLATIVO Nº 1194 REGULA EL PROCESO INMEDIATO EN CASOS DE FLAGRANCIA PUBLICADO EL 30AGO2015",
     "questions": [
       {
         "question": "2251. EL DECRETO LEGISLATIVO Nº1194 TIENE EL OBJETO DE REGULAR:",
@@ -23295,7 +23295,7 @@
     ]
   },
   {
-    "title": "LEY QUE REGULA EL USO DE LA FUERZA POR PARTE DE LA PNP, SUS MODIFICATORIAS Y SU REGLAMENTO",
+    "title": "12. DECRETO LEGISLATIVO Nº 1186 LEY QUE REGULA EL USO DE LA FUERZA POR PARTE DE LA PNP, SUS MODIFICATORIAS Y SU REGLAMENTO DS. N°012-2016-IN",
     "questions": [
       {
         "question": "2321. ¿QUÉ, MARCO LEGAL REGULA EL USO DE LA FUERZA POR PARTE DEL PERSONAL DE LA POLICÍA NACIONAL DEL PERÚ EN CUMPLIMIENTO DE SU FINALIDAD CONSTITUCIONAL?:",
@@ -24500,7 +24500,7 @@
     ]
   },
   {
-    "title": "DECRETO LEGISLATIVO QUE FORTALECE LA LUCHA CONTRA EL TRÁFICO ILÍCITO DE DROGAS",
+    "title": "13.-  DECRETO LEGISLATIVO Nº 1241 QUE FORTALECE LA LUCHA CONTRA EL TRAFICO ILÍCITO DE DROGAS",
     "questions": [
       {
         "question": "2441. EL FORTALECER LA LUCHA CONTRA EL TRAFICO ILICITO DE DROGAS - TID EN SUS DIVERSAS MANIFESTACIONES, MEDIANTE LA PREVENCIÓN, INVESTIGACIÓN Y COMBATE DE DICHO DELITO; ASÍ COMO EL APOYO A LA REDUCCIÓN DE LOS CULTIVOS ILEGALES DE HOJA DE COCA. CORRESPONDE A:",
@@ -25505,7 +25505,7 @@
     ]
   },
   {
-    "title": "LUCHA EFICAZ CONTRA EL LAVADO DE ACTIVOS Y OTROS DELITOS RELACIONADOS A LA MINERIA ILEGAL Y EL CRIMEN ORGGANIZADO Y SUS MODIFICATORIAS.",
+    "title": "14. DECRETO LEGISLATIVO Nº 1106 - LUCHA EFICAZ CONTRA EL LAVADO DE ACTIVOS Y OTROS DELITOS RELACIONADOS A LA MINERIA ILEGAL Y CRIMEN ORGANIZADO Y SUS MODIFICATORIAS.",
     "questions": [
       {
         "question": "2541. EL QUE CONVIERTE O TRANSFIERE DINERO, BIENES, EFECTOS O GANANCIAS CUYO ORIGEN ILÍCITO CONOCE O DEBÍA PRESUMIR, CON LA FINALIDAD DE EVITAR LA IDENTIFICACIÓN DE SU ORIGEN, SU INCAUTACIÓN O DECOMISO; ES CONSIDERADO COMO:",
@@ -26710,7 +26710,7 @@
     ]
   },
   {
-    "title": "LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR Y SUS MODIFICATORIAS",
+    "title": "15.- LEY Nº 30364 LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR Y SUS MODIFICATORIAS.",
     "questions": [
           {
             "question": "2661. LA PRESENTE LEY TIENE POR OBJETO PREVENIR, ERRADICAR Y SANCIONAR TODA FORMA DE VIOLENCIA PRODUCIDA EN EL ÁMBITO:",
@@ -28212,6 +28212,1922 @@
             {"text": "COORDINACION.", "correct": false}
           ]
         }
+    ]
+  },
+  {
+    "title": "16.- LEY N° 30077 - CONTRA EL CRIMEN ORGANIZADO Y SUS MODIFICATORIAS (DL N° 1244) AL 31MAR2023",
+    "questions": [
+      {
+        "question": "2811. ¿CUÁL ES EL NÚMERO DE LA LEY CONTRA EL CRIMEN ORGANIZADO?",
+        "options": [
+            {"text": "LEY N° 30087", "correct": false},
+            {"text": "LEY N° 30627", "correct": false},
+            {"text": "LEY N° 30067", "correct": false},
+            {"text": "LEY N° 29007", "correct": false},
+            {"text": "LEY N° 30077", "correct": true}
+        ]
+    },
+    {
+        "question": "2812. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS:",
+        "options": [
+            {"text": "DELITOS CONTRA LA PROPIEDAD INDUSTRIAL", "correct": false},
+            {"text": "DELITOS MONETARIOS", "correct": true},
+            {"text": "DELITOS CONTRA LA CONFIANZA Y BUENA FÉ EN LOS NEGOCIOS", "correct": false},
+            {"text": "DELITOS CONTRA EL PATRIMONIO CULTURAL", "correct": false},
+            {"text": "DELITOS CONTRA LA PROPIEDAD INTELECTUAL", "correct": false}
+        ]
+    },
+    {
+        "question": "2813. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS DE:",
+        "options": [
+            {"text": "MINERIA ILEGAL", "correct": true},
+            {"text": "PROPIEDA INDUSTRIAL", "correct": false},
+            {"text": "RESISTENCIA A LA AUTORIDAD", "correct": false},
+            {"text": "FEMINICIDIO", "correct": false},
+            {"text": "MANIPULACIÓN GENÉTICA", "correct": false}
+        ]
+    },
+    {
+        "question": "2814. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS DE:",
+        "options": [
+            {"text": "ABIGEATO", "correct": false},
+            {"text": "CONTRA LA PROPIEDAD INTELECTUAL", "correct": false},
+            {"text": "MARCAJE O REGLAJE", "correct": true},
+            {"text": "HOMICIDIO SIMPLE", "correct": false},
+            {"text": "LESIONES GRAVES", "correct": false}
+        ]
+    },
+    {
+        "question": "2815. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS DE:",
+        "options": [
+            {"text": "DISCRIMINACIÓN", "correct": false},
+            {"text": "ABORTO", "correct": false},
+            {"text": "DAÑO AL CONCEBIDO", "correct": false},
+            {"text": "GENOCIDIO", "correct": true},
+            {"text": "CONTRA LA PROPIEDAD INDUSTRIAL", "correct": false}
+        ]
+    },
+    {
+        "question": "2816. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS DE:",
+        "options": [
+            {"text": "VIOLACIÓN SEXUAL", "correct": false},
+            {"text": "VIOLACIÓN DE MENORES", "correct": false},
+            {"text": "SEDUCCIÓN", "correct": false},
+            {"text": "ACTOS CONTRA EL PUDOR", "correct": false},
+            {"text": "PORNOGRAFÍA INFANTIL", "correct": true}
+        ]
+    },
+    {
+        "question": "2817. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS DE:",
+        "options": [
+            {"text": "EXTORSIÓN", "correct": true},
+            {"text": "APROPIACION ILÍCITA", "correct": false},
+            {"text": "USURPACION DE FUNCIONES", "correct": false},
+            {"text": "ABIGEATO", "correct": false},
+            {"text": "MANIPULACIÓN GENÉTICA", "correct": false}
+        ]
+    },
+    {
+        "question": "2818. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS DE:",
+        "options": [
+            {"text": "HOMICIDIO SIMPLE", "correct": false},
+            {"text": "HOMICIDIO CULPOSO", "correct": false},
+            {"text": "HOMICIDIO ATENUADO", "correct": false},
+            {"text": "HOMICIDIO PIADOSO", "correct": false},
+            {"text": "HOMICIDIO CALIFICADO", "correct": true}
+        ]
+    },
+    {
+        "question": "2819. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS DE:",
+        "options": [
+            {"text": "ABIGEATO AGRAVADO", "correct": false},
+            {"text": "TRATA DE PERSONAS", "correct": true},
+            {"text": "ACTOS CONTRA EL PUDOR", "correct": false},
+            {"text": "DELITOS CULPOSOS", "correct": false},
+            {"text": "VIOLENCIA FAMILIAR", "correct": false}
+        ]
+    },
+    {
+        "question": "2820. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS DE:",
+        "options": [
+            {"text": "TRÁFICO ILÍCITO DE MIGRANTES", "correct": true},
+            {"text": "PATRIMONIO CULTURAL", "correct": false},
+            {"text": "DISCRIMINACION", "correct": false},
+            {"text": "HOMICIDIO PRETERINTENCIONAL", "correct": false},
+            {"text": "HOMICIDIO SIMPLE", "correct": false}
+        ]
+    },
+    {
+      "question": "2821. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS DE:",
+      "options": [
+          {"text": "VIOLACIÓN DE LA LIBERTAD SEXUAL", "correct": false},
+          {"text": "VIOLACIÓN DE DOMICILIO", "correct": false},
+          {"text": "VIOLACIÓN DE LA INTIMIDAD SEXUAL", "correct": false},
+          {"text": "VIOLACIÓN DE LA INTIMIDAD", "correct": false},
+          {"text": "SICARIATO", "correct": true}
+      ]
+    },
+    {
+      "question": "2822. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS:",
+      "options": [
+          {"text": "CONTRA LOS DERECHOS INDUSTRIALES", "correct": false},
+          {"text": "CONTRA LA CONFIANZA Y BUENA FÉ EN LOS NEGOCIOS", "correct": false},
+          {"text": "CONTRA LA ADMINISTRACIÓN PÚBLICA", "correct": true},
+          {"text": "CONTRA LOS DERECHOS INTELECTUALES", "correct": false},
+          {"text": "CONTRA LA TRANQUILIDAD PÚBLICA", "correct": false}
+      ]
+    },
+    {
+      "question": "2823. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS:",
+      "options": [
+          {"text": "CONTRA LA SALUD PÚBLICA", "correct": true},
+          {"text": "CONTRA LA TRANQUILIDAD PÚBLICA", "correct": false},
+          {"text": "DE PELIGRO COMÚN", "correct": false},
+          {"text": "CONTRA LA VIDA HUMANA DEPENDIENTE", "correct": false},
+          {"text": "DE PELIGRO O ABANDONO DE PERSONA EN PELIGRO", "correct": false}
+      ]
+    },
+    {
+      "question": "2824. EL ENUNCIADO: 'FIJAR LAS REGLAS Y PROCEDIMIENTOS RELATIVOS A LA INVESTIGACIÓN, JUZGAMIENTO Y SANCIÓN DE LOS DELITOS COMETIDOS POR ORGANIZACIONES CRIMINALES', CORRESPONDE A:",
+      "options": [
+          {"text": "FINALIDAD DE LA LEY", "correct": false},
+          {"text": "ÁMBITO DE LA LEY", "correct": false},
+          {"text": "FUNCIONES DE LA LEY", "correct": false},
+          {"text": "MISIÓN DE LA LEY", "correct": false},
+          {"text": "OBJETO DE LA LEY", "correct": true}
+      ]
+    },
+    {
+      "question": "2825. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE AL SIGUIENTE DELITO:",
+      "options": [
+          {"text": "RECEPTACIÓN", "correct": false},
+          {"text": "TENENCIA, FABRICACIÓN, TRÁFICO ILÍCITO DE ARMAS, MUNICIONES Y EXPLOSIVO", "correct": true},
+          {"text": "TENENCIA, TRANSPORTE, TRÁFICO ILÍCITO DE ARMAS, MUNICIONES Y EXPLOSIVO", "correct": false},
+          {"text": "ESTAFA", "correct": false},
+          {"text": "TENENCIA, FABRICACIÓN, TRÁFICO LÍCITO DE ARMAS, MUNICIONES Y EXPLOSIVO", "correct": false}
+      ]
+    },
+    {
+      "question": "2826. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS CONTRA EL PATRIMONIO EN LAS MODALIDADES DELICTIVAS DE:",
+      "options": [
+          {"text": "APROPIACIÓN ILÍCITA", "correct": false},
+          {"text": "HURTO SIMPLE", "correct": false},
+          {"text": "ABIGEATO", "correct": false},
+          {"text": "ROBO AGRAVADO", "correct": true},
+          {"text": "RECEPTACIÓN", "correct": false}
+      ]
+    },
+    {
+      "question": "2827. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS CONTRA EL PATRIMONIO EN LAS MODALIDADES DELICTIVAS DE:",
+      "options": [
+          {"text": "APROPIACIÓN ILÍCITA", "correct": false},
+          {"text": "HURTO SIMPLE", "correct": false},
+          {"text": "ESTAFA", "correct": false},
+          {"text": "HOMICIDIO", "correct": false},
+          {"text": "HURTO AGRAVADO", "correct": true}
+      ]
+    },
+    {
+      "question": "2828. PARA EFECTOS DE LA PRESENTE LEY, SE CONSIDERA ORGANIZACIÓN CRIMINAL A CUALQUIER AGRUPACIÓN DE TRES O MÁS PERSONAS QUE:",
+      "options": [
+          {"text": "HAN CUMPLIDO CONDENA DE PENA PRIVATIVA DE LA LIBERTAD CONSENTIDA Y EJECUTORIADA", "correct": false},
+          {"text": "SE CARACTERIZAN POR SU ALTA PELIGROSIDAD Y MODUS OPERANDI", "correct": false},
+          {"text": "SE REPARTEN DIVERSAS ACTIVIDADES O TAREAS, CUALQUIERA SEA SU ESTRUCTURA Y ÁMBITO DE ACCIÓN", "correct": false},
+          {"text": "SE REPARTEN DIVERSAS TAREAS O FUNCIONES, CUALQUIERA SEA SU ESTRUCTURA Y ÁMBITO DE ACCIÓN", "correct": true},
+          {"text": "SE REPARTEN DIVERSOS ROLES O GESTIONES, CUALQUIERA SEA SU ESTRUCTURA Y ÁMBITO DE ACCIÓN", "correct": false}
+      ]
+    },
+    {
+      "question": "2829. TODO PROCESO SEGUIDO CONTRA INTEGRANTES DE UNA ORGANIZACIÓN CRIMINAL, PERSONAS VINCULADAS A ELLA O QUE ACTÚAN POR ENCARGO DE LA MISMA, SE CONSIDERA COMPLEJO DE CONFORMIDAD CON:",
+      "options": [
+          {"text": "EL INCISO 2 DEL ARTÍCULO 200 DEL CÓDIGO PENAL", "correct": false},
+          {"text": "EL INCISO 6 DEL ARTÍCULO 232 DEL CÓDIGO DE EJECUCIÓN PENAL", "correct": false},
+          {"text": "EL INCISO 8 DEL ARTÍCULO 371 DEL CÓDIGO PROCEDIMIENTOS PENALES", "correct": false},
+          {"text": "EL INCISO 4 DEL ARTÍCULO 457 DEL CÓDIGO PROCESAL CONSTITUCIONAL", "correct": false},
+          {"text": "EL INCISO 3 DEL ARTÍCULO 342 DEL CÓDIGO PROCESAL PENAL", "correct": true}
+      ]
+    },
+    {
+      "question": "2830. LAS TÉCNICAS ESPECIALES DE INVESTIGACIÓN DEBEN RESPETAR, ESCRUPULOSAMENTE Y EN TODOS LOS CASOS, LOS PRINCIPIOS DE:",
+      "options": [
+          {"text": "JUSTICIA, EQUIDAD Y OBJETIVIDAD", "correct": false},
+          {"text": "NECESIDAD, RAZONABILIDAD Y PROPORCIONALIDAD", "correct": true},
+          {"text": "NECESIDAD, RAZONABILIDAD Y JUSTIFICABILIDAD", "correct": false},
+          {"text": "NECESIDAD, CULPABILIDAD Y DEBIDO PROCESO", "correct": false},
+          {"text": "ULTIMA RATIO Y RATIO LEGIS", "correct": false}
+      ]
+    },
+    {
+      "question": "2831. LA RESOLUCIÓN JUDICIAL QUE AUTORIZA LA EJECUCIÓN DE LAS TÉCNICAS ESPECIALES DE INVESTIGACIÓN PREVISTAS EN ESTE CAPÍTULO, ASÍ COMO EL REQUERIMIENTO MEDIANTE EL QUE SE SOLICITA SU EJECUCIÓN, SEGÚN SEA EL CASO, DEBEN ESTAR DEBIDA Y SUFICIENTEMENTE MOTIVADOS BAJO:",
+      "options": [
+          {"text": "SANCIÓN DE APERCIBIMIENTO.", "correct": false},
+          {"text": "SANCIÓN DE NULIDAD.", "correct": true},
+          {"text": "SANCIÓN DE INHABILITACION.", "correct": false},
+          {"text": "SANCIÓN ADMINISTRATIVA.", "correct": false},
+          {"text": "SANCIÓN ECONOMICA.", "correct": false}
+      ]
+    },
+    {
+      "question": "2832. SE PUEDEN ADOPTAR TÉCNICAS ESPECIALES DE INVESTIGACIÓN SIEMPRE QUE RESULTEN:",
+      "options": [
+          {"text": "IDÓNEAS, NECESARIAS E INDISPENSABLES PARA EL ESCLARECIMIENTO DE LOS HECHOS MATERIA DE INVESTIGACIÓN.", "correct": true},
+          {"text": "IDÓNEAS, NECESARIAS E INDISPENSABLES PARA EL ESCLARECIMIENTO DE LOS HECHOS MATERIA DE IMPUTACIÓN.", "correct": false},
+          {"text": "IDÓNEAS, NECESARIAS E INDISPENSABLES PARA EL NO ESCLARECIMIENTO DE LOS HECHOS MATERIA DE INVESTIGACIÓN.", "correct": false},
+          {"text": "IDÓNEAS, NECESARIAS E INDISPENSABLES PARA EL ESCLARECIMIENTO DE LOS ACTOS MATERIA DE INVESTIGACIÓN.", "correct": false},
+          {"text": "IDÓNEAS, INNECESARIAS E INDISPENSABLES PARA EL ESCLARECIMIENTO DE LOS HECHOS MATERIA DE INVESTIGACIÓN.", "correct": false}
+      ]
+    },
+    {
+      "question": "2833. INTERCEPTACIÓN POSTAL E INTERVENCIÓN DE LAS COMUNICACIONES.- EL TRÁMITE Y REALIZACIÓN DE ESTAS MEDIDAS TIENEN CARÁCTER:",
+      "options": [
+          {"text": "RESERVADO E INHABILITANTE.", "correct": false},
+          {"text": "RESERVADO E INIMPUGNABLE.", "correct": false},
+          {"text": "RESERVADO E INMEDIATO.", "correct": true},
+          {"text": "RESERVADO E INAPLAZABLE.", "correct": false},
+          {"text": "RESERVADO E IMPUGNABLE.", "correct": false}
+      ]
+    },
+    {
+      "question": "2834. SOLO SE INTERCEPTA, RETIENE E INCAUTA LA CORRESPONDENCIA VINCULADA AL DELITO OBJETO DE INVESTIGACIÓN VINCULADO A LA ORGANIZACIÓN CRIMINAL, PROCURANDO, EN LA MEDIDA DE LO POSIBLE:",
+      "options": [
+          {"text": "RESPETAR EL DERECHO A LA INTIMIDAD, ÉTICA Y MORAL PÚBLICA.", "correct": false},
+          {"text": "NO AFECTAR LA CORRESPONDENCIA DE TERCEROS INVOLUCRADOS.", "correct": false},
+          {"text": "NO AFECTAR LA CORRESPONDENCIA DE PERSONAS NO INVOLUCRADOS.", "correct": false},
+          {"text": "NO AFECTAR LA CORRESPONDENCIA DE TERCEROS NO INVOLUCRADOS.", "correct": true},
+          {"text": "NO AFECTAR LA CORRESPONDENCIA DE FAMILIARES NO INVOLUCRADOS.", "correct": false}
+      ]
+    },
+    {
+      "question": "2835. EN EL ÁMBITO DE LA PRESENTE LEY, LA GRABACIÓN MEDIANTE LA CUAL SE REGISTRE LA INTERVENCIÓN DE LAS COMUNICACIONES ES CUSTODIADA DEBIDAMENTE POR:",
+      "options": [
+          {"text": "EL PESQUISA.", "correct": false},
+          {"text": "EL PERITO.", "correct": false},
+          {"text": "EL PROCURADOR.", "correct": false},
+          {"text": "EL FISCAL.", "correct": true},
+          {"text": "EL ABOGADO DEFENSOR.", "correct": false}
+      ]
+    },
+    {
+      "question": "2836. LAS COMUNICACIONES QUE SON IRRELEVANTES PARA LA INVESTIGACIÓN SON ENTREGADAS A LAS PERSONAS AFECTADAS CON LA MEDIDA, ORDENÁNDOSE, BAJO RESPONSABILIDAD:",
+      "options": [
+          {"text": "EL ALMACENAMIENTO DEBIDO POR EL AFECTADO.", "correct": false},
+          {"text": "LA DESTRUCCIÓN DE CUALQUIER INFORMACION O COPIA DE LAS MISMAS.", "correct": false},
+          {"text": "LA DESTRUCCIÓN DE CUALQUIER TRANSCRIPCIÓN O COPIA DE LAS MISMAS.", "correct": true},
+          {"text": "LA DESTRUCCIÓN DE CUALQUIER TRANSCRIPCIÓN O COPIA DE LOS ACTUADOS.", "correct": false},
+          {"text": "LA INUTILIZACIÓN DE LOS MEDIOS ELECTRÓNICOS Y DE SOPORTE QUE LA CONTENGAN.", "correct": false}
+      ]
+    },
+    {
+      "question": "2837. EJECUTADAS LAS TÉCNICAS ESPECIALES DE INVESTIGACIÓN PREVISTAS EN LOS ARTÍCULOS 9 Y 10, EL AFECTADO PUEDE INSTAR LA REALIZACIÓN DE LA:",
+      "options": [
+          {"text": "AUDIENCIA JUDICIAL DE REEXAMEN.", "correct": true},
+          {"text": "HOMOLOGACIÓN DE DICTÁMENES PERICIALES.", "correct": false},
+          {"text": "CERTIFICACIÓN JUDICIAL DEL PROCEDIMIENTO.", "correct": false},
+          {"text": "PRESENTACIÓN PROCESAL COMO MEDIO DE PRUEBA.", "correct": false},
+          {"text": "DESTRUCCIÓN DEL ELEMENTO DE SOPORTE O MEDIO OBTENIDO.", "correct": false}
+      ]
+    },
+    {
+      "question": "2838. CONFORME LO DISPUESTO POR EL ARTÍCULO 340 DEL CÓDIGO PROCESAL PENAL APROBADO POR EL DECRETO LEGISLATIVO 957. ¿QUIÉN ES EL FUNCIONARIO PÚBLICO QUE SE ENCUENTRA FACULTADO A DISPONER LA CIRCULACIÓN O ENTREGA VIGILADA DE CUALQUIER BIEN RELACIONADO A LA PRESUNTA COMISIÓN DE UNO O MÁS DELITOS VINCULADOS A UNA ORGANIZACIÓN CRIMINAL?",
+      "options": [
+          {"text": "EL FISCAL.", "correct": true},
+          {"text": "EL MINISTERIO PÚBLICO.", "correct": false},
+          {"text": "EL JUEZ.", "correct": false},
+          {"text": "EL PROCURADOR PÚBLICO.", "correct": false},
+          {"text": "EL POLICÍA.", "correct": false}
+      ]
+    },
+    {
+      "question": "2839. ES UNA TÉCNICA ESPECIAL DE INVESTIGACIÓN, MEDIANTE EL CÚAL, UNA VEZ EMITIDA LA DISPOSICIÓN FISCAL QUE AUTORIZA SU PARTICIPACIÓN, QUEDAN FACULTADOS PARA PARTICIPAR EN EL TRÁFICO JURÍDICO Y SOCIAL, ADQUIRIR, POSEER O TRANSPORTAR BIENES DE CARÁCTER DELICTIVO, PERMITIR SU INCAUTACIÓN E INTERVENIR EN TODA ACTIVIDAD ÚTIL Y NECESARIA PARA LA INVESTIGACIÓN DEL DELITO QUE MOTIVÓ LA DILIGENCIA.",
+      "options": [
+          {"text": "COLABORADOR EFICAZ.", "correct": false},
+          {"text": "AGENTE ENCUBIERTO.", "correct": true},
+          {"text": "PESQUISA INSTRUCTOR.", "correct": false},
+          {"text": "PERITO JUDICIAL.", "correct": false},
+          {"text": "FISCAL ESPECIAL.", "correct": false}
+      ]
+    },
+    {
+      "question": "2840. TODAS LAS INSTITUCIONES Y ORGANISMOS DEL ESTADO, FUNCIONARIOS Y SERVIDORES PÚBLICOS, ASÍ COMO LAS PERSONAS NATURALES O JURÍDICAS DEL SECTOR PRIVADO, ESTÁN OBLIGADAS A PRESTAR SU COLABORACIÓN CUANDO:",
+      "options": [
+          {"text": "LES SEA REQUERIDA PARA EL ESCLARECIMIENTO DE LOS DELITOS FLAGRANTES Y VIOLENTOS.", "correct": false},
+          {"text": "LES SEA REQUERIDA PARA EL JUZGAMIENTO DE LOS DELITOS REGULADOS POR LA PRESENTE LEY.", "correct": false},
+          {"text": "LES SEA REQUERIDA PARA LA INVESTIGACIÓN DE LOS DELITOS PENALES SOMETIDOS A SU JURISDICCIÓN.", "correct": false},
+          {"text": "LES SEA REQUERIDA PARA EL ESCLARECIMIENTO DE LOS DELITOS REGULADOS POR LA PRESENTE LEY.", "correct": true},
+          {"text": "LES SEA REQUERIDA PARA EL JUICIO DE LOS DELITOS REGULADOS POR LA PRESENTE LEY.", "correct": false}
+      ]
+    },
+    {
+      "question": "2841. EL INCUMPLIMIENTO DEL DEBER DE COLABORACIÓN Y DE CONFIDENCIALIDAD DE LAS INSTITUCIONES Y ENTIDADES PÚBLICAS Y PRIVADAS ACARREA:.",
+      "options": [
+          {"text": "RESPONSABILIDAD PENAL Y CIVIL, SEGÚN CORRESPONDA.", "correct": false},
+          {"text": "RESPONSABILIDAD PENAL, CIVIL O ADMINISTRATIVA, SEGÚN CORRESPONDA.", "correct": true},
+          {"text": "RESPONSABILIDAD PENAL Y FUNCIOONAL, SEGÚN CORRESPONDA", "correct": false},
+          {"text": "RESPONSABILIDAD ANTE LA LEY Y LA SOCIEDAD, SEGÚN CORRESPONDA", "correct": false},
+          {"text": "RESPONSABILIDAD LEGAL, SOCIAL Y ECONÓMICA, SEGÚN CORRESPONDA", "correct": false}
+      ]
+    },
+    {
+      "question": "2842. TODO PROCESO SEGUIDO CONTRA INTEGRANTES DE UNA ORGANIZACIÓN CRIMINAL, PERSONAS VINCULADAS A ELLA O QUE ACTÚAN POR ENCARGO DE LA MISMA, SE CONSIDERA:.",
+      "options": [
+          {"text": "RESERVADO.", "correct": false},
+          {"text": "CONFIDENCIAL.", "correct": false},
+          {"text": "PÚBLICO.", "correct": false},
+          {"text": "PRIVADO.", "correct": false},
+          {"text": "COMPLEJO.", "correct": true}
+      ]
+    },
+    {
+      "question": "2843. EN TODAS LAS INVESTIGACIONES Y PROCESOS PENALES POR DELITOS COMETIDOS A TRAVÉS DE UNA ORGANIZACIÓN CRIMINAL, SEGÚN LO PREVISTO POR LA PRESENTE LEY, LA POLICÍA NACIONAL DEL PERÚ NO NECESITA AUTORIZACIÓN DEL FISCAL NI ORDEN JUDICIAL PARA:.",
+      "options": [
+          {"text": "LA CAPTURA DE LOS CABECILLAS Y ARMAS DE FUEGO DE LA ORGANIZACIÓN.", "correct": false},
+          {"text": "LA INCAUTACIÓN DE LOS OBJETOS, INSTRUMENTOS, EFECTOS O GANANCIAS DEL DELITO.", "correct": true},
+          {"text": "LA INCAUTACIÓN DE LOS OBJETOS, INSTRUMENTOS, EFECTOS O BIENES DEL DELITO.", "correct": false},
+          {"text": "LA INCAUTACIÓN DE LOS OBJETOS, INSTRUMENTOS, DOCUMENTOS O GANANCIAS DEL DELITO.", "correct": false},
+          {"text": "PROCEDER CON LAS DILIGENCIAS PRELIMINARES Y MEDIDAS CAUTELARES.", "correct": false}
+      ]
+    },
+    {
+      "question": "2844. SON DE APLICACIÓN LAS REGLAS Y EL PROCEDIMIENTO DEL PROCESO, SIEMPRE QUE SE PRESENTE UNO O MÁS DE LOS SUPUESTOS PREVISTOS EN EL ARTÍCULO 4 DEL DECRETO LEGISLATIVO 1104, QUE MODIFICA LA LEGISLACIÓN SOBRE:.",
+      "options": [
+          {"text": "PÉRDIDA DE DOMINIO.", "correct": true},
+          {"text": "MEDIDAS CAUTELARES.", "correct": false},
+          {"text": "EMBARGO PREVENTIVO.", "correct": false},
+          {"text": "SECUESTROS CONSERVATIVOS.", "correct": false},
+          {"text": "ASIGNACION JUDICIAL.", "correct": false}
+      ]
+    },
+    {
+      "question": "2845. ¿QUÉ FUNCIONARIOS PÚBLICOS EJERCEN SUS FUNCIONES DE CONFORMIDAD CON LAS NORMAS Y LOS REGLAMENTOS QUE GARANTIZAN LA SEGURIDAD, CONSERVACIÓN, SEGUIMIENTO Y CONTROL DE LA CADENA DE CUSTODIA DE LOS BIENES SEÑALADOS EN EL ARTÍCULO 17 DE LA PRESENTE LEY?:.",
+      "options": [
+          {"text": "EL FISCAL O LA POLICÍA NACIONAL DEL PERÚ.", "correct": true},
+          {"text": "EL PODER JUDICIAL Y LA CONTRALORÍA.", "correct": false},
+          {"text": "LOS JUECES Y PERITOS JUDICIALES.", "correct": false},
+          {"text": "EL FISCAL PROVINCIAL O LA POLICÍA ESPECIALIZADA.", "correct": false},
+          {"text": "EL JUEZ PENAL Y EL PROCURADOR PÚBLICO.", "correct": false}
+      ]
+    }, 
+      {
+        "question": "2846. AGRAVANTES ESPECIALES.- EL JUEZ AUMENTA LA PENA HASTA EN UNA TERCERA PARTE POR ENCIMA DEL MÁXIMO LEGAL FIJADO POR EL DELITO COMETIDO, SIN QUE EN NINGÚN CASO PUEDA EXCEDER LOS TREINTA Y CINCO AÑOS, EN LOS SIGUIENTES SUPUESTOS:",
+        "options": [
+          {"text": "SI EL AGENTE ES LIDER, JEFE O CABECILLA O EJERCE FUNCIONES DE ADMINISTRACIÓN, SUPERVISIÓN, Y OPERATIVIZACIÓN DE LA ORGANIZACIÓN CRIMINAL.", "correct": true},
+          {"text": "SI EL AGENTE ES LÍDER, JEFE O CABECILLA O EJERCE FUNCIONES DE ADMINISTRACIÓN, DIRECCIÓN Y SUPERVISIÓN DE LA ORGANIZACIÓN CRIMINAL.", "correct": false},
+          {"text": "SI EL AGENTE ES LÍDER, JEFE O CABECILLA O EJERCE FUNCIONES DE ADMINISTRACIÓN, DIRECCIÓN Y CONTROL DE LA ORGANIZACIÓN CRIMINAL.", "correct": false},
+          {"text": "SI EL AGENTE ES LÍDER, JEFE O CABECILLA O EJERCE FUNCIONES DE ADMINISTRACIÓN, DIRECCIÓN Y FISCALIZACIÓN DE LA ORGANIZACIÓN CRIMINAL.", "correct": false},
+          {"text": "SI EL DETENIDO ES LÍDER O CABECILLA O EJERCE FUNCIONES DE DIRECCIÓN Y SUPERVISIÓN DE LA ORGANIZACIÓN DELINCUENCIAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2847. AGRAVANTES ESPECIALES.- EL JUEZ AUMENTA LA PENA HASTA EN UNA TERCERA PARTE POR ENCIMA DEL MÁXIMO LEGAL FIJADO POR EL DELITO COMETIDO, SIN QUE EN NINGÚN CASO PUEDA EXCEDER LOS TREINTA Y CINCO AÑOS, EN LOS SIGUIENTES SUPUESTOS:",
+        "options": [
+          {"text": "SI EL AGENTE FINANCIA LA ORGANIZACIÓN CRIMINAL.", "correct": true},
+          {"text": "SI EL COMPLICE FINANCIA LA ORGANIZACIÓN CRIMINAL.", "correct": false},
+          {"text": "SI EL DETENIDO FINANCIA LA ORGANIZACIÓN CRIMINAL.", "correct": false},
+          {"text": "SI EL IMPUTADO FINANCIA LA ORGANIZACIÓN CRIMINAL.", "correct": false},
+          {"text": "SI EL IMPLICADO FINANCIA LA ORGANIZACIÓN CRIMINAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2848. AGRAVANTES ESPECIALES.- EL JUEZ AUMENTA LA PENA HASTA EN UNA TERCERA PARTE POR ENCIMA DEL MÁXIMO LEGAL FIJADO POR EL DELITO COMETIDO, SIN QUE EN NINGÚN CASO PUEDA EXCEDER LOS TREINTA Y CINCO AÑOS, EN LOS SIGUIENTES SUPUESTOS:",
+        "options": [
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA VINCULADA A ELLA O QUE ACTÚA POR ENCARGO DE LA MISMA, ES FUNCIONARIO O SERVIDOR PÚBLICO.", "correct": true},
+          {"text": "SI EL AGENTE ES LÍDER, JEFE O CABECILLA O EJERCE FUNCIONES DE ADMINISTRACIÓN, SUPERVISIÓN, Y OPERATIVIZACIÓN DE LA ORGANIZACIÓN CRIMINAL.", "correct": false},
+          {"text": "SI EL AGENTE ES LÍDER, JEFE O CABECILLA O EJERCE FUNCIONES DE ADMINISTRACIÓN, DIRECCIÓN Y SUPERVISIÓN DE LA ORGANIZACIÓN CRIMINAL.", "correct": false},
+          {"text": "SI EL AGENTE ES LÍDER, JEFE O CABECILLA O EJERCE FUNCIONES DE ADMINISTRACIÓN, DIRECCIÓN Y CONTROL DE LA ORGANIZACIÓN CRIMINAL.", "correct": false},
+          {"text": "SI EL AGENTE ES LÍDER, JEFE O CABECILLA O EJERCE FUNCIONES DE ADMINISTRACIÓN, DIRECCIÓN Y FISCALIZACIÓN DE LA ORGANIZACIÓN CRIMINAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2849. AGRAVANTES ESPECIALES.- EL JUEZ AUMENTA LA PENA HASTA EN UNA TERCERA PARTE POR ENCIMA DEL MÁXIMO LEGAL FIJADO POR EL DELITO COMETIDO, SIN QUE EN NINGÚN CASO PUEDA EXCEDER LOS TREINTA Y CINCO AÑOS, EN LOS SIGUIENTES SUPUESTOS:.",
+        "options": [
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA VINCULADA A ELLA, UTILIZA A DISCAPACITADOS U OTROS INIMPUTABLES.", "correct": false},
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA VINCULADA A ELLA O QUE ACTÚA POR ENCARGO DE LA MISMA, UTILIZA A MENORES DE EDAD U OTROS COIMPUTADOS PARA LA COMISIÓN DEL DELITO.", "correct": false},
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA VINCULADA A ELLA O QUE ACTÚA POR ENCARGO DE LA MISMA, UTILIZA A MENORES DE EDAD U OTROS INIMPUTABLES PARA LA COMISIÓN DEL ACTO IMPUTABLE.", "correct": false},
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA VINCULADA A ELLA O QUE ACTÚA POR ENCARGO DE LA MISMA, UTILIZA A MENORES DE EDAD U OTROS IMPUTABLES PARA LA COMISIÓN DEL DELITO.", "correct": false},
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA VINCULADA A ELLA O QUE ACTÚA POR ENCARGO DE LA MISMA, UTILIZA A MENORES DE EDAD U OTROS INIMPUTABLES PARA LA COMISIÓN DEL DELITO.", "correct": true}
+        ]
+      },
+      {
+        "question": "2850. AGRAVANTES ESPECIALES.- EL JUEZ AUMENTA LA PENA HASTA EN UNA TERCERA PARTE POR ENCIMA DEL MÁXIMO LEGAL FIJADO POR EL DELITO COMETIDO, SIN QUE EN NINGÚN CASO PUEDA EXCEDER LOS TREINTA Y CINCO AÑOS, EN LOS SIGUIENTES SUPUESTOS:.",
+        "options": [
+          {"text": "SI EL AGENTE, INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL, ATENTA CONTRA LA INTEGRIDAD FÍSICA O SIQUICA DE MENORES DE EDAD U OTROS.", "correct": false},
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA VINCULADA A ELLA O QUE ACTÚA POR ENCARGO DE LA MISMA, ATENTA CONTRA LA INTEGRIDAD FÍSICA O SICOLÓGICA DE MENORES DE EDAD U OTROS INIMPUTABLES.", "correct": true},
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA JURÍDICA VINCULADA A ELLA O QUE ACTÚA POR ENCARGO DE LA MISMA, ATENTA CONTRA LA INTEGRIDAD FÍSICA O SICOLÓGICA DE MENORES DE EDAD.", "correct": false},
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA VINCULADA A ELLA O QUE ACTÚA POR ENCARGO DE LA MISMA, ATENTA CONTRA LA INTEGRIDAD FÍSICA O SICOLÓGICA DE MAYORES DE EDAD U OTROS INIMPUTABLES.", "correct": false},
+          {"text": "SI EL AGENTE, INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL, ATENTA CONTRA LA INTEGRIDAD CORPORAL DE MENORES DE EDAD U OTROS INIMPUTABLES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2851. AGRAVANTES ESPECIALES.- EL JUEZ AUMENTA LA PENA HASTA EN UNA TERCERA PARTE POR ENCIMA DEL MÁXIMO LEGAL FIJADO POR EL DELITO COMETIDO, SIN QUE EN NINGÚN CASO PUEDA EXCEDER LOS TREINTA Y CINCO AÑOS, EN LOS SIGUIENTES SUPUESTOS:.",
+        "options": [
+          {"text": "SI EL AGENTE HACE USO DE ARMAS DE FUEGO PARA COMETER LOS DELITOS A QUE SE REFIERE LA PRESENTE LEY.", "correct": false},
+          {"text": "SI EL AGENTE HACE USO DE ARMAS DE GUERRA PARA COMETER LOS DELITOS A QUE SE REFIERE LA PRESENTE LEY.", "correct": true},
+          {"text": "SI EL AGENTE HACE USO DE ARMAS BLANCAS PARA COMETER LOS DELITOS A QUE SE REFIERE LA PRESENTE LEY.", "correct": false},
+          {"text": "SI EL AGENTE HACE USO DE ARMAS DE FUEGO Y ARMAS BLANCAS PARA COMETER LOS DELITOS A QUE SE REFIERE LA PRESENTE LEY.", "correct": false},
+          {"text": "SI EL AGENTE HACE USO DE ARMAS PERSONALES PARA COMETER LOS DELITOS A QUE SE REFIERE LA PRESENTE LEY.", "correct": false}
+        ]
+      },
+      {
+        "question": "2852. AGRAVANTES ESPECIALES.- EL JUEZ AUMENTA LA PENA HASTA EN UNA TERCERA PARTE POR ENCIMA DEL MÁXIMO LEGAL FIJADO POR EL DELITO COMETIDO, SIN QUE EN NINGÚN CASO PUEDA EXCEDER LOS TREINTA Y CINCO AÑOS, EN LOS SIGUIENTES SUPUESTOS:.",
+        "options": [
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA VINCULADA A ELLA O QUE ACTÚA POR ENCARGO DE LA MISMA, POSEE ARMAS DE GUERRA, MATERIAL EXPLOSIVO O CUALQUIER OTRO MEDIO ANÁLOGO.", "correct": true},
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA VINCULADA A ELLA O QUE ACTÚA POR ENCARGO DE LA MISMA, POSEE ARMAS DE FUEGO, MATERIAL EXPLOSIVO O CUALQUIER OTRO MEDIO ANÁLOGO.", "correct": false},
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA VINCULADA A ELLA O QUE ACTÚA POR ENCARGO DE LA MISMA, POSEE ARMAS BLANCAS, MATERIAL EXPLOSIVO O CUALQUIER OTRO MEDIO ANÁLOGO.", "correct": false},
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA VINCULADA A ELLA O QUE ACTÚA POR ENCARGO DE LA MISMA, POSEE ARMAS DE GUERRA, MATERIAL BÉLICO O CUALQUIER OTRO MEDIO ANÁLOGO.", "correct": false},
+          {"text": "SI EL AGENTE, EN CONDICIÓN DE INTEGRANTE DE LA ORGANIZACIÓN CRIMINAL O PERSONA VINCULADA A ELLA O QUE ACTÚA POR ENCARGO DE LA MISMA, POSEE ARMAS DE QUÍMICAS, MATERIAL EXPLOSIVO O CUALQUIER OTRO MEDIO ANÁLOGO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2853. SI CUALQUIERA DE LOS DELITOS PREVISTOS EN LA PRESENTE LEY HAN SIDO COMETIDOS EN EJERCICIO DE LA ACTIVIDAD DE UNA PERSONA JURÍDICA O VALIÉNDOSE DE SU ESTRUCTURA ORGANIZATIVA PARA FAVORECERLO, FACILITARLO O ENCUBRIRLO, EL JUEZ DEBE IMPONER, ATENDIENDO A LA GRAVEDAD Y NATURALEZA DE LOS HECHOS, LA RELEVANCIA DE LA INTERVENCIÓN DE LA PERSONA JURÍDICA EN EL DELITO Y LAS CARACTERÍSTICAS PARTICULARES DE LA ORGANIZACIÓN CRIMINAL, CUALQUIERA DE LAS SIGUIENTES CONSECUENCIAS ACCESORIAS DE FORMA:.",
+        "options": [
+          {"text": "ALTERNATIVA O CONJUNTA.", "correct": true},
+          {"text": "ALTERNATIVA O GRUPAL.", "correct": false},
+          {"text": "ALTERNATIVA Y FUNCIONAL.", "correct": false},
+          {"text": "ALTERNATIVA O CORPORATIVA.", "correct": false},
+          {"text": "ALTERNATIVA Y ORGANIZADA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2854. SI CUALQUIERA DE LOS DELITOS PREVISTOS EN LA PRESENTE LEY HAN SIDO COMETIDOS EN EJERCICIO DE LA ACTIVIDAD DE UNA PERSONA JURÍDICA O VALIÉNDOSE DE SU ESTRUCTURA ORGANIZATIVA PARA FAVORECERLO, FACILITARLO O ENCUBRIRLO, EL JUEZ DEBE IMPONER, ATENDIENDO A LA GRAVEDAD Y NATURALEZA DE LOS HECHOS, LA RELEVANCIA DE LA INTERVENCIÓN DE LA PERSONA JURÍDICA EN EL DELITO Y LAS CARACTERÍSTICAS PARTICULARES DE LA ORGANIZACIÓN CRIMINAL, CUALQUIERA DE LAS SIGUIENTES CONSECUENCIAS ACCESORIAS DE FORMA ALTERNATIVA O CONJUNTA:",
+        "options": [
+          {"text": "MULTA POR UN MONTO NO MENOR DEL TRIPLE NI MAYOR DEL DOBLE DEL VALOR DE LA TRANSACCIÓN REAL.", "correct": false},
+          {"text": "INDEMNIZACIÓN POR UN MONTO NO MENOR DEL DOBLE NI MAYOR DEL TRIPLE DEL VALOR DE LA TRANSACCIÓN REAL.", "correct": false},
+          {"text": "REPARACIÓN POR UN MONTO NO MENOR DEL DOBLE NI MAYOR DEL TRIPLE DEL VALOR DE LA TRANSACCIÓN REAL.", "correct": false},
+          {"text": "COSTAS Y COSTOS POR UN MONTO NO MENOR DEL DOBLE NI MAYOR DEL TRIPLE DEL VALOR DE LA TRANSACCIÓN REAL.", "correct": false},
+          {"text": "MULTA POR UN MONTO NO MENOR DEL DOBLE NI MAYOR DEL TRIPLE DEL VALOR DE LA TRANSACCIÓN REAL.", "correct": true}
+        ]
+      },
+      {
+        "question": "2855. SI CUALQUIERA DE LOS DELITOS PREVISTOS EN LA PRESENTE LEY HAN SIDO COMETIDOS EN EJERCICIO DE LA ACTIVIDAD DE UNA PERSONA JURÍDICA O VALIÉNDOSE DE SU ESTRUCTURA ORGANIZATIVA PARA FAVORECERLO, FACILITARLO O ENCUBRIRLO, EL JUEZ DEBE IMPONER, ATENDIENDO A LA GRAVEDAD Y NATURALEZA DE LOS HECHOS, LA RELEVANCIA DE LA INTERVENCIÓN DE LA PERSONA JURÍDICA EN EL DELITO Y LAS CARACTERÍSTICAS PARTICULARES DE LA ORGANIZACIÓN CRIMINAL, CUALQUIERA DE LAS SIGUIENTES CONSECUENCIAS ACCESORIAS DE FORMA ALTERNATIVA O CONJUNTA:",
+        "options": [
+          {"text": "CLAUSURA TEMPORAL DE LOCALES O ESTABLECIMIENTOS.", "correct": false},
+          {"text": "CLAUSURA INMEDIATA DE LOCALES O ESTABLECIMIENTOS.", "correct": false},
+          {"text": "CLAUSURA DEFINITIVA DE LOCALES O ESTABLECIMIENTOS.", "correct": true},
+          {"text": "CLAUSURA PROLONGADA DE LOCALES O ESTABLECIMIENTOS.", "correct": false},
+          {"text": "CLAUSURA MUNICIPAL DE LOCALES O ESTABLECIMIENTOS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2856. SI CUALQUIERA DE LOS DELITOS PREVISTOS EN LA PRESENTE LEY HAN SIDO COMETIDOS EN EJERCICIO DE LA ACTIVIDAD DE UNA PERSONA JURÍDICA O VALIÉNDOSE DE SU ESTRUCTURA ORGANIZATIVA PARA FAVORECERLO, FACILITARLO O ENCUBRIRLO, EL JUEZ DEBE IMPONER, ATENDIENDO A LA GRAVEDAD Y NATURALEZA DE LOS HECHOS, LA RELEVANCIA DE LA INTERVENCIÓN DE LA PERSONA JURÍDICA EN EL DELITO Y LAS CARACTERÍSTICAS PARTICULARES DE LA ORGANIZACIÓN CRIMINAL, CUALQUIERA DE LAS SIGUIENTES CONSECUENCIAS ACCESORIAS DE FORMA ALTERNATIVA O CONJUNTA:",
+        "options": [
+          {"text": "SUSPENSIÓN DE ACTIVIDADES POR UN PLAZO NO MAYOR A CINCO AÑOS.", "correct": true},
+          {"text": "SUSPENSIÓN DE ACTIVIDADES POR UN PLAZO NO MAYOR A CUATRO AÑOS.", "correct": false},
+          {"text": "SUSPENSIÓN DE ACTIVIDADES POR UN PLAZO NO MAYOR A CINCO MESES.", "correct": false},
+          {"text": "SUSPENSIÓN DE ACTIVIDADES POR UN PLAZO NO MAYOR A DOS AÑOS.", "correct": false},
+          {"text": "SUSPENSIÓN DE ACTIVIDADES POR UN PLAZO NO MAYOR A SEIS AÑOS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2857. AGRAVANTES ESPECIALES.- EL JUEZ AUMENTA LA PENA HASTA EN UNA TERCERA PARTE POR ENCIMA DEL MÁXIMO LEGAL FIJADO POR EL DELITO COMETIDO, SIN QUE EN NINGÚN CASO PUEDA EXCEDER LOS:",
+        "options": [
+          {"text": "VEINTE AÑOS.", "correct": false},
+          {"text": "VEINTIOCHO AÑOS.", "correct": false},
+          {"text": "TREINTA AÑOS.", "correct": false},
+          {"text": "TREINTA Y CINCO AÑOS.", "correct": true},
+          {"text": "VEINTICINCO AÑOS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2858. SI CUALQUIERA DE LOS DELITOS PREVISTOS EN LA PRESENTE LEY HAN SIDO COMETIDOS EN EJERCICIO DE LA ACTIVIDAD DE UNA PERSONA JURÍDICA O VALIÉNDOSE DE SU ESTRUCTURA ORGANIZATIVA PARA FAVORECERLO, FACILITARLO O ENCUBRIRLO, EL JUEZ DEBE IMPONER, ATENDIENDO A LA GRAVEDAD Y NATURALEZA DE LOS HECHOS, LA RELEVANCIA DE LA INTERVENCIÓN DE LA PERSONA JURÍDICA EN EL DELITO Y LAS CARACTERÍSTICAS PARTICULARES DE LA ORGANIZACIÓN CRIMINAL, CUALQUIERA DE LAS SIGUIENTES CONSECUENCIAS ACCESORIAS DE FORMA ALTERNATIVA O CONJUNTA:",
+        "options": [
+          {"text": "CANCELACION DE LICENCIAS, DERECHOS Y OTRAS RESOLUCIONES JUDICIALES.", "correct": false},
+          {"text": "SUSPENSIÓN DE LICENCIAS, DERECHOS Y OTRAS AUTORIZACIONES ADMINISTRATIVAS ESPECIALES.", "correct": false},
+          {"text": "ANULACION DE PERMISOS, DERECHOS Y OTRAS AUTORIZACIONES ADMINISTRATIVAS.", "correct": false},
+          {"text": "CANCELACIÓN DE PERMISOS, DERECHOS Y OTRAS AUTORIZACIONES MUNICIPALES.", "correct": false},
+          {"text": "CANCELACIÓN DE LICENCIAS, DERECHOS Y OTRAS AUTORIZACIONES ADMINISTRATIVAS O MUNICIPALES.", "correct": true}
+        ]
+      },
+      {
+        "question": "2859. SI CUALQUIERA DE LOS DELITOS PREVISTOS EN LA PRESENTE LEY HAN SIDO COMETIDOS EN EJERCICIO DE LA ACTIVIDAD DE UNA PERSONA JURÍDICA O VALIÉNDOSE DE SU ESTRUCTURA ORGANIZATIVA PARA FAVORECERLO, FACILITARLO O ENCUBRIRLO, EL JUEZ DEBE IMPONER, ATENDIENDO A LA GRAVEDAD Y NATURALEZA DE LOS HECHOS, LA RELEVANCIA DE LA INTERVENCIÓN DE LA PERSONA JURÍDICA EN EL DELITO Y LAS CARACTERÍSTICAS PARTICULARES DE LA ORGANIZACIÓN CRIMINAL, CUALQUIERA DE LAS SIGUIENTES CONSECUENCIAS ACCESORIAS DE FORMA ALTERNATIVA O CONJUNTA:",
+        "options": [
+          {"text": "DISOLUCIÓN DE LA PERSONA JURÍDICA.", "correct": true},
+          {"text": "DISOLUCIÓN DE LA PERSONA NATURAL.", "correct": false},
+          {"text": "CANCELACIÓN DE LA PERSONA NATURAL.", "correct": false},
+          {"text": "TERMINACIÓN DE LA PERSONA JURÍDICA.", "correct": false},
+          {"text": "DESACTIVACIÓN DE LA PERSONA NATURAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2860. EL QUE PROMUEVA, ORGANICE, CONSTITUYA, O INTEGRE UNA ORGANIZACIÓN CRIMINAL DE TRES O MÁS PERSONAS CON CARÁCTER ESTABLE, PERMANENTE O POR TIEMPO INDEFINIDO, QUE DE MANERA ORGANIZADA, CONCERTADA O COORDINADA, SE REPARTAN DIVERSAS TAREAS O FUNCIONES, DESTINADA A COMETER DELITOS SERÁ REPRIMIDO CON PENA PRIVATIVA DE LIBERTAD NO MENOR DE OCHO NI MAYOR DE QUINCE AÑOS Y CON CIENTO OCHENTA A TRESCIENTOS SESENTA Y CINCO DÍAS - MULTA, E :",
+        "options": [
+          {"text": "INTERNAMIENTO.", "correct": false},
+          {"text": "RESOCIALIZACIÓN.", "correct": false},
+          {"text": "INHABILITACIÓN.", "correct": true},
+          {"text": "HABILITACIÓN.", "correct": false},
+          {"text": "REHABILITACIÓN.", "correct": false}
+        ]
+      },
+      {
+        "question": "2861. EL ENUNCIADO, 'EL QUE CONSTITUYA O INTEGRE UNA UNIÓN DE DOS A MÁS PERSONAS; QUE SIN REUNIR ALGUNA O ALGUNAS DE LAS CARACTERÍSTICAS DE LA ORGANIZACIÓN CRIMINAL DISPUESTAS EN EL ARTÍCULO 317, TENGA POR FINALIDAD O POR OBJETO LA COMISIÓN DE DELITOS CONCERTADAMENTE; SERÁ REPRIMIDOS CON UNA PENA PRIVATIVA DE LIBERTAD DE NO MENOR DE CUATRO NI MAYOR DE OCHO AÑOS Y CON CIENTO OCHENTA A TRESCIENTOS SESENTA Y CINCO DÍAS - MULTA'. CORRESPONDE A:",
+        "options": [
+          {"text": "BANDA CRIMINAL.", "correct": true},
+          {"text": "ORGANIZACIÓN CRIMINAL.", "correct": false},
+          {"text": "GRUPO CRIMINAL.", "correct": false},
+          {"text": "DELINCUENCIA ORGANIZADA.", "correct": false},
+          {"text": "DELINCUENCIA COMÚN.", "correct": false}
+        ]
+      },
+      {
+        "question": "2862. ACTOS DE COOPERACIÓN O ASISTENCIA INTERNACIONAL.- LAS AUTORIDADES JUDICIALES, EL MINISTERIO PÚBLICO Y LA POLICÍA NACIONAL DEL PERÚ PUEDEN PRESTAR Y SOLICITAR:",
+        "options": [
+          {"text": "ASISTENCIA A OTROS ESTADOS EN ACTUACIONES OPERATIVAS, ACTOS DE INVESTIGACIÓN Y PROCESOS JUDICIALES.", "correct": true},
+          {"text": "ASISTENCIA A OTROS ESTADOS EN ACTUACIONES JUDICIALES, ACTOS DE INVESTIGACIÓN Y PROCESOS JUDICIALES.", "correct": false},
+          {"text": "ASISTENCIA A OTROS ESTADOS EN ACTUACIONES PROCESALES, ACTOS DE INVESTIGACIÓN Y PROCESOS JUDICIALES.", "correct": false},
+          {"text": "APOYO LOGÍSTICO A OTROS ESTADOS EN ACTUACIONES OPERATIVAS, ACTOS DE INVESTIGACIÓN Y PROCESOS JUDICIALES.", "correct": false},
+          {"text": "COOPERACIÓN ECONÓMICA A OTROS ESTADOS EN ACTUACIONES OPERATIVAS, ACTOS DE INVESTIGACIÓN Y PROCESOS JUDICIALES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2863. ACTOS DE COOPERACIÓN O ASISTENCIA INTERNACIONAL.- EN ESPECIAL, LOS ACTOS DE COOPERACIÓN Y ASISTENCIA, SON LOS SIGUIENTES:",
+        "options": [
+          {"text": "EMITIR COPIA CERTIFICADA DE DOCUMENTOS.", "correct": true},
+          {"text": "RECIBIR DONACIONES MATERIALES.", "correct": false},
+          {"text": "ACEPTAR FINANCIAMIENTO ECÓNOMICO.", "correct": false},
+          {"text": "INTERCAMBIO CULTURAL PERMANENTE.", "correct": false},
+          {"text": "PROTOCOLOS UNIFICADOS DE ACTUACIÓN.", "correct": false}
+        ]
+      },
+      {
+        "question": "2864. ACTOS DE COOPERACIÓN O ASISTENCIA INTERNACIONAL.-EN ESPECIAL, LOS ACTOS DE COOPERACIÓN Y ASISTENCIA, SON LOS SIGUIENTES:",
+        "options": [
+          {"text": "CUALQUIER OTRA FORMA DE COOPERACIÓN O ASISTENCIA JUDICIAL AUTORIZADA POR EL DERECHO INTERNO.", "correct": true},
+          {"text": "TODAS LAS FORMAS DE COOPERACIÓN O ASISTENCIA JUDICIAL AUTORIZADA POR EL DERECHO PRIVADO.", "correct": false},
+          {"text": "CUALQUIER OTRA FORMA DE COOPERACIÓN O ASISTENCIA JUDICIAL AUTORIZADA POR EL DERECHO INTERNACIONAL.", "correct": false},
+          {"text": "ALGUNA FORMA DE COOPERACIÓN O ASISTENCIA JUDICIAL AUTORIZADA POR EL DERECHO PENAL INTERNACIONAL.", "correct": false},
+          {"text": "TODAS LAS FORMAS DE COOPERACIÓN O ASISTENCIA JUDICIAL AUTORIZADA POR EL ESTADO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2865. LA LEY NRO 30077 CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS DE:",
+        "options": [
+          {"text": "CONTRA LA SALUD PÚBLICA.", "correct": true},
+          {"text": "DE PELIGRO COMÚN.", "correct": false},
+          {"text": "CONTRA LA VIDA HUMANA DEPENDIENTE.", "correct": false},
+          {"text": "DE PELIGRO O ABANDONO DE PERSONA EN PELIGRO.", "correct": false},
+          {"text": "CONTRA LA TRANQUILIDAD PÚBLICA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2866. LA LEY NRO 30077 CONTRA EL CRIMEN ORGANIZADO EN LAS TÉCNICAS ESPECIALES DE INVESTIGACIÓN, INTERCEPTACIÓN POSTAL E INTERVENCIÓN DE LAS COMUNICACIONES, DISPOSICIONES COMUNES. EL TRÁMITE Y REALIZACIÓN DE ESTAS MEDIDAS TIENEN CARÁCTER:",
+        "options": [
+          {"text": "RESERVADO E INMEDIATO.", "correct": false},
+          {"text": "CONFIDENCIAL.", "correct": false},
+          {"text": "INAPELABLE E INSUSTITUIBLE.", "correct": false},
+          {"text": "LEGAL.", "correct": false},
+          {"text": "MEDIATO.", "correct": false},
+          {"text": "RESERVADO E INMEDIATO.", "correct": true}
+        ]
+      },
+      {
+        "question": "2867. EL JUEZ AUMENTA LA PENA HASTA EN UNA TERCERA PARTE POR ENCIMA DEL MÁXIMO LEGAL FIJADO POR EL DELITO COMETIDO, SIN QUE EN NINGÚN CASO PUEDA EXCEDER:",
+        "options": [
+          {"text": "LOS TREINTA Y CINCO AÑOS.", "correct": true},
+          {"text": "LOS TREINTA AÑOS.", "correct": false},
+          {"text": "LOS VEINTICINCO AÑOS.", "correct": false},
+          {"text": "LOS TREINTA Y TRES AÑOS.", "correct": false},
+          {"text": "LOS VEINTE AÑOS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2868. EL JUEZ DEBE IMPONER, ATENDIENDO A LA GRAVEDAD Y NATURALEZA DE LOS HECHOS, LA RELEVANCIA DE LA INTERVENCIÓN DE LA PERSONA JURÍDICA EN EL DELITO Y LAS CARACTERÍSTICAS PARTICULARES DE LA ORGANIZACIÓN CRIMINAL, CUALQUIERA DE LAS SIGUIENTES CONSECUENCIAS ACCESORIAS DE FORMA ALTERNATIVA O CONJUNTA:",
+        "options": [
+          {"text": "CLAUSURA DEFINITIVA DE LOCALES O ESTABLECIMIENTOS.", "correct": true},
+          {"text": "CLAUSURA TEMPORAL DE LOCALES O ESTABLECIMIENTOS.", "correct": false},
+          {"text": "CLAUSURA INMEDIATA DE LOCALES O ESTABLECIMIENTOS.", "correct": false},
+          {"text": "CLAUSURA PROLONGADA DE LOCALES O ESTABLECIMIENTOS.", "correct": false},
+          {"text": "CLAUSURA MEDIATA DE LOCALES O ESTABLECIMIENTOS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2869. SEGÚN LA LEY 30077 CONTRA EL CRIMEN ORGANIZADO, QUIEN SE ENCARGA DEL DISEÑO, IMPLEMENTACIÓN Y ADMINISTRACIÓN DEL SISTEMA DE CONTROL REFORZADO DE INTERNOS DE CRIMINALIDAD ORGANIZADA (SISCRICO):",
+        "options": [
+          {"text": "EL INSTITUTO NACIONAL PENITENCIARIO (INPE).", "correct": true},
+          {"text": "FISCAL DE LA NACIÓN.", "correct": false},
+          {"text": "EL DEFENSOR DEL PUEBLO.", "correct": false},
+          {"text": "MINISTRO DEL INTERIOR.", "correct": false},
+          {"text": "POLICIA NACIONAL DEL PERÚ.", "correct": false}
+        ]
+      },
+      {
+        "question": "2870. EN LA LEY NRO 30077 CONTRA EL CRIMEN ORGANIZADO, TODO PROCESO SEGUIDO CONTRA INTEGRANTES DE UNA ORGANIZACIÓN CRIMINAL, PERSONAS VINCULADAS A ELLA O QUE ACTÚAN POR ENCARGO DE LA MISMA:",
+        "options": [
+          {"text": "SE CONSIDERA COMPLEJO.", "correct": true},
+          {"text": "SE CONSIDERA SECRETO.", "correct": false},
+          {"text": "SE CONSIDERA RESERVADO.", "correct": false},
+          {"text": "SE CONSIDERA CONFIDENCIAL.", "correct": false},
+          {"text": "SE CONSIDERA ESTRICTAMENTE CONFIDENCIAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2871. EN LA LEY NRO 30077 CONTRA EL CRIMEN ORGANIZADO, LAS COMUNICACIONES QUE SON IRRELEVANTES PARA LA INVESTIGACIÓN SON ENTREGADAS A LAS PERSONAS AFECTADAS CON LA MEDIDA, ORDENÁNDOSE, BAJO RESPONSABILIDAD:",
+        "options": [
+          {"text": "LA DESTRUCCIÓN DE CUALQUIER TRANSCRIPCIÓN O COPIA DE LAS MISMAS.", "correct": true},
+          {"text": "LA DESTRUCCIÓN DE CUALQUIER TRANSCRIPCIÓN O COPIA DE LOS ACTUADOS.", "correct": false},
+          {"text": "LA DESTRUCCIÓN DE CUALQUIER INFORMACIÓN O COPIA DE LAS MISMAS.", "correct": false},
+          {"text": "LA DESTRUCCIÓN DE CUALQUIER MEDIO ELECTRÓNICO.", "correct": false},
+          {"text": "LA DESTRUCCIÓN DE CUALQUIER MEDIO DE INFORMACIÓN.", "correct": false}
+        ]
+      },
+      {
+        "question": "2872. LAS TÉCNICAS ESPECIALES DE INVESTIGACIÓN DEBEN RESPETAR, ESCRUPULOSAMENTE Y EN TODOS LOS CASOS, LOS PRINCIPIOS DE:",
+        "options": [
+          {"text": "NECESIDAD, RAZONABILIDAD Y PROPORCIONALIDAD.", "correct": true},
+          {"text": "ULTIMA RATIO Y RATIO LEGIS.", "correct": false},
+          {"text": "NECESIDAD, CULPABILIDAD Y DEBIDO PROCESO.", "correct": false},
+          {"text": "JUSTICIA, EQUIDAD Y OBJETIVIDAD.", "correct": false},
+          {"text": "NECESIDAD, RAZONABILIDAD Y JUSTIFICABILIDAD.", "correct": false}
+        ]
+      },
+      {
+        "question": "2873. LA LEY CONTRA EL CRIMEN ORGANIZADO ES APLICABLE A LOS DELITOS DE:",
+        "options": [
+          {"text": "TRÁFICO ILÍCITO DE MIGRANTES.", "correct": true},
+          {"text": "HOMICIDIO SIMPLE.", "correct": false},
+          {"text": "DISCRIMINACIÓN.", "correct": false},
+          {"text": "PATRIMONIO CULTURAL.", "correct": false},
+          {"text": "HOMICIDIO PRETERINTENCIONAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2874. ACTOS DE COOPERACIÓN O ASISTENCIA INTERNACIONAL.- EN ESPECIAL, LOS ACTOS DE COOPERACIÓN Y DE ASISTENCIA, SON LOS SIGUIENTES:",
+        "options": [
+          {"text": "EMITIR COPIA CERTIFICADA DE DOCUMENTOS.", "correct": true},
+          {"text": "INTERCAMBIO CULTURAL PERMANENTE.", "correct": false},
+          {"text": "ACEPTAR FINANCIAMIENTO ECONÓMICO.", "correct": false},
+          {"text": "PROTOCOLOS UNIFICADOS DE ACTUACIÓN.", "correct": false},
+          {"text": "RECIBIR DONACIONES MATERIALES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2875. ¿CUÁL ES EL NÚMERO DE LA LEY CONTRA EL CRIMEN ORGANIZADO?",
+        "options": [
+          {"text": "LEY Nº 30077.", "correct": true},
+          {"text": "LEY Nº 30067.", "correct": false},
+          {"text": "LEY Nº 30087.", "correct": false},
+          {"text": "LEY Nº 30997.", "correct": false},
+          {"text": "LEY Nº 31077.", "correct": false}
+        ]
+      },
+      {
+        "question": "2876. CONFORME LO DISPUESTO POR EL CÓDIGO PROCESAL PENAL, EL FUNCIONARIO PÚBLICO QUE SE ENCUENTRA FACULTADO A DISPONER LA CIRCULACIÓN O ENTREGA VIGILADA DE CUALQUIER BIEN RELACIONADO A LA PRESUNTA COMISIÓN DE UNO O MÁS DELITOS VINCULADOS A UNA ORGANIZACIÓN CRIMINAL, ES:",
+        "options": [
+          {"text": "EL FISCAL.", "correct": true},
+          {"text": "EL DIRECTOR GENERAL.", "correct": false},
+          {"text": "EL JUEZ.", "correct": false},
+          {"text": "EL PROCURADOR.", "correct": false},
+          {"text": "EL PESQUISA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2877. SE PUEDEN ADOPTAR TÉCNICAS ESPECIALES DE INVESTIGACIÓN SIEMPRE QUE RESULTEN:",
+        "options": [
+          {"text": "IDÓNEAS, NECESARIAS E INDISPENSABLES PARA EL ESCLARECIMIENTO DE LOS HECHOS MATERIA DE INVESTIGACIÓN.", "correct": true},
+          {"text": "OBLIGATORIAS PARA EL ESCLARECIMIENTO DE LOS HECHOS MATERIA DE INVESTIGACIÓN.", "correct": false},
+          {"text": "DEL CONVENIO DE LAS PARTES PARA EL ESCLARECIMIENTO DE LOS HECHOS MATERIA DE INVESTIGACIÓN.", "correct": false},
+          {"text": "OPORTUNAS ILEGALES PARA EL ESCLARECIMIENTO DE LOS HECHOS MATERIA DE INVESTIGACIÓN.", "correct": false},
+          {"text": "PROPIAS DEL CRITERIO Y DISCRECIÓN DEL JUEZ PARA EL ESCLARECIMIENTO DE LOS HECHOS MATERIA DE INVESTIGACIÓN.", "correct": false}
+        ]
+      },
+      {
+        "question": "2878. INTERCEPTACIÓN POSTAL E INTERVENCIÓN DE LAS COMUNICACIONES EL TRÁMITE Y REALIZACIÓN DE ESTAS MEDIDAS TIENEN CARÁCTER:",
+        "options": [
+          {"text": "RESERVADO E INMEDIATO.", "correct": true},
+          {"text": "INAPELABLES E INSUSTITUIBLE.", "correct": false},
+          {"text": "PERSONALÍSIMO Y LEGAL.", "correct": false},
+          {"text": "RAZONABLE Y CLASIFICADO.", "correct": false},
+          {"text": "IMPUGNABLE.", "correct": false}
+        ]
+      },
+      {
+        "question": "2879. SOLO SE INTERCEPTA, RETIENE E INCAUTA LA CORRESPONDENCIA VINCULADA AL DELITO OBJETO DE INVESTIGACIÓN VINCULADO A LA ORGANIZACIÓN CRIMINAL, PROCURANDO, EN LA MEDIDA DE LOS POSIBLE DE:",
+        "options": [
+          {"text": "NO AFECTAR LA CORRESPONDENCIA DE TERCEROS NO INVOLUCRADOS.", "correct": true},
+          {"text": "RESPETAR EL DERECHO A LA INTIMIDAD, ÉTICA Y MORAL PÚBLICA.", "correct": false},
+          {"text": "NO TRANSGREDIR LOS DERECHOS DE FAMILIARES NO INVESTIGADOS.", "correct": false},
+          {"text": "EVITAR LA PROPAGACIÓN EN ALGÚN MEDIO DE OPINIÓN MASIVA.", "correct": false},
+          {"text": "LA ALTERACIÓN DE LA PAZ Y ORDEN PÚBLICO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2880. LAS COMUNICACIONES QUE SON IRRELEVANTES PARA LA INVESTIGACIÓN SON ENTREGADAS A LAS PERSONAS AFECTADAS CON LA MEDIDA, Y BAJO RESPONSABILIDAD SE ORDENA:",
+        "options": [
+          {"text": "LA DESTRUCCIÓN DE CUALQUIER TRANSCRIPCIÓN O COPIA DE LAS MISMAS.", "correct": true},
+          {"text": "EL ALMACENAMIENTO DEBIDO POR EL AFECTADO.", "correct": false},
+          {"text": "LA DESTRUCCIÓN DE CUALQUIER INFORMACIÓN O COPIA DE LAS MISMAS.", "correct": false},
+          {"text": "SU NO UTILIZACIÓN EN CUALQUIER ACTO AJENO AL PROCESO.", "correct": false},
+          {"text": "LA INUTILIZACIÓN DE LOS MEDIOS ELECTRÓNICOS Y DE SOPORTE QUE LA CONTENGAN.", "correct": false}
+        ]
+      }
+    ]
+  },
+  {
+    "title": "17.- DECRETO SUPREMO N° 009- 2018-JUS - PROTOCOLOS DE ACTUACIÓN LNTERINSTITUCIONAL ESPECIFICO PARA LA APLICACION DEL PROCESO INMEDIATO REFORMADO Y EL DS N°010-2018-JUS -PROTOCOLOS DE ACTUACIÓN INTERINSTITUCIONAL DE CARACTER SISTEMICO Y TRANSVERSAL PARA LA APLICACIÓN DEL CÓDIGO PROCESAL PENAL",
+    "questions": [
+      {
+        "question": "2881. QUE NORMA APRUEBA EL PROTOCOLO DE ACTUACION INSTERINSTITUCIONAL ESPECIFICO DE CONTROL DE INDENTIDAD POLICIAL?",
+        "options": [
+          {"text": "DECRETO SUPREMO N°018-2018-JUS.", "correct": false},
+          {"text": "DECRETO SUPREMO N°019-2018-JUS.", "correct": false},
+          {"text": "DECRETO SUPREMO N°014-2018-JUS.", "correct": false},
+          {"text": "DECRETO SUPREMO N°010-2018-JUS.", "correct": true},
+          {"text": "DECRETO SUPREMO N°009-2018-JUS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2882. LA DILIGENCIA DE CONTROL DE IDENTIDAD POLICIAL CONSISTE EN EL REQUERIMIENTO DE IDENTIFICACION PERSONAL REALIZADO POR EFECTIVOS POLICIALES... ¿PARA QUÉ?",
+        "options": [
+          {"text": "OBTENER INFORMACION Y REMITIRLA AL FISCAL.", "correct": false},
+          {"text": "COORDINAR CON EL FISCAL DE TURNO E IDENTIFICAR A LOS AUTORES.", "correct": false},
+          {"text": "CAPTURAR A LOS PRESUNTOS AUTORES.", "correct": false},
+          {"text": "IDENTIFICAR A LOS AUTORES Y COMPLICES.", "correct": false},
+          {"text": "OBTENER INFORMACION UTIL PARA LA AVERIGUACION DE UN HECHO PUNIBLE.", "correct": true}
+        ]
+      },
+      {
+        "question": "2883. ¿QUÉ HACE EL PERSONAL POLICIAL DURANTE LA DILIGENCIA DE CONTROL DE IDENTIDAD POLICIAL?",
+        "options": [
+          {"text": "PODRA REALIZAR LAS COMPROBACIONES PERTINENTES.", "correct": true},
+          {"text": "COORDINARA CON EL MINISTERIO PUBLICO PARA REALIZAR LAS COMPROBACIONES PERTINENTES.", "correct": false},
+          {"text": "PODRA REALIZAR LAS COMPROBACIONES EN COORDINACION CON EL FISCAL DE TURNO.", "correct": false},
+          {"text": "COORDINAR CON EL FISCAL PARA REALIZAR LAS COMPROBACIONES PERTINENTES.", "correct": false},
+          {"text": "UTILIZARA TODA LA OPERATORIA POLICIAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2884. ¿QUÉ PROTOCOLO BUSCA FORTALECER LA ACTUACION POLICIAL PARA EFECTUAR CONTROLES DE IDENTIDAD DENTRO DE LOS PRINCIPIOS DE NECESIDAD, RAZONABILIDAD, PROPORCIONALIDAD Y RESPETO A LA PERSONA?",
+        "options": [
+          {"text": "PROTOCOLO DE CONTROL DE IDENTIDAD POLICIAL.", "correct": true},
+          {"text": "PROTOCOLO DE INVESTIGACION E IDENTIFICACION POLICIAL.", "correct": false},
+          {"text": "PROTOCOLO DE VECINDARIO SEGURO.", "correct": false},
+          {"text": "PROTOCOLO DE IDENTIDAD.", "correct": false},
+          {"text": "PROTOCOLO DE IDENTIFICACION POLICIAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2885. ¿CUÁLES SON LOS PRINCIPIOS QUE DEBEN REGIR LOS CONTROLES DE IDENTIDAD?",
+        "options": [
+          {"text": "DE NECESIDAD, JUSTIFICACION, JUSTICIA Y RESPETO A LA PERSONA.", "correct": false},
+          {"text": "DE JUSTICIA, RESPONSABILIDAD, PROPORCIONALIDAD Y RESPETO A LA PERSONA.", "correct": false},
+          {"text": "DE NECESIDAD, RAZONABILIDAD, PROPORCIONALIDAD Y RESPETO A LA PERSONA.", "correct": true},
+          {"text": "DE IDENTIFICACION, RAZONABILIDAD, PROPORCIONALIDAD Y RESPETO A LA PERSONA.", "correct": false},
+          {"text": "DE NECESIDAD, JUSTICIA Y RESPETO A LA PERSONA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2886. ¿QUÉ ASPECTO FOCALIZA EL PROTOCOLO DE CONTROL DE IDENTIDAD POLICIAL?",
+        "options": [
+          {"text": "IDENTIFICACION DE LOS AUTORES.", "correct": false},
+          {"text": "PREVENCION DE DELITOS Y FALTAS.", "correct": false},
+          {"text": "COORDINACION DEL MINISTERIO PUBLICO.", "correct": false},
+          {"text": "PREVENCION DEL DELITO.", "correct": true},
+          {"text": "COMPROBACION DEL DELITO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2887. ¿CUÁL ES EL PROCEDIMIENTO PARA EL CONTROL DE IDENTIDAD SEGÚN LA NORMA?",
+        "options": [
+          {"text": "CON ORDEN JUDICIAL.", "correct": false},
+          {"text": "SIN NECESIDAD DE ORDEN FISCAL O JUDICIAL.", "correct": true},
+          {"text": "CON ORDEN DE FISCAL Y DEL JUEZ.", "correct": false},
+          {"text": "CON CONOCIMIENTO DEL FISCAL.", "correct": false},
+          {"text": "CON ORDEN DEL FISCAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2888. ¿QUÉ DEBE HACER EL PERSONAL POLICIAL SI EL REQUERIDO NO EXHIBE DOCUMENTACIÓN ALGUNA O EL DOCUMENTO PRESENTADO GENERA DUDAS SOBRE SU AUTENTICIDAD?",
+        "options": [
+          {"text": "DECIRLE QUE SE ALEJE DEL LUGAR.", "correct": false},
+          {"text": "CONDUCIRLO A LA OFICINA DEL FISCAL.", "correct": false},
+          {"text": "CONDUCIRLO AL JUZGADO DE INVESTIGACION PREPARATORIA.", "correct": false},
+          {"text": "CONDUCIRLO A LA DEPENDENCIA POLICIAL MAS CERCANA.", "correct": true},
+          {"text": "COMUNICAR AL JUEZ DE INVESTIGACION PREPARATORIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2889. ¿BAJO QUÉ CONDICIÓN EL PERSONAL POLICIAL PUEDE REGISTRAR AL REQUERIDO EN SU VESTIMENTA, EQUIPAJE O VEHÍCULO?",
+        "options": [
+          {"text": "CUANDO EL JEFE DE UNIDAD LO DISPONGA.", "correct": false},
+          {"text": "CON AUTORIZACION DEL JUEZ.", "correct": false},
+          {"text": "POR NO CONTAR CON DOCUMENTO DE IDENTIDAD.", "correct": false},
+          {"text": "CUANDO EL JUEZ DE PREPARATORIA LO DISPONGA.", "correct": false},
+          {"text": "CUANDO EXISTIERA FUNDADO MOTIVO DE SU VINCULACION A UN DELITO.", "correct": true}
+        ]
+      },
+      {
+        "question": "2890. ¿CÓMO DEBE TRATARSE AL RETENIDO EN UNA DEPENDENCIA POLICIAL SEGÚN LA NORMA?",
+        "options": [
+          {"text": "CON OTRAS PERSONAS QUE SON SUS AMIGOS.", "correct": false},
+          {"text": "CON OTRAS PERSONAS QUE SON SUS FAMILIARES.", "correct": false},
+          {"text": "CON OTRAS PERSONAS RETENIDAS.", "correct": true},
+          {"text": "PERSONAS POR NO TENER DOCUMENTOS DE IDENTIDAD.", "correct": false},
+          {"text": "CON OTRAS PERSONAS DETENIDAS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2891. LAS FACILIDADES AL RETENIDO PARA QUE ACREDITE SU IDENTIDAD O COMUNIQUE A SU FAMILIA O PERSONA SOBRE SU RETENCION, SE DA TAMBIEN:",
+        "options": [
+          {"text": "CON CONOCIMIENTO DEL FISCAL.", "correct": false},
+          {"text": "EN LA DEPENDENCIA POLICIAL.", "correct": true},
+          {"text": "CON LA APROBACION DEL JEFE DE UNIDAD.", "correct": false},
+          {"text": "CON CONOCIMIENTO DEL JUEZ DE PREPARATORIA.", "correct": false},
+          {"text": "PARA CONOCIMIENTO MEDICO LEGAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2892. EN CASO EL/LA RETENIDO/A FUERE UN EXTRANJERO, EL PERSONAL POLICIAL DEBERA REALIZAR INMEDIATAMENTE LAS COORDINACIONES CON LAS INSTITUCIONES CORRESPONDIENTES PARA:",
+        "options": [
+          {"text": "DE AGOTAR SU IDENTIFICACION CON PARTICIPACION DEL JUEZ Y/O FISCAL.", "correct": false},
+          {"text": "DE AGOTAR SU IDENTIFICACION.", "correct": true},
+          {"text": "DE AGOTAR SU IDENTIFICACION CON PARTICIPACION DEL FISCAL.", "correct": false},
+          {"text": "DE AGOTAR SU IDENTIFICACION CON EL MINISTERIO PUBLICO.", "correct": false},
+          {"text": "DE AGOTAR SU IDENTIFICACION CON PARTICIPACION DEL JUEZ.", "correct": false}
+        ]
+      },
+      {
+        "question": "2893. EN LA DEPENDENCIA POLICIAL CUANDO EL RETENIDO POR CONTROL DE IDENTIDAD ES IDENTIFICADO ANTES DE LAS CUATRO HORAS, SE PROCEDE A:",
+        "options": [
+          {"text": "ESPERAR QUE FINALICE EL PLAZO DE CUATRO HORAS.", "correct": false},
+          {"text": "ESPERAR LA RESOLUCION FISCAL.", "correct": false},
+          {"text": "ESPERAR LA RESOLUCION DEL JUEZ DE PREPARATORIA.", "correct": false},
+          {"text": "PERMITIR SU RETIRO DE LA DEPENDENCIA.", "correct": true},
+          {"text": "ENTREGARLO A SUS FAMILIARES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2894. SI EL PERSONAL POLICIAL CONSTATA QUE EL/LA RETENIDO/A REGISTRA ALGUNA REQUISITORIA PENDIENTE, LO PONDRA A DISPOSICION DE LA OFICINA DE REQUISITORIAS DE LA PNP MEDIANTE EL DOCUMENTO RESPECTIVO, SIN PERJUICIO DE COMUNICAR TAL SITUACION A:",
+        "options": [
+          {"text": "COMISARIO.", "correct": false},
+          {"text": "AL COMANDO POLICIAL.", "correct": false},
+          {"text": "EL/LA FISCAL.", "correct": true},
+          {"text": "AL JUEZ.", "correct": false},
+          {"text": "JEFE INMEDIATO SUPERIOR.", "correct": false}
+        ]
+      },
+      {
+        "question": "2895. ¿QUÉ NORMA APRUEBA EL PROTOCOLO DE ACTUACION INTERINSTITUCIONAL ESPECIFICO PARA LA APLICACION DE LA INCAUTACION, COMISO, HALLAZGO Y CADENA DE CUSTODIA?",
+        "options": [
+          {"text": "DECRETO SUPREMO N°017-2018-JUS.", "correct": false},
+          {"text": "DECRETO SUPREMO N°002-2018-JUS.", "correct": false},
+          {"text": "DECRETO SUPREMO N°036-2018-JUS.", "correct": false},
+          {"text": "DECRETO SUPREMO N°010-2018-JUS.", "correct": true},
+          {"text": "DECRETO SUPREMO N°022-2018-JUS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2896. LOS ROTULOS, FORMULARIOS Y EMBALAJES FORMAN PARTE DE LA CADENA DE CUSTODIA",
+        "options": [
+          {"text": "EL FISCAL REQUERIRA LA CONFIRMATORIA DEL PODER JUDICIAL.", "correct": false},
+          {"text": "SI FORMAN PARTE DE LA CADENA DE CUSTODIA.", "correct": true},
+          {"text": "SE ESPERA LA CONFIRMATORIA DEL PODER JUDICIAL.", "correct": false},
+          {"text": "SI LO DISPONE LA INVESTIGACION FISCAL.", "correct": false},
+          {"text": "NO FORMAN PARTE DE LA CADENA DE CUSTODIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2897. LOS ELEMENTOS MATERIALES, EVIDENCIAS Y BIENES INCAUTADOS SE REGISTRARAN EN FORMATO DE CADENA DE CUSTODIA MEDIANTE UNA DESCRIPCION MINUCIOSA Y DETALLADA DE LAS CARACTERISTICAS, MEDIDAS, PESO, TAMAÑO, COLOR, ESPECIE, ESTADO, ENTRE OTROS DATOS DEL MEDIO EN EL QUE SE ENCONTRARON, DE LAS TECNICAS UTILIZADAS EN EL RECOJO Y PERICIAS QUE SE DISPONGAN, EN EL CUAL NO SE ADMITEN ENMENDADURAS. EN CASO QUE AMERITE UNA CORRECCION, ESTA SE EFECTUARA.",
+        "options": [
+          {"text": "SE HACE CON LAS CORRECIONES ACREDITADAS.", "correct": false},
+          {"text": "SE ESPERA LA DISPOSICION FISCAL PARA FORMULARLO NUEVAMENTE.", "correct": false},
+          {"text": "EN UN NUEVO DOCUMENTO DE ACCION DANDO CUENTA AL FISCAL.", "correct": false},
+          {"text": "ENTRE PARENTESIS, EN EL MISMO DOCUMENTO, EXPLICANDO LOS MOTIVOS QUE LA GENERARON.", "correct": true},
+          {"text": "EL FISCAL PUEDE DECIDIR QUE NO SE HAGA NINGUNA CORRECCION.", "correct": false}
+        ]
+      },
+      {
+        "question": "2898. INCAUTACION REALIZADA EN EJECUCION DE UNA RESOLUCION JUDICIAL, EL/LA FISCAL EJECUTARA LA MEDIDA, PUDIENDO SOLICITAR EL APOYO DE LA POLICIA NACIONAL, SI NO SE PERJUDICA LA FINALIDAD DE LA DILIGENCIA, PROGRAMARA LA MISMA, CON CITACION A LAS PARTES A FIN QUE PARTICIPEN. AL INICIO DE LA DILIGENCIA SE ENTREGARA.",
+        "options": [
+          {"text": "COPIA DE LA RESOLUCION FISCAL AL AFECTADO.", "correct": false},
+          {"text": "COPIA DE LA RESOLUCION JUDICIAL AL AFECTADO.", "correct": true},
+          {"text": "EL DOCUMENTO QUE ACREDITE LA INCAUTACION.", "correct": false},
+          {"text": "COPIA DEL DOCUMENTO QUE ACREDITE LA INCAUTACION.", "correct": false},
+          {"text": "COPIA DE LA RESOLUCION AL AFECTADO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2899. EL PERSONAL POLICIAL AL LEVANTAR EL ACTA DE COMISO, INDIVIDUALIZARA LOS BIENES OBJETO DE COMISO Y SEGUIDAMENTE SOBRE ELLOS INICIARA EL PROCEDIMIENTO DE:.",
+        "options": [
+          {"text": "COMUNICAR A LOS PERITOS.", "correct": false},
+          {"text": "CADENA DE CUSTODIA.", "correct": true},
+          {"text": "INSPECCION TECNICO POLICIAL.", "correct": false},
+          {"text": "COMUNICAR A SU IDENTIDAD.", "correct": false},
+          {"text": "COMUNICAR AL JUEZ DE INVESTIGACION PREPARATORIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2900. ES TODO ESPACIO FISICO, INCLUIDAS LAS ZONAS ADYACENTES, DONDE PRESUNTAMENTE SE HA PERPETRADO O SE HA DEJADO RASTROS DE UNO O MAS HECHOS PUNIBLES, Y DONDE SE HAYAN INDICIOS Y EVIDENCIAS RELACIONADAS CON EL HECHO DE INVESTIGAR",
+        "options": [
+          {"text": "LA ESCENA DEL CRIMEN.", "correct": true},
+          {"text": "LUGAR DE INTERVENCION.", "correct": false},
+          {"text": "ESCENA DEL HOMICIDIO.", "correct": false},
+          {"text": "DOMICILIO DEL AUTOR.", "correct": false},
+          {"text": "LUGAR DE PERPETUACION DEL DELITO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2901. EL PERSONAL POLICIAL QUE TOMA CONOCIMIENTO DE UN HECHO DELICTIVO (NOTICIA CRIMINAL), DEBERA:",
+        "options": [
+          {"text": "COMUNICAR AL FISCAL DE PREVENCION DEL DELITO.", "correct": false},
+          {"text": "COMUNICAR AL JUEZ DE PREPARATORIA.", "correct": false},
+          {"text": "COMUNICAR A LA AUTORIDAD COMPETENTE.", "correct": false},
+          {"text": "ANOTAR TODA INFORMACION QUE SEA NECESARIA.", "correct": true},
+          {"text": "FORMULAR LA NOTA INFORMATIVA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2902. EN EL AISLAMIENTO DE LA ESCENA DEL CRIMEN MEDIANTE SU DEMARCACION Y ACORDAMIENTO, SE DEFINE SUS LIMITES Y:",
+        "options": [
+          {"text": "SE COMUNICA AL JEFE DE UNIDAD.", "correct": false},
+          {"text": "SE TOMA FOTOGRAFIAS.", "correct": false},
+          {"text": "SE COMUNICA AL FISCAL.", "correct": false},
+          {"text": "SE ESTABLECE LAS VIAS DE ENTRADA Y SALIDA.", "correct": true},
+          {"text": "SE REALIZA LA INSPECCION TECNICO POLICIAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2903. EL PERSONAL POLICIAL INTERVINIENTE DEBERA TOMAR LAS PREVISIONES DEL CASO ANTE POSIBLES CIRCUNSTANCIAS QUE PUEDAN DEGENERAR O CONTAMINAR LA ESCENA, EVITANDO QUE SE PIERDAN O DETERIOREN LOS INDICIOS Y LAS EVIDENCIAS. TRATANDOSE DE LUGARES CERRADOS, DEBERA PROTEGER LOS ACCESOS, COMO PUERTAS, VENTANAS, FORADOS, PARA IMPEDIR EL PASO DE PERSONAS NO AUTORIZADAS, ANTE FALTA DE CAPACIDAD DE PODER REALIZARLO:",
+        "options": [
+          {"text": "EN TODO MOMENTO PODRA SOLICITAR EL APOYO POLICIAL INMEDIATO.", "correct": true},
+          {"text": "SOLICITAR QUE EL PESQUISA LLEGUE AL LUGAR.", "correct": false},
+          {"text": "SOLITARA QUE LOS PERITOS LLEGUEN DE INMEDIATO A LA ESCENA DEL CRIMEN.", "correct": false},
+          {"text": "COMUNICARA AL ENCARGADO DE LA INVESTIGACION.", "correct": false},
+          {"text": "COMUNICARA AL FISCAL DE TURNO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2904. LOS EFECTIVOS POLICIALES DEL SISTEMA CRIMINALISTICO POLICIAL, CONFORMAN EL EQUIPO A CARGO DEL PROCESAMIENTO DE LA ESCENA, ADEMAS DE:",
+        "options": [
+          {"text": "EL FISCAL Y EL PERSONAL DEL INSTITUTO DE MEDICINA LEGAL Y CIENCIAS FORENSES.", "correct": false},
+          {"text": "EL REPRESENTANTE DEL MINISTERIO PUBLICO.", "correct": false},
+          {"text": "EL REPRESENTANTE DEL PODER JUDICIAL.", "correct": false},
+          {"text": "EL PESQUISA Y EL FISCAL.", "correct": false},
+          {"text": "LOS PESQUISAS Y PERSONAL DEL INSTITUTO DE MEDICINA LEGAL Y CIENCIAS FORENSES.", "correct": true}
+        ]
+      },
+      {
+        "question": "2905. EL EMBALAJE Y ROTULADO DE LOS INDICIOS Y EVIDENCIAS SE EFECTUARA TENIENDO EN CUENTA LA NATURALEZA DE LOS MISMOS, RESPETANDO LOS PRINCIPIOS DE:",
+        "options": [
+          {"text": "METODOS A REALIZAR.", "correct": false},
+          {"text": "LOS PROCEDIMIENTOS A REALIZAR EN LA ESCENA.", "correct": false},
+          {"text": "LA CADENA DE CUSTODIA.", "correct": true},
+          {"text": "PERNNIZACION DE LA ESCENA DEL DELITO.", "correct": false},
+          {"text": "ABORDAJE A REALIZAR.", "correct": false}
+        ]
+      },
+      {
+        "question": "2906. AL AGOTARSE EL ABORDAJE E INVESTIGACION EN LA ESCENA DEL CRIMEN, SU CIERRE LO DISPONE:",
+        "options": [
+          {"text": "EL JEFE DE UNIDAD.", "correct": false},
+          {"text": "EL FISCAL PREVIA COORDINACION CON EL EQUIPO.", "correct": true},
+          {"text": "EL FISCAL DE LA INVESTIGACION PREPARATORIA.", "correct": false},
+          {"text": "EL PESQUISA.", "correct": false},
+          {"text": "EL JUEZ DE PREPARATORIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2907. EN CASO DE EXISTIR UN SOSPECHOSO EN LA ESCENA DEL CRIMEN, EL PERSONAL POLICIAL TOMARA EL CONTROL DE DICHA PERSONA TOMANDO LAS MEDIDAS DE SEGURIDAD CORRESPONDIENTE, A FIN DE EVITAR SU FUGA; DE SER EL CASO.",
+        "options": [
+          {"text": "INDAGARA SUS ANTECEDENTES.", "correct": false},
+          {"text": "LO PONDRA A DISPOSICION DEL FISCAL DE TURNO.", "correct": false},
+          {"text": "LO PONDRA A DISPOSICION DE LA UNIDAD POLICIAL MAS CERCANA.", "correct": false},
+          {"text": "PROCEDERA A DETENERLO.", "correct": true},
+          {"text": "LO IDENTIFICARA PLENAMENTE.", "correct": false}
+        ]
+      },
+      {
+        "question": "2908. QUE NORMA APRUEBA EL PROTOCOLO DE ACTUACION INTERINSTITUCIONAL ESPECIFICO DE RECONOCIMIENTOS.",
+        "options": [
+          {"text": "DECRETO SUPREMO N°022-2018-JUS.", "correct": false},
+          {"text": "DECRETO SUPREMO N°002-2018-JUS.", "correct": false},
+          {"text": "DECRETO SUPREMO N°010-2018-JUS.", "correct": true},
+          {"text": "DECRETO SUPREMO N°036-2018-JUS.", "correct": false},
+          {"text": "DECRETO SUPREMO N°017-2018-JUS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2909. LA DILIGENCIA QUE PERMITE IDENTIFICAR A UNA PERSONA, COSA, VOCES, SONIDOS Y TODO CUANTO SE PERCIBA SENSORIALMENTE, SE DENOMINA:",
+        "options": [
+          {"text": "RECONOCIMIENTO.", "correct": true},
+          {"text": "IDENTIFICACION.", "correct": false},
+          {"text": "VERIFICACION.", "correct": false},
+          {"text": "IDENTIFICACION Y VERIFICACION.", "correct": false},
+          {"text": "CONSTATACION.", "correct": false}
+        ]
+      },
+      {
+        "question": "2910. LA PERSONA QUE PARTICIPA EN DILIGENCIA Y EFECTUA EL RECONOCIMIENTO DE OTRA PERSONA, DEBE DESCRIBIR SUS CARACTERISTICAS FISICAS:",
+        "options": [
+          {"text": "DESPUES DE LA DILIGENCIA Y EN EL ACTA DE IDENTIFICACION.", "correct": false},
+          {"text": "DURANTE LA DILIGENCIA Y DESPUES DEL ACTA DE RECONOCIMIENTO.", "correct": false},
+          {"text": "PREVIA A LA DILIGENCIA Y EN EL ACTA DE IDENTIFICACION.", "correct": false},
+          {"text": "PREVIA A LA DILIGENCIA Y EN EL ACTA DE RECONOCIMIENTO.", "correct": true},
+          {"text": "DESPUES DE LA DILIGENCIA Y EN EL ACTA DE RECONOCIMIENTO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2911. EN EL RECONOCIMIENTO DE PERSONAS, EL FISCAL O POLICIA GARANTIZA AL RECONOCEDOR:",
+        "options": [
+          {"text": "QUE NO SERA VISTO POR EL GRUPO DE PERSONAS DONDE SE ENCUENTRE LA PERSONA A RECONOCER.", "correct": true},
+          {"text": "QUE EL GRUPO DE PERSONAS DONDE SE ENCUENTRA LA PERSONA A RECONOCER SEAN INFORMADOS SOBRE SU IDENTIDAD.", "correct": false},
+          {"text": "QUE NO SERA CITADO NUEVAMENTE PARA DILIGENCIA SIMILAR.", "correct": false},
+          {"text": "QUE PUEDA ALTERNAR CON EL GRUPO DE PERSONAS DONDE SE ENCUENTRA LA PERSONA A RECONOCER.", "correct": false},
+          {"text": "QUE SEA VISTO POR EL GRUPO DE PERSONAS DONDE SE ENCUENTRA LA PERSONA A RECONOCER.", "correct": false}
+        ]
+      },
+      {
+        "question": "2912. EN LA DILIGENCIA DE RECONOCIMIENTO AL GRUPO DE PERSONAS SELECCIONADA PARA SER PUESTA A LA VISTA JUNTO A LA PERSONA A SER RECONOCIDA, EN LA MEDIDA DE LO POSIBLE DEBEN TENER ASPECTO EXTERIOR SEMEJANTE, A ESTA ULTIMA ASIGNANDOLES:",
+        "options": [
+          {"text": "NUMEROS VISIBLES.", "correct": false},
+          {"text": "ROPAS CON IGUALES CARACTERISTICAS.", "correct": false},
+          {"text": "UNA CLAVE A CADA UNO DE ELLOS.", "correct": false},
+          {"text": "NUMEROS VISIBLES Y CORRELATIVOS.", "correct": true},
+          {"text": "CORRECTA INDIVIDUALIZACION.", "correct": false}
+        ]
+      },
+      {
+        "question": "2913. EL RECONOCIMIENTO POR FOTOGRAFIA SE REALIZA:",
+        "options": [
+          {"text": "CUANDO LO DISPONE MEDIANTE RESOLUCION DEL JUEZ DE INVESTIGACION PREPARATORIA.", "correct": false},
+          {"text": "CUANDO LO SOLICITA EL FISCAL ANTE EL JUEZ DE INVESTIGACION PREPARATORIA.", "correct": false},
+          {"text": "CUANDO ESTE DETENIDO LA PERSONA A RECONOCER.", "correct": false},
+          {"text": "CUANDO HAY MAS DE UNA PERSONA A RECONOCER.", "correct": false},
+          {"text": "CUANDO NO SEA POSIBLE LA CONCURRENCIA O PRESENCIA FISICA DE LA PERSONA A RECONOCER.", "correct": true}
+        ]
+      },
+      {
+        "question": "2914. EL RECONOCIMIENTO POR FOTOGRAFIA NO IMPIDE QUE POSTERIORMENTE SE REALICE:",
+        "options": [
+          {"text": "LA RESOLUCION FISCAL PARA COMUNICAR EL JUEZ DE INVESTIGACION PREPARATORIA.", "correct": false},
+          {"text": "LA DILIGENCIA DE RECONOCIMIENTO PERSONAL.", "correct": true},
+          {"text": "LA DILIGENCIA DE IDENTIFICACION.", "correct": false},
+          {"text": "LA RESOLUCION FISCAL PARA CONFIRMARLA.", "correct": false},
+          {"text": "LA RESOLUCION DEL JUEZ PARA CONFIRMARLA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2915. EL RECONOCIMIENTO DE COSAS ES NECESARIO:",
+        "options": [
+          {"text": "LA RESOLUCION DEL JUEZ.", "correct": false},
+          {"text": "QUE EL ABOGADO DEL RECONOCEDOR DESCRIBA PREVIAMENTE LAS CARACTERISTICAS DE LO QUE VA A RECONOCER.", "correct": false},
+          {"text": "QUE EL FISCAL Y EL RECONOCEDOR DESCRIBA PREVIAMENTE LAS CARACTERISTICAS DE LOS QUE VAN A RECONOCER.", "correct": false},
+          {"text": "QUE EL RECONOCEDOR DESCRIBA PREVIAMENTE LAS CARACTERISTICAS DE LO QUE VA A RECONOCER.", "correct": true},
+          {"text": "LA COMUNICACION DEL FISCAL AL JUEZ.", "correct": false}
+        ]
+      },
+      {
+        "question": "2916. LA PERSONA QUE VA A RECONOCER VOCES O SONIDOS DEBERA:",
+        "options": [
+          {"text": "DESCRIBIR PREVIAMENTE LAS CIRCUNSTANCIAS DONDE ESCUCHO LA VOZ O SONIDO.", "correct": true},
+          {"text": "TENER LA AUTORIZACION DE SU ABOGADO PARA PARTICIPAR DE LA DILIGENCIA.", "correct": false},
+          {"text": "SOLICITAR AL PESQUISA GESTIONE ANTE EL JUEZ SE REALICE LA DILIGENCIA.", "correct": false},
+          {"text": "PARTICIPAR DE LA DILIGENCIA SIN HABER DESCRITO PREVIAMENTE AL DETENIDO.", "correct": false},
+          {"text": "ESPERAR QUE EL JUEZ DE INVESTIGACION PREPARATORIA DISPONGA LA DILIGENCIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2917. EN UN RECONOCIMIENTO PERSONAL, CUANDO SE TENGA QUE RECONOCER A VARIAS PERSONAS:",
+        "options": [
+          {"text": "LA DILIGENCIA PUEDE REALIZARSE EN UN SOLO ACTO.", "correct": true},
+          {"text": "LA DILIGENCIA ESTA PROHIBIDA REALIZARSE EN UN SOLO ACTO.", "correct": false},
+          {"text": "LA DILIGENCIA ES IMPOSIBLE REALIZARLA.", "correct": false},
+          {"text": "LA DILIGENCIA SE REALIZARA EN UN SOLO ACTO POR RESOLUCION DEL JUEZ.", "correct": false},
+          {"text": "LA DILIGENCIA NO SE HARA POR CADA PERSONA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2918. CUANDO VARIAS PERSONAS TENGAN QUE RECONOCER A UNA SOLA:",
+        "options": [
+          {"text": "EL RECONOCIMIENTO SE HACE CON PARTICIPACION DEL JUEZ.", "correct": false},
+          {"text": "DEL RECONOCIMIENTO SE FORMULA UNA SOLA ACTA.", "correct": false},
+          {"text": "LAS PERSONAS COORDINAN ENTRE SI PARA EL RECONOCIMIENTO.", "correct": false},
+          {"text": "EL RECONOCIMIENTO SE HACE EN UN SOLO ACTO.", "correct": false},
+          {"text": "EL RECONOCIMIENTO SE HACE POR SEPARADO.", "correct": true}
+        ]
+      },
+      {
+        "question": "2919. EN EL CASO DE QUE LOS RECONOCIMIENTOS TENGAN UN RESULTADO NEGATIVO:",
+        "options": [
+          {"text": "SE FORMULA DE TODAS FORMAS EL ACTA.", "correct": true},
+          {"text": "NO SE FORMULA NINGUN ACTA.", "correct": false},
+          {"text": "EL FISCAL JUSTIFICARA LA NO FORMULACION DEL ACTA.", "correct": false},
+          {"text": "NO SE FORMULA EL ACTA Y SE COMUNICA AL JUEZ.", "correct": false},
+          {"text": "SE FORMULA EL ACTA Y SE REMITE PARA SU CONFIRMACION AL JUEZ.", "correct": false}
+        ]
+      },
+      {
+        "question": "2920. CUANDO LAS CIRCUNSTANCIAS LO PERMITAN, LOS RECONOCIMIENTOS DEBEN:",
+        "options": [
+          {"text": "COMUNICARSE AL JUEZ DE INVESTIGACION PREPARATORIA.", "correct": false},
+          {"text": "PERENNIZARSE SOLO SI EN UN RECONOCIMIENTO PERSONAL.", "correct": false},
+          {"text": "PERENNIZARSE POR EL MEDIO MAS IDONEO.", "correct": true},
+          {"text": "PERENNIZARSE SOLO SI EN UN RECONOCIMIENTO DE COSAS.", "correct": false},
+          {"text": "PERENNIZARSE SOLO CUANDO SE TRATE DE VOCES Y SONIDOS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2921. QUE NORMA APRUEBA EL PROTOCOLO DE ACTUACION INTERINSTITUCIONAL ESPECIFICO PARA LA APLICACION DEL REGISTRO Y RECEPCION.",
+        "options": [
+          {"text": "DECRETO SUPREMO N°022-2018-JUS.", "correct": false},
+          {"text": "DECRETO SUPREMO N°010-2018-JUS.", "correct": true},
+          {"text": "DECRETO SUPREMO N°002-2018-JUS.", "correct": false},
+          {"text": "DECRETO SUPREMO N°036-2018-JUS.", "correct": false},
+          {"text": "DECRETO SUPREMO N°017-2018-JUS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2922. EL PERSONAL POLICIAL CUANDO CONSIDERE QUE UNA PERSONA OCULTE EN SU CUERPO O AMBITO CORPORAL, BIENES RELACIONADOS CON EL DELITO, DEBERA:",
+        "options": [
+          {"text": "COMUNICAR A SU JEFE DE UNIDAD PARA QUE DISPONGA LO CONVENIENTE.", "correct": false},
+          {"text": "COMUNICAR A SU UNIDAD Y PROCEDER AL REGISTRO.", "correct": false},
+          {"text": "REGISTRAR A LA PERSONA DE INMEDIATO.", "correct": false},
+          {"text": "SOLICITAR QUE LA PERSONA ENTREGUE EL BIEN BUSCADO.", "correct": true},
+          {"text": "COMUNICAR AL JUEZ COMPETENTE.", "correct": false}
+        ]
+      },
+      {
+        "question": "2923. ANTES DE INICIAR EL REGISTRO PERSONAL EL POLICIA INDICARA AL INTERVENIDO QUE TIENE DERECHO A SER ASISTIDO POR UNA PERSONA DE SU CONFIANZA, QUE SEA MAYOR DE EDAD Y SEA UBICADA RAPIDAMENTE, PERO SI LA ESPERA PONE EN RIESGO LA FINALIDAD DE LA MEDIDA:",
+        "options": [
+          {"text": "EL REGISTRO SE REALIZA SIN SU PARTICIPACION Y NO SE CONSIGNA ELLO EN EL ACTA.", "correct": false},
+          {"text": "EL REGISTRO SE REALIZA SIN SU PARTICIPACION, PERO NO SE DEJA CONSTANCIA DE ELLO EN EL ACTA.", "correct": false},
+          {"text": "EL REGISTRO SE REALIZA SIN SU PARTICIPACION Y SE DEJA CONSTANCIA DE ELLO EN EL ACTA.", "correct": true},
+          {"text": "EL REGISTRO NO SE REALIZA SIN SU PARTICIPACION Y SE DEJA CONSTANCIA DE ELLO EN EL ACTA.", "correct": false},
+          {"text": "EL REGISTRO SE REALIZA DE TODAS FORMAS Y SE ESPERA HASTA QUE LLEGUE EL TESTIGO PARA LA FIRMA RESPECTIVA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2924. CUANDO UNA PERSONA INTERVENIDA NO ACEPTA SOMETERSE AL REGISTRO POR PERSONAL POLICIAL DE OTRO SEXO Y NO EXISTE RIESGO DE PERDIDA DE LA FUENTE DE LA PRUEBA, SE PROCEDE A:",
+        "options": [
+          {"text": "CONDUCIRLA A LA DEPENDENCIA POLICIAL MAS CERCANA Y SE COMUNICA AL JUEZ.", "correct": false},
+          {"text": "CONDUCIRLA A LA DEPENDENCIA POLICIAL MAS CERCANA Y SE COMUNICA AL FISCAL.", "correct": true},
+          {"text": "CONDUCIRLA AL JUEZ COMPETENTE.", "correct": false},
+          {"text": "CONDUCIRLA AL DESPACHO FISCAL.", "correct": false},
+          {"text": "CONDUCIRLA A LA DEPENDENCIA POLICIAL MAS CERCANA Y SE COMUNICA AL JEFE.", "correct": false}
+        ]
+      },
+      {
+        "question": "2925. NO COMPRENDE EXTRACCION DE MUESTRAS COMO PRUEBAS DE ANALISIS SANGUINEO, GENETICO-MOLECULARES; ASI COMO, EXPLORACIONES RADIOLOGICAS, U OTRAS MINIMAS INTERVENCIONES CORPORALES PARA OBSERVACION; SALVO QUE LA PERSONA DEBIDAMENTE INFORMADA LO AUTORICE",
+        "options": [
+          {"text": "RECONOCIMIENTO MEDICO.", "correct": false},
+          {"text": "EL REGISTRO PERSONAL.", "correct": true},
+          {"text": "EXAMENES DE LEY.", "correct": false},
+          {"text": "LA INTERVENCION POLICIAL.", "correct": false},
+          {"text": "RECONOCIMIENTO MEDICO LEGAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2926. CUANDO EL PERSONAL POLICIAL PRESUME QUE UNA PERSONA LLEVA DENTRO DE SU CUERPO ELEMENTOS O INDICIOS DE PRUEBA:",
+        "options": [
+          {"text": "COMUNICARA AL JEFE DE UNIDAD PARA QUE SOLICITE EL REQUERIMIENTO CORRESPONDIENTE ANTE EL JUEZ COMPETENTE.", "correct": false},
+          {"text": "COMUNICARA AL FISCAL PARA QUE SOLICITE EL REQUERIMIENTO CORRESPONDIENTE ANTE EL JUEZ COMPETENTE.", "correct": true},
+          {"text": "COMUNICARA AL FISCAL Y AL JUEZ COMPETENTE.", "correct": false},
+          {"text": "COMUNICARA AL FISCAL PARA QUE DISPONGA LO QUE COMPETE.", "correct": false},
+          {"text": "COMUNICARA AL JUEZ COMPETENTE.", "correct": false}
+        ]
+      },
+      {
+        "question": "2927. SI DEL REGISTRO PERSONAL SE PRESUME QUE LA PERSONA LLEVA DENTRO DE SU CUERPO ELEMENTOS O INDICIOS DE PRUEBA, EL PERSONAL POLICIAL DEBERA DAR CUENTA A EL/LA FISCAL, A FIN QUE ESTE ULTIMO SOLICITE EL REQUERIMIENTO CORRESPONDIENTE ANTE EL JUEZ/A COMPETENTE. EXCEPCIONALMENTE CUANDO HAYA URGENCIA Y PELIGRO EN LA DEMORA Y, NO SE PUEDA ESPERAR LA ORDEN JUDICIAL.",
+        "options": [
+          {"text": "EL JUEZ NO DISPONE LA DILIGENCIA POR EL TIEMPO TRANSCURRIDO.", "correct": false},
+          {"text": "EL/LA FISCAL ES INDEPENDIENTE.", "correct": false},
+          {"text": "DE TODAS MANERAS SE LLEVARA A CABO DICHA DILIGENCIA.", "correct": false},
+          {"text": "EL JUEZ ORDENARA LA INTERVENCION CORPORAL.", "correct": false},
+          {"text": "EL/LA FISCAL ORDENARA LA INTERVENCION CORPORAL.", "correct": true}
+        ]
+      },
+      {
+        "question": "2928. EN EL REGISTRO PERSONAL COMO CONSECUENCIA DE LA INTERVENCION EN FLAGRANCIA DELICTIVA PROCEDERA A:",
+        "options": [
+          {"text": "LA INCAUTACION DE LOS OBJETOS DEL DELITO.", "correct": true},
+          {"text": "EL ACTA DE REGISTRO E INCAUTACION.", "correct": false},
+          {"text": "EL ACTA DE REGISTRO PERSONAL Y ADICIONAL DE RECONOCIMIENTO.", "correct": false},
+          {"text": "EL ACTA DE REGISTRO PERSONAL Y COMISO.", "correct": false},
+          {"text": "EL ACTA DE REGISTRO PERSONAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2929. EL PERSONAL POLICIAL EN EL AMBITO DE BUSQUEDA DE PRUEBAS Y CONTROLES PREVENTIVOS, SI CONSIDERA QUE EXISTAN FUNDADAS RAZONES PARA SUPONER QUE LA O LAS PERSONAS OCULTAN EN EL VEHICULO DONDE SE TRANSPORTAN BIENES RELACIONADOS CON UN DELITO SOLICITARA A LA PERSONA A QUE EXHIBA Y ENTREGUE EL BIEN BUSCADO, SI ES ENTREGADO.",
+        "options": [
+          {"text": "SE FORMULA EL ACTA DE INCAUTACION.", "correct": false},
+          {"text": "SE FORMULA EL ACTA DE RECEPCION.", "correct": false},
+          {"text": "SE INTERVIENE A LA PERSONA.", "correct": false},
+          {"text": "NO SE PROCEDE AL REGISTRO.", "correct": true},
+          {"text": "NO SE COMUNICA AL/EL FISCAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2930. CUANDO EN UN REGISTRO VEHICULAR SE ENCUENTRA BIENES, EFECTOS O INSTRUMENTOS VINCULADOS A UN DELITO, SE INFORMA AL INTERVENIDO:",
+        "options": [
+          {"text": "QUE JUEZ VERA SU CASO.", "correct": false},
+          {"text": "A DONDE SERA CONDUCIDO.", "correct": false},
+          {"text": "EL MOTIVO DE SU DETENCION Y EL JUEZ COMPETENTE.", "correct": false},
+          {"text": "EL MOTIVO DE SU DETENCION, EL DELITO QUE SE LE ATRIBUYE Y SUS DERECHOS.", "correct": true},
+          {"text": "QUE SE LE CITARA PARA QUE CONCURRA A LA DEPENDENCIA POLICIAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2931. EN EL REGISTRO VEHICULAR VINCULADO A UN DELITO, EL PERSONAL POLICIAL QUE INTERVIENE FORMULA LOS SIGUIENTES DOCUMENTOS:.",
+        "options": [
+          {"text": "ACTA DEL SITUACION VEHICULAR Y ACTA DE RECEPCION.", "correct": false},
+          {"text": "ACTA DE SITUACION VEHICULAR Y ACTA DE ENTREGA.", "correct": false},
+          {"text": "ACTA DE SITUACION VEHICULAR Y ACTA DE HALLAZGO.", "correct": false},
+          {"text": "ACTA DEL VEHICULO Y ACTA DE HALLAZGO.", "correct": false},
+          {"text": "ACTA DE SITUACION VEHICULAR Y ACTA DE REGISTRO VEHICULAR.", "correct": true}
+        ]
+      },
+      {
+        "question": "2932. LA UNIDAD ESPECIALIZADA DE LA POLICIA NACIONAL, QUE EXAMINA EL VEHICULO VINCULADO AL DELITO, EMITIRA UN INFORME DE.",
+        "options": [
+          {"text": "TECNICO CRIMINALISTICO.", "correct": false},
+          {"text": "INSPECCION TECNICO CRIMINALISTICA.", "correct": true},
+          {"text": "SITUACION VEHICULAR.", "correct": false},
+          {"text": "REGISTRO VEHICULAR.", "correct": false},
+          {"text": "INSPECCION TECNICA VEHICULAR.", "correct": false}
+        ]
+      },
+      {
+        "question": "2933. CULMINADA LA DILIGENCIA DEL REGISTRO EN EL LUGAR DE LOS HECHOS, EL VEHICULO SERA TRASLADADO:.",
+        "options": [
+          {"text": "AL DEPOSITO MUNICIPAL DEL DISTRITO.", "correct": false},
+          {"text": "AL DESPACHO DEL JUEZ.", "correct": false},
+          {"text": "A UNA PLAYA DE ESTACIONAMIENTO QUE INDIQUE EL INTERVENIDO.", "correct": false},
+          {"text": "AL DESPACHO DEL FISCAL.", "correct": false},
+          {"text": "A LA DEPENDENCIA POLICIAL ENCARGADA DE LA INVESTIGACION.", "correct": true}
+        ]
+      },
+      {
+        "question": "2934. EL REGISTRO DE EQUIPAJES O BULTOS POR PARTE DE LA POLICIA SE REALIZA:.",
+        "options": [
+          {"text": "SIEMPRE QUE LO AUTORICE EL JEFE DE LA UNIDAD.", "correct": false},
+          {"text": "SIEMPRE QUE LO AUTORICE EL JUEZ DE INVESTIGACION PREPARATORIA.", "correct": false},
+          {"text": "SIEMPRE EN TODA INTERVENCION POLICIAL.", "correct": false},
+          {"text": "SIEMPRE QUE EL FISCAL LO SOLICITE AL JUEZ.", "correct": false},
+          {"text": "SIEMPRE QUE HAYA INDICIOS DE QUE EN ELLOS EXISTA OBJETOS RELACIONADOS CON UN DELITO.", "correct": true}
+        ]
+      },
+      {
+        "question": "2935. CUANDO LA PERSONA SE NEGARE A QUE SE LE PRACTIQUE EL REGISTRO DE SU EQUIPAJE O BULTO EL POLICIA COMUNICA AL:.",
+        "options": [
+          {"text": "FISCAL PARA QUE DISPONGA LA AUTORIZACION DEL JUEZ.", "correct": false},
+          {"text": "JEFE DE UNIDAD PARA QUE COMUNIQUE AL JUEZ.", "correct": false},
+          {"text": "JUEZ PARA QUE DISPONGA LO PERTINENTE.", "correct": false},
+          {"text": "JEFE DE UNIDAD PARA QUE DISPONGA LO CONVENIENTE.", "correct": false},
+          {"text": "FISCAL PARA QUE DISPONGA LO PERTINENTE.", "correct": true}
+        ]
+      },
+      {
+        "question": "2936. CUANDO EL INTERVENIDO A SOLICITUD DEL FISCAL O POLICIA ENTREGA VOLUNTARIAMENTE UN BIEN U OBJETO VINCULADO A UN DELITO, SE FORMULA EL:.",
+        "options": [
+          {"text": "ACTA DE HALLAZGO.", "correct": false},
+          {"text": "ACTA DE HALLAZGO Y ENTREGA.", "correct": false},
+          {"text": "ACTA DE RECEPCION.", "correct": true},
+          {"text": "ACTA DE ENTREGA.", "correct": false},
+          {"text": "ACTA DE ENTREGA Y RECEPCION.", "correct": false}
+        ]
+      },
+      {
+        "question": "2937. CUANDO CUALQUIER PERSONA VOLUNTARIAMENTE ENTREGA UN BIEN U OBJETO VINCULADO A UN DELITO A LA AUTORIDAD POLICIAL O FISCAL, QUE DOCUMENTOS SE FORMULARA.",
+        "options": [
+          {"text": "ACTA DE REGISTRO PERSONAL Y RECOJO.", "correct": false},
+          {"text": "ACTA DE RECOJO.", "correct": false},
+          {"text": "ACTA DE RECEPCION.", "correct": true},
+          {"text": "ACTA DE REGISTRO PERSONAL.", "correct": false},
+          {"text": "ACTA DE INCAUTACION.", "correct": false}
+        ]
+      },
+      {
+        "question": "2938. CUANDO CUALQUIER PERSONA A SOLICITUD DE EL/LA FISCAL, EN EL DESARROLLO DE UNA INVESTIGACION Y EN LA EJECUCION DE LAS DILIGENCIAS DE EXHIBICION O INCAUTACION DE BIENES, VOLUNTARIAMENTE ENTREGA EL BIEN REQUERIDO CPP. SE RECIBIRAN LOS MISMOS, ELABORANDOSE.",
+        "options": [
+          {"text": "ACTA DE RECOJO.", "correct": false},
+          {"text": "ACTA DE REGISTRO PERSONAL.", "correct": false},
+          {"text": "ACTA DE REGISTRO PERSONAL Y RECOJO.", "correct": false},
+          {"text": "ACTA DE INCAUTACION.", "correct": false},
+          {"text": "ACTA DE RECEPCION.", "correct": true}
+        ]
+      },
+      {
+        "question": "2939. EN LAS ACTAS DE RECPCION DEBEN DETALLARSE PORMENORIZADAMENTE LOS BIENES U OBJETOS RECIBIDOS Y ESTA DILIGENCIA:.",
+        "options": [
+          {"text": "NO REQUIERE CONFIRMATORIA DEL JUEZ DE INVESTIGACION PREPARATORIA.", "correct": true},
+          {"text": "NO REQUIERE CONFIRMATORIA DEL FISCAL.", "correct": false},
+          {"text": "REQUIERE LA CONFIRMATORIA DEL PESQUISA.", "correct": false},
+          {"text": "REQUIERE CONFIRMATORIA DEL JUEZ DE INVESTIGACION PREPARATORIA.", "correct": false},
+          {"text": "REQUIERE CONFIRMATORIA DEL FISCAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2940. CUANDO CIRCUNSTANCIAS APREMIANTES IMPIDEN QUE SE LEVANTE EL ACTA DE RECEPCION DE FORMA PERMENORIZADO EN EL LUGAR, EL FISCAL DEBERA SEGURAR TODOS LOS BIENES ENTREGADOS.",
+        "options": [
+          {"text": "REALIZARA INMEDIATAMENTE LA DILIGENCIA EN LA DEPENDENCIA POLICIAL.", "correct": false},
+          {"text": "REALIZARAN LA DILIGENCIA CON EL APOYO RECIBIDO.", "correct": false},
+          {"text": "PROGRAMANDO POSTERIORMENTE LA DILIGENCIA CORRESPONDIENTE.", "correct": true},
+          {"text": "SE REALIZARA LA DILIGENCIA TOMANDO LAS MEDIDAS DE SEGURIDAD.", "correct": false},
+          {"text": "PROGRAMANDO INMEDIATAMENTE LA DILIGENCIA CORRESPONDIENTE.", "correct": false}
+        ]
+      }
+    ]
+  },
+  {
+    "title": "18.- RESOLUCIÓN DIRECTORAL N° 764-2019-CG-PNP DEL 03 DIC 2019 APROBANDO EL PROTOCOLO PARA LA APLICACION DE LA POLICIA COMUNITARIA POR SECTORES (VECINDARIO SEGURO)",
+    "questions": [
+      {
+        "question": "2941. ESTABLECER EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES ES:.",
+        "options": [
+          {"text": "LA RESPONSABILIDAD DE LA DIRECTIVA NO. 03-2018-IN.", "correct": false},
+          {"text": "EL ALCANCE DE LA DIRECTIVA NO. 03-2018-IN.", "correct": false},
+          {"text": "LA FINALIDAD DE LA DIRECTIVA NO. 03-2018-IN.", "correct": false},
+          {"text": "LA BASE LEGAL DE LA DIRECTIVA NO. 03-2018-IN.", "correct": false},
+          {"text": "EL OBJETO DE LA DIRECTIVA NO. 03-2018-IN.", "correct": true}
+        ]
+      },
+      {
+        "question": "2942. ESTABLECER EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES QUE SE SUSTENTA EN EL MODELO DE LA POLICIA COMUNITARIA PARA ORIENTAR LA GESTION DE LA SEGURIDAD CIUDADANA Y FORTALECER LA LEGITIMIDAD DE LA INSTITUCIONALIDAD POLICIAL FRENTE A LA CIUDADANIA, ENUNCIADO QUE CORRESPONDE A.",
+        "options": [
+          {"text": "NATURALEZA.", "correct": false},
+          {"text": "FINALIDAD.", "correct": false},
+          {"text": "ALCANCE.", "correct": false},
+          {"text": "OBJETO.", "correct": true},
+          {"text": "COMPETENCIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2943. ESTABLECER EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES SE SUSTENTA EN EL:.",
+        "options": [
+          {"text": "MODELO DE POLICIA COMUNITARIA.", "correct": true},
+          {"text": "MODELO DE POLICIA POR SECTORES.", "correct": false},
+          {"text": "MODELO DE VECINDARIO SEGURO.", "correct": false},
+          {"text": "MODELO DE VECINDARIO POR SECTORES.", "correct": false},
+          {"text": "MODELO DE POLICIA AMIGO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2944. ESTABLECIENDO EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES SE ORIENTA:.",
+        "options": [
+          {"text": "LA GESTION DE POLICIA POR SECTORES.", "correct": false},
+          {"text": "LA GESTION SECTORIAL DE VECINDARIO SEGURO.", "correct": false},
+          {"text": "LA GESTION DE LA SEGURIDAD CIUDADANA.", "correct": true},
+          {"text": "LA GESTION DE VECINDARIO SEGURO.", "correct": false},
+          {"text": "LA GESTION DE BARRIO SEGURO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2945. ESTABLECIENDO EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES SE FORTALECE:.",
+        "options": [
+          {"text": "LA LEGITIMIDAD DE LA INSTITUCIONALIDAD DEL MINITER FRENTE A LA CIUDADANIA.", "correct": false},
+          {"text": "LA LEGITIMIDAD DE LA INSTITUCIONALIDAD POLICIAL FRENTE A LA CIUDADANIA.", "correct": true},
+          {"text": "LA LEGITIMIDAD DE LA INSTITUCIONALIDAD DEL ESTADO FRENTE A LAS INSTITUCIONES.", "correct": false},
+          {"text": "LA LEGITIMIDAD DE LA INSTITUCIONALIDAD DEL ESTADO FRENTE A LA CIUDADANIA.", "correct": false},
+          {"text": "LA LEGITIMIDAD DE LA INSTITUCIONALIDAD POLICIAL FRENTE A LAS INSTITUCIONES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2946. LA DIRECTIVA DE 'LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES' SE ENMARCA, EN EL:.",
+        "options": [
+          {"text": "PLAN NACIONAL DE SEGURIDAD CIUDADANA.", "correct": true},
+          {"text": "PLAN NACIONAL DE LUCHA CONTRA EL CRIMEN ORGANIZADO.", "correct": false},
+          {"text": "PLAN ESTRATEGICO DE SEGURIDAD CIUDADANA.", "correct": false},
+          {"text": "PLAN MINISTERIAL DE SEGURIDAD CIUDADANA.", "correct": false},
+          {"text": "PLAN NACIONAL CONTRA LA INSEGURIDAD CIUDADANA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2947. CONTAR CON UN LINEAMIENTO SECTORIAL QUE CONTRIBUYA A INSTITUCIONALIZAR EL MODELO DE POLICIA COMUNITARIA A TRAVES DE LA DESCENTRALIZACION DE LOS SERVICIOS POLICIALES Y SECTORIZACION DE LA JURISDICCION POLICIAL PARA OPTIMIZAR EL EJERCICIO DE LA FUNCION POLICIAL DE MANERA ARTICULADA CON LAS AUTORIDADES LOCALES PARA ACERCARSE A LA CIUDADANIA Y PERMITA COADYUGAR A LA MEJORA DE LA SEGURIDAD CIUDADANA ES:.",
+        "options": [
+          {"text": "EL OBJETO DE LA DIRECTIVA NO.03-2018-IN.", "correct": false},
+          {"text": "LA BASE LEGAL DE LA DIRECTIVA NO.03-2018-IN.", "correct": false},
+          {"text": "LA FINALIDAD DE LA DIRECTIVA NO.03-2018-IN.", "correct": true},
+          {"text": "LA RESPONSABILIDAD DE LA DIRECTIVA NO.03-2018-IN.", "correct": false},
+          {"text": "EL ALCANCE DE LA DIRECTIVA NO.03-2018-IN.", "correct": false}
+        ]
+      },
+      {
+        "question": "2948. CONTAR CON UN LINEAMIENTO SECTORIAL QUE CONTRIBUYA A INSTITUCIONALIZAR EL MODELO DE POLICIA COMUNITARIA A TRAVES DE LA DESCENTRALIZACION DE LOS SERVICIOS POLICIALES Y SECTORIZACION DE LA JURISDICCION POLICIAL PARA OPTIMIZAR EL EJERCICIO DE LA FUNCION POLICIAL DE MANERA ARTICULADA CON LAS AUTORIDADES LOCALES, ENUNCIADO QUE CORRESPONDE.",
+        "options": [
+          {"text": "FINALIDAD.", "correct": true},
+          {"text": "NATURALEZA.", "correct": false},
+          {"text": "ALCANCE.", "correct": false},
+          {"text": "OBJETIVO.", "correct": false},
+          {"text": "COMPETENCIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2949. LAS DISPOSICIONES DEL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES SON DE CUMPLIMIENTO OBLIGATORIA PARA TODOS LOS ORGANOS Y UNIDADES ORGANICAS DEL MINISTERIO DEL INTERIOR (MININTER) Y DE LA POLICIA NACIONAL DEL PERU (PNP) DENTRO DEL AMBITO DE SUS COMPETENCIAS, ENUNCIADO QUE CORRESPONDE:.",
+        "options": [
+          {"text": "FINALIDAD.", "correct": false},
+          {"text": "COMPETENCIA.", "correct": false},
+          {"text": "ALCANCE.", "correct": true},
+          {"text": "NATURALEZA.", "correct": false},
+          {"text": "OBJETIVO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2950. LOS ORGANOS Y UNIDADES ORGANICAS DEL MINISTERIO DEL INTERIOR Y LA POLICIA NACIONAL DEL PERU, EN EL AMBITO DE SU COMPETENCIA SON RESPONSABLES DE:.",
+        "options": [
+          {"text": "CONTROLAR LAS ACCIONES NECESARIAS PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DE LA DIRECTIVA NO.03-2018- IN.", "correct": false},
+          {"text": "SUPERVISAR LAS ACCIONES NECESARIAS PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DE LA DIRECTIVA NO.03-2018- IN.", "correct": false},
+          {"text": "EVALUAR LAS ACCIONES NECESARIAS PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DE LA DIRECTIVA NO.03-2018-IN.", "correct": false},
+          {"text": "REALIZAR LAS ACCIONES NECESARIAS PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DE LA DIRECTIVA NO.03-2018-IN.", "correct": true},
+          {"text": "DIRIGIR LAS ACCIONES NECESARIAS PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DE LA DIRECTIVA NO.03-2018-IN.", "correct": false}
+        ]
+      },
+      {
+        "question": "2951. DIRIGIR LA IMPLEMENTACION Y MONITOREO DEL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES PARA SU CUMPLIMIENTO ES UNA RESPONSABILIDAD DE:.",
+        "options": [
+          {"text": "DE LA DIRECCION NACIONAL DE ORDEN Y SEGURIDAD.", "correct": false},
+          {"text": "MINISTERIO DEL INTERIOR.", "correct": false},
+          {"text": "LA COMANDANCIA GENERAL DE LA PNP.", "correct": true},
+          {"text": "VICE MINISTERIO DE SEGURIDAD PUBLICA.", "correct": false},
+          {"text": "DE LAS REGIONES POLICIALES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2952. SUPERVISAR EL CUMPLIMIENTO DE LAS DISPOSICIONES DE LA DIRECTIVA NO.03-2018-IN ES:.",
+        "options": [
+          {"text": "LA RESPONSABILIDAD DEL DESPACHO VICEMINISTERIAL DE SEGURIDAD PUBLICA DEL MINISTERIO DEL INTERIOR.", "correct": true},
+          {"text": "EL OBJETO DEL DESPACHO VICEMINISTERIAL DE SEGURIDAD PUBLICA DEL MINISTERIO DEL INTERIOR.", "correct": false},
+          {"text": "LA FINALIDAD DEL DESPACHO VICEMINISTERIAL DE SEGURIDAD PUBLICA DEL MINISTERIO DEL INTERIOR.", "correct": false},
+          {"text": "LA BASE LEGAL DEL VICEMINISTERIAL DE SEGURIDAD PUBLICA DEL MINISTERIO DEL INTERIOR.", "correct": false},
+          {"text": "EL ALCANCE DEL DESPACHO VICEMINISTERIAL DE SEGURIDAD PUBLICA DEL MINISTERIO DEL INTERIOR.", "correct": false}
+        ]
+      },
+      {
+        "question": "2953. UNO DE LOS PRINCIPIOS RECTORES QUE RIGE EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES ES EL:.",
+        "options": [
+          {"text": "SERVICIO POLICIAL ORIENTADO CONTRA EL TRAFICO DE DROGAS.", "correct": false},
+          {"text": "SERVICIO POLICIAL ORIENTADO A LA CIUDADANIA.", "correct": true},
+          {"text": "SERVICIO POLICIAL ORIENTADO AL VECINDARIO SEGURO.", "correct": false},
+          {"text": "SERVICIO POLICIAL ORIENTADO A LAS INSTITUCIONES PUBLICAS.", "correct": false},
+          {"text": "SERVICIO POLICIAL ORIENTADO CONTRA EL CRIMEN ORGANIZADO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2954. SE DEFINEN LAS PRIORIDADES E INTERVENCIONES DEL SERVICIO POLICIAL, ASI COMO LOS PROCESOS DE GESTION A PARTIR DE LAS NECESIDADES Y DEMANDAS DE LA CIUDADANIA QUE PERMITAN UNA MEJOR Y OPORTUNA RESPUESTA A LAS MISMAS, CON EL MEJOR USO DE RECURSOS Y CAPACIDADES DISPONIBLES PARA GENERAR UNA MAYOR PROXIMIDAD AL CIUDADANO. ENUNCIADO QUE CORRESPONDE AL PRINCIPIO RECTOR.",
+        "options": [
+          {"text": "SERVICIO POLICIAL ORIENTADO AL VECINDARIO SEGURO.", "correct": false},
+          {"text": "SERVICIO POLICIAL ORIENTADO CONTRA EL TRAFICO DE DROGAS.", "correct": false},
+          {"text": "SERVICIO POLICIAL ORIENTADO CONTRA EL CRIMEN ORGANIZADO.", "correct": false},
+          {"text": "SERVICIO POLICIAL ORIENTADO A LA CIUDADANIA.", "correct": true},
+          {"text": "SERVICIO POLICIAL ORIENTADO A LAS INSTITUCIONES PUBLICAS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2955. UNO DE LOS PRINCIPIOS RECTORES QUE RIGE EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES ES LA:.",
+        "options": [
+          {"text": "LEGITIMIDAD DEL SERVICIO EN EL VECINDARIO.", "correct": false},
+          {"text": "LEGITIMIDAD DEL SERVICIO POLICIAL.", "correct": true},
+          {"text": "LEGITIMIDAD POLICIAL.", "correct": false},
+          {"text": "LEGITIMIDAD DEL SERVICIO EN LOS SECTORES.", "correct": false},
+          {"text": "LEGITIMIDAD DEL SERVICIO COMUNITARIO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2956. SE FOMENTA EL ACERCAMIENTO A LA CIUDADANIA A TRAVES DE UNA MAYOR APROXIMACION DE LA POLICIA NACIONAL DEL PERU PARA INCREMENTAR LA CONFIANZA DE LA CIUDADANIA EN LA PNP, IDENTIFICANDOSE A ESTA COMO UN ACTOR IMPORTANTE EN LA SEGURIDAD DE SU COMUNIDAD. ENUNCIADO QUE CORRESPONDE AL PRINCIPIO RECTOR.",
+        "options": [
+          {"text": "LEGITIMIDAD DEL SERVICIO COMUNITARIO.", "correct": false},
+          {"text": "LEGITIMIDAD DEL SERVICIO POLICIAL.", "correct": true},
+          {"text": "LEGITIMIDAD DEL SERVICIO EN EL VECINDARIO.", "correct": false},
+          {"text": "LEGITIMIDAD POLICIAL.", "correct": false},
+          {"text": "LEGITIMIDAD DEL SERVICIO EN LOS SECTORES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2957. UNO DE LOS PRINCIPIOS RECTORES QUE RIGE EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES ES LA:.",
+        "options": [
+          {"text": "ARTICULACION INTERINSTITUCIONAL E INTERCOMUNAL.", "correct": false},
+          {"text": "ARTICULACION INTERGUBERNAMENTAL, INSTITUCIONAL Y COMUNITARIA.", "correct": false},
+          {"text": "ARTICULACION INTERGUBERNAMENTAL, INTERSECTORIAL Y COMUNITARIA.", "correct": true},
+          {"text": "ARTICULACION INTERINSTITUCIONAL E INTERSECTORIAL.", "correct": false},
+          {"text": "ARTICULACION INTERCOMUNAL Y COMUTARIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2958. SE FOMENTA LA PARTICIPACION ACTIVA, ARTICULADA E INTEGRADA EN LOS SECTORES INVOLUCRADOS EN LA SEGURIDAD CIUDADANA, PARA FORTALECER LA COMUNICACION, COORDINACION Y EJECUCION CONTINUA DE LAS ACCIONES EN MATERIA DE SEGURIDAD CIUDADANA ENTRE AUTORIDADES Y CIUDADANIA. ENUNCIADO QUE CORRESPONDE AL PRINCIPIO RECTOR.",
+        "options": [
+            {"text": "ARTICULACION INTERGUBERNAMENTAL, INTERSECTORIAL Y COMUNITARIA.", "correct": true},
+            {"text": "ARTICULACION INTERINSTITUCIONAL E INTERCOMUNAL.", "correct": false},
+            {"text": "ARTICULACION INTERINSTITUCIONAL E INTERSECTORIAL.", "correct": false},
+            {"text": "ARTICULACION INTERGUBERNAMENTAL, INSTITUCIONAL Y COMUNITARIA.", "correct": false},
+            {"text": "ARTICULACION INTERCOMUNAL Y COMUNITARIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2959. UNO DE LOS PRINCIPIOS RECTORES QUE RIGE EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES ES LA:.",
+        "options": [
+          {"text": "OPTIMIZACION DE LOS RECURSOS Y CONTROL INSTITUCIONAL.", "correct": false},
+          {"text": "OPTIMIZACION Y CONTROL DE GESTION.", "correct": false},
+          {"text": "OPTIMIZACION DE LOS RECURSOS HUMANOS Y LOGISTICOS.", "correct": false},
+          {"text": "OPTIMIZACION DE LOS RECURSOS Y CONTROL DE GESTION.", "correct": true},
+          {"text": "OPTIMIZACION Y CONTROL GUBERNAMENTAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2960. SE BRINDA UN SERVICIO POLICIAL CON VALOR PUBLICO QUE GENERE UN IMPACTO POSITIVO A LA CALIDAD DE VIDA DE LA CIUDADANIA Y QUE SATISFAGA OPORTUNAMENTE SUS NECESIDADES EN MATERIA DE SEGURIDAD CIUDADANA, GARANTIZANDOSE QUE NO SE COMETAN ACTOS DE CORRUPCION. ENUNCIADO QUE CORRESPONDE AL PRINCIPIO RECTOR.",
+        "options": [
+          {"text": "OPTIMIZACION DE LOS RECURSOS Y CONTROL INSTITUCIONAL.", "correct": false},
+          {"text": "OPTIMIZACION Y CONTROL GUBERNAMENTAL.", "correct": false},
+          {"text": "OPTIMIZACION DE LOS RECURSOS HUMANOS Y LOGISTICOS.", "correct": false},
+          {"text": "OPTIMIZACION Y CONTROL DE GESTION.", "correct": false},
+          {"text": "OPTIMIZACION DE LOS RECURSOS Y CONTROL DE GESTION.", "correct": true}
+        ]
+      },
+      {
+        "question": "2961. UNO DE LOS PRINCIPIOS RECTORES QUE RIGE EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES ES LA:",
+        "options": [
+          {"text": "INNOVACION DE LAS TECNOLOGIAS.", "correct": false},
+          {"text": "INNOVACION DE LOS PLANES Y EQUIPOS.", "correct": false},
+          {"text": "INNOVACION Y APROVECHAMIENTO DE LAS COMUNICACIONES.", "correct": false},
+          {"text": "INNOVACION Y APROVECHAMIENTO DE LAS TECNOLOGIAS.", "correct": true},
+          {"text": "INNOVACION DE LAS COMUNICACIONES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2962. SE BRINDA UN SERVICIO POLICIAL QUE EMPLEA LA INTELIGENCIA POLICIAL, CON SISTEMAS Y TECNOLOGIAS DE LA INFORMACION Y COMUNICACIONES, PARA AMPLIAR LA COBERTURA DE VIGILANCIA PREVENTIVA Y ACTUAR DE FORMA INMEDIATA Y EFECTIVA ANTE LOS REQUERIMIENTOS Y EMERGENCIAS DE LA CIUDADANIA. ENUNCIADO QUE CORRESPONDE AL PRINCIPIO RECTOR:",
+        "options": [
+          {"text": "INNOVACION DE LAS COMUNICACIONES.", "correct": false},
+          {"text": "INNOVACION DE LOS PLANES Y EQUIPOS.", "correct": false},
+          {"text": "INNOVACION Y APROVECHAMIENTO DE LAS TECNOLOGIAS.", "correct": true},
+          {"text": "INNOVACION DE LAS TECNOLOGIAS.", "correct": false},
+          {"text": "INNOVACION Y APROVECHAMIENTO DE LAS COMUNICACIONES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2963. UNO DE LOS PRINCIPIOS RECTORES QUE RIGE EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES ES LA:",
+        "options": [
+          {"text": "SOSTENIBILIDAD.", "correct": true},
+          {"text": "PRACTICABILIDAD.", "correct": false},
+          {"text": "NECESIDAD.", "correct": false},
+          {"text": "FACILIDAD.", "correct": false},
+          {"text": "DIVERSIDAD.", "correct": false}
+        ]
+      },
+      {
+        "question": "2964. SE BRINDA UN SERVICIO POLICIAL CONTINUO EN SU IMPLEMENTACION A NIVEL NACION, CON EL EFICIENTE USO DE LOS RECURSOS Y FORTALECIENDO LAS CAPACIDADES DEL PERSONAL POLICIAL PARA EL LOGRO DE LOS OBJETIVOS ESTABLECIDOS. ENUNCIADO QUE CORRESPONDE AL PRINCIPIO RECTOR:",
+        "options": [
+          {"text": "DIVERSIDAD.", "correct": false},
+          {"text": "SOSTENIBILIDAD.", "correct": true},
+          {"text": "NECESIDAD.", "correct": false},
+          {"text": "FACILIDAD.", "correct": false},
+          {"text": "PRACTIBILIDAD.", "correct": false}
+        ]
+      },
+      {
+        "question": "2965. UNO DE LOS PRINCIPIOS RECTORES QUE RIGE EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES ES EL:",
+        "options": [
+          {"text": "MEJORAMIENTO SOSTENIBLE.", "correct": false},
+          {"text": "MEJORAMIENTO Y FACILIDAD.", "correct": false},
+          {"text": "MEJORAMIENTO CONTINUO.", "correct": true},
+          {"text": "MEJORAMIENTO DEL DISEÑO.", "correct": false},
+          {"text": "MEJORAMIENTO Y SOSTENIBILIDAD.", "correct": false}
+        ]
+      },
+      {
+        "question": "2966. EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES SE RETROALIMENTA PERMANENTEMENTE Y MEJORA EN SU DISEÑO E IMPLEMENTACION A TRAVES DE UN PROCESO DE APRENDIZAJE CONTINUO. ENUNCIADO QUE CORRESPONDE AL PRINCIPIO RECTOR:",
+        "options": [
+          {"text": "MEJORAMIENTO Y FACILIDAD.", "correct": false},
+          {"text": "MEJORAMIENTO Y SOSTENIBILIDAD.", "correct": false},
+          {"text": "MEJORAMIENTO DEL DISEÑO.", "correct": false},
+          {"text": "MEJORAMIENTO SOSTENIBLE.", "correct": false},
+          {"text": "MEJORAMIENTO CONTINUO.", "correct": true}
+        ]
+      },
+      {
+        "question": "2967. UNO DE LOS OBJETIVOS DEL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES ES:",
+        "options": [
+          {"text": "CONTRIBUIR A LA REDUCCION DE LA CRIMINALIDAD.", "correct": false},
+          {"text": "CONTRIBUIR A LA REDUCCION DEL CRIMEN ORGANIZADO.", "correct": false},
+          {"text": "CONTRIBUIR A LA REDUCCION DE LA VICTIMIZACION.", "correct": true},
+          {"text": "CONTRIBUIR A LA REDUCCION DEL CRIMEN.", "correct": false},
+          {"text": "CONTRIBUIR A LA REDUCCION DE LA COMISION DE DELITOS.", "correct": false}
+        ]
+      },
+      {
+        "question": "2968. UNO DE LOS OBJETIVOS DEL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES ES:",
+        "options": [
+          {"text": "INCREMENTAR LA CONFIANZA DE LA CIUDADANIA EN EL ESTADO.", "correct": false},
+          {"text": "INCREMENTAR LA CONFIANZA DE LA CIUDADANIA EN SUS AUTORIDADES.", "correct": false},
+          {"text": "INCREMENTAR LA CONFIANZA DE LA CIUDADANIA EN LA POLICIA NACIONAL DEL PERU.", "correct": true},
+          {"text": "INCREMENTAR LA CONFIANZA DE LA CIUDADANIA EN EL MINISTERIO DEL INTERIOR.", "correct": false},
+          {"text": "INCREMENTAR LA CONFIANZA DE LA CIUDADANIA EN EL GOBIERNO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2969. UNO DE LOS OBJETIVOS DEL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES ES:",
+        "options": [
+          {"text": "CONTRIBUIR A LA REDUCCION DEL CRIMEN.", "correct": false},
+          {"text": "CONTRIBUIR A LA REDUCCION DE LA PERCEPCION DE INSEGURIDAD CIUDADANA.", "correct": true},
+          {"text": "CONTRIBUIR A LA REDUCCION DEL CRIMEN ORGANIZADO.", "correct": false},
+          {"text": "CONTRIBUIR A LA REDUCCION DE LA COMISION DE DELITOS.", "correct": false},
+          {"text": "CONTRIBUIR A LA REDUCCION DE LA CRIMINALIDAD.", "correct": false}
+        ]
+      },
+      {
+        "question": "2970. QUE NORMA APRUEBA EL PROTOCOLO PARA LA APLICACION DE LA POLICIA COMUNITARIA POR SECTORES (VECINDARIO SEGURO).",
+        "options": [
+          {"text": "RD-764-2019-CG-PNP.", "correct": true},
+          {"text": "RD-754-2019-CG-PNP.", "correct": false},
+          {"text": "RD-788-2019-CG-PNP.", "correct": false},
+          {"text": "RD-714-2019-CG-PNP.", "correct": false},
+          {"text": "RD-764-2017-CG-PNP.", "correct": false}
+        ]
+      },
+      {
+        "question": "2971. TENIENDO EN CUENTA LAS MULTIPLES INTERPRETACIONES RESPECTO A LO QUE ES \"PROTOCOLO\", ¿CUAL ES LA DEFINICION MEJOR EMPLEADA?",
+        "options": [
+          {"text": "LOS PASOS QUE HAY QUE SEGUIR Y LAS DECISIONES QUE HAY QUE ADOPTAR POR UN ACTO DETERMINADO.", "correct": false},
+          {"text": "SON REGLAS DE CORTESIA QUE SE SIGUEN EN LAS RELACION SOCIALES Y QUE HAN SIDO ESTABLECIDAS POR COSTUMBRE.", "correct": false},
+          {"text": "ES UNA RECOPILACION DE CONDUCTAS QUE SE CONSIDERAN ADECUADAS ANTE CIERTAS SITUACIONES.", "correct": false},
+          {"text": "ES UN PROCEDIMIENTO ESTABLECIDO PARA RESOLVER DETERMINADOS ACTOS.", "correct": false},
+          {"text": "ES EL TERMINO QUE SE EMPLEA PARA DENOMINAR AL CONJUNTO DE NORMAS, REGLAS Y PAUTAS QUE SIRVEN PARA GUIAR UNA CONDUCTA O ACCION.", "correct": true}
+        ]
+      },
+      {
+        "question": "2972. BASADO EN LAS DEFINICIONES ¿CUAL ES LA FINALIDAD DEL PROTOCOLO VECINDARIO SEGURO?",
+        "options": [
+          {"text": "GENERAR CONFIANZA EN LAS FUERZAS ARMADAS, A TRAVES DE PROCEDIMIENTOS DE DESARROLLO.", "correct": false},
+          {"text": "CONTRIBUIR CON LA REDUCCION DE LA VICTIMIZACION Y LA PERCEPCION DE INSEGURIDAD.", "correct": true},
+          {"text": "DAR CUMPLIMIENTO OBLIGATORIO POR TODO EL PERSONAL DE LAS DEPENDENCIAS POLICIALES A NIVEL NACIONAL.", "correct": false},
+          {"text": "DOTAR A LA INSTITUCION POLICIAL DE LOS LINEAMIENTOS DE ACTUACION ORIENTADO A DEFINIR LAS PAUTAS Y PROCEDIMIENTOS.", "correct": false},
+          {"text": "EN FORMA PERMANENTE, MONITOREAR, EVALUAR Y CONTROLAR EL CUMPLIMIENTO DE LA LEY.", "correct": false}
+        ]
+      },
+      {
+        "question": "2973. VIENDO LA IMPORTANCIA DE LOS PROTOCOLOS DE ACTUACION, ¿CUAL SE CONSIDERA UNA VENTAJA EN SU USO?",
+        "options": [
+          {"text": "GENERAR UN PLAN DE CONTINGENCIA.", "correct": false},
+          {"text": "EVITAR TENER QUE IMPROVISAR Y FACILITA TOMAR DECISIONES.", "correct": true},
+          {"text": "GENERAR CONCIENCIA EN EL VECINDARIO.", "correct": false},
+          {"text": "ABORDAR DE MANERA EFICAZ UNA PROBLEMATICA.", "correct": false},
+          {"text": "TENER UNA MEJOR PREPARACION ANTE ALGUN INCONVENIENTE.", "correct": false}
+        ]
+      },
+      {
+        "question": "2974. ¿MEDIANTE QUE DECRETO SUPREMO EL MODELO DE POLICIA COMUNITARIA SE DEFINE COMO EL CONJUNTO DE ACCIONES POLICIALES QUE ENFATIZA ACTIVIDADES PREVENTIVAS?",
+        "options": [
+          {"text": "N°008-2016-IN.", "correct": false},
+          {"text": "N°008-2017-IN.", "correct": true},
+          {"text": "N°018-2017-IN.", "correct": false},
+          {"text": "N°008-2018-IN.", "correct": false},
+          {"text": "N°008-2021-IN.", "correct": false}
+        ]
+      },
+      {
+        "question": "2975. TOMANDO EN CUENTA LAS DEFINICIONES DE LAS DEPENDENCIAS ¿CUAL ES EL NOMBRE INSTITUCIONAL DE LA SIGLA \"CONASEC\"?",
+        "options": [
+          {"text": "CONSEJO NACIONAL DE SEGURIDAD CIUDADANA.", "correct": true},
+          {"text": "COMISION DISTRITAL DE SEGURIDAD CIUDADANA.", "correct": false},
+          {"text": "COMITE REGIONAL DE SEGURIDAD CIVIL.", "correct": false},
+          {"text": "CONSEJO PROVINCIAL DE SEGURIDAD CIUDADANA.", "correct": false},
+          {"text": "CONSEJO REGIONAL DE SEGURIDAD CIUDADANA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2976. TOMANDO EN CUENTA LAS DEFINICIONES DE LAS DEPENDENCIAS ¿CUAL ES EL NOMBRE INSTITUCIONAL DE LA SIGLA \"DIRNOS\"?",
+        "options": [
+          {"text": "DIRECCION NACIONAL DE ORDEN PUBLICO.", "correct": false},
+          {"text": "COMISION REGIONAL DE SEGURIDAD CIVIL.", "correct": false},
+          {"text": "DIRECCION NACIONAL DE ORDEN Y SEGURIDAD.", "correct": true},
+          {"text": "DIRECCION DE SEGURIDAD CIUDADANA.", "correct": false},
+          {"text": "DIRECCION NACIONAL DE SEGURIDAD CIUDADANA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2977. TOMANDO EN CUENTA LAS DEFINICIONES DE LAS DEPENDENCIAS POLICIALES, ¿CUAL ES EL NOMBRE INSTITUCIONAL DE LA SIGLA \"DIROPES\"?",
+        "options": [
+          {"text": "DIRECCION DE OPERACIONES PUBLICAS ESPECIALES.", "correct": false},
+          {"text": "DIVISION DE OPERACIONES ESPECIALES.", "correct": false},
+          {"text": "DIRECCION DE OPERACIONES ESPECIALES.", "correct": true},
+          {"text": "DIVISION OPERACIONAL ESPECIAL.", "correct": false},
+          {"text": "DIVISION REGIONAL DE OPERACIONES ESPECIALES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2978. TOMANDO EN CUENTA LAS DEFINICIONES DE LAS DEPENDENCIAS ¿CUAL ES EL NOMBRE INSTITUCIONAL DE LA SIGLA \"DIVOPUS\"?",
+        "options": [
+          {"text": "DIVISION DE ORDEN PUBLICO Y SEGURIDAD.", "correct": true},
+          {"text": "DIVISION OPERACIONAL ESPECIAL.", "correct": false},
+          {"text": "DIVISION DE ORDEN PUBLICO Y OPERACIONES ESPECIALES.", "correct": false},
+          {"text": "DIRECCION DE OPERACIONES ESPECIALES.", "correct": false},
+          {"text": "DIVISION DE OPERACIONES ESPECIALES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2979. TOMANDO EN CUENTA LAS DEFINICIONES DE LAS INSTITUCIONES ¿CUAL ES EL NOMBRE INSTITUCIONAL DE LA SIGLA \"PNSC\"?",
+        "options": [
+          {"text": "PLAN NACIONAL DE ORDEN Y SEGURIDAD.", "correct": false},
+          {"text": "PLAN OPERACIONAL ESPECIAL.", "correct": false},
+          {"text": "PLAN NACIONAL DE ORDEN PUBLICO.", "correct": false},
+          {"text": "PLAN NACIONAL DE SEGURIDAD CIUDADANA.", "correct": true},
+          {"text": "PLAN DE SEGURIDAD CIUDADANA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2980. TOMANDO EN CUENTA LAS DEFINICIONES DE LAS DEPENDENCIAS ¿CUAL ES EL NOMBRE INSTITUCIONAL DE LA SIGLA \"DIVPOL\"?",
+        "options": [
+          {"text": "DIVISION DE ORDEN PUBLICO Y SEGURIDAD.", "correct": false},
+          {"text": "DIVISION DE ORDEN PUBLICO Y OPERACIONES ESPECIALES.", "correct": false},
+          {"text": "DIVISION POLICIAL.", "correct": true},
+          {"text": "DIVISION DE OPERACIONES ESPECIALES.", "correct": false},
+          {"text": "DIRECCION DE OPERACIONES ESPECIALES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2981. PARA TENER UN CORRECTO PERFIL COMO POLICIA COMUNITARIO, ¿QUE COMPETENCIA, DE LAS QUE SE MENCIONA, NO ES COHERENTE?",
+        "options": [
+          {"text": "CONOCER ESTRATEGIAS DE ACERCAMIENTO A LA COMUNIDAD.", "correct": false},
+          {"text": "APLICAR HERRAMIENTAS DE RESOLUCION Y MEDIACION DE CONFLICTOS.", "correct": false},
+          {"text": "SER INDIFERENTE A LOS PROBLEMAS LOCALES.", "correct": true},
+          {"text": "EJERCER LIDERAZGO ANTE LOS CIUDADANOS DE LA COMUNIDAD.", "correct": false},
+          {"text": "SABER TRABAJAR EN EQUIPO CON SU PROPIO PERSONAL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2982. DE ACUERDO CON LO ESTABLECIDO EN EL REGLAMENTO, ¿CUAL ES LA RESPONSABILIDAD DEL JEFE DE MACROREGION?",
+        "options": [
+          {"text": "ASIGNAR EN EL PRESUPUESTO ANUAL RECURSOS LOGISTICOS PARA UN MEJOR PATRULLAJE.", "correct": true},
+          {"text": "EJERCER LIDERAZGO CON LOS CIUDADANOS.", "correct": false},
+          {"text": "VELAR POR LA SEGURIDAD CIUDADANA.", "correct": false},
+          {"text": "SER UN INTERMEDIARIO ANTE CONFLICTOS INTERNOS.", "correct": false},
+          {"text": "ESTAR ATENTO ANTE CUALQUIER INCIDENTE O ATENTADO CONTRA EL VECINDARIO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2983. ¿CUAL ES LA RESPONSABILIDAD GENERAL DEL JEFE DE REGION?",
+        "options": [
+          {"text": "ENTREGAR LOS PRESUPUESTOS QUE SE REPARTE ENTRE LAS COMISARIAS DE UNA MISMA JURISDICCION.", "correct": false},
+          {"text": "GESTIONAR EN QUE LAS COMISARIAS DE SU JURISDICCION CUENTEN CON RECURSOS SUFICIENTES.", "correct": true},
+          {"text": "DELEGAR A SUS INFERIORES LABORALES DE VIGILANCIA.", "correct": false},
+          {"text": "EJERCER LIDERAZGO COMO JEFE PARA LOS VECINOS.", "correct": false},
+          {"text": "PRIORIZAR MEDIANTE ESTRATEGIAS LA SEGURIDAD DE UNA LOCALIDAD.", "correct": false}
+        ]
+      },
+      {
+        "question": "2984. ¿CUAL DE LAS SIGUIENTES ALTERNATIVAS ES UNA DE LAS RESPONSABILIDADES GENERALES DEL COMISARIO SEGUN EL PROTOCOLO?",
+        "options": [
+          {"text": "MANTENER EN TODO MOMENTO ACTUALIZADO LOS MAPAS DEL DELITO Y EN COORDINACION CON LA MUNICIPALIDAD, EL MAPA DE RIESGO.", "correct": true},
+          {"text": "APLICAR LAS HERRAMIENTAS DE RESOLUCION DE CONFLICTOS COMO LA MEDIACION.", "correct": false},
+          {"text": "TENER UNA CAPACIDAD DE LIDERAZGO FRENTE A SUS COMPAÑEROS Y SUBORDINADOS.", "correct": false},
+          {"text": "CONVOCAR UNA REUNION GENERAL DE COMISARIOS Y JEFES DE UNIDADES POLICIALES DE SU JURISDICCION.", "correct": false},
+          {"text": "AGRUPAR LAS MANZANAS DE SU JURISDICCION DE ACUERDO A LA PROBLEMATICA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2985. ¿CUAL DE LAS SIGUIENTES CLAVES ES LA ACCION ESPECIFICA DEL JEFE DE SECTOR DURANTE LA PLANIFICACION DEL PATRULLAJE POLICIAL?",
+        "options": [
+          {"text": "DESTINAR A PATRULLEROS, MOTOS O PERSONAL A PIE.", "correct": false},
+          {"text": "COLABORAR CON EL COMISARIO EN LA FORMULACION DE LAS HOJAS DE RUTA DEL PATRULLAJE.", "correct": true},
+          {"text": "DESIGNAR A JEFES DE SECTOR ADJUNTOS, A SU CARGO.", "correct": false},
+          {"text": "FORMULAR LAS HOJAS DE RUTA PARA EL PATRULLAJE POR SECTORES.", "correct": false},
+          {"text": "GESTIONAR CON LA DIRTIC DE LA PNP EL EQUIPAMIENTO DE RADIOS PARA EL PATRULLAJE.", "correct": false}
+        ]
+      },
+      {
+        "question": "2986. CUANDO HAY CASO DE VIOLENCIA, SE MENCIONA EN LA RUTA DE PATRULLAJE LAS MEDIDAS DE PROTECCION HACIA LAS VICTIMAS, POR EJEMPLO, LAS VISITAS DEBEN SER NO MENOR A UNA VEZ POR SEMANA ¿ANTE QUE AUTORIDAD ESTE PUNTO SE MODIFICA LEGALMENTE A MAS?",
+        "options": [
+          {"text": "EL VICTIMARIO.", "correct": false},
+          {"text": "LA VICTIMA.", "correct": false},
+          {"text": "EL JUEZ.", "correct": true},
+          {"text": "EL COMISARIO.", "correct": false},
+          {"text": "EL POLICIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2987. CUANDO SE DA EL MONITOREO DE PATRULLAJE ¿QUE AUTORIDAD TIENE LA FUNCION DE REMITIR UN INFORME SEMANAL DE LA PROBLEMATICA IDENTIFICADA Y FORMULANDO RECOMENDACIONES?",
+        "options": [
+          {"text": "POLICIAS ASIGNADOS A SECTORES.", "correct": false},
+          {"text": "JEFE DE SECTOR.", "correct": true},
+          {"text": "REGIONES POLICIALES.", "correct": false},
+          {"text": "COMISARIOS.", "correct": false},
+          {"text": "DIVISION POLICIALES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2988. DENTRO DEL PATRULLAJE POLICIAL POR SECTORES, EXISTEN EL LLAMADO PATRULLAJE INTEGRADO INCLUYENDO A LA MUNICIPALIDAD. ¿QUE AUTORIDAD ESTA A CARGO DE DICHO PATRULLAJE?",
+        "options": [
+          {"text": "LA MUNICIPALIDAD.", "correct": false},
+          {"text": "EL OFICIAL QUE SEA DESIGNADO POR EL JEFE DE SECTOR.", "correct": false},
+          {"text": "LA PNP.", "correct": true},
+          {"text": "SUB JEFE DE SECTOR.", "correct": false},
+          {"text": "DEPENDE DE LA JURISDICCION, PUEDE SER LA MUNICIPALIDAD O LA PNP.", "correct": false}
+        ]
+      },
+      {
+        "question": "2989. ¿CUAL ES EL OBJETIVO TACTICO DEL \"CONTACTO CIUDADANO\" QUE DEBE REALIZAR LA PNP EN SU JURISDICCION?",
+        "options": [
+          {"text": "RECOGER INFORMACION IMPORTANTE PARA MEJORAR EL SERVICIO PREVENTIVO Y DE CONTROL.", "correct": true},
+          {"text": "DAR CONFIANZA CON LOS VECINOS DEL SECTOR.", "correct": false},
+          {"text": "GENERAR UNA CERCANIA CON LA POBLACION.", "correct": false},
+          {"text": "GENERAR ESPACIOS DE COMUNICACION PERMANENTE ENTRE POLICIAS Y LA COMUNIDAD.", "correct": false},
+          {"text": "CONTROL DE LA POBLACION DE SU JURISDICCION.", "correct": false}
+        ]
+      },
+      {
+        "question": "2990. CUANDO EL JEFE DE SECTOR RECONOCE E IDENTIFICA ZONAS CRITICAS O DE INTERES DE LA POLICIA, LAS VISITAS SON CON MAS FRECUENCIA Y DE FORMA ESTRATEGICA. ¿COMO SE LLAMA EL DOCUMENTO QUE SE QUEDA EN DICHO LUGAR?",
+        "options": [
+          {"text": "CUADERNO DE REGISTRO DEL CONTACTO CIUDADANO.", "correct": false},
+          {"text": "REGISTRO UNICO DEL CIUDADANO.", "correct": false},
+          {"text": "REGISTRO DE CONTACTO CIUDADANO DEL COMISARIO.", "correct": false},
+          {"text": "HOJA DE RUTA POR SECTORES.", "correct": false},
+          {"text": "CUADERNO DE CONTROL CIUDADANO DE PATRULLAJE.", "correct": true}
+        ]
+      },
+      {
+        "question": "2991. ¿CUAL ES LA FINALIDAD DE IMPLEMENTAR Y CONSOLIDAR LOS PROGRAMAS PREVENTIVOS DE LA PNP?",
+        "options": [
+          {"text": "INCULCAR EN LOS NIÑOS Y JOVENES VALORES Y PREVENIR LA DELINCUENCIA.", "correct": false},
+          {"text": "PROMOVER LA PARTICIPACION ACTIVA DE LA COMUNIDAD EN LA SEGURIDAD CIUDADANA.", "correct": true},
+          {"text": "PROPONER MEDIDAS DE CONTROL CIUDADANO ANTE DELITOS Y CRIMENES.", "correct": false},
+          {"text": "VERIFICAR Y OBSERVAR EL DESARROLLO DE LOS SECTORES CIUDADANOS.", "correct": false},
+          {"text": "TENER UNA MAYOR CONEXION CON LA COMUNIDAD.", "correct": false}
+        ]
+      },
+      {
+        "question": "2992. LA POLICIA CUENTA CON SEIS PROGRAMAS PREVENTIVOS, TRES DE ELLOS ESTAN DESTINADOS A ORGANIZAR A LA COMUNIDAD PARA TRABAJAR DE FORMA CONJUNTA DIFERENTES ACCIONES PREVENTIVAS, SEGUN LAS ALTERNATIVAS UNA DE ELLAS CORRESPONDE:",
+        "options": [
+          {"text": "JUNTAS VECINALES.", "correct": true},
+          {"text": "PATRULLA JUVENIL.", "correct": false},
+          {"text": "POLICIA ESCOLAR.", "correct": false},
+          {"text": "CLUB DE MENORES.", "correct": false},
+          {"text": "CLUB DE AMIGOS DE LA POLICIA.", "correct": false}
+        ]
+      },
+      {
+        "question": "2993. ¿QUE PROGRAMA PREVENTIVO TIENE COMO FINALIDAD FORMAR UNA ORGANIZACION ESTUDIANTIL PROMOVIDA POR LA PNP EN CONCIENCIA CIVICA, LIDERAZGO Y SOLIDARIDAD ENTRE ESTUDIANTES DE LOS COLEGIOS DEL PERU?",
+        "options": [
+          {"text": "BRIGADAS DE AUTOPROTECCION ESCOLAR.", "correct": false},
+          {"text": "PATRULLA JUVENIL.", "correct": false},
+          {"text": "CLUB DE MENORES.", "correct": false},
+          {"text": "JUNTAS VECINALES.", "correct": false},
+          {"text": "POLICIA ESCOLAR.", "correct": true}
+        ]
+      },
+      {
+        "question": "2994. DENTRO DEL PROGRAMA JUNTAS VECINALES ¿QUE FUNCION CUMPLE EL COMISARIO CON RESPECTO AL PLAN DE TRABAJO?",
+        "options": [
+          {"text": "COORDINA EL CORRECTO CUMPLIMIENTO DEL PLAN DE TRABAJO.", "correct": false},
+          {"text": "FORMULAR EL PLAN DE TRABAJO.", "correct": true},
+          {"text": "PROMOCIONAR LOS PUNTOS ACORDADOS EN EL PLAN DE TRABAJO.", "correct": false},
+          {"text": "DIRIGE LAS REUNIONES DE LA OPC PARA QUE SE CUMPLA EL PLAN DE TRABAJO.", "correct": false},
+          {"text": "FORMULAR EL INFORME SOBRE LAS AUTORIDADES PARTICIPANTES EN EL PLAN DE TRABAJO.", "correct": false}
+        ]
+      },
+      {
+        "question": "2995. DENTRO DE LAS AUTORIDADES INVOLUCRADAS EN EL DESARROLLO DE LAS JUNTAS VECINALES, UNA DE ELLAS TIENE LA RESPONSABILIDAD DE FORMAR A LOS VECINOS QUE QUIERAN CONFORMAR LAS JUNTAS VECINALES:",
+        "options": [
+          {"text": "EL COMISARIO.", "correct": false},
+          {"text": "LA PNP.", "correct": false},
+          {"text": "COMISION EDUCATIVA DE LA PNP.", "correct": false},
+          {"text": "JEFE DE SECTOR.", "correct": false},
+          {"text": "EL JEFE DE LA OPC.", "correct": true}
+        ]
+      },
+      {
+        "question": "2996. ¿CUAL DE LOS PROGRAMAS PREVENTIVOS ES CREADO PARA INTEGRAR CON RESPONSABILIDAD SOCIAL, A CIUDADANOS Y RECONOZCAN SU PAPEL FUNDAMENTAL PARA PREVENIR DELITOS EN LA COMUNIDAD?",
+        "options": [
+          {"text": "BRIGADAS DE AUTOPROTECCION ESCOLAR.", "correct": false},
+          {"text": "CLUB DE MENORES.", "correct": false},
+          {"text": "REDES DE COOPERANTES.", "correct": true},
+          {"text": "JUNTAS VECINALES.", "correct": false},
+          {"text": "PATRULLAJE JUVENIL.", "correct": false}
+        ]
+      },
+      {
+        "question": "2997. ¿QUE PROGRAMA PREVENTIVO BUSCA CAMBIAR LAS ACTITUDES Y COMPORTAMIENTOS NEGATIVOS DE ADOLESCENTES Y JOVENES PARA PREVENIR LA VIOLENCIA O PROBLEMAS QUE AQUEJAN ESAS EDADES MEDIANTE DIVERSAS ACTIVIDADES QUE LOS MOTIVEN Y SENSIBILICEN?.",
+        "options": [
+            {"text": "PATRULLAJE JUVENIL.", "correct": true},
+            {"text": "BRIGADAS DE AUTOPROTECCION ESCOLAR.", "correct": false},
+            {"text": "JUNTAS VECINALES.", "correct": false},
+            {"text": "POLICIA ESCOLAR.", "correct": false},
+            {"text": "CLUB DE MENORES.", "correct": false}
+        ]
+      },
+      {
+        "question": "2998. ¿QUE FUNCION TIENE EL COMISARIO EN EL PROGRAMA PREVENTIVO 'BRIGADAS DE AUTOPROTECCION ESCOLAR'?",
+        "options": [
+          {"text": "INCLUIR EN LAS HOJAS DE RUTA DEL PATRULLAJE LAS INSTRUCCIONES QUE DESARROLLEN BAPES.", "correct": false},
+          {"text": "PROGRAMAR LA CAPACITACION DE LOS JEFES DE SECTORES Y PERSONAL DE LA PNP.", "correct": true},
+          {"text": "ESTABLECER EL CANAL DE COMUNICACION ENTRE LAS BAPES Y LA COMISARIA.", "correct": false},
+          {"text": "ES EL RESPONSABLE DE LA CONFORMACION DE LA BAPE EN LAS INSTITUCIONES EDUCATIVAS.", "correct": false},
+          {"text": "ESTABLECER EL CANAL DE COMUNICACION ENTRE LAS BAPES Y EL JEFE DE SECTOR.", "correct": false}
+        ]
+      },
+      {
+        "question": "2999. ES UNA ACTIVIDAD DE ARTICULACION CON EL GOBIERNO LOCAL:",
+        "options": [
+          {"text": "RECUPERACION DE ESPACIOS PUBLICOS PARA LA CONVIVENCIA CIUDADANA.", "correct": true},
+          {"text": "DESARROLLO DE PLANES DE SEGURIDAD CIUDADANA.", "correct": false},
+          {"text": "IMPLEMENTACION DE NUEVAS COMISARIAS.", "correct": false},
+          {"text": "EFECTUAR PATRULLAJES PREVENTIVOS POR LA JURISDICCION LOCAL.", "correct": false},
+          {"text": "N.A", "correct": false}
+        ]
+      },
+      {
+        "question": "3000. UNO DE LOS PRINCIPIOS RECTORES QUE RIGE EL LINEAMIENTO SECTORIAL VECINDARIO SEGURO - POLICIA COMUNITARIA POR SECTORES ES LA:",
+        "options": [
+          {"text": "MEJORAMIENTO PROGRESIVO.", "correct": false},
+          {"text": "MEJORAMIENTO CONTINUO.", "correct": true},
+          {"text": "MEJORAMIENTO DE NIVELES.", "correct": false},
+          {"text": "MEJORAMIENTO DE ESTAPAS.", "correct": false},
+          {"text": "MEJORAMIENTO INSTITUCIONAL PROGRESIVO.", "correct": false}
+        ]
+      }
     ]
   }
 ]
