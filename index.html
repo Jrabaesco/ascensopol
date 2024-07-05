@@ -5,18 +5,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Balotario de Preguntas</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="whatsapp.css">
 </head>
 <body>
     <div id="login">
-        <h1>INGRESAR</h1>
+        <img class="imagen" src="setting/logo.jpg" alt="logo">
+        <h1 class="intro">BALOTARIO DESARROLLADO Suboficiales de Armas<br>(Didáctico)</h1>
         <form id="loginForm">
-            <label for="username">Usuario:</label><br>
-            <input type="text" id="username" name="username" required><br>
-            <label for="password">Contraseña:</label><br>
-            <input type="password" id="password" name="password" required><br>
+            <label for="username"></label>
+            <input type="text" id="username" name="username" placeholder="USUARIO" required><br>
+            <label for="password"></label>
+            <input type="password" id="password" name="password" placeholder="CONTRASEÑA" required><br>
             <button type="submit">Ingresar</button>
         </form>
         <p id="loginError" style="color: red; display: none;">Usuario o contraseña incorrectos.</p>
+        <div id="whatsapp-button">
+            <img src="setting/whatsapp-fill.svg" alt="WhatsApp">
+        </div>
+        <div id="whatsapp-dialog" style="display: none;">
+            <div id="whatsapp-header">
+                <img class="iconWhatsapp" src="setting/whatsapp-white.svg" alt="WhatsApp"><span class="text-whatsapp">WhatsApp</span><span id="close-dialog">x</span>
+            </div>
+            <div id="whatsapp-content">
+                <p class="whatsapp-message">Hola! amigo PNP</p>
+                <p class="whatsapp-message">¿No tienes tu Usuario y Contraseña?</p>
+                <p class="whatsapp-message">Escribenos ...</p>
+                <button id="openChatButton">Abrir Chat</button>
+            </div>
+        </div>
     </div>
     <div id="quiz-selection" style="display: none;">
         <h1 class="title">POLICÍA NACIONAL DEL PERÚ</h1>
@@ -44,6 +60,7 @@
         </div>
     </div>
     <script src="script.js"></script>
-    <script src="login.js"></script> 
+    <script src="login.js"></script>
+    <script src="whatsapp.js"></script> 
 </body>
 </html>
