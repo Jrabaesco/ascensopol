@@ -27,12 +27,6 @@ document.addEventListener('DOMContentLoaded', () => {
             generateQuizList();
         });
 
-/*    loginForm.addEventListener('submit', (e) => {
-        e.preventDefault();
-        loginDiv.style.display = 'none';
-        quizSelectionDiv.style.display = 'block';
-    });*/
-
     backButton.addEventListener('click', () => {
         quizDiv.style.display = 'none';
         quizSelectionDiv.style.display = 'block';
@@ -80,7 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
         quizSelectionDiv.style.display = 'none';
         quizDiv.style.display = 'block';
         currentQuiz = quizzes[index];
-        shuffleArray(currentQuiz.questions); // Shuffle questions
+        // shuffleArray(currentQuiz.questions); // Remove this line to stop shuffling questions
         currentQuestionIndex = 0;
         correctCount = 0;
         incorrectCount = 0;
@@ -94,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const questionElement = document.createElement('div');
         questionElement.className = 'question';
         questionElement.textContent = question.question;
-        shuffleArray(question.options); // Shuffle options
+        // shuffleArray(question.options); // Remove this line to stop shuffling options
 
         question.options.forEach((option) => {
             const optionElement = document.createElement('div');
@@ -112,7 +106,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     correctOptionElement.classList.add('correct');
                 }
                 updateScoreboard();
-/*                setTimeout(() => {
+                /*                setTimeout(() => {
                     optionElement.classList.remove('correct', 'incorrect');
                     if (currentQuestionIndex < currentQuiz.questions.length - 1) {
                         currentQuestionIndex++;
@@ -139,12 +133,5 @@ document.addEventListener('DOMContentLoaded', () => {
 Correctas: ${correctCount} 
 Incorrectas: ${incorrectCount} 
 Total de preguntas: ${currentQuiz.questions.length}`);
-    }
-
-    function shuffleArray(array) {
-        for (let i = array.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [array[i], array[j]] = [array[j], array[i]];
-        }
     }
 });
