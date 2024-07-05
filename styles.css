@@ -18,6 +18,18 @@ form {
     align-items: center;
 }
 
+.intro {
+    font-size: 20px;
+    text-shadow: -2px 2px 2px #ffd900b3;
+    text-shadow: -4px 4px 4px #080808b3;
+    margin: 10px 0px;
+}
+.imagen {
+    height: 180px;
+    width: 180px;
+    border-radius: 90px;
+}
+
 label {
     margin-top: 0px;
     display: block;
@@ -56,7 +68,7 @@ button[type="submit"]:hover {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 300px;
-    height: 400px;
+    height: 480px;
     margin:auto;
     text-align: center;
     justify-content: center;
@@ -125,7 +137,7 @@ button[type="submit"]:hover {
 }
 
 .option:hover {
-    background: #FFD700;
+    background: #dcc004;
 }
 
 .option.correct {
@@ -150,6 +162,10 @@ button[type="submit"]:hover {
     width: 120px;
     border-color: #d9d6d6;
 }
+
+/*#navigation-buttons button:hover {
+    background: #ddd;
+}*/
 
 #scoreboard {
     margin-top: 20px;
