@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
         quizSelectionDiv.style.display = 'none';
         quizDiv.style.display = 'block';
         currentQuiz = quizzes[index];
-        // shuffleArray(currentQuiz.questions); // Remove this line to stop shuffling questions
+        // Removed shuffleArray(currentQuiz.questions); to stop shuffling questions
         currentQuestionIndex = 0;
         correctCount = 0;
         incorrectCount = 0;
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const questionElement = document.createElement('div');
         questionElement.className = 'question';
         questionElement.textContent = question.question;
-        // shuffleArray(question.options); // Remove this line to stop shuffling options
+        shuffleArray(question.options); // Keep shuffling options
 
         question.options.forEach((option) => {
             const optionElement = document.createElement('div');
@@ -133,5 +133,12 @@ document.addEventListener('DOMContentLoaded', () => {
 Correctas: ${correctCount} 
 Incorrectas: ${incorrectCount} 
 Total de preguntas: ${currentQuiz.questions.length}`);
+    }
+
+    function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
     }
 });
