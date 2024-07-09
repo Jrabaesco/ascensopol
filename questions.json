@@ -1840,7 +1840,14 @@
                   ]
                 },
                 {
-                  "question": "181. ELIMINADO"
+                  "question": "181. ELIMINADO",
+                  "options": [
+                    {"text": "", "correct": false},
+                    {"text": "", "correct": false},
+                    {"text": "", "correct": true},
+                    {"text": "", "correct": false},
+                    {"text": "", "correct": false}
+                  ]
                 },
                 {
                   "question": "182. EN CUANTO A LOS DERECHOS FUNDAMENTALES DE LA PERSONA:",
@@ -4093,7 +4100,14 @@
               ]
             },
             {
-              "question": "406. ELIMINADO"
+              "question": "406. ELIMINADO",
+              "options": [
+                {"text": "", "correct": false},
+                {"text": "", "correct": false},
+                {"text": "", "correct": true},
+                {"text": "", "correct": false},
+                {"text": "", "correct": false}
+              ]
             },
             {
               "question": "407. LA DIRECCIÓN NACIONAL DE ORDEN Y SEGURIDAD ESTA A CARGO DE UN:",
@@ -6191,7 +6205,14 @@
             ]
           },
           {
-            "question": "616. ELIMINADO"
+            "question": "616. ELIMINADO",
+            "options": [
+              {"text": "", "correct": false},
+              {"text": "", "correct": false},
+              {"text": "", "correct": true},
+              {"text": "", "correct": false},
+              {"text": "", "correct": false}
+            ]
           },
           {
             "question": "617. ES LA DEFINICION DE DESPACHO.",
@@ -6354,7 +6375,14 @@
             ]
           },
           {
-            "question": "633. ELIMINADO"
+            "question": "633. ELIMINADO",
+            "options": [
+              {"text": "", "correct": false},
+              {"text": "", "correct": false},
+              {"text": "", "correct": true},
+              {"text": "", "correct": false},
+              {"text": "", "correct": false}
+            ]
           },
           {
             "question": "634. EL CAMBIO DE SITUACION POLICIAL SE FORMALIZA MEDIANTE:.",
@@ -6397,7 +6425,14 @@
             ]
           },
           {
-            "question": "638. ELIMINADO"
+            "question": "638. ELIMINADO",
+            "options": [
+              {"text": "", "correct": false},
+              {"text": "", "correct": false},
+              {"text": "", "correct": true},
+              {"text": "", "correct": false},
+              {"text": "", "correct": false}
+            ]
           },
           {
             "question": "639. SITUACIÓN POLICIAL: EL PERSONAL DE LA POLICÍA NACIONAL DEL PERU SE CLASIFICA:.",
@@ -9960,7 +9995,14 @@
       ]
     },
     {
-      "question": "994. ELIMINADO HASTA EL 996."
+      "question": "994. ELIMINADO HASTA EL 996.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "997. ES UNA CAUSAL DE BAJA:",
@@ -9973,7 +10015,14 @@
       ]
     },
     {
-      "question": "998. ELIMINADO HASTA EL 1001."
+      "question": "998. ELIMINADO HASTA EL 1001.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1002. LA EVALUACIÓN ES INTEGRAL Y CONTINUA DESTINADA A ESTIMULAR Y DESARROLLAR LAS CAPACIDADES, APTITUDES Y ACTITUDES CRÍTICAS Y CREATIVAS EN:",
@@ -9986,7 +10035,14 @@
       ]
     },
     {
-      "question": "1003. ELIMINADO"
+      "question": "1003. ELIMINADO",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1004. LA CONVALIDACIÓN ACADÉMICA SE AUTORIZA MEDIANTE RESOLUCIÓN DEL DIRECTOR DE LA:",
@@ -10009,7 +10065,14 @@
       ]
     },
     {
-      "question": "1006. ELIMINADO HASTA EL 1011."
+      "question": "1006. ELIMINADO HASTA EL 1011.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1012. ES PRINCIPIO DE LA FORMACION PROFESIONAL POLICIAL :",
@@ -10022,7 +10085,14 @@
       ]
     },
     {
-      "question": "1013. ELIMINADO HASTA EL 1020."
+      "question": "1013. ELIMINADO HASTA EL 1020.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1021. LA FORMACION PROFESIONAL POLICIAL, TIENE COMO PRINCIPIO:",
@@ -10035,7 +10105,14 @@
       ]
     },
     {
-      "question": "1022. ELIMINADO"
+      "question": "1022. ELIMINADO",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1023. OBJETIVOS. CONTRIBUIR AL CUMPLIMIENTO DE LA FINALIDAD OBJETIVOS Y METAS DE LA POLICÍA NACIONAL DEL PERÚ INCORPORANDO LOS CRITERIOS, PRINCIPIOS Y VALORES:",
@@ -10058,7 +10135,14 @@
       ]
     },
     {
-      "question": "1025. ELIMINADO HASTA EL 1028."
+      "question": "1025. ELIMINADO HASTA EL 1028.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1029. ES UNA CAUSAL DE SEPARACIÓN:",
@@ -10071,7 +10155,14 @@
       ]
     },
     {
-      "question": "1030. ELIMINADO HASTA EL 1033."
+      "question": "1030. ELIMINADO HASTA EL 1033.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1034. OBJETIVOS. FOMENTAR EL ESTABLECIMIENTO DE RELACIONES INTERINSTITUCIONALES PARA EL CUMPLIMIENTO DE SUS FINES Y LOS DE:",
@@ -10084,7 +10175,14 @@
       ]
     },
     {
-      "question": "1035. ELIMINADO HASTA EL 1043."
+      "question": "1035. ELIMINADO HASTA EL 1043.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1044. LA ESCUELA NACIONAL DE FORMACIÓN PROFESIONAL SE ADECUARÁ EN LOS QUE CORRESPONDA A LO SEÑALADO EN LA:",
@@ -10097,7 +10195,14 @@
       ]
     },
     {
-      "question": "1045. ELIMINADO HASTA EL 1047."
+      "question": "1045. ELIMINADO HASTA EL 1047.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1048. ES CAUSAL DE SEPARACIÓN PARA ESTUDIANTES DE PREGRADO:",
@@ -10110,7 +10215,14 @@
       ]
     },
     {
-      "question": "1049. ELIMINADO HASTA EL 1051."
+      "question": "1049. ELIMINADO HASTA EL 1051.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1052. EL PROCESO PARA ACCEDER A BECAS, SUS REQUISITOS Y CONDICIONES SE ESTABLECEN EN:",
@@ -10123,7 +10235,14 @@
       ]
     },
     {
-      "question": "1053. ELIMINADO HASTA EL 1054."
+      "question": "1053. ELIMINADO HASTA EL 1054.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1055. LA FORMACIÓN PROFESIONAL POLICIAL TIENE COMO PRINCIPIO:",
@@ -10136,7 +10255,14 @@
       ]
     },
     {
-      "question": "1056. ELIMINADO HASTA EL 1059."
+      "question": "1056. ELIMINADO HASTA EL 1059.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1060. EL ESTADO RECONOCE LOS PROGRAMAS DE FORMACIÓN PROFESIONAL DE PREGRADO Y POSGRADO Y FORMACIÓN CONTINUA QUE SE IMPARTEN EN:",
@@ -10149,7 +10275,14 @@
       ]
     },
     {
-      "question": "1061. ELIMINADO"
+      "question": "1061. ELIMINADO",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1062. FINALIDAD. LA FORMACIÓN PROFESIONAL POLICIAL TIENE COMO FINALIDAD PÚBLICA CERTIFICAR LA IDONEIDAD Y:",
@@ -10172,7 +10305,14 @@
       ]
     },
     {
-      "question": "1064. ELIMINADO HASTA EL 1075."
+      "question": "1064. ELIMINADO HASTA EL 1075.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1076. EL ESTADO RECONOCE LOS PROGRAMAS DE FORMACION PROFESIONAL DE:",
@@ -10235,7 +10375,14 @@
       ]
     },
     {
-      "question": "1082. ELIMINADO"
+      "question": "1082. ELIMINADO",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1083. ES PRINCIPIO DE LA FORMACION PROFESIONAL POLICIAL.",
@@ -10248,7 +10395,14 @@
       ]
     },
     {
-      "question": "1084. ELIMINADO"
+      "question": "1084. ELIMINADO",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1085. LA FORMACION PROFESIONAL POLICIAL, TIENE COMO PRINCIPIO",
@@ -10261,7 +10415,14 @@
       ]
     },
     {
-      "question": "1086. ELIMINADO"
+      "question": "1086. ELIMINADO",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1087. OBJETIVOS. CONTRIBUIR AL CUMPLIMIENTO DE LA FINALIDAD OBJETIVOS Y METAS DE LA POLICÍA NACIONAL DEL PERÚ INCORPORANDO LOS CRITERIOS, PRINCIPIOS Y VALORES:",
@@ -10284,7 +10445,14 @@
       ]
     },
     {
-      "question": "1089. ELIMINADO HASTA EL 1092."
+      "question": "1089. ELIMINADO HASTA EL 1092.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1093. ES UNA CAUSAL DE SEPARACIÓN:",
@@ -10297,7 +10465,14 @@
       ]
     },
     {
-      "question": "1094. ELIMINADO HASTA EL 1096."
+      "question": "1094. ELIMINADO HASTA EL 1096.",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     },
     {
       "question": "1097. OBJETIVOS. FOMENTAR EL ESTABLECIMIENTO DE RELACIONES INTERINSTITUCIONALES PARA EL CUMPLIMIENTO DE SUS FINES Y LOS DE:",
@@ -10310,7 +10485,14 @@
       ]
     },
     {
-      "question": "1098. ELIMINADO HASTA EL 1100"
+      "question": "1098. ELIMINADO HASTA EL 1100",
+      "options": [
+        {"text": "", "correct": false},
+        {"text": "", "correct": false},
+        {"text": "", "correct": true},
+        {"text": "", "correct": false},
+        {"text": "", "correct": false}
+      ]
     }
     ]
   },
@@ -13343,7 +13525,14 @@
         ]
       },
       {
-        "question": "1403. ELIMINADO"
+        "question": "1403. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1404. A QUE PRINCIPIO CORRESPONDE, EL ESTADO ADOPTA MEDIDAS BÁSICAS QUE GARANTICEN Y PROMUEVAN LA TRASPARENCIA EN LA ACTUACIÓN DE LAS ENTIDADES DE LA ADMINISTRACIÓN PUBLICA.",
@@ -13516,7 +13705,14 @@
         ]
       },
       {
-        "question": "1421. ELIMINADO"
+        "question": "1421. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1422. CLASES DE SANCIONES: UNA DE LAS SANCIONES QUE PUEDEN IMPONERSE POR LAS INFRACCIONES PREVISTAS EN EL PRESENTE RÉGIMEN SANCIONADOR ES LA SIGUIENTE :",
@@ -13549,7 +13745,14 @@
         ]
       },
       {
-        "question": "1425. ELIMINADO HASTA EL 1430."
+        "question": "1425. ELIMINADO HASTA EL 1430.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1431. QUE CLASIFICACION TIENEN, LAS INFORMACIONES QUE IMPIDAN EL CURSO DE LAS INVESTIGACIONES EN SU ETAPA POLICIAL DENTRO DE LOS LIMITES DE LA LEY, INCLUYENDO LOS SISTEMAS DE RECOMPENSA, COLOBORACION EFICAZ Y PROTECCION DE TESTIGOS:",
@@ -13592,7 +13795,14 @@
         ]
       },
       {
-        "question": "1435. ELIMINADO"
+        "question": "1435. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1436. EL DERECHO DE ACCESO A LA INFORMACION PUBLICA NO PODRA SER EJERCIDA, RESPECTO A LA INFORMACION CLASIFICADA COMO SECRETA, QUE SE SUSTENTE EN RAZONES DE SEGURIDAD NACIONAL. SOBRE LA CUAL NO PODRA EJERCERCE EL DERECHO DE ACCESO A LA INFORMACION PUBLICA:",
@@ -13655,7 +13865,14 @@
         ]
       },
       {
-        "question": "1442. ELIMINADO"
+        "question": "1442. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1443. EXCEPCIONES AL EJERCICIO DEL DERECHO.-A QUIEN SE DEBE FUNDAMENTAR MEDIANTE DOCUMENTO QUE LA INFORMACION CONTINUA COMO CLASIFICA EL CUAL PUEDE DESCLASIFICARLO:",
@@ -13668,7 +13885,14 @@
         ]
       },
       {
-        "question": "1444. ELIMINADO"
+        "question": "1444. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1445. LOS PLANES DE OPERACIONES POLICIALES Y DE INTELIGENCIA, ASÍ COMO AQUELLOS DESTINADOS A COMBATIR EL TERRORISMO, TRÁFICO ILÍCITO DE DROGAS Y ORGANIZACIONES CRIMINALES, ASÍ COMO LOS OFICIOS, PARTES Y COMUNICACIONES QUE SE REFIERAN EXPRESAMENTE A ELLOS.",
@@ -13721,7 +13945,14 @@
         ]
       },
       {
-        "question": "1450. ELIMINADO HASTA EL 1451."
+        "question": "1450. ELIMINADO HASTA EL 1451.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1452. EXCEPCIONES AL EJERCICIO DEL DERECHO.- QUE CLASIFICACION CORRESPONDE A LA INFORMACION QUE CONTENGA CONSEJOS, RECOMENDACIONES OPINIONES PRODUCIDAS COMO PARTE DEL PROCESO DELIBERATIVO CONSULTIVO PREVIO LA TOMA DE UNA DESICION DE GOBIERNO",
@@ -13734,7 +13965,14 @@
         ]
       },
       {
-        "question": "1453. ELIMINADO"
+        "question": "1453. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1454. TODA SOLICITUD DE INFORMACION DEBE SER DIRIGIDA AL FUNCIONARIO DESIGNADO POR LA ENTIDAD DE LA ADMINISTRACION PUBLICA PARA REALIZAR ESTA LABOR, EN CASO DE LA ENTIDAD NO HUBIERA DESIGNADO LA SOLICITUD SE DIRIGE AL FUNCIONARIO QUE TIENE EN SU PODER LA INFORMACION REQUERIDA",
@@ -13877,7 +14115,14 @@
         ]
       },
       {
-        "question": "1468. ELIMINADO"
+        "question": "1468. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1469. INFORMACIÓN CLASIFICADA EN EL ÁMBITO MILITAR, TANTO EN EL FRENTE INTERNO COMO EXTERNO:",
@@ -13890,7 +14135,14 @@
         ]
       },
       {
-        "question": "1470. ELIMINADO"
+        "question": "1470. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1471. QUE CLASIFICACION TIENEN, LAS INFORMACIONES QUE IMPIDAN EL CURSO DE LAS INVESTIGACIONES EN SU ETAPA POLICIAL DENTRO DE LOS LIMITES DE LA LEY, INCLUYTENDO LOS SISTEMAS DE RECOMPENSA, COLOBORACION EFICAZ Y PROTECCION DE TESTIGOS",
@@ -13903,7 +14155,14 @@
         ]
       },
       {
-        "question": "1472. ELIMINADO HASTA LA 1473."
+        "question": "1472. ELIMINADO HASTA LA 1473.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1474. LA DESTITUCIÓN E INHABILITACIÓN ES UNA CLASE DE SANCIONES QUE",
@@ -13916,7 +14175,14 @@
         ]
       },
       {
-        "question": "1475. ELIMINADO HASTA LA 1477."
+        "question": "1475. ELIMINADO HASTA LA 1477.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1478. LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PERMITIRAN A LOS SOLICITANTES, EL ACCESO DIRECTO Y DE MANERA INMEDIATA A LA INFORMACION PUBLICA DURANTE:",
@@ -13929,7 +14195,14 @@
         ]
       },
       {
-        "question": "1479. ELIMINADO"
+        "question": "1479. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1480. SI EL TRIBUNAL, NO RESUELVE EL RECURSO DE APELACIÓN EN EL PLAZO PREVISTO, EL SOLICITANTE PODRÁ DAR POR AGOTADA LA VÍA ADMINISTRATIVA. EL ACCESO A LA INFORMACIÓIN SE SUJETA A",
@@ -13982,7 +14255,14 @@
         ]
       },
       {
-        "question": "1485. ELIMINADO"
+        "question": "1485. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1486. PORTALES EN LAS DEPENDENCIAS PUBLICAS:LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA ESTABLECERÁN PROGRESIVAMENTE, DE ACUERDO A SU PRESUPUESTO, LA DIFUSIÓN A TRAVÉS DE INTERNET DE LA SIGUIENTE INFORMACIÓN:LA INFORMACIÓN ADICIONAL QUE LA ENTIDAD CONSIDERA PERTINENTE LO DISPUESTO EN ESTE ARTÍCULO NO EXCEPTO LA OBLIGACIÓN A LA QUE SE REFIERE AL TÍTULO IV DE ESTA LEY RELATIVA A LA PUBLICACIÓN DE",
@@ -14075,7 +14355,14 @@
         ]
       },
       {
-        "question": "1495. ELIMINADO HASTA 1500."
+        "question": "1495. ELIMINADO HASTA 1500.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       }
     ]
   },
@@ -14573,7 +14860,14 @@
         ]
       },
       {
-        "question": "1550. ELIMINADO HASTA LA 1557."
+        "question": "1550. ELIMINADO HASTA LA 1557.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1558. ¿EN QUE CASO PROCEDERÁ EL ARRESTO CIUDADANO?.",
@@ -14586,7 +14880,14 @@
         ]
       },
       {
-        "question": "1559. ELIMINADO HASTA LA 1561."
+        "question": "1559. ELIMINADO HASTA LA 1561.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1562. EL AGRAVIADO TIENE DERECHO A SER INFORMADO DEL RESULTADO DEL PROCEDIMIENTO, AUN CUANDO NO HAYA INTERVENIDO EN ÉL:.",
@@ -14599,7 +14900,14 @@
         ]
       },
       {
-        "question": "1563. ELIMINADO"
+        "question": "1563. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1564. ¿LA POLICIA QUÉ DOCUMENTO REDACTARÁ DONDE SE HAGA CONSTAR LA ENTREGA Y LAS DEMÁS CIRCUNSTANCIAS DE LA INTERVENCIÓN?.",
@@ -14622,7 +14930,14 @@
         ]
       },
       {
-        "question": "1566. ELIMINADO"
+        "question": "1566. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1567. EL AGRAVIADO TIENE DERECHO A RECIBIR UN TRATO DIGNO Y RESPETUOSO POR PARTE DE LAS AUTORIDADES COMPETENTES, Y A LA PROTECCIÓN DE SU INTEGRIDAD, INCLUYENDO LA DE SU FAMILIA. EN LOS PROCESOS POR DELITOS CONTRA LA LIBERTAD SEXUAL SE:.",
@@ -14635,7 +14950,14 @@
         ]
       },
       {
-        "question": "1568. ELIMINADO HASTA LA 1571."
+        "question": "1568. ELIMINADO HASTA LA 1571.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1572. ¿POR QUÉ EL AGRAVIADO PUEDE IMPUGNAR EL SOBRESEIMIENTO Y LA SENTENCIA ABSOLUTORIA?.",
@@ -14648,7 +14970,14 @@
         ]
       },
       {
-        "question": "1573. ELIMINADO"
+        "question": "1573. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1574. INTERVENIR PERMANENTEMENTE EN TODO EL DESARROLLO DEL PROCESO. TIENE LEGITIMACIÓN PARA INTERPONER LOS RECURSOS Y MEDIOS DE IMPUGNACIÓN QUE LA LEY ESTABLECE:.",
@@ -14711,7 +15040,14 @@
         ]
       },
       {
-        "question": "1580. ELIMINADO HASTA LA 1584."
+        "question": "1580. ELIMINADO HASTA LA 1584.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1585. EL SUPERIOR JERÁRQUICO DE UN FISCAL, DE OFICIO O A INSTANCIA DEL AFECTADO, PODRÁ REEMPLAZARLO CUANDO NO CUMPLE ADECUADAMENTE CON SUS FUNCIONES O INCURRE EN IRREGULARIDADES. TAMBIÉN PODRÁ HACERLO PREVIA LAS INDAGACIONES QUE CONSIDERE CONVENIENTE, CUANDO:.",
@@ -14734,7 +15070,14 @@
         ]
       },
       {
-        "question": "1587. ELIMINADO HASTA LA 1597."
+        "question": "1587. ELIMINADO HASTA LA 1597.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1598. EL MINISTERIO PÚBLICO, FORMULARÁ SUS DISPOSICIONES, REQUERIMIENTOS Y CONCLUSIONES EN FORMA MOTIVADA Y LA ESPECÍFICA, DE MANERA QUE SE BASTEN A SÍ MISMOS, SIN REMITIRSE A LAS DECISIONES DEL:.",
@@ -14747,7 +15090,14 @@
         ]
       },
       {
-        "question": "1599. ELIMINADO HASTA LA 1600."
+        "question": "1599. ELIMINADO HASTA LA 1600.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1601. ¿CON QUÉ FINALIDAD EL MINISTERIO PÚBLICO Y LA POLICÍA NACIONAL DEBEN COOPERAR Y ACTUAR DE FORMA CONJUNTA Y COORDINADA?.",
@@ -14800,7 +15150,14 @@
         ]
       },
       {
-        "question": "1606. ELIMINADO"
+        "question": "1606. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1607. ¿QUIÉN PODRÁ DISPONER LA CONDUCCIÓN COMPULSIVA DEL OMISO POR LA POLICÍA NACIONAL, EN CASO DE INCONCURRENCIA A UNA CITACIÓN DEBIDAMENTE NOTIFICADA BAJO APERCIBIMIENTO?.",
@@ -14813,7 +15170,14 @@
         ]
       },
       {
-        "question": "1608. ELIMINADO"
+        "question": "1608. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1609. ¿QUIENES ESTÁN OBLIGADOS A APOYAR AL MINISTERIO PÚBLICO PARA LLEVAR A CABO LA INVESTIGACIÓN PREPARATORIA?.",
@@ -14836,7 +15200,14 @@
         ]
       },
       {
-        "question": "1611. ELIMINADO HASTA LA 1613."
+        "question": "1611. ELIMINADO HASTA LA 1613.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1614. ¿CUÁNDO EL JUEZ DE LA INVESTIGACIÓN PREPARATORIA O EL JUEZ PENAL, COLEGIADO O UNIPERSONAL, SEGÚN EL ESTADO DE LA CAUSA, DISPONDRÁ, DE OFICIO O A PEDIDO DE PARTE, LA PRÁCTICA DE UN EXAMEN POR UN PERITO ESPECIALIZADO DEL PROCESADO?",
@@ -14849,7 +15220,14 @@
         ]
       },
       {
-        "question": "1615. ELIMINADO HASTA LA 1616."
+        "question": "1615. ELIMINADO HASTA LA 1616.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1617. EL MINISTERIO PÚBLICO, EN LA INVESTIGACIÓN DEL DELITO DESTINADA A EJERCITAR LA ACCIÓN PENAL, PARA LA ACREDITACIÓN DE LOS HECHOS DELICTIVOS, ASÍ COMO PARA IDENTIFICAR A LOS AUTORES O PARTÍCIPES EN SU COMISIÓN, DEBERÁ:",
@@ -14872,7 +15250,14 @@
         ]
       },
       {
-        "question": "1619. ELIMINADO HASTA LA 1620."
+        "question": "1619. ELIMINADO HASTA LA 1620.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1621. ¿POR QUÉ MOTIVO EL JUEZ DE LA INVESTIGACIÓN PREPARATORIA O EL JUEZ PENAL, COLEGIADO O UNIPERSONAL, ORDENARÁ DE OFICIO O A SOLICITUD DE PARTE, LA REALIZACIÓN DE UN EXAMEN POR UN PERITO ESPECIALIZADO, AL IMPUTADO?.",
@@ -14895,7 +15280,14 @@
         ]
       },
       {
-        "question": "1623. ELIMINADO"
+        "question": "1623. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1624. LA POLICÍA NACIONAL POR DISPOSICIÓN DEL FISCAL PODRÁ REALIZAR LAS PRIMERAS DILIGENCIAS PRELIMINARES, EN CUANTO ÉSTE TENGA:.",
@@ -14908,7 +15300,14 @@
         ]
       },
       {
-        "question": "1625. ELIMINADO"
+        "question": "1625. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1626. DURANTE EL CONTROL DE IDENTIDAD POLICIAL, SE DEBERÁ PROPORCIONAR AL INTERVENIDO :.",
@@ -14921,7 +15320,14 @@
         ]
       },
       {
-        "question": "1627. ELIMINADO"
+        "question": "1627. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1628. AL REQUERIR LA IDENTIFICACIÓN DE CUALQUIER PERSONA, SE CONSTATA QUE LA DOCUMENTACIÓN ESTÁ EN ORDEN:.",
@@ -14934,7 +15340,14 @@
         ]
       },
       {
-        "question": "1629. ELIMINADO"
+        "question": "1629. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1630. EN LA ACUSACIÓN COMPLEMENTARIA, SE INFORMARÁ A LAS PARTES QUE TIENEN DERECHO A PEDIR LA SUSPENSIÓN DEL JUICIO PARA OFRECER NUEVAS PRUEBAS O PREPARAR LA DEFENSA. LA SUSPENSIÓN NO SUPERARÁ EL PLAZO DE:.",
@@ -14947,7 +15360,14 @@
         ]
       },
       {
-        "question": "1631. ELIMINADO HASTA LA 1635."
+        "question": "1631. ELIMINADO HASTA LA 1635.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1636. ¿EN QUÉ CIRCUNSTANCIA, EL JUEZ DE LA INVESTIGACIÓN PREPARATORIA O EL JUEZ PENAL, COLEGIADO O UNIPERSONAL, DE OFICIO O A SOLICITUD DE PARTE, DISPONDRÁ LA INMEDIATA EVALUACIÓN DEL IMPUTADO POR PARTE DEL MÉDICO LEGISTA O, EN SU DEFECTO, DEL PERITO MÉDICO QUE DESIGNE?.",
@@ -14960,7 +15380,14 @@
         ]
       },
       {
-        "question": "1637. ELIMINADO HASTA LA 1639."
+        "question": "1637. ELIMINADO HASTA LA 1639.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1640. CUANDO EL FISCAL ORDENE LA INTERVENCIÓN POLICIAL, ENTRE OTRAS INDICACIONES, PRECISARÁ SU OBJETO Y, DE SER EL CASO, LAS FORMALIDADES ESPECÍFICAS QUE DEBERÁN REUNIR LOS ACTOS DE INVESTIGACIÓN PARA:.",
@@ -14973,7 +15400,14 @@
         ]
       },
       {
-        "question": "1641. ELIMINADO HASTA LA 1642."
+        "question": "1641. ELIMINADO HASTA LA 1642.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1643. CUANDO AL IMPUTADO SE LE VULNERE SUS DERECHOS, ACUDIRÁ EN VÍA DE TUTELA AL JUEZ DE LA INVESTIGACIÓN PREPARATORIA, PARA QUE:.",
@@ -14986,7 +15420,14 @@
         ]
       },
       {
-        "question": "1644. ELIMINADO HASTA LA 1645."
+        "question": "1644. ELIMINADO HASTA LA 1645.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1646. CUANDO EN EL CURSO DE UNA INVESTIGACIÓN PREPARATORIA SE ESTABLEZCA LA MINORÍA DE EDAD DEL IMPUTADO ¿QUIÉN SOLICITARÁ AL JUEZ DE LA INVESTIGACIÓN PREPARATORIA CORTE LA SECUELA DEL PROCESO?.",
@@ -14999,7 +15440,14 @@
         ]
       },
       {
-        "question": "1647. ELIMINADO HASTA LA 1648."
+        "question": "1647. ELIMINADO HASTA LA 1648.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1649. CUANDO EL IMPUTADO NO OBEDEZCA, PESE A TENER CONOCIMIENTO DE SU EMISIÓN, UNA ORDEN DE DETENCIÓN O PRISIÓN; EL JUEZ, A REQUERIMIENTO DEL FISCAL O DE LAS DEMÁS PARTES, PREVIA CONSTATACIÓN LO DECLARARÁ, COMO:.",
@@ -15162,7 +15610,14 @@
         ]
       },
       {
-        "question": "1665. ELIMINADO HASTA 1666."
+        "question": "1665. ELIMINADO HASTA 1666.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
         {
           "question": "1667. PARA NO ENTORPECER EL CORRECTO FUNCIONAMIENTO DE LA ADMINISTRACIÓN DE JUSTICIA, EL ABOGADO DEFENSOR ESTÁ PROHIBIDO DE RECURRIR AL USO DE:.",
@@ -15185,7 +15640,14 @@
           ]
         },
         {
-          "question": "1669. ELIMINADO HASTA LA 1673."
+          "question": "1669. ELIMINADO HASTA LA 1673.",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "1674. EN EL PROCEDIMIENTO DE CONTROL DE IDENTIDAD POLICIAL, CONTADO DESDE EL MOMENTO DE LA INTERVENCIÓN POLICIAL:.",
@@ -15198,7 +15660,14 @@
           ]
         },
         {
-          "question": "1675. ELIMINADO HASTA LA 1677."
+          "question": "1675. ELIMINADO HASTA LA 1677.",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "1678. CUANDO NO SEA POSIBLE LA EXHIBICIÓN DEL DOCUMENTO DE IDENTIDAD, SE CONDUCE AL INTERVENIDO A LA DEPENDENCIA POLICIAL:.",
@@ -15211,7 +15680,14 @@
           ]
         },
         {
-          "question": "1679. ELIMINADO HASTA LA 1681."
+          "question": "1679. ELIMINADO HASTA LA 1681.",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "1682. LA POLICÍA DEBERÁ LLEVAR UN LIBRO-REGISTRO EN EL QUE HARÁN CONSTAR LAS DILIGENCIAS DE IDENTIFICACIÓN REALIZADAS EN LAS PERSONAS, ASÍ:.",
@@ -15224,7 +15700,14 @@
           ]
         },
         {
-          "question": "1683. ELIMINADO HASTA LA 1689."
+          "question": "1683. ELIMINADO HASTA LA 1689.",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "1690. EL FISCAL DE LA NACIÓN REGULARÁ MEDIANTE INSTRUCCIONES GENERALES LOS REQUISITOS LEGALES Y LAS FORMALIDADES DE LAS ACTUACIONES DE:",
@@ -15237,7 +15720,14 @@
           ]
         },
         {
-          "question": "1691. ELIMINADO HASTA LA 1692."
+          "question": "1691. ELIMINADO HASTA LA 1692.",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "1693. ¿DE QUÉ MANERA EL IMPUTADO PUEDE HACER VALER LOS DERECHOS QUE LA CONSTITUCIÓN Y LAS LEYES LE CONCEDEN, DESDE EL INICIO DE LAS PRIMERAS DILIGENCIAS DE INVESTIGACIÓN HASTA LA CULMINACIÓN DEL PROCESO?",
@@ -15250,7 +15740,14 @@
           ]
         },
         {
-          "question": "1694. ELIMINADO"
+          "question": "1694. ELIMINADO",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "1695. EN EL CONTROL DE IDENTIDAD POLICIAL, SIEMPRE QUE SEA NECESARIO PARA LA FINALIDADES DEL JUICIO O PARA LAS FINALIDADES DEL SERVICIO DE IDENTIFICACIÓN, SE PUEDEN:",
@@ -15263,7 +15760,14 @@
           ]
         },
         {
-          "question": "1696. ELIMINADO"
+          "question": "1696. ELIMINADO",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "1697. ¿A QUIÉN SE LE APERCIBIRÁ CON LA SUSPENSIÓN DE LA DILIGENCIA Y DE CONTINUARLA CON LA SOLA INTERVENCIÓN DE SU ABOGADO DEFENSOR Y DEMÁS SUJETOS PROCESALES?",
@@ -15286,7 +15790,14 @@
           ]
         },
         {
-          "question": "1699. ELIMINADO HASTA LA 1700."
+          "question": "1699. ELIMINADO HASTA LA 1700.",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "1701. ¿EN QUÉ CIRCUNSTANCIA EL DEFENSOR SERÁ SUSTITUIDO POR UNO NOMBRADO DE OFICIO?",
@@ -15299,7 +15810,14 @@
           ]
         },
         {
-          "question": "1702. ELIMINADO"
+          "question": "1702. ELIMINADO",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "1703. SI SE ACREDITA LA MINORÍA DE EDAD, ¿EN QUÉ ETAPA, EL JUEZ, PREVIA AUDIENCIA Y CON INTERVENCIÓN DE LAS PARTES, DICTARÁ LA RESOLUCIÓN CORRESPONDIENTE?",
@@ -15312,7 +15830,14 @@
           ]
         },
         {
-          "question": "1704. ELIMINADO"
+          "question": "1704. ELIMINADO",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "1705. ¿QUÉ ES LO QUE NO ALTERARÁ EL CURSO DE LAS ACTUACIONES PROCESALES Y LOS ERRORES SOBRE ELLOS PODRÁN SER CORREGIDOS EN CUALQUIER OPORTUNIDAD?",
@@ -15325,7 +15850,14 @@
           ]
         },
         {
-          "question": "1706. ELIMINADO"
+          "question": "1706. ELIMINADO",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "1707. ¿CUÁNDO SE LE COMUNICARÁ AL IMPUTADO, DETALLADAMENTE EL HECHO OBJETO DE IMPUTACIÓN, LOS ELEMENTOS DE CONVICCIÓN Y DE PRUEBAS EXISTENTES, Y LAS DISPOSICIONES PENALES QUE SE CONSIDEREN APLICABLES?",
@@ -15338,7 +15870,14 @@
           ]
         },
         {
-          "question": "1708. ELIMINADO HASTA LA 1720."
+          "question": "1708. ELIMINADO HASTA LA 1720.",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
       {
           "question": "1721. CUANTO TENGA POR CONVENIENTE SOBRE EL HECHO QUE SE LE ATRIBUYE Y PARA INDICAR, DE SER POSIBLE O CONSIDERARLO OPORTUNO, LOS ACTOS DE INVESTIGACIÓN O DE PRUEBA CUYA PRÁCTICA DEMANDE, SE INVITARÁ AL:",
@@ -15351,7 +15890,14 @@
           ]
       },
       {
-          "question": "1722. ELIMINADO"
+          "question": "1722. ELIMINADO",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
       },
       {
           "question": "1723. DECLARACION DEL IMPUTADO: LA DILIGENCIA SE INICIARÁ REQUIRIENDO AL IMPUTADO DECLARAR RESPECTO A:",
@@ -15374,7 +15920,14 @@
           ]
       },
       {
-          "question": "1725. ELIMINADO"
+          "question": "1725. ELIMINADO",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
       },
       {
           "question": "1726. LA DILIGENCIA SE INICIARÁ REQUIRIENDO AL IMPUTADO DECLARAR RESPECTO A:",
@@ -15407,7 +15960,14 @@
         ]
       },
       {
-        "question": "1729. ELIMINADO HASTA LA 1731."
+        "question": "1729. ELIMINADO HASTA LA 1731.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1732. EN EL DESARROLLO DE LA DECLARACIÓN, SE INTERROGARÁ AL IMPUTADO. EN LA ETAPA PREPARATORIA LO HARÁN DIRECTAMENTE:",
@@ -15420,7 +15980,14 @@
         ]
       },
       {
-        "question": "1733. ELIMINADO"
+        "question": "1733. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1734. EN EL DESARROLLO DE LA DECLARACIÓN, SE INTERROGARÁ AL IMPUTADO. EN EL JUICIO PARTICIPARÁN EN EL INTERROGATORIO TODAS LAS PARTES MEDIANTE:",
@@ -15443,7 +16010,14 @@
         ]
       },
       {
-        "question": "1736. ELIMINADO HASTA LA 1737."
+        "question": "1736. ELIMINADO HASTA LA 1737.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1738. EN EL DESARROLLO DE LA DECLARACIÓN. PODRÁ REALIZARSE EN DICHO ACTO LAS DILIGENCIAS DE RECONOCIMIENTO DE DOCUMENTOS, DE PERSONAS, DE:",
@@ -15466,7 +16040,14 @@
         ]
       },
       {
-        "question": "1740. ELIMINADO"
+        "question": "1740. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1741. EN EL DESARROLLO DE LA DECLARACIÓN. DURANTE LA INVESTIGACIÓN PREPARATORIA, DE QUÉ MODO SE REPRODUCIRÁ EN EL ACTA QUE CONTENGA LA DECLARACIÓN DEL IMPUTADOLO, LO QUE SUCEDA EN LA DILIGENCIA:.",
@@ -15489,7 +16070,14 @@
          ]
       },
       {
-        "question": "1743. ELIMINADO"
+        "question": "1743. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1744. CUANDO HUBIERE VARIOS IMPUTADOS, ANTES DE LA RECEPCIÓN DE SUS DECLARACIONES, SE RECIBIRÁ LAS MISMAS, EVITANDO:",
@@ -15502,7 +16090,14 @@
         ]
       },
       {
-        "question": "1745. ELIMINADO HASTA LA 1759."
+        "question": "1745. ELIMINADO HASTA LA 1759.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1760. CÓMO SE CONSIDERA A TODO AQUÉL QUE RESULTE DIRECTAMENTE OFENDIDO POR EL DELITO O PERJUDICADO POR LAS CONSECUENCIAS DEL MISMO:",
@@ -15515,7 +16110,14 @@
         ]
       },
       {
-        "question": "1761. ELIMINADO"
+        "question": "1761. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1762. DURANTE LAS ACTUACIONES EN LAS QUE INTERVENGA, QUIÉN TENDRÁ DERECHO A QUE SEA ACOMPAÑADO POR PERSONA DE SU CONFIANZA:",
@@ -15528,7 +16130,14 @@
         ]
       },
       {
-        "question": "1763. ELIMINADO HASTA LA  PREGUNTA 1837"
+        "question": "1763. ELIMINADO HASTA LA  PREGUNTA 1837",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1838. DERECHO A LA DEFENSA TÉCNICA.- EL SERVICIO NACIONAL DE LA DEFENSA DE OFICIO, A CARGO DEL MINISTERIO DE JUSTICIA, PROVEERÁ:.",
@@ -15541,7 +16150,14 @@
         ]
       },
       {
-        "question": "1839. ELIMINADO HASTA 1841."
+        "question": "1839. ELIMINADO HASTA 1841.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1842. DEFENSA CONJUNTA.-SI CONCURREN VARIOS ABOGADOS ASOCIADOS A LAS DILIGENCIAS:.",
@@ -15554,7 +16170,14 @@
         ]
       },
       {
-        "question": "1843. ELIMINADO"
+        "question": "1843. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1844. EFECTOS DE LA NOTIFICACIÓN.- LA NOTIFICACIÓN EFECTUADA POR ORDEN DEL FISCAL O DEL JUEZ, EN EL DOMICILIO PROCESAL SEÑALADO EN AUTOS POR EL ESTUDIO ASOCIADO, COMPRENDERÁ A:.",
@@ -15567,7 +16190,14 @@
         ]
       },
       {
-        "question": "1845. ELIMINADO HASTA 1846."
+        "question": "1845. ELIMINADO HASTA 1846.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1847. EL ABOGADO DEFENSOR GOZA DE TODOS LOS DERECHOS QUE LA LEY LE CONFIERE PARA EL EJERCICIO DE SU PROFESIÓN, ESPECIALMENTE DE LOS SIGUIENTES:.",
@@ -15580,7 +16210,14 @@
         ]
       },
       {
-        "question": "1848. ELIMINADO HASTA LA 1851."
+        "question": "1848. ELIMINADO HASTA LA 1851.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1852. EL ABOGADO DEFENSOR GOZA DE TODOS LOS DERECHOS QUE LA LEY LE CONFIERE PARA EL EJERCICIO DE SU PROFESIÓN, ESPECIALMENTE DE LO SIGUIENTE:.",
@@ -15603,7 +16240,14 @@
         ]
       },
       {
-        "question": "1854. ELIMINADO HASSTA 1855."
+        "question": "1854. ELIMINADO HASSTA 1855.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1856. LA DECLARACION DEL IMPUTADO.- LAS AMPLIACIONES DE DECLARACIÓN PROCEDERÁN SI FUEREN PERTINENTES Y NO APAREZCAN SÓLO COMO UN PROCEDIMIENTO DILATORIO O:.",
@@ -15616,7 +16260,14 @@
         ]
       },
       {
-        "question": "1857. ELIMINADO HASTA LA 1858."
+        "question": "1857. ELIMINADO HASTA LA 1858.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1860. INSTRUCCIONES PRELIMINARES.- EL IMPUTADO TAMBIÉN SERÁ INFORMADO DE QUE PUEDE SOLICITAR LA ACTUACIÓN DE MEDIOS DE INVESTIGACIÓN O DE PRUEBA, ASÍ COMO A DICTAR SU DECLARACIÓN DURANTE:.",
@@ -15629,7 +16280,14 @@
         ]
       },
       {
-        "question": "1861. ELIMINADO HASTA EL 1874"
+        "question": "1861. ELIMINADO HASTA EL 1874",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1875. LA ACTUACIÓN PROCESAL, FISCAL O JUDICIAL, SE DOCUMENTA:",
@@ -15642,7 +16300,14 @@
         ]
       },
       {
-        "question": "1876. ELIMINADO HASTA LA 1878."
+        "question": "1876. ELIMINADO HASTA LA 1878.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1879. EL ACTA DEBE SER FECHADA CON INDICACIÓN DEL:",
@@ -15655,7 +16320,14 @@
         ]
       },
       {
-        "question": "1880. ELIMINADO HASTA LA 1882."
+        "question": "1880. ELIMINADO HASTA LA 1882.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1883. SE DEBE HACER CONSTAR EN EL ACTA EL CUMPLIMIENTO DE:",
@@ -15668,7 +16340,14 @@
         ]
       },
       {
-        "question": "1884. ELIMINADO HASTA 1887."
+        "question": "1884. ELIMINADO HASTA 1887.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1888. SERÁ POSIBLE LA REPRODUCCIÓN AUDIOVISUAL DE LA ACTUACIÓN PROCESAL, SIN PERJUICIO DE:",
@@ -15683,11 +16362,11 @@
       {
         "question": "1889. ELIMINADO HASTA EL 1893",
         "options": [
-          {"text": "LA SALA PENAL SUPREMA.", "correct": false},
-          {"text": "LA SALA PENAL SUPERIOR.", "correct": true},
-          {"text": "LA SALA PENAL SUPRAPROVINCIAL.", "correct": false},
-          {"text": "LA SALA PENAL NACIONAL.", "correct": false},
-          {"text": "EL JUEZ PENAL DE TURNO.", "correct": false}
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
         ]
       },
       {
@@ -15701,7 +16380,14 @@
         ]
       },
       {
-        "question": "1895. ELIMINADO HASTA EL 1897"
+        "question": "1895. ELIMINADO HASTA EL 1897",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "1898. EL ACTA SERÁ SUSCRITA POR EL FUNCIONARIO O AUTORIDAD QUE:",
@@ -15714,7 +16400,14 @@
         ]
       },
       {
-        "question": "1899. ELIMINADO HASTA 1900."
+        "question": "1899. ELIMINADO HASTA 1900.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       }
     ]
   },
@@ -21589,7 +22282,14 @@
         ]
       },
       {
-        "question": "2486. ELIMINADO"
+        "question": "2486. ELIMINADO",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "2487. EN EL DELITO DE TRÁFICO ILÍCITO DE DROGAS, ¿CUÁL ES LA FINALIDAD DE EJECUTAR ACCIONES DE OBSERVACIÓN,VIGILANCIA Y SEGUIMIENTO DE BLANCOS OBJETIVOS O EN TORNO A OBJETOS O INMUEBLES?",
@@ -22507,7 +23207,14 @@
         ]
       },
       {
-        "question": "2578. ELIMINADO HASTA LA 2580."
+        "question": "2578. ELIMINADO HASTA LA 2580.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "2581. EL LAVADO DE ACTIVOS ES UN DELITO AUTÓNOMO POR LO QUE PARA SU INVESTIGACIÓN, PROCESAMIENTO Y SANCIÓN:.",
@@ -22550,7 +23257,14 @@
         ]
       },
       {
-        "question": "2585. ELIMINADO HASTA EL 2589"
+        "question": "2585. ELIMINADO HASTA EL 2589",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "2590. ¿EN QUE CASOS, EL JUEZ RESOLVERÁ LA INCAUTACIÓN O EL DECOMISO DEL DINERO, BIENES, EFECTOS O GANANCIAS INVOLUCRADOS, CONFORME A LO PREVISTO EN EL ARTÍCULO 102 DEL CÓDIGO PENAL?:.",
@@ -22793,7 +23507,14 @@
         ]
       },
       {
-        "question": "2614. ELIMINADO HASTA EL 2660."
+        "question": "2614. ELIMINADO HASTA EL 2660.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       }
     ]
   },
@@ -23481,7 +24202,14 @@
           ]
         },
         {
-          "question": "2729. ELIMINADO HASTA 2730."
+          "question": "2729. ELIMINADO HASTA 2730.",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "2731. PROHIBICION DE COMUNICACION CONTRA LA VICTIMA VIA EPISTOLAR, TELEFONICA, ELECTRONICA; ASIMISMO, VIA CHAT, REDES SOCIALES, RED INSTITUCIONAL, INTRANET U OTRAS REDES O FORMAS DE COMUNICACION, CONTITUYE UNA:",
@@ -23514,7 +24242,14 @@
           ]
         },
         {
-          "question": "2734. ELIMINADO HASTA LA PREGUNTA 2736"
+          "question": "2734. ELIMINADO HASTA LA PREGUNTA 2736",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "2737. IMPEDIMENTO DE ACERCAMIENTO O PROXIMIDAD A LA VICTIMA EN CUALQUIER FORMA, A SU DOMICILIO, CENTRO DE TRABAJO, CENTRO DE ESTUDIOS, LUGAR DE ESPARCIMIENTO U OTROS DONDE AQUELLA REALICE SUS ACTIVIDADES COTIDIANAS DE HABITUAL CONCURRENCIA, A UNA DISTANCIA IDÓNEA, DETERMINADA POR LA AUTORIDAD JUDICIAL, PARA GARANTIZAR SU SEGURIDAD E INTEGRIDAD, CONSTITUYE UNA:",
@@ -23537,7 +24272,14 @@
           ]
         },
         {
-          "question": "2739. ELIMINADO"
+          "question": "2739. ELIMINADO",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "2740. CUANDO LA VICTIMA SEA NIÑA, NIÑO, ADOLESCENTE O MUJER, SU DECLARACION DEBE PRACTICARSE BAJO LA TECNICA DE ENTREVISTA:",
@@ -23550,7 +24292,14 @@
           ]
         },
         {
-          "question": "2741. ELIMINADO"
+          "question": "2741. ELIMINADO",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "2742. ES LA ACCIÓN U OMISIÓN QUE OCASIONA UN MENOSCABO EN LOS RECURSOS ECONÓMICOS O PATRIMONIALES DE LAS MUJERES POR SU CONDICIÓN DE TALES O CONTRA CUALQUIER INTEGRANTE DEL GRUPO FAMILIAR, EN EL MARCO DE RELACIONES DE PODER, RESPONSABILIDAD O CONFIANZA, A TRAVES DE LA PERTURBACIÓN DE LA POSESIÓN, TENENCIA O PROPIEDAD DE SUS BIENESES, UN TIPO DE:",
@@ -23563,7 +24312,14 @@
           ]
         },
         {
-          "question": "2743. ELIMINADO"
+          "question": "2743. ELIMINADO",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "2744. ES LA ACCION O CONDUCTA, QUE CAUSA DAÑO A LA INTEGRIDAD CORPORAL O A LA SALUD. SE INCLUYE EL MALTRATO POR NEGLIGENCIA, DESCUIDO O PRIVACION DE LAS NECESIDADES BASICAS, QUE HAYAN OCASIONADO DAÑO FISICO O QUE PUEDAN LLEGAR A OCASIONARLO, SIN IMPORTAR EL TIEMPO QUE SE REQUIERA PARA SU RECUPERACION, ES UN TIPO DE:",
@@ -23586,7 +24342,14 @@
           ]
         },
         {
-          "question": "2746. ELIMINADO HASTA 2748."
+          "question": "2746. ELIMINADO HASTA 2748.",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "2749. EN LA ACTUACION DE LOS OPERADORES DE JUSTICIA, ORIGINADA POR HECHOS QUE CONSTITUYEN ACTOS DE VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR, SE EVITA LA:",
@@ -23629,7 +24392,14 @@
           ]
         },
         {
-          "question": "2753. ELIMINADO HASTA 2755"
+          "question": "2753. ELIMINADO HASTA 2755",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         },
         {
           "question": "2756. LAS ENTIDADES QUE CONFORMAN EL SISTEMA NACIONAL PARA LA PREVENCION, SANCION Y ERRADICACION DE LA VIOLENCIA CONTRA LAS MUJERES Y LOS INTEGRANTES DEL GRUPO FAMILIAR DESTINAN RECURSOS HUMANOS ESPECIALIZADOS, LOGISTICOS Y PRESUPUESTALES, CON EL OBJETO DE DETECTAR LA VIOLENCIA, ATENDER A LAS VICTIMAS, PROTEGERLAS Y RESTABLECER SUS DERECHOS, CONSTITUYE:",
@@ -24152,7 +24922,14 @@
           ]
         },
         {
-          "question": "2808. ELIMINADO HASTA 2810."
+          "question": "2808. ELIMINADO HASTA 2810.",
+          "options": [
+            {"text": "", "correct": false},
+            {"text": "", "correct": false},
+            {"text": "", "correct": true},
+            {"text": "", "correct": false},
+            {"text": "", "correct": false}
+          ]
         }
     ]
   },
@@ -25561,7 +26338,14 @@
         ]
       },
       {
-        "question": "2950. ELIMINADO HASTA LA 2969."
+        "question": "2950. ELIMINADO HASTA LA 2969.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       },
       {
         "question": "2970. QUE NORMA APRUEBA EL PROTOCOLO PARA LA APLICACION DE LA POLICIA COMUNITARIA POR SECTORES (VECINDARIO SEGURO).",
@@ -25854,7 +26638,14 @@
         ]
       },
       {
-        "question": "2999. ELIMINADO HASTA LA 3000."
+        "question": "2999. ELIMINADO HASTA LA 3000.",
+        "options": [
+          {"text": "", "correct": false},
+          {"text": "", "correct": false},
+          {"text": "", "correct": true},
+          {"text": "", "correct": false},
+          {"text": "", "correct": false}
+        ]
       }
     ]
   }
