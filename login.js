@@ -9,7 +9,8 @@ document.addEventListener('DOMContentLoaded', function() {
             { username: 'bazan', password: 'mocho' },
             { username: '949512596', password: '949512596' },
             { username: '906441253', password: '906441253' },
-            { username: '960099454', password: '960099454' }
+            { username: '960099454', password: '960099454' },
+            { username: 'usuario520@only.com', password: 'ja1509520' }
         ];
 
         const user = users.find(user => user.username === username && user.password === password);
