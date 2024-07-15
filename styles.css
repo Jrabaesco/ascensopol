@@ -81,6 +81,10 @@ button[type="submit"]:hover {
     margin: 10px 0px;
 }
 
+#quiz-title {
+    font-size: 100%;
+}
+
 #quiz-selection, #quiz {
     display: flex;
     flex-direction: column;
@@ -97,6 +101,11 @@ button[type="submit"]:hover {
     flex-direction: column;
 }
 
+#topic-title {
+    font-size: 11px;
+    color: rgb(4, 4, 164);
+}
+
 .quiz-item {
     margin: 5px 0;
     padding: 15px;
@@ -111,14 +120,14 @@ button[type="submit"]:hover {
 }
 
 #question-container {
-    margin: 20px 0;
+    margin: 7px 0;
 }
 
 .question {
     background: #ffffff;
     padding: 10px;
     border-radius: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 0;
     font-size: 15px;
     font-weight: bolder;
     text-transform: uppercase;
@@ -162,10 +171,9 @@ button[type="submit"]:hover {
     width: 120px;
     border-color: #d9d6d6;
 }
-
-/*#navigation-buttons button:hover {
-    background: #ddd;
-}*/
+#navigation-buttons {
+    margin-top: 0px;
+}
 
 #scoreboard {
     margin-top: 20px;
