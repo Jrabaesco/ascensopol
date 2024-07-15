@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const backButton = document.getElementById('backButton');
     const correctCountElement = document.getElementById('correct-count');
     const incorrectCountElement = document.getElementById('incorrect-count');
+    const topicTitleElement = document.getElementById('topic-title');
 
     let quizzes;
     let currentQuiz;
@@ -74,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
         quizSelectionDiv.style.display = 'none';
         quizDiv.style.display = 'block';
         currentQuiz = quizzes[index];
-        // Removed shuffleArray(currentQuiz.questions); to stop shuffling questions
+        topicTitleElement.textContent = currentQuiz.title; // Actualizar el título del tema
         currentQuestionIndex = 0;
         correctCount = 0;
         incorrectCount = 0;
@@ -106,15 +107,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     correctOptionElement.classList.add('correct');
                 }
                 updateScoreboard();
-                /*                setTimeout(() => {
-                    optionElement.classList.remove('correct', 'incorrect');
-                    if (currentQuestionIndex < currentQuiz.questions.length - 1) {
-                        currentQuestionIndex++;
-                        showQuestion();
-                    } else {
-                        showCompletionMessage();
-                    }
-                }, 1000);*/
             });
             // Agregar atributo data-correct a las opciones
             optionElement.setAttribute('data-correct', option.correct);
