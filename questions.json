@@ -2820,7 +2820,7 @@
               {"text": "ENSEÑANZA.", "correct": true},
               {"text": "DIFUSIÓN.", "correct": false},
               {"text": "PREPARACIÓN.", "correct": false},
-              {"text": "ENSEÑANZA.", "correct": false},
+              {"text": "EDUCACIÓN.", "correct": false},
               {"text": "CATEQUESIS.", "correct": false}
             ]
           },
@@ -7170,8 +7170,8 @@
               {"text": "OFICIALES FEMENINAS DE ARMAS", "correct": false},
               {"text": "OFICIALES Y SUBOFICIALES ADMINISTRATIVOS", "correct": false},
               {"text": "SUBOFICIALES DE ARMAS.", "correct": false},
-              {"text": "OFICIALES Y SUBOFICIALES DE SERVICIOS", "correct": false},
-              {"text": "OFICIALES Y SUBOFICIALES DE ARMAS", "correct": true}
+              {"text": "OFICIALES Y SUBOFICIALES DE SERVICIOS", "correct": true},
+              {"text": "OFICIALES Y SUBOFICIALES DE ARMAS", "correct": false}
             ]
           },
           {
