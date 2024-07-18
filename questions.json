@@ -35,7 +35,7 @@
               {
                 "question": "4. Quién tiene la más alta jerarquía en el servicio a la nación",
                 "options": [
-                  {"text": "El presidente del Congreso.", "correct": false},
+                  {"text": "jueces superiores", "correct": false},
                   {"text": "El presidente del Tribunal Constitucional.", "correct": false},
                   {"text": "El fiscal de la Nación.", "correct": false},
                   {"text": "El presidente del Consejo de Ministros.", "correct": false},
@@ -63,7 +63,7 @@
                 ]
               },
               {
-                "question": "7 En los derechos fundamentales de la persona, toda persona tiene derecho a",
+                "question": "7. En los derechos fundamentales de la persona, toda persona tiene derecho a",
                 "options": [
                   {"text": "Participar en la seguridad ciudadana.", "correct": false},
                   {"text": "A la libertad de conciencia y de religión en forma individual o asociada.", "correct": true},
@@ -242,7 +242,7 @@
                   {"text": "NO HAY PRISIÓN POR DEUDAS. ESTE PRINCIPIO NO ES APLICABLE AL INCUMPLIMIENTO DE DEBERES ALIMENTARIOS", "correct": false},
                   {"text": "NO HAY PRISIÓN POR DEUDAS. ESTE PRINCIPIO ES LIMITADO POR EL MANDATO FISCAL POR INCUMPLIMIENTO DE DEBERES ALIMENTARIOS.", "correct": false},
                   {"text": "NO HAY PRISIÓN POR DEUDAS. ESTE PRINCIPIO CORRESPONDE A TODOS LOS CASOS SUJETOS A RESOLUCIÓN JURISDICCIONAL.", "correct": false},
-                  {"text": "NO HAY PRISIÓN POR DEUDAS. ESTE PRINCIPIO NO LIMITA EL MANDATO DEL DEFENSOR PÚBLICO EN PRESUNCIÓN DE DELITOS ALIMENTARIOS", "correct": false},
+                  {"text": "NO HAY PRISIÓN POR DEUDAS. ESTE PRINCIPIO NO LIMITA EL MANDATO DEL DEFENSOR DEL PUEBLO EN PRESUNCIÓN DE DELITOS ALIMENTARIOS", "correct": false},
                   {"text": "NO HAY PRISIÓN POR DEUDAS. ESTE PRINCIPIO NO LIMITA EL MANDATO JUDICIAL POR INCUMPLIMIENTO DE DEBERES ALIMENTARIOS", "correct": true}
                     
                 ]
@@ -404,7 +404,7 @@
               {
                 "question": "39. PARA CASOS DE TERRORISMO Y ESPIONAJE, LAS AUTORIDADES POLICIALES PUEDEN EFECTUAR LA DETENCIÓN PREVENTIVA POR UN TÉRMINO NO MAYOR DE QUINCE DÍAS NATURALES, RESPECTO A LOS:.",
                 "options": [
-                  {"text": "AUTORES DEL HECHO DELICTUOSO.AUTORES DEL HECHO DELICTUOSO.", "correct": false},
+                  {"text": "AUTORES DEL HECHO DELICTUOSO.", "correct": false},
                   {"text": "PRESUNTOS AUTORES.", "correct": false},
                   {"text": "PRESUNTOS COAUTORES.", "correct": false},
                   {"text": "INTERVENIDOS EN FLAGRANTE DELITO.", "correct": false},
@@ -462,7 +462,7 @@
                   {"text": "AL SECRETO BANCARIO Y LA RESERVA TRIBUTARIA, LOS QUE PUEDEN LEVANTARSE SÓLO PREVIA RESOLUCIÓN DEL FISCAL DE LA INVESTIGACIÓN PREPARATORIA.", "correct": false},
                   {"text": "A LA LEGÍTIMA DEFENSA, EN CONSECUENCIA EL USO DEL ARMA DE GUERRA ES FACULTAD DE LA SEGURIDAD PRIVADA ANTE LA COMISIÓN DE HURTO AGRAVADO.", "correct": false},
                   {"text": "A LA LIBERTAD Y A LA SEGURIDAD PERSONAL; EN CONSECUENCIA, NADIE ESTA OBLIGADO A HACER LO QUE LA LEY MANDA, NI IMPEDIDO DE HACER LO QUE ELLA PROHIBE.", "correct": false},
-                  {"text": "A LA SEGURIDAD CIUDADANA Y EL ORDEN PUBLICO.", "correct": false},
+                  {"text": "A LA SEGURIDAD CIUDADANA Y EL ORDEN PÚBLICO.", "correct": false},
                   {"text": "LAS LIBERTADES DE INFORMACIÓN, OPINIÓN, EXPRESIÓN Y DIFUSIÓN DEL PENSAMIENTO MEDIANTE LA PALABRA ORAL O ESCRITA O LA IMAGEN.", "correct": true}
                     
                 ]
@@ -514,7 +514,7 @@
                 "question": "49. EL EJERCICIO DE LA CIUDADANÍA SE SUSPENDE POR:.",
                 "options": [
                   {"text": "SENTENCIA DEL DEFENSOR DEL PUEBLO.", "correct": false},
-                  {"text": "SENTENCIA DEL PROCURADOR PUBLICO DEL ESTADO.", "correct": false},
+                  {"text": "SENTENCIA DEL PROCURADOR PÚBLICO DEL ESTADO.", "correct": false},
                   {"text": "RESOLUCIÓN DEL CONGRESO DE LA REPÚBLICA.", "correct": false},
                   {"text": "SENTENCIA DEL MINISTERIO PÚBLICO.", "correct": false},
                   {"text": "SENTENCIA CON PENA PRIVATIVA DE LA LIBERTAD.", "correct": true}
@@ -812,7 +812,7 @@
               {
                 "question": "78. PARA EL EJERCICIO DEL DERECHO AL VOTO, SE REQUIERE ESTAR INSCRITO EN EL:",
                 "options": [
-                  {"text": "REGISRO APROPIADO.", "correct": false},
+                  {"text": "REGISTRO APROPIADO.", "correct": false},
                   {"text": "REGISTRO AUTORIZADO.", "correct": false},
                   {"text": "REGISTRO CORRESPONDIENTE.", "correct": true},
                   {"text": "REGISTRO IMPROCEDENTE.", "correct": false},
@@ -825,7 +825,7 @@
                   {"text": "OFENDER.", "correct": false},
                   {"text": "INFORMACION.", "correct": true},
                   {"text": "DIFUNDIR SUS PRETENSIONES.", "correct": false},
-                  {"text": "ACCION.", "correct": false},
+                  {"text": "ACCIÓN.", "correct": false},
                   {"text": "DE ELEGIR SU IMAGEN.", "correct": false}
                 ]
               },
@@ -1012,7 +1012,7 @@
               {
                 "question": "98. LA LEY REGULA EL INGRESO A LA CARRERA _________________, Y LOS DERECHOS, DEBERES Y RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS:",
                 "options": [
-                  {"text": "PUBLICA", "correct": false},
+                  {"text": "PÚBLICA", "correct": false},
                   {"text": "PROFESIONAL", "correct": false},
                   {"text": "ADMINISTRATIVA", "correct": true},
                   {"text": "PRIVADA", "correct": false},
@@ -2050,7 +2050,7 @@
                   ]
                 },
                 {
-                  "question": "202. EDUCACIÓN PARA LA VIDAD Y EL TRABAJO: ES DEBER DEL ESTADO EN EL PAÍS PROMOVER EL DESARROLO CIENTÍFICO Y:",
+                  "question": "202. EDUCACIÓN PARA LA VIDA Y EL TRABAJO: ES DEBER DEL ESTADO EN EL PAÍS PROMOVER EL DESARROLO CIENTÍFICO Y:",
                   "options": [
                     {"text": "MORAL", "correct": false},
                     {"text": "ÉTICO", "correct": false},
@@ -2290,7 +2290,7 @@
                           ]
                         },
                         {
-                          "question": "226. DUCACION UNIVERSITARIA: CADA UNIVERSIDAD EN SU REGIMEN EDUCATIVO ES:",
+                          "question": "226. EDUCACION UNIVERSITARIA: CADA UNIVERSIDAD EN SU REGIMEN EDUCATIVO ES:",
                           "options": [
                             {"text": "DIPLOMÁTICA", "correct": false},
                             {"text": "DEPENDIENTE", "correct": false},
@@ -5824,7 +5824,7 @@
               "options": [
                 {"text": "LOS ORGANOS DE INVESTIGACION", "correct": false},
                 {"text": "LOS ORGANOS DE APOYO", "correct": false},
-                {"text": "LOS CONSEJOS DE INVESTIGACION", "correct": true},
+                {"text": "LOS CONSEJOS DE INVESTIGACIÓN", "correct": true},
                 {"text": "LOS ORGANOS DE ASESORAMIENTO", "correct": false},
                 {"text": "LOS ORGANOS INSTITUCIONAL", "correct": false}
               ]
@@ -6025,7 +6025,7 @@
             ]
           },
           {
-            "question": "598. ORGANIZACIÓN. – ESTRUCTURA. – LA CARRERA DEL PERSONAL POLICIAL, SE DESARROLLA EN FORMA ASCENDENTE, EN NIVELES, EN RAZÓN DE SUS...",
+            "question": "598. ORGANIZACIÓN. - ESTRUCTURA. - LA CARRERA DEL PERSONAL POLICIAL, SE DESARROLLA EN FORMA ASCENDENTE, EN NIVELES, EN RAZÓN DE SUS...",
             "options": [
               {"text": "CATEGORÍA, JERARQUÍAS Y GRADOS.", "correct": true},
               {"text": "RESPONSABILIDADES, DESEMPEÑO PROFESIONAL Y NOTAS.", "correct": false},
@@ -6398,7 +6398,7 @@
             "question": "635. ES LA DEFINICION DE OFICIAL DE SERVICIOS.",
             "options": [
               {"text": "PROFESIONAL EGRESADO DE LA ESCUELA DE OFICIALES DE LA POLICIA NACIONAL DEL PERU, QUE HA SEGUIDO ESTUDIOS UNIVERSITARIOS.", "correct": false},
-              {"text": "PROFESIONAL EGRESADO DE UNA UNIVERSIDAD, CON TITULO REGISTRADO EN LA ASAMBLEA NACIONAL DE RECTORES E INSCRITO EN EL COLEGIO PROFESIONAL RESPECTIVO, CUANDO CORRESPONDA, QUE SE INCORPORA A LA POLICIA NACIONAL DEL PERU MEDIANTE CONCURSO PUBLICO.", "correct": true},
+              {"text": "PROFESIONAL EGRESADO DE UNA UNIVERSIDAD, CON TITULO REGISTRADO EN LA ASAMBLEA NACIONAL DE RECTORES E INSCRITO EN EL COLEGIO PROFESIONAL RESPECTIVO, CUANDO CORRESPONDA, QUE SE INCORPORA A LA POLICIA NACIONAL DEL PERU MEDIANTE CONCURSO PÚBLICO.", "correct": true},
               {"text": "PROFESIONAL EGRESADO DE LAS ESCUELAS TECNICO SUPERIORES DE SUBOFICIALES DE LA POLICIA NACIONAL DEL PERU Y QUE LUEGO DE SEGUIR EL PROCESO DE ADMINISIÓN SE INCORPORA A LA ESCUELA DE OFICIALES.", "correct": false},
               {"text": "PORFESIONAL EGRESADO DE LOS INSTITUTOS SUPERIORES O CENTROS ACADEMICOS CON VALOR OFICIAL, DEBIDAMENTE REGISTRADO ANTE LA ENTIDAD CORRESPONDIENTE, QUE SE INCORPORA A LA POLICIA NACIONAL DEL PERU MEDIANTE CONCURSO PUBLICO.", "correct": false},
               {"text": "PARA EFECTO DE LA PRESENTE NORMA, LA PALABRA PERSONAL SE REFIERE A OFICIALES Y SUBOFICIALES DE ARMAS Y SERVICIOS DE LA POLICIA NACIONAL DEL PERU.", "correct": false}
@@ -6658,16 +6658,16 @@
             "question": "661. LOS HONORES, TRATAMIENTO, PREEMINENCIAS, PRERROGATIVAS, REMUNERACIONES, BONIFICACIONES Y DEMAS GOCES Y BENEFICIOS DETERMINADOS POR LAS LEYES Y REGLAMENTOS RESPECTIVOS, ESTAN CONSIDERADOS COMO..",
             "options": [
               {"text": "ATRIBUTOS INHERENTES AL CARGO DEL PERSONAL POLICIAL.", "correct": false},
-              {"text": "BENEFICIOS INHERENTES AL GRADO DEL PERSONAL POLICIAL.", "correct": true},
+              {"text": "BENEFICIOS INHERENTES AL GRADO DEL PERSONAL POLICIAL.", "correct": false},
               {"text": "ATRIBUCIONES INHERENTES AL CARGO DEL PERSONAL POLICIAL.", "correct": false},
               {"text": "BENEFICIOS INHERENTES AL EMPLEO DEL PERSONAL POLICIAL.", "correct": false},
-              {"text": "ATRIBUTOS INHERENTES AL GRADO DEL PERSONAL POLICIAL.", "correct": false}
+              {"text": "ATRIBUTOS INHERENTES AL GRADO DEL PERSONAL POLICIAL.", "correct": true}
             ]
           },
           {
             "question": "662. EL EMPLEO ESTA CONSIDERADO COMO :.",
             "options": [
-              {"text": "LA CONDICION LABORAL DEL PERSONAL DE LA POLICIA NACIONAL DEL PERU EN SITUACION DE ACTIVIDAD EN FUNCION A SU CATEGORIA Y GRADO.", "correct": true},
+              {"text": "LA CONDICIÓN LABORAL DEL PERSONAL DE LA POLICIA NACIONAL DEL PERU EN SITUACION DE ACTIVIDAD EN FUNCION A SU CATEGORIA Y GRADO.", "correct": true},
               {"text": "EL PUESTO LABORAL DEL PERSONAL DE LA POLICÍA NACIONAL DEL PERU EN SITUACIÓN DE ACTIVIDAD EN FUNCIÓN A SU CATEGORÍA Y GRADO.", "correct": false},
               {"text": "LA SITUACIÓN LABORAL DEL PERSONAL DE LA POLICÍA NACIONAL DEL PERU EN SITUACIÓN DE ACTIVIDAD EN FUNCIÓN A SU CATEGORÍA Y GRADO.", "correct": false},
               {"text": "LA POSICIÓN LABORAL DEL PERSONAL DE LA POLICÍA NACIONAL DEL PERU EN SITUACIÓN DE ACTIVIDAD EN FUNCIÓN A SU CATEGORÍA Y GRADO.", "correct": false},
@@ -10287,11 +10287,11 @@
     {
       "question": "1062. FINALIDAD. LA FORMACIÓN PROFESIONAL POLICIAL TIENE COMO FINALIDAD PÚBLICA CERTIFICAR LA IDONEIDAD Y:",
       "options": [
-        {"text": "EFICACIA.", "correct": false},
+        {"text": "EFICACIA.", "correct": true},
         {"text": "OFERTA EDUCATIVA.", "correct": false},
         {"text": "CALIDAD EDUCATIVA.", "correct": false},
         {"text": "CALIDAD.", "correct": false},
-        {"text": "EFICIENCIA.", "correct": true}
+        {"text": "EFICIENCIA.", "correct": false}
       ]
     },
     {
@@ -13547,11 +13547,11 @@
       {
         "question": "1405. TODAS LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA QUEDAN OBLIGADAS A:.",
         "options": [
-            {"text": "INCUMPLIR LO ESTIPULADO EN LA PRESENTE NORMA.", "correct": true},
+            {"text": "INCUMPLIR LO ESTIPULADO EN LA PRESENTE NORMA.", "correct": false},
             {"text": "CUMPLIR TODO LO ESTIPULADO EN EL PRESENTE DECRETO.", "correct": false},
             {"text": "CUMPLIR TODO LO ESTIPILADO EN LA PRESENTE LEY.", "correct": false},
             {"text": "CUMPLIR LO ESTIPULADO EN LA CONSTITUCION.", "correct": false},
-            {"text": "CUMPLIR LO ESTIPULADO EN LA PRESENTE NORMA.", "correct": false}
+            {"text": "CUMPLIR LO ESTIPULADO EN LA PRESENTE NORMA.", "correct": true}
         ]
       },
       {
@@ -13957,7 +13957,7 @@
       {
         "question": "1452. EXCEPCIONES AL EJERCICIO DEL DERECHO.- QUE CLASIFICACION CORRESPONDE A LA INFORMACION QUE CONTENGA CONSEJOS, RECOMENDACIONES OPINIONES PRODUCIDAS COMO PARTE DEL PROCESO DELIBERATIVO CONSULTIVO PREVIO LA TOMA DE UNA DESICION DE GOBIERNO",
         "options": [
-            {"text": "SALVO QUE DICHA INFORMACION SEA PÜBLICA", "correct": true},
+            {"text": "SALVO QUE DICHA INFORMACION SEA PÚBLICA", "correct": true},
             {"text": "SALVO QUE DICHA INFORMACION SEA RESERVADA", "correct": false},
             {"text": "SALVO QUE DICHA INFORMACION SEA PARTICULAR", "correct": false},
             {"text": "SALVO QUE DICHA INFORMACION SEA PRIVADA", "correct": false},
