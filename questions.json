@@ -8874,8 +8874,8 @@
         "options": [
           {"text": "EL SOMETIMIENTO A LA PRUEBA NO ES VOLUNTARIO.", "correct": false},
           {"text": "SE AFECTA LA INTIMIDAD DE LAS PERSONAS.", "correct": false},
-          {"text": "NO SE AFECTA LA INTIMIDAD GRUPAL.", "correct": true},
-          {"text": "NO SE AFECTA LA INTIMIDAD PERSONAL.", "correct": false},
+          {"text": "NO SE AFECTA LA INTIMIDAD GRUPAL.", "correct": false},
+          {"text": "NO SE AFECTA LA INTIMIDAD PERSONAL.", "correct": true},
           {"text": "EL SOMETIMIENTO A LA PRUEBA ES FACULTATIVO.", "correct": false}
         ]
       },
