@@ -18839,10 +18839,10 @@
     {
       "question": "1876. EL FUNCIONARIO O SERVIDOR PUBLICO QUE ACEPTE O RECIBA DONATIVO, PROMESA O CUALQUIER OTRA VENTAJA O BENEFICIO, PARA REALIZAR U OMITIR UN ACTO EN VIOLACION DE SUS OBLIGACIONES O EL QUE LAS ACEPTA A CONSECUENCIA DE HABER FALTADO A ELLAS, COMETE DELITO DE:.",
       "options": [
-          {"text": "COHECHO PASIVO IMPROPIO.", "correct": true},
+          {"text": "COHECHO PASIVO IMPROPIO.", "correct": false},
           {"text": "APROPIACION ILICITA.", "correct": false},
           {"text": "COHECHO PASIVO ESPECIFICO.", "correct": false},
-          {"text": "COHECHO PASIVO PROPIO.", "correct": false},
+          {"text": "COHECHO PASIVO PROPIO.", "correct": true},
           {"text": "MALVERSACION.", "correct": false}
       ]
     },
