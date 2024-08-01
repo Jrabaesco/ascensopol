@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', function() {
             { username: 'usuario606@only.com', password: 'pq2938473' },
             { username: 'usuario607@only.com', password: 'rs2349087' },
             { username: 'usuario608@only.com', password: 'ks2934874' },
-            { username: 'usuario609@only.com', password: 'aw2934876' },
+            { username: 'usuario609@only.com', password: '123456' },
             { username: 'usuario610@only.com', password: 'qw1293864' },
             { username: 'usuario611@only.com', password: 'tt1293669' },
             { username: 'usuario612@only.com', password: 'mn3776292' },
