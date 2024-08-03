@@ -70,7 +70,27 @@ document.addEventListener('DOMContentLoaded', function() {
             { username: 'usuario617@only.com', password: 'sd2398753' },
             { username: 'usuario618@only.com', password: 'uw9293864' },
             { username: 'usuario619@only.com', password: 'ag2938238' },
-            { username: 'usuario620@only.com', password: 'ws2398723' }
+            { username: 'usuario620@only.com', password: 'ws2398723' },
+            { username: 'usuario621@only.com', password: 'kw2982375' },
+            { username: 'usuario622@only.com', password: 'lp0298237' },
+            { username: 'usuario623@only.com', password: 'as8172542' },
+            { username: 'usuario624@only.com', password: 'hg1234818' },
+            { username: 'usuario625@only.com', password: 'ag1231238' },
+            { username: 'usuario626@only.com', password: 'jh1231498' },
+            { username: 'usuario627@only.com', password: 'ps1879675' },
+            { username: 'usuario628@only.com', password: 're2131562' },
+            { username: 'usuario629@only.com', password: 'ls1983761' },
+            { username: 'usuario630@only.com', password: 'js1276499' },
+            { username: 'usuario631@only.com', password: 'du2937740' },
+            { username: 'usuario632@only.com', password: 'po3987236' },
+            { username: 'usuario633@only.com', password: 'iu2387664' },
+            { username: 'usuario634@only.com', password: 'du2728376' },
+            { username: 'usuario635@only.com', password: 'sy3297642' },
+            { username: 'usuario636@only.com', password: 'wj9277364' },
+            { username: 'usuario637@only.com', password: 'nm2374892' },
+            { username: 'usuario638@only.com', password: 'qt3736528' },
+            { username: 'usuario649@only.com', password: 'dh2377489' },
+            { username: 'usuario640@only.com', password: 'jy2398749' }
         ];
 
         const user = users.find(user => user.username === username && user.password === password);
