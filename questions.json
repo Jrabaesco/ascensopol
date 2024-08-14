@@ -15997,8 +15997,8 @@
     {
       "question": "1592. EL FUNCIONARIO PÚBLICO QUE, ABUSANDO DE SU CARGO, SUSPENDE O CLAUSURA ALGÚN MEDIO DE COMUNICACIÓN SOCIAL O IMPIDE SU CIRCULACIÓN O DIFUSIÓN, COMETE DELITO DE:",
       "options": [
-          {"text": "VIOLACIÓN DE LA LIBERTAD DE EXPRESIÓN.", "correct": false},
-          {"text": "VIOLACIÓN DE LA LIBERTAD DE CULTURA.", "correct": true},
+          {"text": "VIOLACIÓN DE LA LIBERTAD DE EXPRESIÓN.", "correct": true},
+          {"text": "VIOLACIÓN DE LA LIBERTAD DE CULTURA.", "correct": false},
           {"text": "VIOLACIÓN DE LA LIBERTAD DE PROGRAMACIÓN.", "correct": false},
           {"text": "PROHIBICIÓN DE LA LIBERTAD DE EXPRESARSE.", "correct": false},
           {"text": "PROHIBICIÓN DE LA LIBERTAD DE CULTURA.", "correct": false}
