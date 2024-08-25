@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
             { username: 'usuario637@only.com', password: 'nm2374892' },
             { username: 'usuario638@only.com', password: 'qt3736528' },
             { username: 'usuario649@only.com', password: 'dh2377489' },
-            { username: 'usuario640@only.com', password: 'jy2398749' },
+            { username: 'usuario640@only.com', password: 'Arequipa1988' },
             { username: 'usuario651@only.com', password: 'eh2938745' },
             { username: 'usuario652@only.com', password: 'kj9283737' },
             { username: 'usuario653@only.com', password: 'qw9127642' },
