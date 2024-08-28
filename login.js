@@ -108,7 +108,17 @@ document.addEventListener('DOMContentLoaded', function() {
             { username: 'usuario666@only.com', password: 'hh9172664' },
             { username: 'usuario667@only.com', password: 'uu2972365' },
             { username: 'usuario668@only.com', password: 'pe2937927' },
-            { username: 'usuario669@only.com', password: 'ty2087264' }  
+            { username: 'usuario669@only.com', password: 'ty2087264' },
+            { username: 'usuario670@only.com', password: 'po4587264' },
+            { username: 'usuario671@only.com', password: 'rt1358364' },
+            { username: 'usuario672@only.com', password: 'hg4569872' },
+            { username: 'usuario673@only.com', password: 'ls6548975' },
+            { username: 'usuario674@only.com', password: 'bv8976315' },
+            { username: 'usuario675@only.com', password: 'ss3216897' },
+            { username: 'usuario676@only.com', password: 'hh2356664' },
+            { username: 'usuario677@only.com', password: 'jt2938745' },
+            { username: 'usuario678@only.com', password: 'cv2983476' },
+            { username: 'usuario679@only.com', password: 'dv2398467' }  
         ];
 
         const user = users.find(user => user.username === username && user.password === password);
