@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
             { username: '949512596', password: '949512596' },
             { username: '906441253', password: '906441253' },
             { username: '960099454', password: '960099454' },
+            { username: 'estudioestrategicopolicial@only.com', password: 'A12345678' },
             { username: 'usuario520@only.com', password: 'ja1509520' },
             { username: 'usuario521@only.com', password: 'av2873135' },
             { username: 'usuario522@only.com', password: 'ta7466228' },
