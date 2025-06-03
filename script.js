@@ -1,136 +1,81 @@
-document.addEventListener('DOMContentLoaded', () => {
-    const loginForm = document.getElementById('loginForm');
-    const loginDiv = document.getElementById('login');
-    const quizSelectionDiv = document.getElementById('quiz-selection');
-    const quizDiv = document.getElementById('quiz');
-    const quizContainer = document.querySelector('.quiz-container');
-    const questionContainer = document.getElementById('question-container');
-    const prevButton = document.getElementById('prevButton');
-    const nextButton = document.getElementById('nextButton');
-    const finishButton = document.getElementById('finishButton');
-    const resetButton = document.getElementById('resetButton');
-    const backButton = document.getElementById('backButton');
-    const correctCountElement = document.getElementById('correct-count');
-    const incorrectCountElement = document.getElementById('incorrect-count');
-    const topicTitleElement = document.getElementById('topic-title');
-
-    let quizzes;
-    let currentQuiz;
-    let currentQuestionIndex;
-    let correctCount;
-    let incorrectCount;
-
-    // Fetch quizzes from the JSON file
-    fetch('questions.json')
-        .then(response => response.json())
-        .then(data => {
-            quizzes = data;
-            generateQuizList();
-        });
-
-    backButton.addEventListener('click', () => {
-        quizDiv.style.display = 'none';
-        quizSelectionDiv.style.display = 'block';
-    });
-
-    prevButton.addEventListener('click', () => {
-        if (currentQuestionIndex > 0) {
-            currentQuestionIndex--;
-            showQuestion();
-        }
-    });
-
-    nextButton.addEventListener('click', () => {
-        if (currentQuestionIndex < currentQuiz.questions.length - 1) {
-            currentQuestionIndex++;
-            showQuestion();
-        } else {
-            showCompletionMessage();
-        }
-    });
-
-    finishButton.addEventListener('click', () => {
-        showCompletionMessage();
-    });
-
-    resetButton.addEventListener('click', () => {
-        startQuiz(currentQuizIndex);
-    });
-
-    function generateQuizList() {
-        quizzes.forEach((quiz, index) => {
-            const quizElement = document.createElement('div');
-            quizElement.textContent = quiz.title;
-            quizElement.className = 'quiz-item';
-            quizElement.addEventListener('click', () => {
-                startQuiz(index);
+ // Efecto de desplazamiento suave para los enlaces del menú
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
             });
-            quizContainer.appendChild(quizElement);
         });
-    }
-
-    let currentQuizIndex;
-    function startQuiz(index) {
-        currentQuizIndex = index;
-        quizSelectionDiv.style.display = 'none';
-        quizDiv.style.display = 'block';
-        currentQuiz = quizzes[index];
-        topicTitleElement.textContent = currentQuiz.title; // Actualizar el título del tema
-        currentQuestionIndex = 0;
-        correctCount = 0;
-        incorrectCount = 0;
-        updateScoreboard();
-        showQuestion();
-    }
-
-    function showQuestion() {
-        questionContainer.innerHTML = '';
-        const question = currentQuiz.questions[currentQuestionIndex];
-        const questionElement = document.createElement('div');
-        questionElement.className = 'question';
-        questionElement.textContent = question.question;
-        shuffleArray(question.options); // Keep shuffling options
-
-        question.options.forEach((option) => {
-            const optionElement = document.createElement('div');
-            optionElement.className = 'option';
-            optionElement.textContent = option.text;
-            optionElement.addEventListener('click', () => {
-                if (option.correct) {
-                    optionElement.classList.add('correct');
-                    correctCount++;
-                } else {
-                    optionElement.classList.add('incorrect');
-                    incorrectCount++;
-                    // Pintar la respuesta correcta de verde
-                    const correctOptionElement = questionElement.querySelector('.option[data-correct="true"]');
-                    correctOptionElement.classList.add('correct');
+        
+        // Cambiar el header al hacer scroll
+        window.addEventListener('scroll', function() {
+            const header = document.querySelector('header');
+            if (window.scrollY > 50) {
+                header.style.boxShadow = '0 2px 10px rgba(0, 0, 0, 0.2)';
+                header.style.padding = '0.5rem 0';
+            } else {
+                header.style.boxShadow = '0 2px 10px rgba(0, 0, 0, 0.1)';
+                header.style.padding = '1rem 0';
+            }
+        });
+        
+        // Animación para las tarjetas de servicios al aparecer
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
                 }
-                updateScoreboard();
             });
-            // Agregar atributo data-correct a las opciones
-            optionElement.setAttribute('data-correct', option.correct);
-            questionElement.appendChild(optionElement);
+        }, { threshold: 0.1 });
+        
+        document.querySelectorAll('.service-card').forEach(card => {
+            card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+            observer.observe(card);
         });
-        questionContainer.appendChild(questionElement);
-    }
-
-    function updateScoreboard() {
-        correctCountElement.textContent = correctCount;
-        incorrectCountElement.textContent = incorrectCount;
-    }
-
-    function showCompletionMessage() {
-        alert(`Has completado el cuestionario. 
-Correctas: ${correctCount} 
-Incorrectas: ${incorrectCount} 
-Total de preguntas: ${currentQuiz.questions.length}`);
-    }
-
-    function shuffleArray(array) {
-        for (let i = array.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [array[i], array[j]] = [array[j], array[i]];
+        
+        // Efecto hover para enlaces del menú
+        const navLinks = document.querySelectorAll('.nav-links a');
+        navLinks.forEach(link => {
+            link.addEventListener('mouseenter', () => {
+                link.style.transform = 'scale(1.1)';
+            });
+            link.addEventListener('mouseleave', () => {
+                link.style.transform = 'scale(1)';
+            });
+        });
+        
+        // Mostrar/ocultar tooltip de WhatsApp en móviles
+        const whatsappBtn = document.querySelector('.whatsapp-float');
+        if (window.innerWidth <= 768) {
+            let tapCount = 0;
+            whatsappBtn.addEventListener('click', (e) => {
+                tapCount++;
+                if (tapCount === 1) {
+                    e.preventDefault();
+                    const tooltip = document.createElement('div');
+                    tooltip.className = 'whatsapp-tooltip-mobile';
+                    tooltip.style.position = 'fixed';
+                    tooltip.style.bottom = '100px';
+                    tooltip.style.left = '20px';
+                    tooltip.style.backgroundColor = 'var(--blanco)';
+                    tooltip.style.color = 'var(--gris-oscuro)';
+                    tooltip.style.padding = '0.5rem 1rem';
+                    tooltip.style.borderRadius = '5px';
+                    tooltip.style.fontSize = '0.9rem';
+                    tooltip.style.boxShadow = '0 2px 10px rgba(0, 0, 0, 0.1)';
+                    tooltip.style.zIndex = '1000';
+                    tooltip.textContent = '¿Tienes alguna consulta? Escríbenos';
+                    
+                    document.body.appendChild(tooltip);
+                    
+                    setTimeout(() => {
+                        tooltip.remove();
+                        tapCount = 0;
+                    }, 2000);
+                } else if (tapCount === 2) {
+                    window.location.href = whatsappBtn.href;
+                }
+            });
         }
-    }
-});
